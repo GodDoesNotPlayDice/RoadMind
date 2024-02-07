@@ -1,0 +1,1 @@
+El fuzzing en simples palabras es el escaneo sobre sub directorios dentro de una web, esto sirve para ver si hay un filtrado de alguna URL que no debería de ser accesible por información delicada de usuarios o del sistema.

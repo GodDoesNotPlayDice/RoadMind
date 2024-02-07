@@ -1,0 +1,1 @@
+Básicamente arp-scan puede usarse para escanear o enumerar dispositivos que se encuentren en la misma red. 
