@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaDiceFive",
+      "RaDiceFour",
+      "RaDiceThree",
       "BoBxsFileDoc",
-      "IbFolder",
-      "LiFile",
-      "LiImage",
-      "BoBxsHide"
+      "IbFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,8 @@
     "inheritanceIcon": "BoBxsFileDoc"
   },
   "Hacking/Tools/Fuzzing/Fuzzing.md": "BoBxsFileDoc",
-  "Hacking/Tools/Nmap/Nmap.md": "BoBxsFileDoc"
+  "Hacking/Tools/Nmap/Nmap.md": "BoBxsFileDoc",
+  "ThirdYear": "RaDiceThree",
+  "ThirdYear/FourSemester": "RaDiceFour",
+  "ThirdYear/FiveSemester": "RaDiceFive"
 }
