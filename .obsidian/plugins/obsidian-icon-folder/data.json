@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaDiceFive",
-      "RaDiceFour",
-      "RaDiceThree",
-      "BoBxsFileDoc",
-      "IbFolder"
+      "SiBlueprint",
+      "FasFile",
+      "LiPuzzle",
+      "SiPcgamingwiki",
+      "TiLanguage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,7 +71,16 @@
   },
   "Hacking/Tools/Fuzzing/Fuzzing.md": "BoBxsFileDoc",
   "Hacking/Tools/Nmap/Nmap.md": "BoBxsFileDoc",
-  "ThirdYear": "RaDiceThree",
-  "ThirdYear/FourSemester": "RaDiceFour",
-  "ThirdYear/FiveSemester": "RaDiceFive"
+  "Year": "TiDice3",
+  "Year/Semester": "TiDice",
+  "Year/Semester/BPM": "FasSackDollar",
+  "Year/Semester/Ingles": "TiLanguage",
+  "Year/Semester/Ingles/Summary": "FasFile",
+  "Year/Semester/BPM/Summary.md": "FasFile",
+  "Year/Semester/MachineLearning": "SiPcgamingwiki",
+  "Year/Semester/MachineLearning/Summary.md": "FasFile",
+  "Year/Semester/Plataformas": "LiPuzzle",
+  "Year/Semester/Plataformas/Summary.md": "FasFile",
+  "Year/Semester/Proyectos": "SiBlueprint",
+  "Year/Semester/Proyectos/Summary.md": "FasFile"
 }

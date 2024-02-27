@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/React/Fernando Herrera - Udemy.md",
+                "file": "Year/Semester/BPM/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97a97691d4dd187c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/MachineLearning/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06618c0043b73623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/React/Fernando Herrera - Udemy.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/React/Fernando Herrera - Udemy.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/React/Fernando Herrera - Udemy.md"
+                "file": "Year/Semester/Proyectos/Summary.md"
               }
             }
           }
@@ -146,38 +171,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "06618c0043b73623",
   "lastOpenFiles": [
-    "Untitled",
-    "ThirdYear/FiveSemester",
-    "ThirdYear/FourSemester",
-    "ThirdYear",
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/BPM/Summary.md",
+    "Web/React/Fernando Herrera - Udemy.md",
+    "Year/Semester/Proyectos",
+    "Year/Semester/MachineLearning",
+    "Year/Semester/BPM",
+    "Year/Semester/Plataformas",
+    "Year/Semester/Ingles/Summary",
+    "Year/Semester/Ingles",
+    "Year/Semester/Untitled.md",
+    "Year/Semester",
+    "Year",
+    "ThirdYear/Semester/EvaluacionProyectos/Summary.md",
+    "ThirdYear/Semester/BPM/Summary.md",
+    "ThirdYear/Semester/MachineLearning/Summary.md",
+    "ThirdYear/Semester/BPM",
+    "ThirdYear/Semester/EvaluacionProyectos",
+    "ThirdYear/Semester/Plataformas/Summary.md",
+    "ThirdYear/Semester/Ingles/Summary.md",
     "Hacking/Tools/Arp-scan/ArpScan.md",
     "Hacking/Tools/Fuzzing/Fuzzing.md",
     "Hacking/Tools/Nmap/Nmap.md",
     "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
     "Networks/Ports/Ports and Sockets.md",
-    "Web/React/Fernando Herrera - Udemy.md",
     "Hacking/Vulnhub/Pinkys-Place/Pinkys place - Very easy.md",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240113145708.png",
     "Hacking/Vulnhub/Earth/Earth - Easy.md",
-    "Hacking/Vulnhub/Pinkys-Place/imgs",
     "Hacking/Vulnhub/Pinkys-Place/imgs/Pasted image 20240114134802.png",
-    "Hacking/Vulnhub/Pinkys-Place",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111223318.png",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111222715.png",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111220934.png",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111152329.png",
-    "Hacking/Vulnhub/Earth",
-    "Hacking/Vulnhub/DC-7/imgs",
-    "Hacking/Vulnhub/DC-7",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png",
     "Hacking/Tools/Fuzzing/Que es le fuzzing?.md",
     "Hacking/Tools/Nmap/¿Que es?, como funciona..md",
     "Hacking/Tools/Arp-scan/Que es? como funciona.md",
-    "Hacking/Tools/Fuzzing",
     "Hacking/Tools/Arp-scan/Untitled.md",
-    "Hacking/Tools/Arp-scan",
     "Hacking/Nmap.md",
     "Networks/Domains/DNS.md",
     "Untitled.canvas",
@@ -186,8 +220,6 @@
     "Networks/Ports/Images/Pasted image 20231126132004.png",
     "Networks/Ports/Images/Pasted image 20231126130242.png",
     "Networks/IPs/IP.md",
-    "Pasted image 20231125121857.png.md",
-    "Networks/IPs/Quien provee una IP.md",
     "Networks/IPs/Untitled.canvas"
   ]
 }
