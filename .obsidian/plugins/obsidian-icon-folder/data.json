@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImage",
+      "LiPen",
       "SiBlueprint",
       "FasFile",
-      "LiPuzzle",
-      "SiPcgamingwiki",
-      "TiLanguage"
+      "LiPuzzle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,7 +49,6 @@
   "Docker": "SiDocker",
   "Web": "FasCode",
   "Web/React": "SiReact",
-  "Web/React/Fernando Herrera - Udemy.md": "BoBxsFileDoc",
   "Hacking/Tools/Nmap": "IbEye",
   "Hacking/Tools": "TiTools",
   "Hacking/Tools/Arp-scan": "TiNetwork",
@@ -82,5 +81,8 @@
   "Year/Semester/Plataformas": "LiPuzzle",
   "Year/Semester/Plataformas/Summary.md": "FasFile",
   "Year/Semester/Proyectos": "SiBlueprint",
-  "Year/Semester/Proyectos/Summary.md": "FasFile"
+  "Year/Semester/Proyectos/Summary.md": "FasFile",
+  "Web/React/React.md": "BoBxsFileDoc",
+  "Year/Semester/Ingles/Summary.md": "FasFile",
+  "Year/Semester/Plataformas/SummaryImages": "LiImage"
 }
