@@ -11,11 +11,9 @@
             "id": "5c66568169401815",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 200
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md"
+                "file": "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png"
               }
             }
           }
@@ -147,27 +145,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "5c66568169401815",
   "lastOpenFiles": [
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307171706.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307160332.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307165926.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307153249.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307170043.png",
+    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111220934.png",
+    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111222715.png",
+    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111223318.png",
+    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240113145708.png",
     "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307171624.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307170158.png",
-    "Pasted image 20240307153118.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307150419.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307152444.png",
-    "Pasted image 20240307153019.png",
-    "Year/Semester/MachineLearning/Images",
-    "Year/Semester/Plataformas/Summary.md",
     "Web/React/React.md",
+    "Year/Semester/Plataformas/Images/Pasted image 20240306225932.png",
+    "Year/Semester/Plataformas/Images/Pasted image 20240306174203.png",
+    "Year/Semester/Plataformas/Images",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240307171706.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240307171624.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240307160332.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240307153249.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240307150419.png",
+    "Year/Semester/MachineLearning/Images",
     "Networks/Domains/DNS.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Plataformas/SummaryDiagram.md",
-    "Year/Semester/Plataformas/Images",
+    "Year/Semester/Plataformas/SummaryImages",
     "Excalidraw/Drawing 2024-03-06 16.17.39.excalidraw.md",
     "Excalidraw",
     "Year/Semester/Plataformas/Untitled.canvas",
@@ -180,7 +179,6 @@
     "Year/Semester/BPM",
     "Year/Semester/Plataformas",
     "Year/Semester/Ingles/Summary",
-    "Year/Semester/Ingles",
     "Year/Semester/Untitled.md",
     "ThirdYear/Semester/EvaluacionProyectos/Summary.md",
     "ThirdYear/Semester/BPM/Summary.md",
