@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c4ff0a5dfaa6aa4f",
+        "id": "5e7add6635bb40e9",
         "type": "tabs",
         "children": [
           {
-            "id": "5c66568169401815",
+            "id": "f70ab861b7df9564",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,8 +139,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c66568169401815",
+  "active": "f70ab861b7df9564",
   "lastOpenFiles": [
+    "Projects/MagerSegurosWeb",
+    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png",
+    "Projects",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111220934.png",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111222715.png",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111223318.png",
@@ -159,8 +156,6 @@
     "Year/Semester/MachineLearning/Images/Pasted image 20240307171706.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240307171624.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240307160332.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307153249.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307150419.png",
     "Year/Semester/MachineLearning/Images",
     "Networks/Domains/DNS.md",
     "Year/Semester/Plataformas/Summary.md",
@@ -178,7 +173,6 @@
     "Year/Semester/MachineLearning",
     "Year/Semester/BPM",
     "Year/Semester/Plataformas",
-    "Year/Semester/Ingles/Summary",
     "Year/Semester/Untitled.md",
     "ThirdYear/Semester/EvaluacionProyectos/Summary.md",
     "ThirdYear/Semester/BPM/Summary.md",

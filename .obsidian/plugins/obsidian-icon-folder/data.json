@@ -1,19 +1,27 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrowser",
+      "LiPenSquare",
       "LiImage",
       "LiPen",
-      "SiBlueprint",
-      "FasFile",
-      "LiPuzzle"
+      "SiBlueprint"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "BoBxsFileDoc",
+        "rule": "Hacking/Tools/Arp-scan/ArpScan.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -24,7 +32,8 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
   "Networks": "LiNetwork",
   "Networks/Domains": "RaWoodenSign",
@@ -64,10 +73,6 @@
   "Hacking/Vulnhub/Pinkys-Place": "IbFolder",
   "Hacking/Vulnhub/Pinkys-Place/Pinkys place - Very easy.md": "BoBxsFileDoc",
   "Hacking/Vulnhub/Pinkys-Place/imgs": "LiImage",
-  "Hacking/Tools/Arp-scan/ArpScan.md": {
-    "iconName": "BoBxsFileDoc",
-    "inheritanceIcon": "BoBxsFileDoc"
-  },
   "Hacking/Tools/Fuzzing/Fuzzing.md": "BoBxsFileDoc",
   "Hacking/Tools/Nmap/Nmap.md": "BoBxsFileDoc",
   "Year": "TiDice3",
@@ -85,5 +90,8 @@
   "Web/React/React.md": "BoBxsFileDoc",
   "Year/Semester/Ingles/Summary.md": "FasFile",
   "Year/Semester/MachineLearning/Images": "LiImage",
-  "Year/Semester/Plataformas/Images": "LiImage"
+  "Year/Semester/Plataformas/Images": "LiImage",
+  "Hacking/Tools/Arp-scan/ArpScan.md": "BoBxsFileDoc",
+  "Projects": "LiPenSquare",
+  "Projects/MagerSegurosWeb": "TiBrowser"
 }
