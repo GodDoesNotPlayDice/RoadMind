@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
       "TiBrowser",
       "LiPenSquare",
       "LiImage",
-      "LiPen",
-      "SiBlueprint"
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -93,5 +93,6 @@
   "Year/Semester/Plataformas/Images": "LiImage",
   "Hacking/Tools/Arp-scan/ArpScan.md": "BoBxsFileDoc",
   "Projects": "LiPenSquare",
-  "Projects/MagerSegurosWeb": "TiBrowser"
+  "Projects/MagerSegurosWeb": "TiBrowser",
+  "Projects/MagerSegurosWeb/Note.md": "LiFile"
 }

@@ -11,8 +11,12 @@
             "id": "f70ab861b7df9564",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/MagerSegurosWeb/Note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/MagerSegurosWeb/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/MagerSegurosWeb/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/MagerSegurosWeb/Note.md"
+              }
             }
           }
         ]
@@ -139,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f70ab861b7df9564",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
+    "Projects/MagerSegurosWeb/Note.md",
     "Projects/MagerSegurosWeb",
     "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png",
     "Projects",
@@ -166,13 +175,11 @@
     "Excalidraw",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Year/Semester/Ingles/Summary.md",
-    "Untitled.md",
     "Year/Semester/Ingles",
     "Year/Semester/BPM/Summary.md",
     "Year/Semester/Proyectos",
     "Year/Semester/MachineLearning",
     "Year/Semester/BPM",
-    "Year/Semester/Plataformas",
     "Year/Semester/Untitled.md",
     "ThirdYear/Semester/EvaluacionProyectos/Summary.md",
     "ThirdYear/Semester/BPM/Summary.md",
