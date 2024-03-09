@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e7add6635bb40e9",
+        "id": "c8f865d05c1306bd",
         "type": "tabs",
         "children": [
           {
-            "id": "f70ab861b7df9564",
+            "id": "86a8732319f43679",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/MagerSegurosWeb/Note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/MagerSegurosWeb/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/MagerSegurosWeb/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/MagerSegurosWeb/Note.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,24 +139,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "86a8732319f43679",
   "lastOpenFiles": [
+    "WorkOut/PullUpBar/Consejos.md",
+    "WorkOut/Warpmup/Warpmups.md",
+    "WorkOut/Warpmup",
+    "Pasted image 20240308192958.png",
+    "Pasted image 20240308192922.png",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308192608.png",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308191249.png",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308192324.png",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308191509.png",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308191453.png",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308191212.png",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308190857.png",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308190742.png",
+    "WorkOut/PullUpBar/Imagenes",
+    "WorkOut/Untitled.md",
+    "WorkOut/PullUpBar",
+    "Web/React/Tests.md",
+    "WorkOut",
+    "Web/React/React.md",
     "Projects/MagerSegurosWeb/Note.md",
     "Projects/MagerSegurosWeb",
-    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111151614.png",
     "Projects",
-    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111220934.png",
-    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111222715.png",
-    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240111223318.png",
-    "Hacking/Vulnhub/DC-7/imgs/Pasted image 20240113145708.png",
     "Year/Semester/MachineLearning/Summary.md",
-    "Web/React/React.md",
-    "Year/Semester/Plataformas/Images/Pasted image 20240306225932.png",
-    "Year/Semester/Plataformas/Images/Pasted image 20240306174203.png",
     "Year/Semester/Plataformas/Images",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307171706.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307171624.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307160332.png",
     "Year/Semester/MachineLearning/Images",
     "Networks/Domains/DNS.md",
     "Year/Semester/Plataformas/Summary.md",
@@ -175,11 +175,7 @@
     "Excalidraw",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Year/Semester/Ingles/Summary.md",
-    "Year/Semester/Ingles",
     "Year/Semester/BPM/Summary.md",
-    "Year/Semester/Proyectos",
-    "Year/Semester/MachineLearning",
-    "Year/Semester/BPM",
     "Year/Semester/Untitled.md",
     "ThirdYear/Semester/EvaluacionProyectos/Summary.md",
     "ThirdYear/Semester/BPM/Summary.md",
@@ -192,9 +188,6 @@
     "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
     "Networks/Ports/Ports and Sockets.md",
     "Hacking/Vulnhub/Pinkys-Place/Pinkys place - Very easy.md",
-    "Hacking/Vulnhub/Earth/Earth - Easy.md",
-    "Hacking/Tools/Fuzzing/Que es le fuzzing?.md",
-    "Hacking/Tools/Nmap/¿Que es?, como funciona..md",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]

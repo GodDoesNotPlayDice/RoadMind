@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFile",
-      "TiBrowser",
-      "LiPenSquare",
       "LiImage",
-      "LiPen"
+      "BoBxDumbbell",
+      "LiDumbbell",
+      "BoBxsFileDoc",
+      "LiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -94,5 +94,11 @@
   "Hacking/Tools/Arp-scan/ArpScan.md": "BoBxsFileDoc",
   "Projects": "LiPenSquare",
   "Projects/MagerSegurosWeb": "TiBrowser",
-  "Projects/MagerSegurosWeb/Note.md": "LiFile"
+  "Projects/MagerSegurosWeb/Note.md": "LiFile",
+  "Web/React/Tests.md": "BoBxsFileDoc",
+  "WorkOut": "LiDumbbell",
+  "WorkOut/PullUpBar": "BoBxDumbbell",
+  "WorkOut/PullUpBar/Imagenes": "LiImage",
+  "WorkOut/PullUpBar/Consejos.md": "LiFile",
+  "WorkOut/Warpmup": "BoBxDumbbell"
 }

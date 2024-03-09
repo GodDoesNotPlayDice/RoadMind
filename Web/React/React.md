@@ -43,22 +43,28 @@ Ejemplo: Un contador que incrementa su valor cada vez que se hace clic en un bot
 En React, los "hooks" son funciones especiales que te permiten utilizar el estado y otras características de React sin tener que escribir una clase.
 
 Los hooks proporcionan una forma más simple y efectiva de compartir lógica entre componentes, reutilizar código y manejar el ciclo de vida del componente.
-
-Existen 3 tipos de Hooks:
- 
 ##### useState 
- Este hook permite agregar estado a componentes funcionales. Te permite declarar variables de estado y actualizarlas, similar a cómo funcionaba `this.state` en componentes de clase.
+ Este hook permite agregar un estado variable al componente, así hacer un componente dinámico
 ```tsx
-import React, { useState } from 'react';
-
-export const Contador: React.FC = () => {
-  const [count, setCount] = useState<number>(0);
-
-  return (
-    <div>
-      <p>You clicked {count} times</p>
-      <button onClick={() => setCount(count + 1)}>Click me</button>
-    </div>
-  );
+import React, { useState } from "react"; // importamos use state 
+interface CounterProps { // interfaz para declarar la variable
+    value: number;
+}
+export const CounterApp: React.FC<CounterProps> = ({value}) => { // export y agregar el contrato
+    const [counter, setCounter] = useState(value); // declara dos variable para la funcion del state 1 es el valor y la segunda es su cambio
+    const handleAdd = () => { // funcion donde se ejecuta el set counter.
+        setCounter(counter + 1);
+        setCounter( () => 400); // funcion anonima tiene el valor exacto del counter
+        setCounter( (c) => c + 1) // es lo mimso que usar el counter
+    }
+    return (
+        <div className="block">
+            <h1>CounterApp</h1>
+            <h2>{counter}</h2>
+            <button onClick={handleAdd}>
+                add + 1
+            </button>
+        </div>
+    );
 };
 ```
