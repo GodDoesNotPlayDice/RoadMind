@@ -65,3 +65,6 @@ Existen distintos tipos de proceso, tales como procesos estratégicos, operativo
 ![[Pasted image 20240306225932.png]]
 
 
+
+
+

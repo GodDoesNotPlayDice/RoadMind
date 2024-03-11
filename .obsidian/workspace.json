@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f865d05c1306bd",
+        "id": "8837088994a4dec5",
         "type": "tabs",
         "children": [
           {
-            "id": "86a8732319f43679",
+            "id": "1b027e5b854ce58e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/MachineLearning/Summary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year/Semester/MachineLearning/Summary.md"
+              }
             }
           }
         ]
@@ -139,12 +147,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86a8732319f43679",
+  "active": "1b027e5b854ce58e",
   "lastOpenFiles": [
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/BPM/Summary.md",
     "WorkOut/PullUpBar/Consejos.md",
+    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308192958.png",
     "WorkOut/Warpmup/Warpmups.md",
     "WorkOut/Warpmup",
-    "Pasted image 20240308192958.png",
     "Pasted image 20240308192922.png",
     "WorkOut/PullUpBar/Imagenes/Pasted image 20240308192608.png",
     "WorkOut/PullUpBar/Imagenes/Pasted image 20240308191249.png",
@@ -167,7 +177,6 @@
     "Year/Semester/Plataformas/Images",
     "Year/Semester/MachineLearning/Images",
     "Networks/Domains/DNS.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Plataformas/SummaryDiagram.md",
     "Year/Semester/Plataformas/SummaryImages",
@@ -175,7 +184,6 @@
     "Excalidraw",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Year/Semester/Ingles/Summary.md",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/Untitled.md",
     "ThirdYear/Semester/EvaluacionProyectos/Summary.md",
     "ThirdYear/Semester/BPM/Summary.md",
@@ -187,7 +195,6 @@
     "Hacking/Tools/Nmap/Nmap.md",
     "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
     "Networks/Ports/Ports and Sockets.md",
-    "Hacking/Vulnhub/Pinkys-Place/Pinkys place - Very easy.md",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]

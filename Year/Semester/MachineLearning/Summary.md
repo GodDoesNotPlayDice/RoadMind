@@ -1,4 +1,4 @@
-## Que es?
+## Introducción
 Consiste en una disciplina que, a través del uso de datos y algoritmos matemáticos, permiten a los computadores aprender ayudando a predecir, clasificar, ordenar, tomar decisiones y, en general, extraer conocimientos de los datos sin necesidad de definir explícitamente las reglas para realizar esas tareas.
 
 Matemáticas + Estadísticas + Computer Science
@@ -32,7 +32,7 @@ Ejemplos de en que se puede aplicar
 
 
 
-## Tabla
+### Tabla
 
 Conjunto de registros ordenados, dispuestos normalmente en una tabla que puede estar relacionada con otras tablas, eso define el dato.
 Un conjunto de datos , con un contexto darán definición a la información.
@@ -41,25 +41,25 @@ La forma de estructurar la tabla es la siguiente.
 
 ![[Pasted image 20240307153249.png]]
 
-### <mark style="background: #FF5582A6;">ATRIBUTO, CAMPO</mark>
+#### <mark style="background: #FF5582A6;">ATRIBUTO, CAMPO</mark>
 Columna del contexto o de la tabla.
 Espacio de representación de transacciones o de una característica de las transacciones.
 
 
-### <mark style="background: #BBFABBA6;">REGISTRO</mark>
+#### <mark style="background: #BBFABBA6;">REGISTRO</mark>
 Ocurrencia o instancia de los datos que representa un registro.
 Secuencia de valores para un conjunto de atributos.
 
-### <mark style="background: #ABF7F7A6;">DATO, VALOR</mark>
+#### <mark style="background: #ABF7F7A6;">DATO, VALOR</mark>
 Celda del contexto: Valor de un atributo para una transacción determinada.
 
 
-## Tipos de datos
+### Tipos de datos
 
 ![[Pasted image 20240307160332.png]]
 
 
-### Datos categóricos
+#### Datos categóricos
 - Los datos categóricos ordinales son tipos de datos que categorizan una entidad y van ordenados, por lo que no se hace ningún tipo de operación con ellos.
 
 | PassengerId |
@@ -69,7 +69,7 @@ Celda del contexto: Valor de un atributo para una transacción determinada.
 | 3           |
 | 4           |
 | 5           |
-### Datos Categóricos Nominales
+#### Datos Categóricos Nominales
 - Atributos categóricos sin orden en especifico
 
 | Gender |
@@ -79,7 +79,7 @@ Celda del contexto: Valor de un atributo para una transacción determinada.
 | Male   |
 | Female |
 
-### Datos numéricos discretos
+#### Datos numéricos discretos
 Cuantifican una propiedad con un dominio contable. Es importante destacar que estos números deben ser enteros. (Edad, Cantidad de hermanos, Numero de mascotas,)
 
 | Age  |
@@ -89,7 +89,7 @@ Cuantifican una propiedad con un dominio contable. Es importante destacar que es
 | 26.0 |
 | 35.0 |
 
-### Datos numéricos continuos
+#### Datos numéricos continuos
 Miden una propiedad con un dominio denso. Es importante destacar que estos números deben ser reales
 
 | Terifa |
@@ -100,7 +100,7 @@ Miden una propiedad con un dominio denso. Es importante destacar que estos n�
 | 84.23  |
 | 522.73 |
 
-### Ejemplos
+#### Ejemplos
 
 **Número de teléfonos en la casa:** Numérico, discreto.
 **Propiedad de un celular:** Categórico, nominal.
@@ -113,7 +113,7 @@ Miden una propiedad con un dominio denso. Es importante destacar que estos n�
 
 
 
-### Naturaleza del dato
+#### Naturaleza del dato
 
 **Intervalo** : No existe un “cero”, la división no tiene sentido. Se pueden hacer operaciones de igualdad, desigualdad, de orden, sumas y restas.
 ![[Pasted image 20240307171624.png]]
@@ -122,3 +122,43 @@ Miden una propiedad con un dominio denso. Es importante destacar que estos n�
 **Radio**: El cero existe, la división tiene sentido. Podemos realizar operaciones propias de los intervalos y además multiplicación y división.
 
 ![[Pasted image 20240307171706.png]]
+
+## Estadística I
+
+La estadística se emplea para comprender la estructura y las relaciones presentes en los datos, así como para evaluar la validez y el rendimiento de los modelos de aprendizaje automático.
+
+### Pasos de los usos de la estadística
+
+**Formular el problema**: Formular el problema no siempre es obvio. Se requiere una exploración de las observaciones.
+Los métodos estadísticos ayudan a resumir los datos y visualizarlos en forma apropiada, con el fin de descubrir relaciones entre ellos, o identificar anomalías..
+
+**Datos**: Entender la distribución de variables y sus relaciones. Limpiar datos corruptos, erróneos o faltantes. Seleccionarlos en forma adecuada para los modelos. Transformar los datos para un entrenamiento adecuado de los modelos. Todas estas son tareas apoyadas por estadística
+
+**Modelar**: Las pruebas de hipótesis estadística y los estadísticos de estimación pueden ayudar en la discriminación y selección de modelos entrenados, permitiendo traducir y justificar sus habilidades y capacidades predictivas.
+
+### Ordenar los datos 
+Ordenar los datos con el objetivo de analizarlos, entenderlos y/o presentarlos
+La organización puede ser ascendente o descendente. Esto ofrece varias ventajas
+1) Se pueden identificar valores extremos (menor y mayor) rápidamente.
+2) Es fácil dividir los datos en secciones.
+3) Podemos ver si algunos valores aparecen más de una vez en el arreglo.
+4) Podemos observar la distancia entre valores sucesivos de los datos.
+Necesitamos, entonces, buscar una forma de comprimir la información sin que pierda su utilidad para la interpretación, ya que si llegamos a tener muchos datos estos se vuelven pesados de procesar.
+
+
+### Tabla de Frecuencia 
+Una manera de compactar los datos es **mediante una tabla de frecuencia o distribución de frecuencias**, donde podemos contabilizar las ocurrencias de un determinado intervalo o clase.
+
+Podemos, también, clasificar la información de acuerdo con características cualitativas, como raza, religión y sexo, que no entran de manera natural en categorías numéricas.
+
+### Estadísticos básicos
+
+**Tendencia Central**: Son aquellas medidas que nos ayudan a saber DONDE están los datos, pero sin indicar como se distribuyen. También podemos decir que se refieren al punto medio de una distribución.
+
+**Posición no central:** Estas medidas, se refieren a aquellos valores que, ordenados de menor a mayor, dividen a la distribución en partes, de tal manera que cada una de ellas contiene el mismo número de frecuencias.
+
+**Dispersión**: Las medidas de dispersión tratan de medir el grado de dispersión (o separación) que tiene una variable estadística en torno a una medida de posición o tendencia central, indicándonos lo representativa que es la medida de posición
+
+### Tendencia central
+
+**MEDIA ARITMÉTICA:**  La media aritmética o simplemente media, es el número obtenido al dividir la suma de todos los valores de la variable entre el número total de observaciones.
