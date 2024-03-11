@@ -4,6 +4,8 @@ El Conjunto de actividades lógicamente relacionadas, es lo que conoceremos como
 
  **La organización**: puede identificar con claridad sus procesos de negocios, podrá mejorar el desempeño de los sistemas de trabajo, ya que, al ser identificables y perdurables en el tiempo se pueden realizar mejoras eliminando o modificando ciertos pasos.
 
+Osea organizar un plan y una estructura de negocio para tener una mirada amplia y bien definida de lo que es la meta del cliente o de la empresa.
+
 ## Tipos de procesos
  Es conjunto de actividades que son realizadas en coordinación con el entorno organizacional y técnico.
 

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPen",
       "LiImage",
       "BoBxDumbbell",
       "LiDumbbell",
-      "BoBxsFileDoc",
-      "LiFile"
+      "BoBxsFileDoc"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -100,5 +100,9 @@
   "WorkOut/PullUpBar": "BoBxDumbbell",
   "WorkOut/PullUpBar/Imagenes": "LiImage",
   "WorkOut/PullUpBar/Consejos.md": "LiFile",
-  "WorkOut/Warpmup": "BoBxDumbbell"
+  "WorkOut/Warpmup": "BoBxDumbbell",
+  "Year/Semester/MachineLearning/Draws": "LiPen",
+  "Year/Semester/Plataformas/Draws": "LiPen",
+  "Year/Semester/Plataformas/Draws/Intro.md": "LiPen",
+  "Year/Semester/MachineLearning/Draws/Clase_1.md": "LiPen"
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8837088994a4dec5",
+        "id": "14293f32467942ef",
         "type": "tabs",
         "children": [
           {
-            "id": "1b027e5b854ce58e",
+            "id": "e98f3d691f61ebf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,16 @@
                 "file": "Year/Semester/MachineLearning/Summary.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "69e08f967f934b26",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/MachineLearning/Draws/Clase_1.md"
               }
             }
           }
@@ -147,9 +157,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b027e5b854ce58e",
+  "active": "e98f3d691f61ebf6",
   "lastOpenFiles": [
+    "Year/Semester/MachineLearning/Draws/Clase_1.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/Plataformas/Draws",
+    "Year/Semester/MachineLearning/Draws",
     "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/Plataformas/Draws/Intro.md",
+    "Excalidraw",
     "Year/Semester/BPM/Summary.md",
     "WorkOut/PullUpBar/Consejos.md",
     "WorkOut/PullUpBar/Imagenes/Pasted image 20240308192958.png",
@@ -173,15 +189,11 @@
     "Projects/MagerSegurosWeb/Note.md",
     "Projects/MagerSegurosWeb",
     "Projects",
-    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/Plataformas/Images",
-    "Year/Semester/MachineLearning/Images",
     "Networks/Domains/DNS.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Plataformas/SummaryDiagram.md",
-    "Year/Semester/Plataformas/SummaryImages",
     "Excalidraw/Drawing 2024-03-06 16.17.39.excalidraw.md",
-    "Excalidraw",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Untitled.md",
@@ -193,8 +205,6 @@
     "Hacking/Tools/Arp-scan/ArpScan.md",
     "Hacking/Tools/Fuzzing/Fuzzing.md",
     "Hacking/Tools/Nmap/Nmap.md",
-    "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
-    "Networks/Ports/Ports and Sockets.md",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
