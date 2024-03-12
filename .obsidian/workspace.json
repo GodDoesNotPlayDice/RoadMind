@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md"
+                "file": "Year/Semester/Proyectos/Summary.md"
               }
             }
           }
@@ -159,8 +159,15 @@
   },
   "active": "e98f3d691f61ebf6",
   "lastOpenFiles": [
-    "Year/Semester/MachineLearning/Draws/Clase_1.md",
+    "Year/Semester/Proyectos/Draws/Draw.md",
+    "Year/Semester/Proyectos/Draws",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Proyectos/Images/Pasted image 20240312085529.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240312085329.png",
+    "Year/Semester/Proyectos/Images",
+    "Year/Semester/Proyectos/Images/Pasted image 20240312085009.png",
     "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/MachineLearning/Draws/Clase_1.md",
     "Year/Semester/Plataformas/Draws",
     "Year/Semester/MachineLearning/Draws",
     "Year/Semester/Plataformas/Summary.md",
@@ -177,9 +184,6 @@
     "WorkOut/PullUpBar/Imagenes/Pasted image 20240308192324.png",
     "WorkOut/PullUpBar/Imagenes/Pasted image 20240308191509.png",
     "WorkOut/PullUpBar/Imagenes/Pasted image 20240308191453.png",
-    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308191212.png",
-    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308190857.png",
-    "WorkOut/PullUpBar/Imagenes/Pasted image 20240308190742.png",
     "WorkOut/PullUpBar/Imagenes",
     "WorkOut/Untitled.md",
     "WorkOut/PullUpBar",
@@ -188,10 +192,7 @@
     "Web/React/React.md",
     "Projects/MagerSegurosWeb/Note.md",
     "Projects/MagerSegurosWeb",
-    "Projects",
-    "Year/Semester/Plataformas/Images",
     "Networks/Domains/DNS.md",
-    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Plataformas/SummaryDiagram.md",
     "Excalidraw/Drawing 2024-03-06 16.17.39.excalidraw.md",
     "Year/Semester/Plataformas/Untitled.canvas",
@@ -204,7 +205,6 @@
     "ThirdYear/Semester/Ingles/Summary.md",
     "Hacking/Tools/Arp-scan/ArpScan.md",
     "Hacking/Tools/Fuzzing/Fuzzing.md",
-    "Hacking/Tools/Nmap/Nmap.md",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
