@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Plataformas/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Plataformas/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Plataformas/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Plataformas/Summary.md"
+                "file": "Year/Semester/Proyectos/Summary.md"
               }
             }
           }
@@ -150,17 +150,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "f9c22ea8f2c9d9b4",
   "lastOpenFiles": [
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240312211719.png",
     "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/MachineLearning/Summary.md",
@@ -171,7 +173,6 @@
     "Excalidraw",
     "Year/Semester/MachineLearning/Images/Pasted image 20240312172213.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240307150419.png",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Images/Pasted image 20240312170651.png",
     "Year/Semester/BPM/Images/Pasted image 20240312170551.png",
     "Year/Semester/BPM/Images/Pasted image 20240312163142.png",
@@ -184,7 +185,6 @@
     "Year/Semester/Plataformas/Draws/Intro.md",
     "Year/Semester/Plataformas/Draws",
     "Year/Semester/MachineLearning/Draws",
-    "Year/Semester/Plataformas/Summary.md",
     "WorkOut/PullUpBar/Consejos.md",
     "WorkOut/Warpmup/Warpmups.md",
     "WorkOut/Warpmup",
