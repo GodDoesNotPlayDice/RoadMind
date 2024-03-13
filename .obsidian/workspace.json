@@ -8,30 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9c22ea8f2c9d9b4",
+            "id": "aee9e0a983b45ed1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "Year/Semester/BPM/Draws/Draw.md"
               }
             }
           },
           {
-            "id": "087603368d0d6eab",
+            "id": "654a1c003a5320ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/BPM/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/BPM/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/BPM/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md"
+                "file": "Year/Semester/BPM/Summary.md"
               }
             }
           }
@@ -159,13 +158,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9c22ea8f2c9d9b4",
+  "active": "654a1c003a5320ce",
   "lastOpenFiles": [
+    "Year/Semester/BPM/Draws/Draw.md",
     "Year/Semester/BPM/Summary.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/BPM/Draws",
+    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240312211719.png",
     "Year/Semester/MachineLearning/Draws/Clase_2.md",
-    "Year/Semester/MachineLearning/Summary.md",
     "Pasted image 20240312211658.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240312202824.png",
     "Pasted image 20240312203615.png",
@@ -180,7 +182,6 @@
     "Year/Semester/Proyectos/Images",
     "Year/Semester/Proyectos/Draws/Draw.md",
     "Year/Semester/Proyectos/Draws",
-    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/BPM/Images",
     "Year/Semester/Plataformas/Draws/Intro.md",
     "Year/Semester/Plataformas/Draws",
@@ -192,7 +193,6 @@
     "WorkOut/Untitled.md",
     "WorkOut/PullUpBar",
     "Web/React/Tests.md",
-    "WorkOut",
     "Web/React/React.md",
     "Projects/MagerSegurosWeb/Note.md",
     "Networks/Domains/DNS.md",
@@ -206,7 +206,6 @@
     "ThirdYear/Semester/MachineLearning/Summary.md",
     "ThirdYear/Semester/Plataformas/Summary.md",
     "ThirdYear/Semester/Ingles/Summary.md",
-    "Hacking/Tools/Arp-scan/ArpScan.md",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]

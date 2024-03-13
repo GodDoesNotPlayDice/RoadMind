@@ -1,7 +1,6 @@
 ### Que es un proceso?
 Un Proceso de Negocio **(Business Process)** es un conjunto de actividades que son realizadas en coordinación con el entorno organizacional y técnico.
 
-
 ### Características de un proceso
 - Pueden ser medidos y están orientados al rendimiento
 - Tienen resultados específicos
@@ -55,5 +54,22 @@ Son los proceso encargados de cumplir la misión de la empresas y cumplir con la
 
 ### Procesos estratégicos
 ![[Pasted image 20240312170651.png]]
+
+### Conceptos importantes
+- **Proceso:** Un proceso es una actividad que tiene un tiempo fijo que con un conjunto de elementos da un resultado final
+- **Actividad**: Es un paso dentro del proceso
+- **Negocio**: Negocio nos referimos a cualquier acto de rubro que es remunerado.
+- **Mejora continua**: Mejora los procesos constantemente
+- **Indicadores**: Los indicadores nos pueden señalar que tan avanzado o en que estado se desarrolla un proceso.
+- **Sistema informático**: Conjunto de elementos que funcionan para un fin.
+- **Informatica**: capacidad de guardar la informacion y usarla.
+
+#### Ejemplo de proceso para bizagi (Proceso / Actividades)
+**Proceso**: Comprar entradas / Cine
+1) Elegir película
+2) Elegir horario
+3) Elección asiento
+
+
 
 
