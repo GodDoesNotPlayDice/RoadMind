@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3baf04a7faf087cf",
+        "id": "9b80973b54996ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "aee9e0a983b45ed1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Year/Semester/BPM/Draws/Draw.md"
-              }
-            }
-          },
-          {
-            "id": "654a1c003a5320ce",
+            "id": "b820d3cb636af8f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md"
+                "file": "Year/Semester/Proyectos/Summary.md"
               }
             }
           }
@@ -158,14 +147,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "654a1c003a5320ce",
+  "active": "b820d3cb636af8f0",
   "lastOpenFiles": [
-    "Year/Semester/BPM/Draws/Draw.md",
-    "Year/Semester/BPM/Summary.md",
-    "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/BPM/Draws",
+    "Year/Semester/Proyectos/Images/Pasted image 20240313132619.png",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/Draws/Draw.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/BPM/Draws",
     "Year/Semester/MachineLearning/Images/Pasted image 20240312211719.png",
     "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Pasted image 20240312211658.png",
@@ -178,7 +168,6 @@
     "Year/Semester/BPM/Images/Pasted image 20240312170651.png",
     "Year/Semester/BPM/Images/Pasted image 20240312170551.png",
     "Year/Semester/BPM/Images/Pasted image 20240312163142.png",
-    "Year/Semester/BPM/Images/Pasted image 20240312163559.png",
     "Year/Semester/Proyectos/Images",
     "Year/Semester/Proyectos/Draws/Draw.md",
     "Year/Semester/Proyectos/Draws",

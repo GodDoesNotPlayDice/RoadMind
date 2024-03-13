@@ -68,6 +68,13 @@ En el planteamiento de los objetivos de la evaluación de proyectos radica la im
 - Permitir seleccionar la opción de proyecto más rentable desde el punto de vista buscado.
 - Determinar o identificar lo más objetivamente posible las variables que afectan a la rentabilidad del proyecto, cualquiera sea su denominación.
 
+### Definiciones
+**Fungible**: algo que se gasta.
+**Activos**: algo que dura mas de 12 meses y se puede vender.
+**Infraestructura**: algo que no se puede mover o trasladar.
+**Personal**: Personas que van a trabajar pagadas.
+
+
 
 ## Estudio de mercado
 En el ámbito de la preparación y evaluación de proyectos, es necesario conocer el mercado objetivo del estudio.
@@ -149,10 +156,24 @@ Esta clasificación tiene que ver con la cantidad de usos de un producto, su tie
 
 
 
-### Definiciones
-**Fungible**: algo que se gasta.
-**Activos**: algo que dura mas de 12 meses y se puede vender.
-**Infraestructura**: algo que no se puede mover o trasladar.
-**Personal**: Personas que van a trabajar pagadas.
+
+
+
+
+
+
+
+#### Pasos para el estudio del mercado
+1) **Analisis historico del mercado :** El análisis del mercado histórico pretende reunir información estadística, anterior, generalmente publicada en medios escritos o estudios anteriores, sobre la demanda y oferta del producto
+2) **Analisis del mercado hoy :** El análisis del mercado hoy tiene que ver con el análisis actual y es el que se utiliza como base para la investigación de mercado, ya que determina la competencia actual, la demanda y ofertas actuales y el precio actual del producto que se está evaluando. 
+3) **Analisis de la proyección del mercado**: El análisis de la proyección del mercado, el cual se realiza basándose en los dos análisis anteriores, es el más relevante en un estudio de proyectos, ya que permite determinar la viabilidad de todo proyecto.
+	- Tiene relación con la proyección de la demanda, ingresos, costos y precios del producto en el tiempo.
+
+![[Pasted image 20240313132619.png]]
+
+### Recopilación de información
+Para realizar un estudio de mercado es importante recopilar información que permita la toma de decisiones en relación al proyecto, pues lo que se busca es determinar si el mercado tiene o no las condiciones necesarias para llevar a cabo el proyecto determinado.
+
+**caracteristicas**: sistemática, objetiva, útil
 
 

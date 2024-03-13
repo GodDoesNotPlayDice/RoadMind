@@ -1,5 +1,5 @@
 ### Que es un proceso?
-Un Proceso de Negocio **(Business Process)** es un conjunto de actividades que son realizadas en coordinación con el entorno organizacional y técnico.
+Un Proceso de Negocio **(Business Process)** es un conjunto de actividades que son realizadas en coordinación con el entorno organización y técnico.
 
 ### Características de un proceso
 - Pueden ser medidos y están orientados al rendimiento
