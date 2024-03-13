@@ -162,3 +162,20 @@ Podemos, también, clasificar la información de acuerdo con características cu
 ### Tendencia central
 
 **MEDIA ARITMÉTICA:**  La media aritmética o simplemente media, es el número obtenido al dividir la suma de todos los valores de la variable entre el número total de observaciones.
+![[Pasted image 20240312172213.png]]
+
+**Ventajas**: 
+- Intuitivamente claro.
+- Cada conjunto de datos posee una y sólo una media.
+- Es útil para comparar medias de varios conjuntos de datos.
+**Desventaja**: 
+- Puede verse afectada por valores extremos que no son representativos (outliers).
+- No sirve si los datos están agrupados en intervalos y los extremos de estos están “abiertos”.
+
+
+**MEDIANA:**  La mediana es el o los valores (pueden ser dos) del conjunto de datos que miden la observación central del conjunto. Esta observación es el elemento que está más al centro del conjunto de datos. La mitad de los elementos están por arriba de este punto y la otra mitad está por debajo.
+![[Pasted image 20240312202824.png]]
+
+
+**Moda**: :  La moda es una medida de tendencia central diferente de la media, pero un tanto parecido a la mediana, pues en realidad no se calcula mediante algún proceso aritmético ordinario. La moda es el valor que más se repite en el conjunto de datos.
+![[Pasted image 20240312211719.png]]
