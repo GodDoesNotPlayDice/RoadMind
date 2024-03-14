@@ -72,4 +72,71 @@ Son los proceso encargados de cumplir la misión de la empresas y cumplir con la
 
 
 
+### Requerimientos
+Se encontrarán relacionados a identificar y describir los objetivos del proyecto junto con su relación con los objetivos del negocio de la organización donde se está realizando el proyecto.
+
+- La aplicación de Ingeniería en Software se enfoca en la descripción de los diferentes tipos de requerimientos destacando las características y funcionalidades que debe cumplir el software.
+
+- Cuando buscamos la explotación de la información no buscamos la construcción del sistema software, buscamos comprender el proceso que convierta los datos disponibles en conocimiento
+
+### Fuentes de Requerimientos
+Identificar las fuentes de información disponibles en la organización identificando cuáles fuentes se encuentran informatizadas (en repositorios de datos) y cuáles no.
+
+- Análisis de los objetivos del proyecto
+- Análisis de los objetivos del negocio
+- Observación del negocio y sus participantes
+
+![[Pasted image 20240314150832.png]]
+
+### Gestión de procesos de Negocios
+La gestión de procesos es una forma sistémica de identificar, comprender y aumentar el valor agregado de los procesos de la empresa para cumplir con la estrategia del negocio y elevar el nivel de satisfacción de los clientes.
+
+La gestión de procesos de negocios se puede representar en el siguiente modelo
+
+![[Pasted image 20240314151131.png]]
+
+### ¿Cuándo entra en acción BPM?
+En organizaciones nos encontramos con las siguientes situaciones de la vida real que inducen a un proyecto de BPM
+![[Pasted image 20240314160104.png]]
+
+### Modelando con BPMN
+BPMN son las siglas de Business Process Modelling Notation.
+Para modelar un BPM tenemos una notación estandarizada por la OMG, conocida como Business Process Modelling Notation o su sigla BPMN.
+- Este estándar nos permite modelar los flujos de los procesos de negocios ya sean manuales o automatizados.
+- Gráficamente un diagrama BPMN está compuesto solo por cinco elementos: Objetos de flujo, información , objetos de conexión, actores y roles, artefactos ![[Pasted image 20240314162254.png]]
+
+
+Un modelo BPMN tiene un pequeño grupo de elementos centrales para definir el flujo de proceso (FlowObjects):
+
+![[Pasted image 20240314162642.png]]
+
+#### Eventos
+Un evento se representa por un círculo y le indica al flujo que algo ocurrirá durante el curso de un proceso de negocio.
+
+Los eventos afectan el flujo del proceso usualmente tienen una causa ( trigger) o un impacto (resultado)
+
+![[Pasted image 20240314162937.png]]
+
+#### Actividades
+Una actividad se representa por un rectángulo con sus bordes redondeados y es un término genérico para el trabajo que una organización realiza.
+
+![[Pasted image 20240314163228.png]]
+
+
+#### Gateways
+Un Gateway se usa para controlar divergencia o convergencia de la secuencia de un flujo.
+- Determina las tradicionales decisiones, tanto de bifurcaciones, como uniones y acoplamientos de flujos. Las anotaciones al interior indicar el tipo de comportamiento de control
+![[Pasted image 20240314163401.png]]
+
+#### Conexiones entre objetos
+Existe tres tipos de conectores 
+- **Flujo de secuencia:** muestra el orden de la actividad dentro del proceso 
+- **Flujo de mensaje:** muestra los mensajes entre dos procesos separados. 
+- **Asociación:** se usa para asociar datos, textos u otros artefactos con flujos de objetos.
+![[Pasted image 20240314165144.png]]
+
+#### Swimlanes
+**Pool**: es el contenedor del diagrama de flujo de trabajo proceso
+**Lane**: es división dentro de un POOL. Son utilizados para organizar actividades dentro de un POOL.
+![[Pasted image 20240314165323.png]]
 

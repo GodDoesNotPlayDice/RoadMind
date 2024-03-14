@@ -74,8 +74,6 @@ En el planteamiento de los objetivos de la evaluación de proyectos radica la im
 **Infraestructura**: algo que no se puede mover o trasladar.
 **Personal**: Personas que van a trabajar pagadas.
 
-
-
 ## Estudio de mercado
 En el ámbito de la preparación y evaluación de proyectos, es necesario conocer el mercado objetivo del estudio.
 
@@ -128,11 +126,6 @@ Serán consumidos por la población o usuario final, se clasifican en 4
 
 **No buscado**: Estos son productos que el consumidor sabe que existen, pero que no busca consumir
 	**Ejemplo:** servicios funerarios o un seguro de cesantía, y que por tanto requieren mayor esfuerzo de venta y/o de publicidad para llegar al usuario final, pues no se trata de algo que la gente esté buscando.
-
-
-
-
-
 #### Productos de Negocio
 Esto es, que se utilizan en la elaboración de un producto final o para la prestación de un servicio en particular, pero que no llegan al consumidor final, sino que son utilizados o transformados en un proceso productivo anterior.
 
@@ -153,15 +146,6 @@ Esta clasificación tiene que ver con la cantidad de usos de un producto, su tie
 	**Ejemplo**: Electrodomésticos
 **Servicios**: Son productos intangibles y perecederos
 	**Ejemplo**: lavado de automovil.
-
-
-
-
-
-
-
-
-
 
 #### Pasos para el estudio del mercado
 1) **Analisis historico del mercado :** El análisis del mercado histórico pretende reunir información estadística, anterior, generalmente publicada en medios escritos o estudios anteriores, sobre la demanda y oferta del producto

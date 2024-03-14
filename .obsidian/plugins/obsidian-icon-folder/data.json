@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiDice5",
       "LiPen",
       "LiImage",
       "BoBxDumbbell",
-      "LiDumbbell",
-      "BoBxsFileDoc"
+      "LiDumbbell"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -76,7 +76,7 @@
   "Hacking/Tools/Fuzzing/Fuzzing.md": "BoBxsFileDoc",
   "Hacking/Tools/Nmap/Nmap.md": "BoBxsFileDoc",
   "Year": "TiDice3",
-  "Year/Semester": "TiDice",
+  "Year/Semester": "TiDice5",
   "Year/Semester/BPM": "FasSackDollar",
   "Year/Semester/Ingles": "TiLanguage",
   "Year/Semester/Ingles/Summary": "FasFile",
@@ -96,20 +96,20 @@
   "Projects/MagerSegurosWeb": "TiBrowser",
   "Projects/MagerSegurosWeb/Note.md": "LiFile",
   "Web/React/Tests.md": "BoBxsFileDoc",
-  "WorkOut": "LiDumbbell",
-  "WorkOut/PullUpBar": "BoBxDumbbell",
-  "WorkOut/PullUpBar/Imagenes": "LiImage",
-  "WorkOut/PullUpBar/Consejos.md": "LiFile",
-  "WorkOut/Warpmup": "BoBxDumbbell",
   "Year/Semester/MachineLearning/Draws": "LiPen",
   "Year/Semester/Plataformas/Draws": "LiPen",
-  "Year/Semester/Plataformas/Draws/Intro.md": "LiPen",
   "Year/Semester/MachineLearning/Draws/Clase_1.md": "LiPen",
   "Year/Semester/BPM/Images": "LiImage",
   "Year/Semester/Proyectos/Draws": "LiPen",
   "Year/Semester/Proyectos/Images": "LiImage",
-  "Year/Semester/Proyectos/Draws/Draw.md": "LiPen",
   "Year/Semester/MachineLearning/Draws/Clase_2.md": "LiPen",
+  "Workout": "LiDumbbell",
+  "Workout/PullUpBar": "BoBxDumbbell",
+  "Workout/Warpmup": "BoBxDumbbell",
+  "Workout/PullUpBar/Consejos.md": "LiFile",
+  "Workout/PullUpBar/Imagenes": "LiImage",
   "Year/Semester/BPM/Draws": "LiPen",
-  "Year/Semester/BPM/Draws/Draw.md": "LiPen"
+  "Year/Semester/BPM/Draws/Clase_1.md": "LiPen",
+  "Year/Semester/Plataformas/Draws/Clase_1.md": "LiPen",
+  "Year/Semester/Proyectos/Draws/Clase_1.md": "LiPen"
 }

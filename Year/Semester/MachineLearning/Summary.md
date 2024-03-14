@@ -177,5 +177,43 @@ Podemos, también, clasificar la información de acuerdo con características cu
 ![[Pasted image 20240312202824.png]]
 
 
-**Moda**: :  La moda es una medida de tendencia central diferente de la media, pero un tanto parecido a la mediana, pues en realidad no se calcula mediante algún proceso aritmético ordinario. La moda es el valor que más se repite en el conjunto de datos.
+**Ventajas**: 
+- Se puede ocupar para datos cuantitativos como cualitativos.
+- Incluso en datos agrupados con extremos abiertos.
+- No le afectan los valores extremos.
+**Desventaja**: 
+- Requiere ordenar los datos.
+
+
+**Moda**:  La moda es una medida de tendencia central diferente de la media, pero un tanto parecido a la mediana, pues en realidad no se calcula mediante algún proceso aritmético ordinario. La moda es el valor que más se repite en el conjunto de datos.
 ![[Pasted image 20240312211719.png]]
+
+
+**Ventajas**: 
+- Se puede ocupar para datos cuantitativos y cualitativos.
+- Sirve para datos agrupados con extremos abiertos.
+- No le afectan los valores extremos.
+**Desventaja**: 
+- Muchas veces es inútil, pues no hay valores que la representen o cada valor es la moda.
+- Cuando hay varias modas, es difícil interpretarla.
+
+
+**Comparación**: :  En distribuciones simétricas de datos, la moda, la mediana y la media tienen el mismo valor. Cuando la población de datos está sesgada negativa o positivamente, la mediana suele ser la mejor medida de posición, debido a que siempre está entre la moda y la media. Pero, elegir la medida adecuada, dependerá de cada caso que se esté analizando.
+
+![[Pasted image 20240314145151.png]]
+
+
+
+**CUANTILES:**  Los cuantiles son aquellos valores de la variable que, ordenados de menor a mayor, dividen la distribución en partes. De tal manera, que cada una de ellas contiene el mismo número de frecuencias.
+
+**CUARTILES:** son valores de la variable que dividen a la distribución en cuatro partes, cada una de las cuales engloba el 25% de las mismas.
+
+**DECILES:** son los valores de la variable que dividen a la distribución en diez partes iguales, cada una de ellas engloba el 10% de los datos.
+
+**CENTILES O PERCENTILES:** son los valores que dividen a la distribución en cien partes iguales, cada una de las cuales engloba el 1% de las observaciones.
+
+![[Pasted image 20240314145230.png]]
+
+**RANGO INTERCUARTIL:** 
+
+El rango intercuartílico mide aproximadamente qué tan lejos de la mediana debemos ir en cualquiera de las dos direcciones antes de recorrer una mitad de los valores del conjunto de datos. Para calcular este rango, se calcula la diferencia entre los valores del primer y tercer cuartil

@@ -67,6 +67,69 @@ Existen distintos tipos de proceso, tales como procesos estratégicos, operativo
 ![[Pasted image 20240306225932.png]]
 
 
+## BPMN y BPM
+BPM es una disciplina que implica cualquier combinación de modelado, automatización, ejecución, control, medición y optimización de flujos de actividad empresarial.
+BPMN es una notación gráfica que plasma la lógica de las actividades, los mensajes entre los diferentes participantes y toda la información necesaria para que un proceso sea analizado simulado y ejecutado.
 
 
+**Beneficios**:
+- Mejora el servicio de atención al cliente.
+- Mejora la competitividad de la empresa (reduce el tiempo en la toma de decisiones, mejora la eficiencia y la agilidad e incrementa la productividad).
+- Mejora la calidad de los productos y servicios ofrecidos.
+- Minimiza el tiempo de acceso a la información (documentación, aplicaciones y bases de datos).
+- Aumenta el número de actividades ejecutadas simultáneamente.
+- Disminuye el tiempo de comunicación entre actividades, personas y procesos.
+- Implica al personal (motivación, colaboración y participación en los procesos).
+- Agiliza la salida de datos (correos, SMS, y todo tipo de comunicación saliente).
+- Aporta mecanismos para una mejor gestión y optimización de procesos.
 
+
+Este estándar nos permite modelar los flujos de los procesos de negocios ya sean manuales o automatizados.
+
+Gráficamente un diagrama BPMN esta compuesto solo por cinco elementos: Objetos de flujo, información , objetos de conexión, actores y roles, artefactos.
+
+![[Pasted image 20240314170535.png]]
+
+
+### BPD
+Un BPD puede contener varios procesos, cada proceso puede ser de uno de los tres tipos: Interno, abstracto, colaborativo.
+###  Modelado de Procesos
+**Proceso de Negocios Interno:** que representa un único proceso de negocio interno donde se representa toda la secuencia del proceso.
+**Proceso de Negocios abstracto:** representa un proceso de negocio externo del que desconocemos los detalles.
+**Proceso de Negocios Colaborativo:** representa la interacción entre dos o más entidades del negocio. Las interacciones se representan por los mensajes intercambiados entre las entidades involucradas.
+
+**Negocio interno**
+![[Pasted image 20240314171159.png]]
+
+**Negocio Externo**
+![[Pasted image 20240314171214.png]]
+
+
+**Negocio Colaborativo**
+![[Pasted image 20240314171227.png]]
+
+**Actividades**: es un paso dentro del proceso, representa el trabajo realizado dentro de una organización y consume recursos como tiempo  y costos. Se representan con rectángulos con esquinas redondeadas.
+
+**Compuertas**: se utilizan para controlar los puntos de divergencia y convergencia del flujo (dediciones, actividades en paralelo y puntos de sincronización)- Se representan por rombos. Anotaciones al interior del rombo indican el tipo de comportamiento de la compuerta.
+
+**Eventos**: representa algo que ocurre o puede ocurrir durante el proceso. Se representa por un Círculo.  Tiene una causa y un resultado. Puede iniciar un proceso, interrumpirlo, detenerlo o finalizarlo
+
+![[Pasted image 20240314171355.png]]
+
+**Ejemplo de modelo basico**
+![[Pasted image 20240314171430.png]]
+
+
+**Flujo de secuencia**
+Representan el control de flujo y la secuencia de las actividades.
+
+Se utiliza para representar la secuencia de los objetos de flujo, donde encontramos las actividades, las compuertas y los eventos.
+![[Pasted image 20240314171458.png]]
+
+**Pool**
+- Un Proceso de Negocio Interno o Privado está contenido en un pool.
+- El nombre del pool puede considerarse el nombre del proceso.
+- Siempre existe al menos un pool.
+- Los flujos de secuencia no pueden cruzar los límites de un pool.
+- Líneas entre mensajes
+![[Pasted image 20240314171528.png]]
