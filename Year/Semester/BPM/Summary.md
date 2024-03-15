@@ -2,7 +2,8 @@
 Un Proceso de Negocio **(Business Process)** es un conjunto de actividades que son realizadas en coordinación con el entorno organización y técnico.
 
 ### Características de un proceso
-- Pueden ser medidos y están orientados al rendimiento
+- Pueden ser medidos y están orientados al rendimiento, obligatorio
+	- **Ejemplo**: Vender a un cliente y si el vende en un rango de la empresa, con bueno, regular o malo.
 - Tienen resultados específicos
 - Entregan resultados a clientes o “stakeholders"
 - Responden a alguna acción o evento específico
@@ -10,6 +11,7 @@ Un Proceso de Negocio **(Business Process)** es un conjunto de actividades que s
 
 
 ### Modelo de un Proceso
+
 ![[Pasted image 20240312162936.png]]
 **Ejemplo.**
 ![[Pasted image 20240312162949.png]]
@@ -36,16 +38,20 @@ Para reconocer un proceso de negocio se debe tener presente que deben generar va
 ![[Pasted image 20240312163004.png]]
 
 
-### Proceso estratégicos
+### Proceso estratégicos (Empresa)
 Son los procesos relacionados con la estrategia de la empresa, y están a cargo de cómo establecer la misión, visión y objetivos corporativos, comunicar la estrategia y motivar a los colaboradores a cumplir sus objetivos.
+
+**Ejemplo**: Ampliar la capacidad de clientes en una empresa.
 ![[Pasted image 20240312163142.png]]
 
 ### Tipos de Procesos
-Son los proceso encargados de cumplir la misión de la empresas y cumplir con las necesidades de los clientes.
-**Ejemplo**: Por ejemplo, vender una mesa en una fábrica de construcción de mesas
+**Proceso clave o negocio**: Son los proceso encargados de cumplir la misión de la empresas y cumplir con las necesidades de los clientes.
+
+**Ejemplo**: Por ejemplo, vender una mesa en una fábrica de construcción de mesas, funeraria que hayan muertos, Duoc que hayan estudiantes, clínica que hayan enfermos.
 
 **Procesos de Apoyo o secundario**: Son los procesos internos dentro de la empresa necesarios para que el proceso de negocio cumpla su objetivo
 **Ejemplo**: empresa de venta de mesas, si abastecimiento no compra barniz, no se pueden vender mesas, y abastecimiento es un proceso de apoyo o secundario
+
 
 ![[Pasted image 20240312163559.png]]
 
@@ -53,7 +59,25 @@ Son los proceso encargados de cumplir la misión de la empresas y cumplir con la
 ![[Pasted image 20240312170551.png]]
 
 ### Procesos estratégicos
+- Aumentar participación de mercado
+- Cambiar políticas de ventas
+- Aumentar dotación de personal
+- Definir objetivos de compras
 ![[Pasted image 20240312170651.png]]
+
+
+### Procesos de negocios o claves
+- Compra de materia Prima
+- Confección o elaboración de Productos
+- Logística y distribución de productos
+- Servicios de ventas /atención de clientes (servicio Técnico)
+
+
+### Procesos de Apoyo o secundario
+- Contabilización de ventas
+- Contratación de persona
+- Pago remuneraciones
+- Manutención de sistema informáticos
 
 ### Conceptos importantes
 - **Proceso:** Un proceso es una actividad que tiene un tiempo fijo que con un conjunto de elementos da un resultado final
@@ -69,8 +93,6 @@ Son los proceso encargados de cumplir la misión de la empresas y cumplir con la
 1) Elegir película
 2) Elegir horario
 3) Elección asiento
-
-
 
 ### Requerimientos
 Se encontrarán relacionados a identificar y describir los objetivos del proyecto junto con su relación con los objetivos del negocio de la organización donde se está realizando el proyecto.

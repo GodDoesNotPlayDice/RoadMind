@@ -8,14 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e140c7d973457f6",
+            "id": "355afcfbb12f762e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/BPM/Draws/Clase_2.md"
+              }
+            }
+          },
+          {
+            "id": "a4521bad87a8dd1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/BPM/Actividad de Procesos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74fc5831d28bfe78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/BPM/Summary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/Images/Pasted image 20240314150832.png",
+                "file": "Year/Semester/BPM/Actividad de Procesos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/Images/Pasted image 20240314150832.png",
+                "file": "Year/Semester/BPM/Actividad de Procesos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/BPM/Images/Pasted image 20240314150832.png"
+                "file": "Year/Semester/BPM/Actividad de Procesos.md"
               }
             }
           }
@@ -143,9 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "a4521bad87a8dd1a",
   "lastOpenFiles": [
     "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/Draws/Clase_2.md",
+    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/BPM/Draws/Clase_1.md",
     "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Plataformas/Summary.md",
@@ -161,7 +191,6 @@
     "Year/Semester/BPM/Images/Pasted image 20240314165144.png",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Proyectos/Draws/Clase_1.md",
-    "Year/Semester/BPM/Draws/Clase_1.md",
     "Year/Semester/BPM/Draws",
     "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/MachineLearning/Draws/Clase_1.md",
@@ -190,7 +219,6 @@
     "ThirdYear/Semester/BPM/Summary.md",
     "ThirdYear/Semester/MachineLearning/Summary.md",
     "ThirdYear/Semester/Plataformas/Summary.md",
-    "ThirdYear/Semester/Ingles/Summary.md",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
