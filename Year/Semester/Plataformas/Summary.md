@@ -67,6 +67,11 @@ Existen distintos tipos de proceso, tales como procesos estratégicos, operativo
 ![[Pasted image 20240306225932.png]]
 
 
+## Capas de negocio
+
+### ETL
+Extract Transform Load, Extrae información y la carga eso hace un procedimiento almacenado.
+
 ## BPMN y BPM
 BPM es una disciplina que implica cualquier combinación de modelado, automatización, ejecución, control, medición y optimización de flujos de actividad empresarial.
 BPMN es una notación gráfica que plasma la lógica de las actividades, los mensajes entre los diferentes participantes y toda la información necesaria para que un proceso sea analizado simulado y ejecutado.

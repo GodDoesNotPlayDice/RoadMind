@@ -158,6 +158,14 @@ Esta clasificación tiene que ver con la cantidad de usos de un producto, su tie
 ### Recopilación de información
 Para realizar un estudio de mercado es importante recopilar información que permita la toma de decisiones en relación al proyecto, pues lo que se busca es determinar si el mercado tiene o no las condiciones necesarias para llevar a cabo el proyecto determinado.
 
-**caracteristicas**: sistemática, objetiva, útil
+**características**: sistemática, objetiva, útil
+
+#### Tipos de fuentes
+**Fuente Primaria**: Estas son fuentes con información, datos y contenidos ya escritos y/o publicados sobre el tema particular que se está estudiando, configurando la recopilación de referencias o bibliografía del estudio
+- Son las primeras que se deben buscar, pues son de menor costo y permiten acotar la información con el fin de planificar los métodos de información primaria que se utilizarán en el estudio.
+-  Se debe considerar que si el proyecto pertenece a una organización determinada, las fuentes de información secundarias pueden ser internas o externas. Entendiendo las internas como aquellas que provienen de datos generados por la misma empresa
+- **Ejemplo:** bases de datos, estadísticas del gobierno, libros, artículos de revistas especializadas, y cualquier medio escrito que contenga información relevante para el estudio de mercado en cuestión.
+
+
 
 

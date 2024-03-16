@@ -29,9 +29,6 @@ Ejemplos de en que se puede aplicar
 - No sustituye la programación tradicional la complementa y potencia.
 
 
-
-
-
 ### Tabla
 
 Conjunto de registros ordenados, dispuestos normalmente en una tabla que puede estar relacionada con otras tablas, eso define el dato.

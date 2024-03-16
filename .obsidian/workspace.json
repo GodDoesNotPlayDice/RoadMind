@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "87e7373a73a3a0c5",
+        "id": "463b42fb710c6e66",
         "type": "tabs",
         "children": [
           {
-            "id": "355afcfbb12f762e",
+            "id": "f405f7dee47cd628",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Year/Semester/BPM/Draws/Clase_2.md"
-              }
-            }
-          },
-          {
-            "id": "a4521bad87a8dd1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/BPM/Actividad de Procesos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74fc5831d28bfe78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/BPM/Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "Year/Semester/MachineLearning/Draws/Clase_2.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -108,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/Actividad de Procesos.md",
+                "file": "Year/Semester/MachineLearning/Draws/Clase_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/Actividad de Procesos.md",
+                "file": "Year/Semester/MachineLearning/Draws/Clase_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/BPM/Actividad de Procesos.md"
+                "file": "Year/Semester/MachineLearning/Draws/Clase_2.md"
               }
             }
           }
@@ -170,15 +145,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4521bad87a8dd1a",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
-    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/Reminders/15-3.md",
+    "Year/Semester/Reminders",
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/Plataformas/Draws/Clase_2.md",
+    "Excalidraw/Drawing 2024-03-15 16.51.28.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20240315154957.png",
     "Year/Semester/BPM/Draws/Clase_2.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Actividad de Procesos.md",
     "Year/Semester/BPM/Draws/Clase_1.md",
-    "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Plataformas/Images/Pasted image 20240314170535.png",
     "Year/Semester/Plataformas/Images/Pasted image 20240314171528.png",
     "Year/Semester/Plataformas/Images/Pasted image 20240314171458.png",
@@ -188,13 +169,11 @@
     "Year/Semester/Plataformas/Images/Pasted image 20240314171214.png",
     "Year/Semester/Plataformas/Images/Pasted image 20240314171159.png",
     "Year/Semester/BPM/Images/Pasted image 20240314165323.png",
-    "Year/Semester/BPM/Images/Pasted image 20240314165144.png",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Proyectos/Draws/Clase_1.md",
     "Year/Semester/BPM/Draws",
     "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/MachineLearning/Draws/Clase_1.md",
-    "Excalidraw",
     "Year/Semester/Proyectos/Images",
     "Year/Semester/Proyectos/Draws",
     "Year/Semester/BPM/Images",
@@ -206,7 +185,6 @@
     "Workout/Warpmup",
     "Workout/PullUpBar/Imagenes",
     "WorkOut/Untitled.md",
-    "Workout/PullUpBar",
     "Web/React/Tests.md",
     "Web/React/React.md",
     "Projects/MagerSegurosWeb/Note.md",
@@ -216,9 +194,6 @@
     "Year/Semester/Plataformas/Untitled.canvas",
     "Year/Semester/Untitled.md",
     "ThirdYear/Semester/EvaluacionProyectos/Summary.md",
-    "ThirdYear/Semester/BPM/Summary.md",
-    "ThirdYear/Semester/MachineLearning/Summary.md",
-    "ThirdYear/Semester/Plataformas/Summary.md",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]

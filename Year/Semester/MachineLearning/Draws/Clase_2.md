@@ -115,8 +115,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 59,
-			"versionNonce": 1768248994,
+			"version": 61,
+			"versionNonce": 1717094716,
 			"isDeleted": false,
 			"id": "q6CsYM5s",
 			"fillStyle": "solid",
@@ -125,18 +125,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -330.6659116115287,
+			"x": -356.0455960597709,
 			"y": -210.8872965689174,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 167.900390625,
+			"width": 218.65975952148438,
 			"height": 25,
 			"seed": 534823715,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800643,
+			"updated": 1710534270079,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -148,7 +148,7 @@ Moda ^DZU940WM
 			"containerId": "x4ucT97DZGqvuF4lrvEak",
 			"originalText": "1 2 3 4 5 6 7 8 9 10",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -194,8 +194,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 1599140194,
+			"version": 155,
+			"versionNonce": 352814012,
 			"isDeleted": false,
 			"id": "xbOj2RmY",
 			"fillStyle": "solid",
@@ -204,18 +204,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -341.9471616115286,
+			"x": -370.93558019063016,
 			"y": -116.85725428931534,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 189.462890625,
+			"width": 247.43972778320312,
 			"height": 25,
 			"seed": 1255349603,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800645,
+			"updated": 1710534270083,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -227,7 +227,7 @@ Moda ^DZU940WM
 			"containerId": "4kDdNWu4d23j5ssQeE-aV",
 			"originalText": "7 23 4 8 2 12 6 13 9 4",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -273,8 +273,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 227,
-			"versionNonce": 776220770,
+			"version": 229,
+			"versionNonce": 637126076,
 			"isDeleted": false,
 			"id": "N88O6ywk",
 			"fillStyle": "solid",
@@ -283,18 +283,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -866.8000556921386,
+			"x": -883.2544090246581,
 			"y": -185.46369236820513,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 188.291015625,
+			"width": 221.19972229003906,
 			"height": 50,
 			"seed": 1384350477,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800646,
+			"updated": 1710534270086,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -306,12 +306,12 @@ Moda ^DZU940WM
 			"containerId": "uj-hCXgYUBC6O4CUMmNiu",
 			"originalText": "Generador\nDias fuerad e servicio",
 			"lineHeight": 1.25,
-			"baseline": 46
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
-			"version": 232,
-			"versionNonce": 883979554,
+			"version": 234,
+			"versionNonce": 760720444,
 			"isDeleted": false,
 			"id": "TRH26Z_fMiORXwMfVpUY-",
 			"fillStyle": "solid",
@@ -333,7 +333,7 @@ Moda ^DZU940WM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710438800645,
+			"updated": 1710534270084,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -366,8 +366,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "arrow",
-			"version": 285,
-			"versionNonce": 48857314,
+			"version": 287,
+			"versionNonce": 177128636,
 			"isDeleted": false,
 			"id": "8UJnGm13jlIf4Y6zCeBYE",
 			"fillStyle": "solid",
@@ -389,7 +389,7 @@ Moda ^DZU940WM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710438800645,
+			"updated": 1710534270084,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -464,8 +464,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 32,
-			"versionNonce": 351253282,
+			"version": 34,
+			"versionNonce": 1375383612,
 			"isDeleted": false,
 			"id": "ZWEj7Tir",
 			"fillStyle": "solid",
@@ -474,18 +474,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 383.12058129064803,
+			"x": 384.3118349527574,
 			"y": -165.359905024396,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 21.5625,
+			"width": 19.17999267578125,
 			"height": 25,
 			"seed": 814658021,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800647,
+			"updated": 1710534270090,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -497,12 +497,12 @@ Moda ^DZU940WM
 			"containerId": "mws5agYmk3a0BT4lH8WKE",
 			"originalText": "10",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 125,
-			"versionNonce": 1625543714,
+			"version": 127,
+			"versionNonce": 716287548,
 			"isDeleted": false,
 			"id": "OtyioDXtsHul6d7QVm1OW",
 			"fillStyle": "solid",
@@ -524,7 +524,7 @@ Moda ^DZU940WM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710438800646,
+			"updated": 1710534270087,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -571,7 +571,7 @@ Moda ^DZU940WM
 			"y": -220.0226524773244,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 356.42578125,
+			"width": 439.93963623046875,
 			"height": 25,
 			"seed": 1290092293,
 			"groupIds": [],
@@ -590,7 +590,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "7 + 23 + 4 + 8 + 2 + 12 + 6 + 13 + 9 +4",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -638,8 +638,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "arrow",
-			"version": 182,
-			"versionNonce": 364032930,
+			"version": 186,
+			"versionNonce": 512773948,
 			"isDeleted": false,
 			"id": "xGQawn5rJlq-bz12eRQBb",
 			"fillStyle": "solid",
@@ -649,11 +649,11 @@ Moda ^DZU940WM
 			"opacity": 100,
 			"angle": 0,
 			"x": -11.335479170325613,
-			"y": -100.60939543127915,
+			"y": -100.6093891504726,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 105.32063109156289,
-			"height": 0.08947655123530751,
+			"width": 105.32063109156284,
+			"height": 0.08947417197087759,
 			"seed": 402404229,
 			"groupIds": [],
 			"frameId": null,
@@ -661,7 +661,7 @@ Moda ^DZU940WM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710438800647,
+			"updated": 1710534270089,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -683,8 +683,8 @@ Moda ^DZU940WM
 					0
 				],
 				[
-					105.32063109156289,
-					0.08947655123530751
+					105.32063109156284,
+					0.08947417197087759
 				]
 			]
 		},
@@ -704,7 +704,7 @@ Moda ^DZU940WM
 			"y": -126.7935946989216,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 35.244140625,
+			"width": 42.93995666503906,
 			"height": 25,
 			"seed": 351966693,
 			"groupIds": [],
@@ -723,7 +723,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "=88",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -785,7 +785,7 @@ Moda ^DZU940WM
 			"y": -99.7898814283282,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 21.5625,
+			"width": 19.17999267578125,
 			"height": 25,
 			"seed": 1461723301,
 			"groupIds": [],
@@ -804,7 +804,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "10",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -822,7 +822,7 @@ Moda ^DZU940WM
 			"y": -118.67552101836031,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 80.341796875,
+			"width": 98.3798828125,
 			"height": 25,
 			"seed": 653503013,
 			"groupIds": [],
@@ -841,7 +841,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "=8.8 dias",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -859,7 +859,7 @@ Moda ^DZU940WM
 			"y": -405.7766699173591,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 266.6953125,
+			"width": 298.152099609375,
 			"height": 45,
 			"seed": 801592523,
 			"groupIds": [],
@@ -878,7 +878,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Media aritmetica",
 			"lineHeight": 1.25,
-			"baseline": 37
+			"baseline": 32
 		},
 		{
 			"type": "rectangle",
@@ -920,8 +920,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 114,
-			"versionNonce": 2124688994,
+			"version": 116,
+			"versionNonce": 1540049340,
 			"isDeleted": false,
 			"id": "zXlCOChh",
 			"fillStyle": "solid",
@@ -930,18 +930,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -315.403553965358,
+			"x": -329.18344593313145,
 			"y": 204.41325836893895,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 92.080078125,
+			"width": 119.63986206054688,
 			"height": 25,
 			"seed": 1200573093,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800647,
+			"updated": 1710534270093,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -953,7 +953,7 @@ Moda ^DZU940WM
 			"containerId": "I-vUB2xpwmrV8qIoXhGCV",
 			"originalText": "1 2 3 4 6 7",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -999,8 +999,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 303,
-			"versionNonce": 1938878754,
+			"version": 305,
+			"versionNonce": 542749756,
 			"isDeleted": false,
 			"id": "ZvwLYWjR",
 			"fillStyle": "solid",
@@ -1009,18 +1009,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -376.9435930278578,
+			"x": -406.5233812358656,
 			"y": 298.443300648541,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 214.16015625,
+			"width": 273.3197326660156,
 			"height": 25,
 			"seed": 2031286085,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800649,
+			"updated": 1710534270098,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1032,7 +1032,7 @@ Moda ^DZU940WM
 			"containerId": "yO7B-6FA6Zl1R6cFWGY8d",
 			"originalText": "4.2 4.3 4.7 4.8 5.0 5.1 9.0",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1078,8 +1078,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 258,
-			"versionNonce": 497438754,
+			"version": 260,
+			"versionNonce": 678409788,
 			"isDeleted": false,
 			"id": "CbFaF9C6",
 			"fillStyle": "solid",
@@ -1088,18 +1088,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -889.4478542959678,
+			"x": -905.9022076284873,
 			"y": 229.83686256965126,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 188.291015625,
+			"width": 221.19972229003906,
 			"height": 50,
 			"seed": 1356311045,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800650,
+			"updated": 1710534270100,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1111,12 +1111,12 @@ Moda ^DZU940WM
 			"containerId": "6vjMF4qNXqXHxu1suyzyX",
 			"originalText": "Generador\nDias fuerad e servicio",
 			"lineHeight": 1.25,
-			"baseline": 46
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
-			"version": 497,
-			"versionNonce": 140147938,
+			"version": 499,
+			"versionNonce": 1611648188,
 			"isDeleted": false,
 			"id": "rJQXs_PXk3g3nB-wmyPb2",
 			"fillStyle": "solid",
@@ -1138,7 +1138,7 @@ Moda ^DZU940WM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710438800649,
+			"updated": 1710534270099,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1171,8 +1171,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "arrow",
-			"version": 549,
-			"versionNonce": 729583778,
+			"version": 551,
+			"versionNonce": 1651430716,
 			"isDeleted": false,
 			"id": "J5AS-r1nxdis1t30U591M",
 			"fillStyle": "solid",
@@ -1194,7 +1194,7 @@ Moda ^DZU940WM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710438800650,
+			"updated": 1710534270099,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1241,7 +1241,7 @@ Moda ^DZU940WM
 			"y": 423.0659127722694,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 76.708984375,
+			"width": 78.0399169921875,
 			"height": 25,
 			"seed": 1426386917,
 			"groupIds": [],
@@ -1265,12 +1265,12 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Mediana",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 400,
-			"versionNonce": 954954146,
+			"version": 402,
+			"versionNonce": 1444959036,
 			"isDeleted": false,
 			"id": "vFXguS2PelQVWYYWcNWuI",
 			"fillStyle": "solid",
@@ -1279,11 +1279,11 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -264.70264790133746,
+			"x": -264.2130018588913,
 			"y": 409.36978934582254,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.0098447707072182,
+			"width": 0.6330930213226793,
 			"height": 75.30976985843802,
 			"seed": 90082693,
 			"groupIds": [],
@@ -1292,7 +1292,7 @@ Moda ^DZU940WM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710438800649,
+			"updated": 1710534270096,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1314,7 +1314,7 @@ Moda ^DZU940WM
 					0
 				],
 				[
-					1.0098447707072182,
+					0.6330930213226793,
 					-75.30976985843802
 				]
 			]
@@ -1364,7 +1364,7 @@ Moda ^DZU940WM
 			"y": 226.06444898384586,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 160.15625,
+			"width": 172.69979858398438,
 			"height": 25,
 			"seed": 1385482949,
 			"groupIds": [],
@@ -1388,7 +1388,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Mediana = (n + 1)",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -1450,7 +1450,7 @@ Moda ^DZU940WM
 			"y": 259.50065270623145,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 10.78125,
+			"width": 14.239990234375,
 			"height": 25,
 			"seed": 2065267691,
 			"groupIds": [],
@@ -1469,7 +1469,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -1539,7 +1539,7 @@ Moda ^DZU940WM
 			"y": 190.9226132737498,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 238.25,
+			"width": 254.864501953125,
 			"height": 20,
 			"seed": 1015804459,
 			"groupIds": [],
@@ -1563,7 +1563,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Numero de elementos del arreglo",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -1581,7 +1581,7 @@ Moda ^DZU940WM
 			"y": 245.13622358024554,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 157.1215057373047,
+			"width": 175.66664123535156,
 			"height": 12.697937315456047,
 			"seed": 1461621925,
 			"groupIds": [],
@@ -1600,7 +1600,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Esimo termino del arreglo de datos",
 			"lineHeight": 1.25,
-			"baseline": 10
+			"baseline": 8
 		},
 		{
 			"type": "text",
@@ -1618,7 +1618,7 @@ Moda ^DZU940WM
 			"y": 94.30703674848883,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 138.076171875,
+			"width": 140.47185058593752,
 			"height": 45,
 			"seed": 2046979915,
 			"groupIds": [],
@@ -1637,7 +1637,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Mediana",
 			"lineHeight": 1.25,
-			"baseline": 38
+			"baseline": 32
 		},
 		{
 			"type": "rectangle",
@@ -1679,8 +1679,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 213,
-			"versionNonce": 161737570,
+			"version": 215,
+			"versionNonce": 97914812,
 			"isDeleted": false,
 			"id": "rPlFwRCE",
 			"fillStyle": "solid",
@@ -1689,18 +1689,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -335.0360149308218,
+			"x": -348.81590689859524,
 			"y": 834.5912049111078,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 92.080078125,
+			"width": 119.63986206054688,
 			"height": 25,
 			"seed": 1779336613,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800650,
+			"updated": 1710534270101,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1712,7 +1712,7 @@ Moda ^DZU940WM
 			"containerId": "H80soLFwC0gO_VzdUltHy",
 			"originalText": "1 2 3 4 6 7",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1750,8 +1750,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 362,
-			"versionNonce": 1548090082,
+			"version": 364,
+			"versionNonce": 707416252,
 			"isDeleted": false,
 			"id": "orug99Zv",
 			"fillStyle": "solid",
@@ -1760,18 +1760,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -325.0705397125615,
+			"x": -354.65032792056934,
 			"y": 1226.5608900272105,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 214.16015625,
+			"width": 273.3197326660156,
 			"height": 25,
 			"seed": 810229861,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800651,
+			"updated": 1710534270102,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1783,7 +1783,7 @@ Moda ^DZU940WM
 			"containerId": "HH0TQsmD6AXoHMTFAcHq0",
 			"originalText": "4.2 4.3 4.7 4.8 5.0 5.1 9.0",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1825,8 +1825,8 @@ Moda ^DZU940WM
 		},
 		{
 			"type": "text",
-			"version": 278,
-			"versionNonce": 370839074,
+			"version": 280,
+			"versionNonce": 216578620,
 			"isDeleted": false,
 			"id": "Xkxu9xrh",
 			"fillStyle": "solid",
@@ -1835,18 +1835,18 @@ Moda ^DZU940WM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -988.8364658053565,
+			"x": -1005.290819137876,
 			"y": 743.5891640649415,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 188.291015625,
+			"width": 221.19972229003906,
 			"height": 50,
 			"seed": 1118833445,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710438800651,
+			"updated": 1710534270103,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1858,12 +1858,12 @@ Moda ^DZU940WM
 			"containerId": "P9r-dA9WpzRXIubJeO_xQ",
 			"originalText": "Generador\nDias fuerad e servicio",
 			"lineHeight": 1.25,
-			"baseline": 46
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
-			"version": 663,
-			"versionNonce": 826822306,
+			"version": 665,
+			"versionNonce": 244898108,
 			"isDeleted": false,
 			"id": "0sxU7fwb7xqQz1WvxuFGc",
 			"fillStyle": "solid",
@@ -1885,7 +1885,7 @@ Moda ^DZU940WM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1710438800651,
+			"updated": 1710534270102,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1961,7 +1961,7 @@ Moda ^DZU940WM
 			"y": 744.4004372920053,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 160.15625,
+			"width": 172.69979858398438,
 			"height": 25,
 			"seed": 1233693541,
 			"groupIds": [],
@@ -1985,7 +1985,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Mediana = (n + 1)",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -2047,7 +2047,7 @@ Moda ^DZU940WM
 			"y": 777.8366410143909,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 10.78125,
+			"width": 14.239990234375,
 			"height": 25,
 			"seed": 205968933,
 			"groupIds": [],
@@ -2066,7 +2066,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 21
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -2136,7 +2136,7 @@ Moda ^DZU940WM
 			"y": 709.2586015819093,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 238.25,
+			"width": 254.864501953125,
 			"height": 20,
 			"seed": 1946767589,
 			"groupIds": [],
@@ -2160,7 +2160,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Numero de elementos del arreglo",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -2178,7 +2178,7 @@ Moda ^DZU940WM
 			"y": 763.472211888405,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 157.1215057373047,
+			"width": 175.66664123535156,
 			"height": 12.697937315456047,
 			"seed": 47705157,
 			"groupIds": [],
@@ -2197,7 +2197,7 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Esimo termino del arreglo de datos",
 			"lineHeight": 1.25,
-			"baseline": 10
+			"baseline": 8
 		},
 		{
 			"type": "text",
@@ -2215,7 +2215,7 @@ Moda ^DZU940WM
 			"y": 612.6430250566483,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 92.935546875,
+			"width": 92.01602172851562,
 			"height": 45,
 			"seed": 670833573,
 			"groupIds": [],
@@ -2234,7 +2234,43 @@ Moda ^DZU940WM
 			"containerId": null,
 			"originalText": "Moda",
 			"lineHeight": 1.25,
-			"baseline": 37
+			"baseline": 32
+		},
+		{
+			"text": "📍[[Year/Semester/MachineLearning/Draws/Clase_2]]",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"id": "6SSQTkwi",
+			"type": "text",
+			"x": -1282.7933665235416,
+			"y": 466.6599671977828,
+			"width": 415.63287353515625,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 14543,
+			"version": 2,
+			"versionNonce": 1206097412,
+			"updated": 1710534283385,
+			"isDeleted": true,
+			"groupIds": [],
+			"boundElements": [],
+			"link": "[[Year/Semester/MachineLearning/Draws/Clase_2]]",
+			"locked": false,
+			"containerId": null,
+			"originalText": "📍[[Year/Semester/MachineLearning/Draws/Clase_2]]",
+			"rawText": "[[Year/Semester/MachineLearning/Draws/Clase_2]]",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -2252,10 +2288,10 @@ Moda ^DZU940WM
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1779.9362236663987,
-		"scrollY": 559.3668185165027,
+		"scrollX": 1375.7963912959938,
+		"scrollY": 187.94759287420652,
 		"zoom": {
-			"value": 0.35000000000000003
+			"value": 0.9118228671132595
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
