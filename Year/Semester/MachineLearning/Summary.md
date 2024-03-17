@@ -216,3 +216,27 @@ Podemos, también, clasificar la información de acuerdo con características cu
 El rango intercuartílico mide aproximadamente qué tan lejos de la mediana debemos ir en cualquiera de las dos direcciones antes de recorrer una mitad de los valores del conjunto de datos. Para calcular este rango, se calcula la diferencia entre los valores del primer y tercer cuartil
 
 ![[Pasted image 20240316215202.png]]
+## Estadistica II
+
+### Dispersión
+Son aquellas que manejan la desviación promedio respecto a alguna medida de tendencia central. Dos de estas medidas son importantes: **la varianza** y la **desviación estándar.**
+
+1) Nos proporciona información adicional que nos permite juzgar la confiabilidad de nuestra medida de tendencia central
+	1) **Ejemplo**: Si los datos se encuentran muy dispersos, como los que representa la curva C de la figura, la posición central es menos representativa de los datos en cambio A es mas representativa.
+2) Existen problemas característicos para datos muy dispersos
+3) Necesitamos poder reconocerla y evitar elegir distribuciones que tengan las dispersiones más grandes, Si no se desea tener una amplia dispersión
+
+**Mientras mas alta la campana menos variabilidad tienen los datos.**
+![[Pasted image 20240317133744.png]]
+
+### Varianza
+Es el promedio de los cuadrados de las distancias de las observaciones a la media
+![[Pasted image 20240317134452.png]]![[Pasted image 20240317134500.png]]
+
+### Desviacion Estandar
+Estándar es la raíz cuadrada del promedio de los cuadrados de las distancias entre las observaciones y la media.
+
+Podemos medir aún con más precisión el porcentaje de observaciones que caen dentro de un rango específico de una curva simétrica con forma de campana.
+
+
+![[Pasted image 20240317134622.png]]![[Pasted image 20240317134626.png]]

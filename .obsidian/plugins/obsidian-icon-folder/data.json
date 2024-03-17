@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImage",
       "RiTaskFill",
       "RiLightbulbFill",
       "TiFileFilled",
-      "BoBxsFileDoc",
-      "TiDice5"
+      "BoBxsFileDoc"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -120,5 +120,6 @@
   "Year/Semester/Reminders/15-3.md": "TiFileFilled",
   "Year/Semester/Tasks": "RiTaskFill",
   "Year/Semester/Tasks/16-03 y 17-03.md": "TiFileFilled",
-  "Year/Semester/Tasks/18-03.md": "TiFileFilled"
+  "Year/Semester/Tasks/18-03.md": "TiFileFilled",
+  "Year/Semester/Ingles/Images": "LiImage"
 }

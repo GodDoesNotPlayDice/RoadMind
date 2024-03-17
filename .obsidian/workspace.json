@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f405f7dee47cd628",
+            "id": "c3856379444af401",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3817ccd89f968a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/Proyectos/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Tasks/16-03 y 17-03.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Tasks/16-03 y 17-03.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Tasks/16-03 y 17-03.md"
+                "file": "Year/Semester/Proyectos/Summary.md"
               }
             }
           }
@@ -147,24 +160,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f405f7dee47cd628",
+  "active": "d3817ccd89f968a8",
   "lastOpenFiles": [
     "Year/Semester/Tasks/18-03.md",
+    "Year/Semester/Tasks/16-03 y 17-03.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Ingles/Images/Pasted image 20240317163500.png",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/Ingles/Images/Pasted image 20240317161325.png",
+    "Untitled.md",
+    "Year/Semester/Ingles/Images",
+    "Year/Semester/Ingles/Images/Pasted image 20240317135210.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240317134452.png",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240317134626.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240317134622.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240317134500.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240317133744.png",
+    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240317002725.png",
-    "Year/Semester/Tasks/16-03 y 17-03.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240316224447.png",
-    "Year/Semester/Proyectos/Images/Pasted image 20240316224141.png",
-    "Year/Semester/Proyectos/Images/Pasted image 20240316223954.png",
-    "Untitled.md",
-    "Year/Semester/Plataformas/Summary.md",
-    "Year/Semester/Plataformas/Images/Pasted image 20240316221659.png",
-    "Year/Semester/Plataformas/Images/Pasted image 20240316220440.png",
-    "Pasted image 20240316220818.png",
-    "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240316215202.png",
-    "Year/Semester/BPM/Summary.md",
-    "Year/Semester/BPM/Actividad de Procesos.md",
     "Year/Semester/Reminders/15-3.md",
     "Year/Semester/Tasks",
     "Year/Semester/MachineLearning/Draws/Clase_2.md",
@@ -172,11 +189,8 @@
     "Year/Semester/Plataformas/Draws/Clase_2.md",
     "Excalidraw/Drawing 2024-03-15 16.51.28.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20240315154957.png",
     "Year/Semester/BPM/Draws/Clase_2.md",
     "Year/Semester/BPM/Draws/Clase_1.md",
-    "Year/Semester/Plataformas/Images/Pasted image 20240314170535.png",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Proyectos/Draws/Clase_1.md",
     "Year/Semester/BPM/Draws",
     "Year/Semester/MachineLearning/Draws/Clase_1.md",
@@ -188,7 +202,6 @@
     "Year/Semester/MachineLearning/Draws",
     "Workout/PullUpBar/Consejos.md",
     "Workout/Warpmup/Warpmups.md",
-    "Workout/Warpmup",
     "WorkOut/Untitled.md",
     "Web/React/Tests.md",
     "Web/React/React.md",
