@@ -68,9 +68,36 @@ Existen distintos tipos de proceso, tales como procesos estratégicos, operativo
 
 
 ## Capas de negocio
+Nos permite el desacoplamiento de las partes que componen un sistema informático.
+
+Faculta para analizar una arquitectura del tipo cliente-servidor, la cual nos mostrará la lógica de negocios, la capa de presentación y la capa de datos.
+
+![[Pasted image 20240316220440.png]]
+
+### Capa de negocio
+La capa de negocio es donde encontramos los programas que se ejecutan en la solución de software, por tanto, es la capa que recibe las peticiones de los usuarios de la aplicación y posteriormente se envían las respuestas una vez finalizado el proceso. También podemos llamar a esta, como capa lógica del negocio, dado que es aquí donde se establecen todas las reglas que deben cumplirse.
+
+Osea es la parte donde aloja el codigo que resolvera el problema del usuario.
+
+### Capa de Presentación
+La capa de presentación, es la que literalmente, presenta el sistema al usuario, es donde este último, ingresará la información en un mínimo de proceso.
+
+Ósea es la capa visual lo que ve el usuario y este tiene que ser amigable y intuitivo sin tantos pasos a seguir para alcanzar lo deseado.
+
+
+### Capa de Datos
+La capa de datos es donde encontramos los datos gestionados por el usuario y que adicionalmente le permite acceder a ellos.
+
+Osea es la base de datos.
+
+### Relaciones entre las capas
+![[Pasted image 20240316221659.png]]
 
 ### ETL
 Extract Transform Load, Extrae información y la carga eso hace un procedimiento almacenado.
+
+
+
 
 ## BPMN y BPM
 BPM es una disciplina que implica cualquier combinación de modelado, automatización, ejecución, control, medición y optimización de flujos de actividad empresarial.
@@ -138,3 +165,5 @@ Se utiliza para representar la secuencia de los objetos de flujo, donde encontra
 - Los flujos de secuencia no pueden cruzar los límites de un pool.
 - Líneas entre mensajes
 ![[Pasted image 20240314171528.png]]
+
+

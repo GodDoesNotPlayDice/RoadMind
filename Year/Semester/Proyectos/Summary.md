@@ -161,11 +161,81 @@ Para realizar un estudio de mercado es importante recopilar información que per
 **características**: sistemática, objetiva, útil
 
 #### Tipos de fuentes
-**Fuente Primaria**: Estas son fuentes con información, datos y contenidos ya escritos y/o publicados sobre el tema particular que se está estudiando, configurando la recopilación de referencias o bibliografía del estudio
+##### Fuente Primaria o Externa
+Estas son fuentes con información, datos y contenidos ya escritos y/o publicados sobre el tema particular que se está estudiando, configurando la recopilación de referencias o bibliografía del estudio
 - Son las primeras que se deben buscar, pues son de menor costo y permiten acotar la información con el fin de planificar los métodos de información primaria que se utilizarán en el estudio.
 -  Se debe considerar que si el proyecto pertenece a una organización determinada, las fuentes de información secundarias pueden ser internas o externas. Entendiendo las internas como aquellas que provienen de datos generados por la misma empresa
 - **Ejemplo:** bases de datos, estadísticas del gobierno, libros, artículos de revistas especializadas, y cualquier medio escrito que contenga información relevante para el estudio de mercado en cuestión.
+##### Fuente Secundaria o Interna.
+Provienen de datos generados por la misma empresa.
+
+Estas fuentes no disponen de información previamente generada, sino que se utilizan para preguntar directamente lo que se quiere saber para la elaboración de un estudio, esto es, fuentes constituidas por el propio evaluador, y que, por tanto, contienen información original, no utilizada con anterioridad.
+
+Ósea son datos que los creen en la misma empresa para un estudio en especifico.
+
+**Ejemplo de Interno y Externo:** Internas el balance general anual; y las externas como aquellas que son ajenas a la empresa, como por ejemplo, datos estadísticos del gobierno, libros, artículos, entre otras.
+
+**Evaluación correcta de proyectos:** Hay que considerar utilizar estas herramientas no solo con los potenciales consumidores, sino que también hacerlo con los competidores actuales, para así tener una idea específica del mercado al que se enfrentará el producto que se quiere introducir.
+
+**Tipos de fuentes internas**:
+- Focus Grupos
+- Entrevistas y Encuestas
+- Experimentación
+- Observaciones
 
 
 
 
+
+
+### Determinación de la muestra.
+Se entiende como la determinación del tamaño de muestreo necesario para aplicar la herramienta de recopilación de información primaria
+
+**Dos tipos de Muestreo**: Probabilísticos., No Probabilísticos.
+
+#### Probabilistico (ejemplo)
+Se requiere determinar el tamaño de muestra para un estudio sobre novelas románticas, para lo cual se determina (ya sea por muestra piloto, criterio del evaluador o por conocimiento de estudios anteriores) que una persona adulta normal consume, en promedio, 1 libro de esta categoría al año y que  la desviación estándar es de 0,5.
+
+Se obtiene así que el rango de consumo de este producto va desde 0,5 hasta 1,5 (esto es 1-0,5 y 1+0,5, que corresponde al promedio +/- la desviación estándar definida por el investigador), utilizando como nivel de confianza un 95% y asumiendo un error del 10%.
+
+![[Pasted image 20240316223954.png]]
+
+- Esto significa que la cantidad de encuestas necesarias para el estudio de mercado es de 96, con un 95% de confianza y un 20% de error.
+- Es importante considerar que entre más pequeño sea el error definido por el evaluador, más grande será el número de muestra.
+- Si se conoce el tamaño de la población o universo total de posibles encuestados (N), se puede utilizar la formula.
+- ![[Pasted image 20240316224141.png]]
+
+#### No probabilistico
+En este caso la probabilidad no es la misma para todo el universo muestral, pues el investigador acota o define la muestra dependiendo del estudio que desea realizar.
+
+En evaluación de proyectos este es el tipo de muestreo más utilizado, puesto que el evaluador parte con una base de características del mercado y generalmente ya ha hecho alguna estratificación del mercado antes de comenzar esta parte del estudio.
+
+**Pueden ser**:
+![[Pasted image 20240316224447.png]]
+
+
+### Mercado Competidor
+El mercado competidor está conformado por todas las organizaciones que producen y/o comercializan productos similares al que se está evaluando, y por aquellas organizaciones que comparten el mismo mercado objetivo, ya sea consumidor, proveedor o distribuidor.
+
+#### Existen dos tipos
+**Directa**: Competir por los consumidores del producto. 
+Se trata de conocer productos similares y captar quiénes son sus consumidores, tarifas, precios,
+etc., de manera de determinar la propia estrategia comercial del proyecto, esto es, costos y beneficios.
+
+**Indirecta**: Competencia con otros productos, ya sea por los proveedores o por los distribuidores existentes. Aquí el evaluador puede conocer cuáles serán las relaciones comerciales del proyecto, por ejemplo, el canal de distribución del producto.
+
+
+### Mercado Proveedor
+El mercado proveedor está conformado por todas las empresas que proporcionarán insumos para la elaboración y/o prestación del producto del proyecto
+
+![[Pasted image 20240317002725.png]]Si bien estos son los tres aspectos principales a evaluar al momento de elegir un proveedor y estimar costos, existen otras variables que pueden considerarse para elegir, como por ejemplo descuentos por volumen, crédito, garantías y servicios de posventa, entre otras.
+
+### Mercado distribuidor
+Este mercado está conformado por todas aquellas organizaciones que se encargan de entregar los bienes y/o servicios de los productores a los consumidores.
+
+**Existen tres tipos:**
+- **Distribución propia**:  Se debe incluir como parte de los costos del proyecto la obtención y mantención de los medios para distribuir el producto.
+- **Distribución de terceros:** Considerar el mercado distribuidor adecuado para el producto que existe actualmente en el mercado y seleccionar uno, considerando los costos de contratación de este medio de distribución.
+- **Distribución mixta:** Por ejemplo, tener camiones propios para trasladar el producto a un canal de venta o punto de distribución no propio.
+
+Se debe tener en cuenta que el producto puede competir por el canal de distribución con otro bien y/o servicio, por ejemplo, si mi producto es una pasta de dientes, puede competir por una cadena de supermercado o una empresa de transportes con un producto lácteo, es decir, no competir por el consumidor, pues no está enfocado a satisfacer una misma necesidad, pero sí por el distribuidor.

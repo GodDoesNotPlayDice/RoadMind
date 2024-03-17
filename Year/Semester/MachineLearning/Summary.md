@@ -214,3 +214,5 @@ Podemos, también, clasificar la información de acuerdo con características cu
 **RANGO INTERCUARTIL:** 
 
 El rango intercuartílico mide aproximadamente qué tan lejos de la mediana debemos ir en cualquiera de las dos direcciones antes de recorrer una mitad de los valores del conjunto de datos. Para calcular este rango, se calcula la diferencia entre los valores del primer y tercer cuartil
+
+![[Pasted image 20240316215202.png]]

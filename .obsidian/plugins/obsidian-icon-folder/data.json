@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiTaskFill",
       "RiLightbulbFill",
       "TiFileFilled",
       "BoBxsFileDoc",
-      "TiDice5",
-      "LiPen"
+      "TiDice5"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -117,5 +117,8 @@
   "Year/Semester/BPM/Actividad de Procesos.md": "TiFileFilled",
   "Year/Semester/Plataformas/Draws/Clase_2.md": "LiPen",
   "Year/Semester/Reminders": "RiLightbulbFill",
-  "Year/Semester/Reminders/15-3.md": "TiFileFilled"
+  "Year/Semester/Reminders/15-3.md": "TiFileFilled",
+  "Year/Semester/Tasks": "RiTaskFill",
+  "Year/Semester/Tasks/16-03 y 17-03.md": "TiFileFilled",
+  "Year/Semester/Tasks/18-03.md": "TiFileFilled"
 }
