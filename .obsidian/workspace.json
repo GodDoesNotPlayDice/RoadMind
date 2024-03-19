@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "463b42fb710c6e66",
+        "id": "1036954d5260e24b",
         "type": "tabs",
         "children": [
           {
-            "id": "c3856379444af401",
+            "id": "fdbecd326f51a740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Tasks/16-03 y 17-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3817ccd89f968a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md"
+                "file": "Year/Semester/MachineLearning/Summary.md"
               }
             }
           }
@@ -151,19 +138,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3817ccd89f968a8",
+  "active": "fdbecd326f51a740",
   "lastOpenFiles": [
-    "Year/Semester/Tasks/18-03.md",
+    "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/Tasks/16-03 y 17-03.md",
+    "Year/Semester/Tasks/18-03.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/Tasks/19-03.md",
+    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Ingles/Images/Pasted image 20240317163500.png",
     "Year/Semester/BPM/Summary.md",
@@ -172,19 +164,15 @@
     "Year/Semester/Ingles/Images",
     "Year/Semester/Ingles/Images/Pasted image 20240317135210.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317134452.png",
-    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317134626.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317134622.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317134500.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317133744.png",
     "Year/Semester/BPM/Actividad de Procesos.md",
-    "Year/Semester/Plataformas/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240317002725.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240316224447.png",
     "Year/Semester/Reminders/15-3.md",
     "Year/Semester/Tasks",
-    "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/Reminders",
     "Year/Semester/Plataformas/Draws/Clase_2.md",
     "Excalidraw/Drawing 2024-03-15 16.51.28.excalidraw.md",
