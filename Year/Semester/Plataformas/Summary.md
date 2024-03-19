@@ -165,3 +165,27 @@ Se utiliza para representar la secuencia de los objetos de flujo, donde encontra
 ![[Pasted image 20240314171528.png]]
 
 
+
+
+## Web Services
+
+### Representational State Transfer (REST)
+**Rest** es un estilo arquitectónico que permite la comunicación entre un cliente y un servidor.
+**RESTful** son servicios web que están implementados mediante el estilo arquitectónico REST.
+
+Está orientado a **transferencias** **de** **recursos**, no a llamadas de procedimientos remotos
+
+Hace un uso muy eficiente del protocolo HTTP y permite la interacción entre distintos componentes, es decir **REST** es una **extensión** de HTTP, pero esto no quiere  decir que todas  las aplicaciones HTTP sean Servicios Web.
+
+![[Pasted image 20240319140749.png]]
+
+**Arquitectura Cliente – Servidor**: consiste en una separación clara y concisa entre los 2 agentes básicos en un intercambio de información: el cliente y el servidor.
+
+**Stateless**: (Sin estado) esto significa que nuestro servidor no tiene porqué almacenar datos del cliente para mantener un estado del mismo. Esto quiere que decir, que el servicio se inicia y se termina y el servidor se olvida que existe.
+
+**Cacheable**: esta norma implica que el servidor que sirve las peticiones del cliente debe definir algún modo de cachear dichas peticiones, para aumentar el rendimiento, escalabilidad, etc.
+
+![[Pasted image 20240319140846.png]]
+
+**SOAP y REST**
+![[Pasted image 20240319140943.png]]

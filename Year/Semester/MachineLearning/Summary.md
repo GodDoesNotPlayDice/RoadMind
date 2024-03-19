@@ -240,3 +240,123 @@ Podemos medir aún con más precisión el porcentaje de observaciones que caen d
 
 
 ![[Pasted image 20240317134622.png]]![[Pasted image 20240317134626.png]]
+
+## Probabilidades y Distribución
+**El planteamiento clásico define la probabilidad de que un evento ocurra**
+![[Pasted image 20240319141142.png]]
+
+**Ejemplo**: Rifa de 1 a 50 personas la probabilidad seria de 1/50 = 0.02 (0,2%) de ganar
+
+### Probabilidad de uno o más eventos mutuamente excluyentes
+Si dos eventos son mutuamente excluyentes, podemos expresar la probabilidad que uno u otro ocurra **(la probabilidad de que ocurra al menos uno)**
+
+**Probabilidad**
+
+$$
+P(A o B) = p(A) + P(B) 
+$$
+
+**Ejemplo**: Supongamos que cinco personas postulan a un trabajo y la empresa sólo podrá contratar a uno de ellos. ¿Cuál sería la probabilidad que uno de ellos llamado John u otro de los restantes, llamado Sally, sea elegido?
+ $$
+ P(Jhon \quad o \quad Sally) = P(Jhon) + P(Sally)
+ $$
+ $$
+\frac{1}{5} + \frac{1}{5}
+= \frac{2}{5} = 0.4
+$$
+### Probabilidad de uno o más eventos no mutuamente excluyentes
+Si dos eventos no son mutuamente excluyentes, es posible que ambos se presenten al mismo tiempo **(pueden ocurrir simultáneamente.)**
+
+ $$
+ P(A \quad o \quad B) = P(A) + P(B) - P(AB)
+ $$
+**Ejemplo**: ¿cuál es la probabilidad de sacar un as o un corazón de un mazo de barajas? Obviamente, los eventos as y corazón pueden presentarse juntos, pues podríamos sacar una as de corazones. En consecuencia, as y corazón no son eventos mutuamente excluyentes.
+
+La probabilidad de obtener un as o un corazón la podemos calcular como:
+ $$
+P(\text{as o corazón}) = P(\text{as}) + P(\text{corazón}) - P(\text{as y corazón}) \\ 
+= \frac{4}{52} + \frac{13}{52} - \frac{1}{52} \\
+= \frac{16}{52} \quad \frac{4}{13}
+$$
+
+### Probabilidad bajo condiciones de independencia estadística
+Cuando se presentan dos eventos, el resultado del primero puede, o no, tener un efecto en el resultado del segundo. Esto es, los eventos pueden ser dependientes o independientes
+
+![[Pasted image 20240319143629.png]]
+
+Los eventos que son estadísticamente independientes son aquellos en donde la presentación de uno no tiene efecto sobre la probabilidad de presentación de cualquier otro.
+
+**Probabilidad condicional para eventos estadísticamente independientes.**
+$$
+P(\text{B|A}) = P(\text{B})
+$$
+**Ejemplo**: : ¿Cuál es la probabilidad de que en el segundo lanzamiento de una moneda se obtenga cara, dado que el resultado del primero fue cara?
+
+Simbólicamente, lo anterior se escribe como P(H1 |H2). Recordemos que para dos eventos independientes el resultado del primer lanzamiento no tiene absolutamente ningún efecto sobre el resultado del segundo. Como la probabilidad de obtener cara y la de obtener sello son exactamente iguales en cada lanzamiento, la probabilidad de obtener cara en el segundo lanzamiento es de 0.5. Por tanto, debemos decir que 
+
+$$ P(H1|H2) = 0.5 $$
+#### Tipos de Probabilidad por Independencia
+1. Marginal (ya vista).
+2. Conjunta (no la veremos en este curso).
+3. Condicional
+
+
+### Probabilidad bajo condiciones de dependencia estadística
+La dependencia estadística existe cuando la probabilidad de que se presente algún evento depende o se ve afectada por la presentación de algún otro
+
+La probabilidad condicional para eventos dependientes **estadísticamente**
+$$
+P(B|A) = \frac{P(BA)}{P(A)}
+$$
+
+![[Pasted image 20240319145810.png]]
+#### Tipos de Probabilidad por Dependencia
+1. Marginal (no la veremos en este curso).
+2. Conjunta (no la veremos en este curso).
+3. Condicional
+
+**Ejemplo**:
+Supongamos que tenemos una caja que contiene 10 bolas distribuidas de la siguiente manera
+
+- Tres son de color y tienen puntos
+- Una es de color y tiene franjas
+- Dos son grises y tienen puntos
+- Cuatro son grises y tienen franjas
+
+La probabilidad de sacar cualquiera de las bolas es de **0.1, ya que existen 10 bolas** con igual probabilidad de ser elegidas.
+
+Suponga que una persona saca de la caja una bola de color, ¿cuál es la probabilidad de que ésta tenga puntos? ¿Cuál es la probabilidad de que tenga franjas?
+
+Podemos expresarla asi: **D : bola con puntos y C : Su color**
+$$
+P(D|C)
+$$
+Se nos ha dicho que la bola que se sacó es de color. Por tanto, para calcular la probabilidad de que tenga puntos, ignoraremos a todas las bolas grises y nos concentraremos exclusivamente en las de color
+
+A partir del planteamiento del problema, sabemos que hay cuatro bolas de color  (C), tres de las cuales tienen puntos (D) y la que queda tiene franjas (S).
+
+Ahora, nuestro problema consiste en encontrar las probabilidades sencillas de que la bola tenga puntos y de que tenga franjas. Para hacerlo dividimos el número de bolas de cada categoría entre el número total de bolas de color.
+$$
+P(D|C) = \frac{3}{4} = 0.75 \quad
+P(S|C) = \frac{1}{4} = 0.25
+=
+1.00
+$$
+La probabilidad de sacar una bola con puntos, dado que ésta es de color, es de 0.75. De forma parecida, la probabilidad de obtener una bola con franjas, dado que ésta es de color, es de 0.25.
+
+**Como el color afecta la probabilidad de que la bola tenga puntos o franjas, estos eventos son dependientes.**
+
+Para calcular la probabilidad de obtener una bola con puntos dado que es de color, P(D|C), dividimos la probabilidad de que la bola sea de color y tenga puntos (tres de 10, es decir 0.3) entre la probabilidad de que la bola sea de color (cuatro de 10, es decir, 0.4):
+$$
+P(D|C) = \frac{P(DC)}{P(C)}
+$$
+### Teorema de Bayes
+La fórmula básica para la probabilidad condicional en circunstancias de dependencia se conoce como Teorema de Bayes
+
+Siempre que haya un problema de probabilidad condicional, se utiliza el Teorema de Bayes en Machine Learning
+
+La conclusión directa de este proceso es que cuantos más datos tenga, más preciso será el resultado
+$$
+P(B|A) = \frac{P(BA)}{P(A)}
+$$
+![[Pasted image 20240319155633.png]]

@@ -162,3 +162,89 @@ Existe tres tipos de conectores
 **Lane**: es división dentro de un POOL. Son utilizados para organizar actividades dentro de un POOL.
 ![[Pasted image 20240314165323.png]]
 
+### Gestion de procesos
+Se define como un sistema completo cuyo principal objetivo es enfocarse en la mejora continua del funcionamiento de las actividades de una organización. Como resultado se obtiene una reducción de la variabilidad innecesaria en los productos finales, así como el uso óptimo de recursos y eliminación de actividades repetitivas
+![[Pasted image 20240319185615.png]]
+
+### Enfoque de procesos
+Busca que la organización completa se visualice desde el punto de vista del cliente.
+
+En el típico enfoque funcional cada área es considerada independiente, responsable únicamente de sus procesos, y no hay una adecuada interconexión y articulación con las demás áreas.
+
+Este punto de vista genera una entropía en la organización.
+
+Sin embargo, el enfoque por procesos rompe esas barreras entre áreas mejorando y rediseñando los procesos con el fin de lograr mejorar actividades muy arraigadas de las áreas funcionales; generar una estructura organizacional más dinámica, flexible; generar mayor valor y lograr la satisfacción del cliente
+![[Pasted image 20240319185749.png]]
+
+
+### Mapeo de procesos
+Con la competitividad del mercado, el mapeo de procesos es un diferencial dentro de la organización. Es posible tener mayor comprensión del proceso y obtener varios puntos positivos.
+
+- **Hacer más eficiente la toma de decisiones:** con el proceso de mapeo se puede visualizar la trayectoria del proceso dentro de la organización, ya que las actividades y sus responsables, los elementos, la mano de obra, recursos y esfuerzos necesarios.
+- Además de reconocer lo que mejora, el mapeo optimiza tiempo y deja más eficiente la toma de decisión.
+
+**¿Por qué mapear?**
+Estandarizar el proceso, aumentar la productividad, mejorar la calidad de la entrega del producto y / o servicio y lograr una mayor satisfacción de los clientes
+
+Mediante la estandarización del proceso a través de documentación, por ejemplo, se puede mantener un nivel de calidad de servicio y / o producto a entregar al cliente.
+
+### Mapeo de Procesos AS IS/TO BE
+El Mapeo de procesos AS IS / TO BE es una herramienta de gestión que ayuda en la descripción y la mejora de los procesos internos de la organización.
+
+AS IS demuestra la situación actual y la realidad de los procesos organizacionales, con sus errores y aciertos.
+
+El AS-IS forma parte de las etapas de modelamiento y diseño del ciclo BPM
+
+Muestra como se ejecuta un proceso actualmente, mediante el uso de flujos, conexiones, carriles y artefactos
+
+El mapeo de procesos AS IS es la definición de la situación actual del proceso. Los participantes de esta asignación son los usuarios que están involucrados en el proceso cotidiano (usuarios clave).
+
+- Se dedica a la exploración del negocio de la empresa a través de metodologías y prácticas utilizadas en las actividades del día a día.
+
+- El mapeo de procesos AS IS es la definición de la situación actual del proceso. Los participantes de esta asignación son los usuarios que están involucrados en el proceso cotidiano (usuarios clave).
+![[Pasted image 20240319191617.png]]
+
+### Sugerencias de Mapeo de Procesos
+
+#### Defina los usuarios clave y / o el dueño del proceso
+Los usuarios clave, en inglés key users, son usuarios que tienen más conocimientos acerca de las reglas de un proceso de negocio
+
+Son ellos quienes realizan el proceso diariamente. Es necesario identificar a estos profesionales para recopilar información
+
+
+#### Identifique y mapee procesos (levantamiento del proceso AS IS
+También llamada de levantamiento AS IS, en esta etapa el proceso actual es modelado sin atentar a las mejoras que pueden o deben ser aplicadas.
+
+Las entrevistas o reuniones ocurren con los usuarios clave. Se debe recopilar datos sobre:
+- Descripción de las reglas de negocio y usuarios involucrados, proveedores, clientes y sus interacciones
+- Explicación del recorrido del proceso (secuenciación de tareas) y validaciones, los escenarios alternativos de negocio
+- Descripción de las tareas, tiempo de ejecución y participantes; 
+- Para entender y definir las entradas y salidas (entrada de información y de salida); 
+- Buscar documentos y sistemas que faciliten el entendimiento y ayuden en lo que puede ser automatizado.
+
+#### Rediseñe procesos (modelado del proceso TO BE
+En este paso se definen soluciones a los problemas, es decir, se evalúan las posibles mejoras para poder aplicar en el proceso.
+
+Es también aquí que definimos una nueva versión del modelado, el TO BE – nuevo gestor del proceso, alcance, objetivo, actividades, reglas y papeles.
+
+Además de definir estos ítems, hay que resaltar actividades que agregan valor y eliminar las que no agregan, diseñando el proceso con herramientas de modelado específicas.
+
+#### Consenso con el cliente
+Es la etapa en que el cliente ratifica el proceso modelado, las reglas levantadas y las mejoras sugeridas.
+
+Es necesario garantizar la ejecución de todos los caminos posibles e involucrar a los participantes de cada tarea. Con ello conseguimos el correcto progreso del proceso y la integridad de los datos.
+
+#### Análisis de efectividad
+Para evaluar la efectividad del mapeo del proceso es posible aplicar encuestas de satisfacción y utilizar indicadores, siendo ellos de eficiencia
+- (medición de productividad en relación a las salidas generadas), 
+- eficacia (medición de la calidad en relación a las salidas totales)
+- efectividad (medición del impacto).
+
+El seguimiento de la utilización del proceso en producción también es válido para subsanar dudas de nuevas tareas que se han atribuido a los responsables de la ejecución del flujo.
+
+
+### Finalizar
+Sobre todo la herramienta AS IS / TO BE debe enfocarse en la madurez del proceso de modo que al final de la etapa TO BE, el proceso esté.
+- Cada vez más adherente a los objetivos estratégicos de la organización y Estructurado para simplificar y traer eficacia a los procesos y sus actividades, ya sean en el ámbito estratégico o operacional.
+
+Para lograr estos objetivos, es fundamental la participación y el compromiso de todos los participantes y el foco diario en la mejora continua, además de la adopción de una solución eficiente de Gestión de Procesos

@@ -123,3 +123,15 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 
 ## Future forms
 ![[Pasted image 20240317163500.png]]
+
+## Present Perfect
+**Characteristics**
+- Talk about life experience without details (Don't tell the time)
+- Recent Past (Thins that pass at short time).
+- Past action with a result in the present (I have bought milk)
+- To give news (A bouquet of roses has arrived)
+- To ask about experiences (from the past experience until now.)
+
+### Structure
+**HAVE / HAS +  VERB PAST PARTICIPLE**
+**![](https://lh7-us.googleusercontent.com/dqYeCwBYvWqGIWaNWhhjmsRAiM52u5Xcd2dK_0WZEFnMuAOUvLaA52F3xSvnSd36tjCvn2UuM02U0vrvzAbREponkqupd5oAISTOESvgz22-MPRFYPaYp30LoDPUAZawp8lsXWcUYwdJCoNjFZ2ty7bOJA=s2048)**
