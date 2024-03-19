@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDollarSign",
       "LiImage",
       "RiTaskFill",
       "RiLightbulbFill",
-      "TiFileFilled",
-      "BoBxsFileDoc"
+      "TiFileFilled"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -122,5 +122,7 @@
   "Year/Semester/Tasks/16-03 y 17-03.md": "TiFileFilled",
   "Year/Semester/Tasks/18-03.md": "TiFileFilled",
   "Year/Semester/Ingles/Images": "LiImage",
+  "Sales": "LiDollarSign",
+  "Sales/HTC VIVE - Venta.md": "TiFileFilled",
   "Year/Semester/Tasks/19-03.md": "TiFileFilled"
 }

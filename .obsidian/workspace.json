@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1036954d5260e24b",
+        "id": "e53cfc81ca0023b6",
         "type": "tabs",
         "children": [
           {
-            "id": "fdbecd326f51a740",
+            "id": "8ba691257c89bcd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,41 +130,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fdbecd326f51a740",
+  "active": "8ba691257c89bcd3",
   "lastOpenFiles": [
-    "Year/Semester/MachineLearning/Draws/Clase_2.md",
-    "Year/Semester/Tasks/16-03 y 17-03.md",
     "Year/Semester/Tasks/18-03.md",
-    "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Tasks/19-03.md",
-    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Tasks/16-03 y 17-03.md",
     "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Sales/HTC VIVE - Venta.md",
+    "Sales",
     "Year/Semester/Ingles/Images/Pasted image 20240317163500.png",
     "Year/Semester/BPM/Summary.md",
     "Year/Semester/Ingles/Images/Pasted image 20240317161325.png",
-    "Untitled.md",
     "Year/Semester/Ingles/Images",
     "Year/Semester/Ingles/Images/Pasted image 20240317135210.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317134452.png",
+    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317134626.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317134622.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317134500.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240317133744.png",
     "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240317002725.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240316224447.png",
     "Year/Semester/Reminders/15-3.md",
     "Year/Semester/Tasks",
+    "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/Reminders",
     "Year/Semester/Plataformas/Draws/Clase_2.md",
     "Excalidraw/Drawing 2024-03-15 16.51.28.excalidraw.md",
@@ -187,7 +180,6 @@
     "Year/Semester/BPM/Images",
     "Year/Semester/Plataformas/Draws/Clase_1.md",
     "Year/Semester/Plataformas/Draws",
-    "Year/Semester/MachineLearning/Draws",
     "Workout/PullUpBar/Consejos.md",
     "Workout/Warpmup/Warpmups.md",
     "WorkOut/Untitled.md",
