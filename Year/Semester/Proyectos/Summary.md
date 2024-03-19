@@ -10,20 +10,20 @@ Un proyecto de inversión está basado en la inyección de recursos para su ejec
 
 Un proyecto puede ser una meta a largo plazo o corto plazo que tiene un orden y una seguidilla de pasos.
 
-![[Pasted image 20240312085009.png]]
-
-
 ### Etapas de un proyecto
 
 **Comprender el problema**: los problemas por ejemplo pueden ser, "estoy asignando mucha gente  a una tarea", "estoy o se esta sobre cargando algo"
 
-![[Pasted image 20240312085329.png]]
+**Comprensión**: Entender problema del cliente con varios proyectos como alternativas y evaluación. (Presente y Futuro del problema)
+**Construcción del modelo**: Se traduce el problema a lenguaje de computin.
+**Búsqueda de la solución**: Se evalúan los proyectos planteados
 
+![[Pasted image 20240312085329.png]]
 
 ### Ciclo de vida
 
 **Pre-factibilidad**:
-1) **Factible**: se puede hacer o no?
+1) **Factible y PreFactibilidad**: se puede hacer o no?, rápido checkeo.
 2) **Acceptable**: el cliente lo acepta o no?
 3) **Conveniente**: es negocio o no es negocio?, lo importante no es tocar el piso sino abrir un nuevo nicho de mercado y otorgando oportunidades en un futuro, no necesariamente por dinero.
 
@@ -51,22 +51,33 @@ El definir un proyecto implica visualizar y relacionar sus características, **t
 
 ### Clasificación de los proyectos
 
-- **Naturaleza :** Entender la relación entre proyectos, si existirán más de uno o la independencia de los mismos. Todo esto toma importancia al momento de medir los efectos que tiene el desarrollo de un proyecto con respecto a otros.
+- **Naturaleza :** Entender la relación entre proyectos, si existirán más de uno o la independencia de los mismos. Todo esto toma importancia al momento de medir los efectos que tiene el desarrollo de un proyecto con respecto a otros. (Contexto en que se realiza)
 	-  Ejemplo: los software comprados y creados no cumplen la misma naturaleza porque son distintos.
 	- Solo programamos lo que es propio de nosotros y pagamos por comodidad.
-- **Finalidad :** Definir el objetivo del proyecto con el fin de satisfacer una necesidad social donde el resultado **no es un valor monetario,** sino más bien de sentimiento social, o bien, si son proyectos de mejora de procesos en donde se evalúa el mejor costo de mejora o son proyectos orientados en su cabalidad a la obtención de lucro.
+- **Finalidad :** Definir el objetivo del proyecto con el fin de satisfacer una necesidad social donde el resultado **no es un valor monetario,** sino más bien de sentimiento social, o bien, si son proyectos de mejora de procesos en donde se evalúa el mejor costo de mejora o son proyectos orientados en su cabalidad a la obtención de lucro. (Un producto que este.)
 	- Ejemplo: La pandemia se buscaba una mejora en la sociedad.
-- **Tamaño :** Considerar la medición y definición de los tiempos y volúmenes a manejar de manera de configurar de forma correcta los horizontes de evaluación del proyecto.
+- **Tamaño :** Considerar la medición y definición de los tiempos y volúmenes a manejar de manera de configurar de forma correcta los horizontes de evaluación del proyecto. (Hay proyectos muy grandes)
 	- Ejemplo: Túneles pueden durar años por el tamaño del proyecto y se hace por etapas.
-- **Desarrollo del trabajo**: Considerar la medición y definición de los tiempos y volúmenes a manejar de manera de configurar de forma correcta los horizontes de evaluación del proyecto.
+- **Desarrollo del trabajo**: Considerar la medición y definición de los tiempos y volúmenes a manejar de manera de configurar de forma correcta los horizontes de evaluación del proyecto. (corto, mediano, largo plazo)
 
 ### Evaluación de Proyecto
 En el planteamiento de los objetivos de la evaluación de proyectos radica la importancia de evaluarlos, siendo estos extrapolates a cualquier ámbito
 
+**Financista**: Se tiene la plata para realizar el proyecto (Tengo la plata)
+**Economista**: Se obtiene la plata a largo plazo. (Genera un compromiso en el tiempo con préstamo.)
+
+![[Pasted image 20240319084710.png]]
+
+### ¿Por qué evaluar?
+La idea de evaluarlos es de extrapolar a cualquier ámbito un proyecto.
+
+**Permite:**
 - Establecer prioridades entre las diversas alternativas de inversión.
 - El lograr eficiencia en la asignación de recursos.
 - Permitir seleccionar la opción de proyecto más rentable desde el punto de vista buscado.
 - Determinar o identificar lo más objetivamente posible las variables que afectan a la rentabilidad del proyecto, cualquiera sea su denominación.
+
+Beneficio =! NO ES MAS PLATA, sino ahorrar costos o otra cosa.
 
 ### Definiciones
 **Fungible**: algo que se gasta.
