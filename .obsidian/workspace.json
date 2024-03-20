@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d6353e0c04b838f",
+        "id": "a1df7eb32a8c65ab",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9238c7b60eaabe",
+            "id": "7950485c2e9c16e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/Tasks/21-03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Tasks/21-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Tasks/21-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year/Semester/Tasks/21-03.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,15 +140,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a9238c7b60eaabe",
+  "active": "7950485c2e9c16e7",
   "lastOpenFiles": [
     "Year/Semester/Tasks/20-03.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Sin título.md",
+    "Year/Semester/Tasks/18-03.md",
+    "Year/Semester/Tasks/21-03.md",
     "Year/Semester/BPM/Draws/Clase_3.md",
     "Year/Semester/Reminders/20-03.md",
-    "Year/Semester/Tasks/18-03.md",
     "Year/Semester/Tasks/16-03 y 17-03.md",
     "Year/Semester/Tasks/19-03.md",
-    "Year/Semester/Tasks/21-03.md",
     "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Draws/Clase_1.md",
     "Year/Semester/Proyectos/Summary.md",
@@ -168,7 +162,6 @@
     "Projects/py-guncs2/TODO.md",
     "Projects/py-guncs2/NOTE.md",
     "Projects/py-guncs2",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/BPM/Images/Pasted image 20240319185615.png",
     "Year/Semester/BPM/Images/Pasted image 20240319191617.png",
     "Pasted image 20240319191558.png",
@@ -193,7 +186,6 @@
     "Year/Semester/BPM/Draws/Clase_2.md",
     "Year/Semester/Proyectos/Draws/Clase_1.md",
     "Year/Semester/BPM/Draws",
-    "Year/Semester/MachineLearning/Draws/Clase_1.md",
     "Year/Semester/Proyectos/Images",
     "Year/Semester/Proyectos/Draws",
     "Year/Semester/Plataformas/Untitled.canvas",

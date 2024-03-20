@@ -119,10 +119,31 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 **What are your siblings like?**
 - Really i don't have much contact with my stepsiblings but my brother like play soccer and play videogames.
 
+**Do you have any siblings or are you an only child? What's your position in the family?**
+- I'm the oldest child and yes i have a  younger brother he's 18 years old
+
 
 
 ## Future forms
 ![[Pasted image 20240317163500.png]]
+
+
+## Oder of birth influences personality
+
+**Formas de decir el orden de los hijos**
+1) I'm the oldest child
+2) I'm the middle child
+3) I'm the youngest child
+4) I'm an only child
+
+### Vocabulary
+**Firstborn**: primer nacido
+**look after**: cuidar de/ ocuparse de
+**Tend to**: tiende a
+**get along with**: llevarse bien con
+**dealing with arguments**:
+**sympathetic**: empatico.
+
 
 ## Present Perfect
 **Characteristics**
@@ -135,3 +156,5 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 ### Structure
 **HAVE / HAS +  VERB PAST PARTICIPLE**
 **![](https://lh7-us.googleusercontent.com/dqYeCwBYvWqGIWaNWhhjmsRAiM52u5Xcd2dK_0WZEFnMuAOUvLaA52F3xSvnSd36tjCvn2UuM02U0vrvzAbREponkqupd5oAISTOESvgz22-MPRFYPaYp30LoDPUAZawp8lsXWcUYwdJCoNjFZ2ty7bOJA=s2048)**
+
+
