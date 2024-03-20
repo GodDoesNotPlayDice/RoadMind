@@ -111,7 +111,7 @@ Identificar las fuentes de información disponibles en la organización identifi
 ![[Pasted image 20240314150832.png]]
 
 ### Gestión de procesos de Negocios
-La gestión de procesos es una forma sistémica de identificar, comprender y aumentar el valor agregado de los procesos de la empresa para cumplir con la estrategia del negocio y elevar el nivel de satisfacción de los clientes.
+La gestión de procesos es una forma sistemática de identificar, comprender y aumentar el valor agregado de los procesos de la empresa para cumplir con la estrategia del negocio y elevar el nivel de satisfacción de los clientes.
 
 La gestión de procesos de negocios se puede representar en el siguiente modelo
 
@@ -162,7 +162,7 @@ Existe tres tipos de conectores
 **Lane**: es división dentro de un POOL. Son utilizados para organizar actividades dentro de un POOL.
 ![[Pasted image 20240314165323.png]]
 
-### Gestion de procesos
+### Gestión de procesos
 Se define como un sistema completo cuyo principal objetivo es enfocarse en la mejora continua del funcionamiento de las actividades de una organización. Como resultado se obtiene una reducción de la variabilidad innecesaria en los productos finales, así como el uso óptimo de recursos y eliminación de actividades repetitivas
 ![[Pasted image 20240319185615.png]]
 
