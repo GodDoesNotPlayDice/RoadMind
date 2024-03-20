@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
+      "BoBxlPython",
       "LiDollarSign",
       "LiImage",
-      "RiTaskFill",
-      "RiLightbulbFill",
-      "TiFileFilled"
+      "RiTaskFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -125,5 +125,11 @@
   "Sales": "LiDollarSign",
   "Sales/HTC VIVE - Venta.md": "TiFileFilled",
   "Year/Semester/Tasks/19-03.md": "TiFileFilled",
-  "Year/Semester/Tasks/20-03.md": "TiFileFilled"
+  "Year/Semester/Tasks/20-03.md": "TiFileFilled",
+  "Projects/py-guncs2": "BoBxlPython",
+  "Projects/py-guncs2/TODO.md": "LiFile",
+  "Projects/py-guncs2/NOTE.md": "LiFile",
+  "Projects/py-kmuda": "BoBxlPython",
+  "Projects/py-kmuda/TODO.md": "LiFile",
+  "Projects/py-kmuda/NOTE.md": "LiFile"
 }

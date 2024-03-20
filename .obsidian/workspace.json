@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e53cfc81ca0023b6",
+        "id": "ce90ccf309f47636",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba691257c89bcd3",
+            "id": "f8f8fc9d72a6cb8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/Tasks/19-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8409302ce5f7f237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/Tasks/19-03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Tasks/19-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Tasks/19-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year/Semester/Tasks/19-03.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,15 +136,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "8409302ce5f7f237",
+  "active": "f8f8fc9d72a6cb8f",
   "lastOpenFiles": [
-    "Year/Semester/Tasks/18-03.md",
-    "Year/Semester/Tasks/19-03.md",
+    "Projects/py-kmuda/NOTE.md",
+    "Projects/py-guncs2/TODO.md",
+    "Projects/py-kmuda/TODO.md",
+    "Projects/py-guncs2/NOTE.md",
+    "Projects/py-kmuda",
     "Year/Semester/Tasks/20-03.md",
+    "Year/Semester/Tasks/19-03.md",
+    "2024-03-19.md",
+    "Year/Semester/Reminders/15-3.md",
     "Year/Semester/Tasks/16-03 y 17-03.md",
+    "Year/Semester/Tasks/18-03.md",
+    "Projects/MagerSegurosWeb/Note.md",
+    "Projects/py-guncs2",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/BPM/Images/Pasted image 20240319185615.png",
     "Year/Semester/BPM/Summary.md",
@@ -185,7 +174,6 @@
     "Sales/HTC VIVE - Venta.md",
     "Sales",
     "Year/Semester/Ingles/Images",
-    "Year/Semester/Reminders/15-3.md",
     "Year/Semester/Tasks",
     "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/Reminders",
@@ -199,15 +187,7 @@
     "Year/Semester/MachineLearning/Draws/Clase_1.md",
     "Year/Semester/Proyectos/Images",
     "Year/Semester/Proyectos/Draws",
-    "Year/Semester/BPM/Images",
     "Year/Semester/Plataformas/Draws/Clase_1.md",
-    "Year/Semester/Plataformas/Draws",
-    "Workout/PullUpBar/Consejos.md",
-    "Workout/Warpmup/Warpmups.md",
-    "WorkOut/Untitled.md",
-    "Web/React/Tests.md",
-    "Web/React/React.md",
-    "Projects/MagerSegurosWeb/Note.md",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
