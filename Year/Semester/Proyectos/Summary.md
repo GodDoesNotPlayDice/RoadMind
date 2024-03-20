@@ -86,9 +86,11 @@ Beneficio =! NO ES MAS PLATA, sino ahorrar costos o otra cosa.
 **Personal**: Personas que van a trabajar pagadas.
 
 ## Estudio de mercado
-En el ámbito de la preparación y evaluación de proyectos, es necesario conocer el mercado objetivo del estudio.
+En el ámbito de la preparación y evaluación de proyectos, es necesario conocer el mercado objetivo del estudio. 
+-  Estudiar el mercado es recopilar antecedentes.
 
 El inicio de toda evaluación y preparación de proyectos es el estudio de mercado, o dicho en otras palabras, el estudio de la existencia de un mercado potencial para un bien o servicio que se pretende ofrecer.
+- Los servicios o bienes sirven para cubrir necesidades.
 
 Se entenderá como mercado “el área en que confluyen las fuerzas de la oferta y demanda para realizar las transacciones de bienes y servicios a precios determinados”
 
@@ -127,13 +129,13 @@ Un producto es una opción elegible, viable y repetible que la oferta pone a dis
 Serán consumidos por la población o usuario final, se clasifican en 4
 
 **Convivencia**: Son bienes y/o servicios respecto de los cuales el comprador no realizará mayor esfuerzo para conseguirlos.
-	**Ejemplo**: chocolates, servicio de comida rápida y aspirinas, ya que se trata de productos que se encuentran con facilidad en el mercado.
+	**Ejemplo**: chocolates, servicio de comida rápida y aspirinas, ya que se trata de productos que se encuentran con facilidad en el mercado. (en general productos que no requieren de mayor esfuerzo)
 
 **Comparación**: En esta compra el consumidor realizará comparación entre un bien y/o servicio y otro de similares características.
-	**Ejemplo**:  un automóvil, pues se trata de productos que requieren mayor análisis para tomar una decisión de compra.
+	**Ejemplo**:  un automóvil, pues se trata de productos que requieren mayor análisis para tomar una decisión de compra. (Cuando se compara un producto mas grande y que compite con otros similares de otras empresas)
 
 **Especialidad**: Estos son productos con características únicas y/o especiales, y que por tanto requieren mayor esfuerzo para elegirlos o respecto de los cuales no existen muchas opciones en el mercado.
-	**Ejemplo**:  Un servicio médico o dental.
+	**Ejemplo**:  Un servicio médico o dental. 
 
 **No buscado**: Estos son productos que el consumidor sabe que existen, pero que no busca consumir
 	**Ejemplo:** servicios funerarios o un seguro de cesantía, y que por tanto requieren mayor esfuerzo de venta y/o de publicidad para llegar al usuario final, pues no se trata de algo que la gente esté buscando.
@@ -189,22 +191,20 @@ Estas fuentes no disponen de información previamente generada, sino que se util
 **Evaluación correcta de proyectos:** Hay que considerar utilizar estas herramientas no solo con los potenciales consumidores, sino que también hacerlo con los competidores actuales, para así tener una idea específica del mercado al que se enfrentará el producto que se quiere introducir.
 
 **Tipos de fuentes internas**:
-- Focus Grupos
-- Entrevistas y Encuestas
-- Experimentación
-- Observaciones
-
-
-
-
-
+- Focus Grupos : Gente de interés quien prueba el producto con un guion pre armado para poder levantar información.
+- Entrevistas y Encuestas: Entrevistar a la gente de interés.
+- Experimentación: Experimentar con la misma gente.
+- Observaciones:
 
 ### Determinación de la muestra.
 Se entiende como la determinación del tamaño de muestreo necesario para aplicar la herramienta de recopilación de información primaria
 
 **Dos tipos de Muestreo**: Probabilísticos., No Probabilísticos.
 
-#### Probabilistico (ejemplo)
+- **Probabilísticos**: es un numero fijo y con margen de error, además debe ser representativa.
+- **No Probabilísticos**: 
+
+#### Probabilísticos (ejemplo)
 Se requiere determinar el tamaño de muestra para un estudio sobre novelas románticas, para lo cual se determina (ya sea por muestra piloto, criterio del evaluador o por conocimiento de estudios anteriores) que una persona adulta normal consume, en promedio, 1 libro de esta categoría al año y que  la desviación estándar es de 0,5.
 
 Se obtiene así que el rango de consumo de este producto va desde 0,5 hasta 1,5 (esto es 1-0,5 y 1+0,5, que corresponde al promedio +/- la desviación estándar definida por el investigador), utilizando como nivel de confianza un 95% y asumiendo un error del 10%.

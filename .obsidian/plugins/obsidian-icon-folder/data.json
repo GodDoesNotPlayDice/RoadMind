@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFile3Fill",
       "LiFile",
       "BoBxlPython",
       "LiDollarSign",
-      "LiImage",
-      "RiTaskFill"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -131,5 +131,6 @@
   "Projects/py-guncs2/NOTE.md": "LiFile",
   "Projects/py-kmuda": "BoBxlPython",
   "Projects/py-kmuda/TODO.md": "LiFile",
-  "Projects/py-kmuda/NOTE.md": "LiFile"
+  "Projects/py-kmuda/NOTE.md": "LiFile",
+  "Year/Semester/Tasks/21-03.md": "RiFile3Fill"
 }
