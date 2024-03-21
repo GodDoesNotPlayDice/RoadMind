@@ -118,11 +118,36 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 - Yes i have siblings, there are two, one is stepsister and other stepbrother by the father side, and have a brother by mother side, I'm in the middle i think
 **What are your siblings like?**
 - Really i don't have much contact with my stepsiblings but my brother like play soccer and play videogames.
-
 **Do you have any siblings or are you an only child? What's your position in the family?**
-- I'm the oldest child and yes i have a  younger brother he's 18 years old
+- I'm the oldest child and yes i have a younger brother he's 18 years old
+**Do you think the order of birth affected your personality? How? What about your siblings?**
+- Yes i think, because since born my brother i pass to the oldest children and i had to care of him when he was little, now he is 18yrs old and can be more independent.
+**What are your siblings like?**
+- My brother is mature, honest, charming, sociable and great person, because always I advised about the things of the life and how he can take the problems or the situations the best way possible. 
 
 
+### Vocabulary about, what are we like?
+**Selfish**: Persona que piensa mucho en si mismo y no en la otra persona (egoísta)
+**Spoiled**: Persona que es muy malhumorada si no tiene lo que quiere (mimado)
+**Mature**: Persona que se comporta como adulto (maduro)
+**Honest**: Persona que dice la verdad y nunca roba o hace trampa (Honesto)
+**Charming**: Persona que es de personalidad atractiva y la gente le cae muy bien. (Encantador)
+**Sensible**: Una persona que es cuerda que tiene buen sentido (Sensato)
+**Anxious**: Personas que a menudo se preocupan o se estresan (ansioso)
+**Imaginativo**: Persona que tiene buena imaginación. (Imaginativo)
+**Independent**: Persona que le gusta hacer las cosas por su cuenta (Independiente)
+**Bossy**: Persona que les gusta decir a las otras personas que hacer. (Mendon)
+**Insecure**: Personas que no se tienen confianza en si mismo. (inseguro)
+**Sensitive**: Persona que es fácil de herir o ofender (Sensible)
+**Stubborn**: Persona que nunca cambia de opinion o actitud acerca de algo (Terco)
+**Patient**: Persona que puede esperar por un periodo largo de tiempo (Paciente)
+**Ambitious**: Persona que busca realizarse en la vida (Ambicioso)
+**Reliable**: Persona que puedes confiar (reliable)
+**Self-confident**: Persona que es segura de sus habilidades (Confiado)
+**Rebellious**: Persona que no le gusta obedecer las reglas (Rebelde)
+**Moody**: Persona que cambia de humor muy rápidamente. (Bipolar o raro)
+**Competitive**: Persona que le gusta ganar o busca ganar siempre (Competitivo)
+**Affectionate**: Persona que es aficionada o le gusta mucho a alguien (Afectuoso)
 
 ## Future forms
 ![[Pasted image 20240317163500.png]]
@@ -142,7 +167,7 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 **Tend to**: tiende a
 **get along with**: llevarse bien con
 **dealing with arguments**:
-**sympathetic**: empatico.
+**sympathetic**: empático.
 
 
 ## Present Perfect
@@ -157,4 +182,57 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 **HAVE / HAS +  VERB PAST PARTICIPLE**
 **![](https://lh7-us.googleusercontent.com/dqYeCwBYvWqGIWaNWhhjmsRAiM52u5Xcd2dK_0WZEFnMuAOUvLaA52F3xSvnSd36tjCvn2UuM02U0vrvzAbREponkqupd5oAISTOESvgz22-MPRFYPaYp30LoDPUAZawp8lsXWcUYwdJCoNjFZ2ty7bOJA=s2048)**
 
+1. Have you ever found money on the street or won money in a contest? 
+2. Have you or someone you know ever been scammed or robbed? 
+3. Have you ever saved money for a long time for buying something?
+4. Have you ever lent money to somebody and who never paid you back?
+5. Have you ever wasted money on something you never used?
+6. Have you ever bought something and immediately regretted it?
+7. Have you ever inherited something from a relative?
+8. Have you ever taken out a loan from a bank?
+9. Have you ever lost a wallet or a bag?
+10. Have you ever bought something on Marketplace, MercadoLibre or a similar site?
 
+### Present perfect continuous
+We use the present perfect continuous to talk about actions (waiting) that have happened over a period of time and are still happening.
+
+We have been waiting (They are still there) for 30 minutes.
+
+![[Pasted image 20240320222623.png]]
+
+**Example**:
+How long have you been studying English in class?
+We’ve been waiting here for ages.
+Sara hasn’t been feeling well today.
+
+### Present perfect or present perfect continuous?
+**Present perfect continuous** is used with action verbs (cook, go, study, watch, read, among others).
+**Example:** Sara has been studying English since last year.
+
+
+**Present perfect** is used with non action verbs (they tend to express more mental actions). Such as know, have, like, among others.
+**Example**: My parents have known each other for 30 years.
+
+
+### Present perfect / for and since
+We are going to use this to express actions and/or states that started at some point in the past and still happen or are still true now
+
+**I have studied for 3 years**: I started studying 3 years ago and I am still studying today.
+
+**How long** have you worked here? 
+I’ve worked here **for 5 years, since 2017**
+
+**For**: a period of time; for 10 years, for 20 minutes, for 3 months
+**Since**: a point in the past; since 2017, since last Tuesday, since 10:30
+
+
+### Present Perfect continuous + “for” or “since”
+Mention 2 things you or someone you know have been doing for a while.
+
+**Example**: I have been studying computing engineering since 2020. Jorge has been working from home since the lockdown started.
+
+**Questions Speaking**
+1) What is it?
+2) How long have you been doing it?
+3) When and how did it start?
+4) How do you feel about it?
