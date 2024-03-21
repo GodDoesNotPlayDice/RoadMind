@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce90ccf309f47636",
+        "id": "1b971ba03dc10a54",
         "type": "tabs",
         "children": [
           {
-            "id": "f8f8fc9d72a6cb8f",
+            "id": "a46f794cc2eb8de2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Tasks/March/21-03.md",
+                "file": "Web/React/Videos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Tasks/March/21-03.md",
+                "file": "Web/React/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Tasks/March/21-03.md",
+                "file": "Web/React/Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Tasks/March/21-03.md"
+                "file": "Web/React/Videos.md"
               }
             }
           }
@@ -149,20 +149,24 @@
       "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "f8f8fc9d72a6cb8f",
+  "active": "a46f794cc2eb8de2",
   "lastOpenFiles": [
-    "Year/Semester/Tasks/March/22-03.md",
+    "Web/React/React.md",
+    "Web/React/Tests.md",
+    "Web/React/Videos.md",
     "Year/Semester/Tasks/March/21-03.md",
     "Year/Semester/Tasks/March/20-03.md",
+    "Year/Semester/Tasks/March/22-03.md",
+    "Year/Semester/Tasks/March/19-03.md",
+    "Year/Semester/Tasks/March/18-03.md",
+    "Year/Semester/Reminders/20-03.md",
+    "Year/Semester/Reminders/15-3.md",
     "Year/Semester/Ingles/Summary.md",
     "Untitled.md",
     "Year/Semester/Tasks/March/16-03 y 17-03.md",
-    "Year/Semester/Tasks/March/18-03.md",
-    "Year/Semester/Tasks/March/19-03.md",
     "Year/Semester/Tasks/March",
     "P.md",
     "Year/Semester/Ingles/Images/Pasted image 20240320222623.png",
-    "Year/Semester/Reminders/20-03.md",
     "Year/Semester/BPM/Draws/Clase_3.md",
     "Projects/py-kmuda/NOTE.md",
     "Projects/py-guncs2/TODO.md",
@@ -170,7 +174,6 @@
     "Projects/py-guncs2/NOTE.md",
     "Projects/py-kmuda",
     "2024-03-19.md",
-    "Year/Semester/Reminders/15-3.md",
     "Projects/MagerSegurosWeb/Note.md",
     "Projects/py-guncs2",
     "Year/Semester/BPM/Images/Pasted image 20240319185615.png",
@@ -187,13 +190,10 @@
     "Pasted image 20240319143611.png",
     "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
-    "Sales/HTC VIVE - Venta.md",
     "Sales",
     "Year/Semester/Ingles/Images",
     "Year/Semester/Tasks",
-    "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/Reminders",
-    "Year/Semester/Plataformas/Draws/Clase_2.md",
     "Excalidraw",
     "Year/Semester/BPM/Draws",
     "Year/Semester/Proyectos/Images",

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiYoutubeFill",
       "IbFolder",
       "RiFile3Fill",
       "LiFile",
-      "BoBxlPython",
-      "LiDollarSign"
+      "BoBxlPython"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -134,5 +134,7 @@
   "Year/Semester/Tasks/March/18-03.md": "TiFileFilled",
   "Year/Semester/Tasks/March/19-03.md": "TiFileFilled",
   "Year/Semester/Tasks/March/20-03.md": "RiFile3Fill",
-  "Year/Semester/Tasks/March/21-03.md": "RiFile3Fill"
+  "Year/Semester/Tasks/March/21-03.md": "RiFile3Fill",
+  "Year/Semester/Reminders/20-03.md": "RiFile3Fill",
+  "Web/React/Videos.md": "RiYoutubeFill"
 }
