@@ -360,3 +360,135 @@ $$
 P(B|A) = \frac{P(BA)}{P(A)}
 $$
 ![[Pasted image 20240319155633.png]]
+
+## Regresión Lineal y Correlación | Ecuaciones Lineales y Matrices
+La regresión es utilizada en todo tipo de industrias alrededor del mundo, es útil para predecir el valor de una propiedad inmobiliaria tal y como es útil para predecir el valor de un boleto de avión, las aplicaciones son infinitas. Casualmente también es la forma más sencilla y recomendada de entrar al mundo del Machine Learning, por este motivo es importante tener un entendimiento de la misma.
+### Regresión Simple
+Los análisis de regresión y de correlación se basan en la relación, o asociación, entre dos (o más) variables.
+
+La variable (o variables) conocida(s) se llaman variable(s) independiente(s); la que tratamos de predecir es la variable dependiente.
+
+![[Pasted image 20240323122526.png]]
+
+### Diagramas de dispersión
+El primer paso para determinar si existe una relación entre dos variables es examinar la gráfica de los datos observados (o conocidos). Esta gráfica, o dibujo, se llama diagrama de dispersión.
+
+Un diagrama de dispersión nos puede dar dos tipos de información. Visualmente, podemos identificar patrones que indiquen que las variables están relacionadas. Si esto sucede, podemos ver qué tipo de línea, o ecuación de estimación, describe esta relación.
+![[Pasted image 20240323122646.png]]La relación entre las variables X y Y también puede tomar la forma de una curva. Los especialistas en estadística la llaman relación curvilínea.
+
+![[Pasted image 20240323122738.png]]
+
+
+### Estimación
+
+#### Recta de Regresión
+Las líneas de regresión no sólo deben ajustarse visualmente. En realidad, para calcularla en forma precisa, debemos aplicar la siguiente ecuación, la cual indica con una Y la variable dependiente y con una X la variable independiente
+
+![[Pasted image 20240323122902.png]]
+La “a” se denomina la “ordenada Y” porque su valor es el punto en el cual la línea de regresión cruza el eje Y, es decir, el eje vertical.
+
+La “b” en la ecuación es la “pendiente” de la recta. Representan qué tanto cada cambio de una unidad de la variable independiente X hace que cambie la variable dependiente Y.
+
+Tanto “a” como “b” son constantes numéricas porque para cualquier línea recta dada, sus valores no cambian.
+
+Supongamos que sabemos que “a” es 3 y “b” es 2. Determinemos cuál sería Y para X igual a 5.
+
+$$
+Y = a + bX \\
+= 3 + 2(5) \\
+= 3 + 10 \\
+= 13 X
+$$
+La  constante “a” se puede encontrar visualmente, localizando el punto donde cruza el eje Y.
+
+Para encontrar la pendiente de la recta, b, debemos determinar cómo cambia la variable dependiente, Y, al cambiar la variable independiente, X.
+$$
+b = \frac{Y_2 - Y_1}{X_2 - X_1}
+$$
+
+![[Pasted image 20240323125609.png]]
+
+
+### Mínimos Cuadrados
+**MÉTODO**:  Si los puntos de datos no están “sobre la línea”, ¿es posible ajustar la “mejor” recta?. Para responder esto, podemos usar el mínimo error entre los puntos estimados de la recta y los puntos reales observados que se utilizaron para trazarla.
+**Linea de estimación**
+$$
+\hat{Y} = a + bX
+$$
+
+El símbolo Yˆ (ye gorro) se usará para simbolizar los valores individuales de los puntos estimados, esto es, aquellos puntos que están en la línea de estimación.
+
+En los siguientes gráficos tenemos los mismos tres puntos y dos rectas diferentes. ¿Cuál será la mejor estimación.
+![[Pasted image 20240323130356.png]]
+
+
+De esto, podríamos deducir que el criterio adecuado para juzgar la bondad del ajuste sería sumar los valores absolutos (los valores sin los signos algebraicos) de cada error. Con esto confirmamos que la estimación “a” es la mejor (el error es menor).
+
+![[Pasted image 20240323130505.png]]
+
+Sin embargo, el análisis anterior es incompleto, pues la suma de los valores absolutos no hace hincapié en la magnitud del error. Mira la nueva gráfica.
+
+![[Pasted image 20240323130556.png]]
+
+Preferiríamos tener varios errores absolutos pequeños que uno grande, como vimos en el ejemplo anterior. En efecto, deseamos encontrar una forma de “penalizar” errores absolutos grandes, para poder evitarlos.
+
+Podemos lograr esto podemos elevar al cuadrado los errores individuales antes de sumarlos. Los cuadrados de cada término logran dos objetivos:
+1) Magnifica, o penaliza, los errores más grandes.
+2) Cancela el efecto de los valores positivos y negativos (un error negativo al cuadrado sigue siendo positivo).
+![[Pasted image 20240323130757.png]]
+
+
+### Análisis de Correlación
+El análisis de correlación es la herramienta estadística que podemos usar para describir el grado en el que una variable está linealmente relacionada con otra.
+
+Con frecuencia, el análisis de correlación se utiliza junto con el de regresión para medir qué tan bien la línea de regresión explica los cambios de la variable dependiente, Y.
+
+Sin embargo, la correlación también se puede usar sola para medir el grado de asociación entre dos variables.
+
+#### Coeficiente de determinación
+El coeficiente de determinación es la principal forma en que podemos medir el grado, o fuerza, de la asociación que existe entre dos variables, X e Y.
+
+El coeficiente de determinación muestral se deriva de la relación entre dos tipos de variación, la variación de los valores Y en un conjunto de datos alrededor de:
+1) La recta de regresión ajustada;
+2) Su propia media.
+$$
+r^2 = 1 - \frac{\sum(Y - \hat{Y})^2}{\sum(Y - \bar{Y})^2}
+$$
+Consideremos este ejemplo, donde a partir de la tabla de datos, podemos realizar el gráfico de una correlación perfecta:
+$$
+\hat{Y} = 4X
+$$
+![[Pasted image 20240323131339.png]]
+El coeficiente de determinación, se calcularía de la siguiente forma
+
+![[Pasted image 20240323131511.png]]
+
+#### Correlación
+El coeficiente de correlación es la segunda medida que podemos usar para describir qué tan bien explica una variable a otra.
+
+Cuando tratamos con muestras, el coeficiente de correlación de la muestra se denota por “r” y es la raíz cuadrada del coeficiente de determinación muestral.
+$$
+r = \sqrt{r^2}
+$$
+
+
+
+## Google Collab (Meanings)
+
+### Librerías
+- **Matplot:** Es la librería más popular en Python para visualizaciones y gráficos. Ella nos va a permitir realizar los gráficos de las distintas distribuciones de datos.
+- **Seaborn**: Esta librería es un complemento ideal de matplotlib para realizar gráficos estadísticos.
+
+### Pandas
+
+```python
+import pandas as pd
+
+df = pd.read_csv(name, sep=",") # Separa por comas el archivo como un array. df de data frame
+
+df.head() # se utiliza para mostrar las primeras filas del DataFrame. Por defecto, muestra las primeras 5 filas, pero también puedes especificar un número diferente de filas para mostrar. Esto es útil para tener una vista previa rápida de los datos en el DataFrame sin necesidad de mostrar todo el conjunto de datos.
+
+describe() # La función `describe()` proporciona estadísticas descriptivas que resumen la tendencia central, dispersión y forma de la distribución de un conjunto de datos, excluyendo los valores NaN (valores perdidos).
+
+
+```
