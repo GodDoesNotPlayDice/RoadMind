@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1b971ba03dc10a54",
+        "id": "0d2af98424a7ffe3",
         "type": "tabs",
         "children": [
           {
-            "id": "a46f794cc2eb8de2",
+            "id": "fdf450aae0a3dd5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/React/Videos.md",
+                "file": "Year/Semester/BPM/Summary.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7f9ee464a88ae62a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/BPM/Draws/Clase_4.md"
               }
             }
           }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 244.5
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/React/Videos.md",
+                "file": "Year/Semester/BPM/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/React/Videos.md",
+                "file": "Year/Semester/BPM/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,71 +135,69 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/React/Videos.md"
+                "file": "Year/Semester/BPM/Summary.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "nested-daily-todos:Add incomplete todos to today's note": false
+      "nested-daily-todos:Add incomplete todos to today's note": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a46f794cc2eb8de2",
+  "active": "fdf450aae0a3dd5f",
   "lastOpenFiles": [
-    "Web/React/React.md",
-    "Web/React/Tests.md",
-    "Web/React/Videos.md",
+    "Year/Semester/BPM/Draws/Clase_4.md",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Tasks/March/22-03.md",
     "Year/Semester/Tasks/March/21-03.md",
     "Year/Semester/Tasks/March/20-03.md",
-    "Year/Semester/Tasks/March/22-03.md",
-    "Year/Semester/Tasks/March/19-03.md",
-    "Year/Semester/Tasks/March/18-03.md",
+    "Year/Semester/Tasks/March/16-03 y 17-03.md",
     "Year/Semester/Reminders/20-03.md",
     "Year/Semester/Reminders/15-3.md",
-    "Year/Semester/Ingles/Summary.md",
-    "Untitled.md",
-    "Year/Semester/Tasks/March/16-03 y 17-03.md",
-    "Year/Semester/Tasks/March",
-    "P.md",
+    "Web/React/React.md",
+    "Web/React/Videos.md",
+    "Web/React/Tests.md",
+    "Year/Semester/Tasks/21-03.md",
     "Year/Semester/Ingles/Images/Pasted image 20240320222623.png",
+    "Sin título.md",
+    "Year/Semester/Tasks/20-03.md",
+    "Year/Semester/Tasks/18-03.md",
     "Year/Semester/BPM/Draws/Clase_3.md",
-    "Projects/py-kmuda/NOTE.md",
-    "Projects/py-guncs2/TODO.md",
+    "Year/Semester/Tasks/16-03 y 17-03.md",
+    "Year/Semester/Tasks/19-03.md",
+    "Year/Semester/BPM/Draws/Clase_1.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Projects/py-kmuda/TODO.md",
-    "Projects/py-guncs2/NOTE.md",
+    "Projects/py-kmuda/NOTE.md",
     "Projects/py-kmuda",
-    "2024-03-19.md",
-    "Projects/MagerSegurosWeb/Note.md",
+    "Projects/py-guncs2/TODO.md",
     "Projects/py-guncs2",
     "Year/Semester/BPM/Images/Pasted image 20240319185615.png",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Images/Pasted image 20240319191617.png",
     "Pasted image 20240319191558.png",
     "Year/Semester/BPM/Images/Pasted image 20240319185749.png",
-    "Year/Semester/BPM/Actividad de Procesos.md",
     "Year/Semester/BPM/Images/Pasted image 20240312162936.png",
-    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240319155633.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240319145810.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240319143629.png",
     "Pasted image 20240319143611.png",
-    "Year/Semester/Plataformas/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
     "Sales",
     "Year/Semester/Ingles/Images",
     "Year/Semester/Tasks",
@@ -197,6 +205,7 @@
     "Excalidraw",
     "Year/Semester/BPM/Draws",
     "Year/Semester/Proyectos/Images",
+    "Year/Semester/Proyectos/Draws",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

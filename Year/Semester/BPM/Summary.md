@@ -215,6 +215,8 @@ Son ellos quienes realizan el proceso diariamente. Es necesario identificar a es
 #### Identifique y mapee procesos (levantamiento del proceso AS IS
 También llamada de levantamiento AS IS, en esta etapa el proceso actual es modelado sin atentar a las mejoras que pueden o deben ser aplicadas.
 
+La principal idea es levantar requerimientos, conocer los usuarios, como trabajan, etc, en resumen es conocer como funciona el trabajo en la empresa. y luego se modela
+
 Las entrevistas o reuniones ocurren con los usuarios clave. Se debe recopilar datos sobre:
 - Descripción de las reglas de negocio y usuarios involucrados, proveedores, clientes y sus interacciones
 - Explicación del recorrido del proceso (secuenciación de tareas) y validaciones, los escenarios alternativos de negocio
@@ -229,13 +231,16 @@ Es también aquí que definimos una nueva versión del modelado, el TO BE – nu
 
 Además de definir estos ítems, hay que resaltar actividades que agregan valor y eliminar las que no agregan, diseñando el proceso con herramientas de modelado específicas.
 
+
+A acá se modela la solución del as is.
+
 #### Consenso con el cliente
 Es la etapa en que el cliente ratifica el proceso modelado, las reglas levantadas y las mejoras sugeridas.
 
 Es necesario garantizar la ejecución de todos los caminos posibles e involucrar a los participantes de cada tarea. Con ello conseguimos el correcto progreso del proceso y la integridad de los datos.
 
 #### Análisis de efectividad
-Para evaluar la efectividad del mapeo del proceso es posible aplicar encuestas de satisfacción y utilizar indicadores, siendo ellos de eficiencia
+Para evaluar la efectividad del napeo del proceso es posible aplicar encuestas de satisfacción y utilizar indicadores, siendo ellos de eficiencia
 - (medición de productividad en relación a las salidas generadas), 
 - eficacia (medición de la calidad en relación a las salidas totales)
 - efectividad (medición del impacto).

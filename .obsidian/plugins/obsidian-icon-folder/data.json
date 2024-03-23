@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolder",
       "RiYoutubeFill",
-      "IbFolder",
+      "LiPen",
       "RiFile3Fill",
-      "LiFile",
-      "BoBxlPython"
+      "LiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -128,13 +128,14 @@
   "Projects/py-kmuda": "BoBxlPython",
   "Projects/py-kmuda/TODO.md": "LiFile",
   "Projects/py-kmuda/NOTE.md": "LiFile",
-  "Year/Semester/Tasks/March": "IbFolder",
-  "Year/Semester/Tasks/March/22-03.md": "RiFile3Fill",
-  "Year/Semester/Tasks/March/16-03 y 17-03.md": "TiFileFilled",
-  "Year/Semester/Tasks/March/18-03.md": "TiFileFilled",
-  "Year/Semester/Tasks/March/19-03.md": "TiFileFilled",
+  "Year/Semester/BPM/Draws/Clase_3.md": "LiPen",
+  "Year/Semester/Reminders/20-03.md": "RiFile3Fill",
+  "Web/React/Videos.md": "RiYoutubeFill",
+  "Year/Semester/Tasks/March": "LiFolder",
+  "Year/Semester/Tasks/March/16-03 y 17-03.md": "RiFile3Fill",
+  "Year/Semester/Tasks/March/18-03.md": "RiFile3Fill",
+  "Year/Semester/Tasks/March/19-03.md": "RiFile3Fill",
   "Year/Semester/Tasks/March/20-03.md": "RiFile3Fill",
   "Year/Semester/Tasks/March/21-03.md": "RiFile3Fill",
-  "Year/Semester/Reminders/20-03.md": "RiFile3Fill",
-  "Web/React/Videos.md": "RiYoutubeFill"
+  "Year/Semester/Tasks/March/22-03.md": "RiFile3Fill"
 }
