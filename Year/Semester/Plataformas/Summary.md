@@ -181,9 +181,10 @@ Hace un uso muy eficiente del protocolo HTTP y permite la interacción entre dis
 
 **Arquitectura Cliente – Servidor**: consiste en una separación clara y concisa entre los 2 agentes básicos en un intercambio de información: el cliente y el servidor.
 
-**Stateless**: (Sin estado) esto significa que nuestro servidor no tiene porqué almacenar datos del cliente para mantener un estado del mismo. Esto quiere que decir, que el servicio se inicia y se termina y el servidor se olvida que existe.
+**Stateless**: (Sin estado) esto significa que nuestro servidor no tiene porqué almacenar datos del cliente para mantener un estado del mismo. Esto quiere que decir, que el servicio se inicia y se termina y el servidor se olvida que existe. (no guarda dato)
 
 **Cacheable**: esta norma implica que el servidor que sirve las peticiones del cliente debe definir algún modo de cachear dichas peticiones, para aumentar el rendimiento, escalabilidad, etc.
+(guarda algun dato)
 
 ![[Pasted image 20240319140846.png]]
 

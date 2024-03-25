@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "9c84ce15c4f2df6f",
+        "id": "0d2af98424a7ffe3",
         "type": "tabs",
         "children": [
           {
-            "id": "a31f0d9664e9e589",
+            "id": "fdf450aae0a3dd5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/Plataformas/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8505157edf1365ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/MachineLearning/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad8308eaae78388b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/MachineLearning/Draws/Clase_3.md"
+              }
+            }
+          },
+          {
+            "id": "7f9ee464a88ae62a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/BPM/Draws/Clase_4.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 244.5
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/MachineLearning/Draws/Clase_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/MachineLearning/Draws/Clase_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,71 +158,70 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md"
+                "file": "Year/Semester/MachineLearning/Draws/Clase_3.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "nested-daily-todos:Add incomplete todos to today's note": false
+      "nested-daily-todos:Add incomplete todos to today's note": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
-    "Year/Semester/Ingles/Images/Pasted image 20240325003609.png",
-    "Untitled.md",
-    "Year/Semester/Ingles/Summary.md",
-    "Year/Semester/Tasks/March/24-03.md",
-    "Web/React/React.md",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240307150419.png",
-    "Web/React/Estructura.md",
-    "Web/React/Imagenes",
-    "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
-    "Web/React/Tests.md",
-    "Web/React/Videos.md",
     "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/MachineLearning/Draws/Clase_3.md",
+    "Year/Semester/MachineLearning/Draws/Sin título",
+    "Year/Semester/Plataformas/Draws/Clase_1.md",
+    "Web/React/Estructura.md",
+    "Year/Semester/Plataformas/Draws/Clase_3.md",
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/Tasks/March/25-03.md",
     "Year/Semester/Tasks/March/23-03.md",
-    "Year/Semester/Tasks/March/16-03 y 17-03.md",
-    "Year/Semester/Tasks/March/18-03.md",
-    "Year/Semester/Tasks/March/19-03.md",
-    "Year/Semester/Tasks/March/20-03.md",
-    "Year/Semester/Tasks/March/21-03.md",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240323131339.png",
+    "Year/Semester/Tasks/March/24-03.md",
+    "Year/Semester/BPM/Summary.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323131511.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240323131339.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323130757.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323130556.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323130505.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323130356.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323125609.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323122902.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240323122738.png",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240323122646.png",
+    "Web/React/Imagenes",
     "Year/Semester/BPM/Draws/Clase_4.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Tasks/March/22-03.md",
+    "Year/Semester/Tasks/March/21-03.md",
+    "Year/Semester/Tasks/March/20-03.md",
+    "Year/Semester/Tasks/March/16-03 y 17-03.md",
     "Year/Semester/Reminders/20-03.md",
     "Year/Semester/Reminders/15-3.md",
-    "Year/Semester/Tasks/March",
-    "P.md",
+    "Web/React/React.md",
+    "Web/React/Videos.md",
+    "Web/React/Tests.md",
+    "Year/Semester/Tasks/21-03.md",
+    "Sin título.md",
+    "Year/Semester/Tasks/20-03.md",
+    "Year/Semester/Tasks/18-03.md",
     "Year/Semester/BPM/Draws/Clase_3.md",
-    "Projects/py-kmuda/NOTE.md",
-    "Projects/py-guncs2/TODO.md",
-    "Projects/py-kmuda/TODO.md",
-    "Projects/py-guncs2/NOTE.md",
     "Projects/py-kmuda",
-    "2024-03-19.md",
-    "Projects/MagerSegurosWeb/Note.md",
     "Projects/py-guncs2",
     "Sales",
     "Year/Semester/Ingles/Images",
