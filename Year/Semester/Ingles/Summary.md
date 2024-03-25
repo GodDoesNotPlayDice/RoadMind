@@ -148,7 +148,9 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 **Moody**: Persona que cambia de humor muy rápidamente. (Bipolar o raro)
 **Competitive**: Persona que le gusta ganar o busca ganar siempre (Competitivo)
 **Affectionate**: Persona que es aficionada o le gusta mucho a alguien (Afectuoso)
-
+**Outgoing**: Extrovertido
+**Reliable**: Confiable, Fiable
+![[Pasted image 20240325003609.png]]
 ## Future forms
 ![[Pasted image 20240317163500.png]]
 
@@ -182,16 +184,17 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 **HAVE / HAS +  VERB PAST PARTICIPLE**
 **![](https://lh7-us.googleusercontent.com/dqYeCwBYvWqGIWaNWhhjmsRAiM52u5Xcd2dK_0WZEFnMuAOUvLaA52F3xSvnSd36tjCvn2UuM02U0vrvzAbREponkqupd5oAISTOESvgz22-MPRFYPaYp30LoDPUAZawp8lsXWcUYwdJCoNjFZ2ty7bOJA=s2048)**
 
-1. Have you ever found money on the street or won money in a contest? 
-2. Have you or someone you know ever been scammed or robbed? 
-3. Have you ever saved money for a long time for buying something?
-4. Have you ever lent money to somebody and who never paid you back?
-5. Have you ever wasted money on something you never used?
-6. Have you ever bought something and immediately regretted it?
-7. Have you ever inherited something from a relative?
-8. Have you ever taken out a loan from a bank?
-9. Have you ever lost a wallet or a bag?
-10. Have you ever bought something on Marketplace, MercadoLibre or a similar site?
+1. Have you ever found money on the street or won money in a contest?  
+	-  
+1. Have you or someone you know ever been scammed or robbed? 
+2. Have you ever saved money for a long time for buying something?
+3. Have you ever lent money to somebody and who never paid you back?
+4. Have you ever wasted money on something you never used?
+5. Have you ever bought something and immediately regretted it?
+6. Have you ever inherited something from a relative?
+7. Have you ever taken out a loan from a bank?
+8. Have you ever lost a wallet or a bag?
+9. Have you ever bought something on Marketplace, MercadoLibre or a similar site?
 
 ### Present perfect continuous
 We use the present perfect continuous to talk about actions (waiting) that have happened over a period of time and are still happening.
@@ -236,3 +239,25 @@ Mention 2 things you or someone you know have been doing for a while.
 2) How long have you been doing it?
 3) When and how did it start?
 4) How do you feel about it?
+
+### Money Vocabulary
+**be worth**: Valer la pena
+**borrow**: Pedir prestado (de parte mia)
+**lent**: Pedir prestado o presto (de parte del otro)
+**owe**: Deber de dinero o algo
+**Raise**: Reacaudar
+**Charge**: Cobrar
+**Get into debt**: endeudarse
+**budget**: Presupuesto
+**Insurance**: Seguro
+**Loan**: Préstamo (pero como ninguna persona)
+**Mortgage**: Hipoteca
+**live off**: vivir de (dependiente.)
+**live on**: vivir de (independiente)
+**took out**: sacar de.
+## Vocabulary
+- **Recognize**: Idenficar, reconocer, admitir
+- **Belong**: pertenecer
+- **Immediate**: Cercano. (familiar)
+- **Extended family**: forma de llamar cuando tienes abuelos, tias, tios y primos
+- **Obey**: obedecer, cumplir, responder

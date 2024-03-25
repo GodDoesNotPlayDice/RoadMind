@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/React/React.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/React/React.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/React/React.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/React/React.md"
+                "file": "Year/Semester/Ingles/Summary.md"
               }
             }
           }
@@ -149,18 +149,21 @@
       "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "a31f0d9664e9e589",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
+    "Year/Semester/Ingles/Images/Pasted image 20240325003609.png",
+    "Untitled.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Tasks/March/24-03.md",
+    "Web/React/React.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240307150419.png",
     "Web/React/Estructura.md",
     "Web/React/Imagenes",
     "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
-    "Web/React/React.md",
     "Web/React/Tests.md",
     "Web/React/Videos.md",
     "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/Tasks/March/23-03.md",
-    "Year/Semester/Tasks/March/24-03.md",
     "Year/Semester/Tasks/March/16-03 y 17-03.md",
     "Year/Semester/Tasks/March/18-03.md",
     "Year/Semester/Tasks/March/19-03.md",
@@ -174,11 +177,9 @@
     "Year/Semester/MachineLearning/Images/Pasted image 20240323130356.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323125609.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323122902.png",
-    "Pasted image 20240323123243.png",
     "Year/Semester/BPM/Draws/Clase_4.md",
     "Year/Semester/Reminders/20-03.md",
     "Year/Semester/Reminders/15-3.md",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Tasks/March",
     "P.md",
     "Year/Semester/BPM/Draws/Clase_3.md",
@@ -190,7 +191,6 @@
     "2024-03-19.md",
     "Projects/MagerSegurosWeb/Note.md",
     "Projects/py-guncs2",
-    "Year/Semester/BPM/Summary.md",
     "Sales",
     "Year/Semester/Ingles/Images",
     "Year/Semester/Tasks",
