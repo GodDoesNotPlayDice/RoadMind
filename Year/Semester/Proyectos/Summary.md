@@ -142,28 +142,32 @@ Serán consumidos por la población o usuario final, se clasifican en 4
 #### Productos de Negocio
 Esto es, que se utilizan en la elaboración de un producto final o para la prestación de un servicio en particular, pero que no llegan al consumidor final, sino que son utilizados o transformados en un proceso productivo anterior.
 
-**Instalaciones**: edificios, maquinaria y cualquier otro bien de capital mayor.
-**Accesorios**: Son utilizados para el funcionamiento del proceso productivo y/o del equipo de trabajo que lo realiza, por
+**Instalaciones**: edificios, maquinaria y cualquier otro bien de capital mayor. (Infrastructura es la cual no puedo mover.)
+**Accesorios**: Son utilizados para el funcionamiento del proceso productivo y/o del equipo de trabajo que lo realiza (fungibles se consumen), por
 	**Ejemplo**: artículos de oficina o herramientas menores.
-**Materias primas**: Estas son las que se convierten, a través de una transformación en el proceso productivo, en parte del producto final que llegará al consumido.
+**Materias primas**: Estas son las que se convierten, a través de una transformación en el proceso productivo, en parte del producto final que llegará al consumido. (se consumen son basicas para poder construir: acero, semento)
 	**Ejemplo**: la tela en una fábrica de ropa.
-**Componentes**: Estos serán parte del producto final, pero no son transformados en el proceso productivo
+**Componentes**: Estos serán parte del producto final, pero no son transformados en el proceso productivo (partes de algun articulo: tornillo, turercas, ruedas.)
 	**Ejemplo**: una rueda en un Vehículo.
 
 #### Productos de duración y tangiblidad
 Esta clasificación tiene que ver con la cantidad de usos de un producto, su tiempo de duración y su tangibilidad.
 
 **No Duraderos**: Son aquellos que se consumen rápidamente
-	**Ejemplo**: Shampoo, bebidas
+- **Ejemplo**: Shampoo, bebidas
+
 **Duraderos**: Son aquellos que tienen mayor vida útil, y que por tanto pueden utilizarse muchas veces
-	**Ejemplo**: Electrodomésticos
+- **Ejemplo**: Electrodomésticos
+
 **Servicios**: Son productos intangibles y perecederos
-	**Ejemplo**: lavado de automovil.
+- **Ejemplo**: lavado de automóvil.
+
+**Ejemplos de intangibles**: los seguros, servicios funerarios, todos los servicios.
 
 #### Pasos para el estudio del mercado
-1) **Analisis historico del mercado :** El análisis del mercado histórico pretende reunir información estadística, anterior, generalmente publicada en medios escritos o estudios anteriores, sobre la demanda y oferta del producto
-2) **Analisis del mercado hoy :** El análisis del mercado hoy tiene que ver con el análisis actual y es el que se utiliza como base para la investigación de mercado, ya que determina la competencia actual, la demanda y ofertas actuales y el precio actual del producto que se está evaluando. 
-3) **Analisis de la proyección del mercado**: El análisis de la proyección del mercado, el cual se realiza basándose en los dos análisis anteriores, es el más relevante en un estudio de proyectos, ya que permite determinar la viabilidad de todo proyecto.
+1) **Análisis histórico del mercado :** El análisis del mercado histórico pretende reunir información estadística, anterior, generalmente publicada en medios escritos o estudios anteriores, sobre la demanda y oferta del producto
+2) **Análisis del mercado hoy :** El análisis del mercado hoy tiene que ver con el análisis actual y es el que se utiliza como base para la investigación de mercado, ya que determina la competencia actual, la demanda y ofertas actuales y el precio actual del producto que se está evaluando. 
+3) **Análisis de la proyección del mercado**: El análisis de la proyección del mercado, el cual se realiza basándose en los dos análisis anteriores, es el más relevante en un estudio de proyectos, ya que permite determinar la viabilidad de todo proyecto.
 	- Tiene relación con la proyección de la demanda, ingresos, costos y precios del producto en el tiempo.
 
 ![[Pasted image 20240313132619.png]]
@@ -221,7 +225,9 @@ En este caso la probabilidad no es la misma para todo el universo muestral, pues
 
 En evaluación de proyectos este es el tipo de muestreo más utilizado, puesto que el evaluador parte con una base de características del mercado y generalmente ya ha hecho alguna estratificación del mercado antes de comenzar esta parte del estudio.
 
-**Pueden ser**:
+**Ejemplo**: el Duoc busca educar a adultos jóvenes, y estratifica., en este caso tiran un rango de edad de 0 a 100 y el foco esta en 17 a 25 pero todos los otros valores son validos.
+
+**Pueden ser**: estratos (focalizando), convenencia (las universidades llendo al colegio pq es de convencia), bola de nieve (algo que se repite muchas veces).
 ![[Pasted image 20240316224447.png]]
 
 
@@ -250,3 +256,9 @@ Este mercado está conformado por todas aquellas organizaciones que se encargan 
 - **Distribución mixta:** Por ejemplo, tener camiones propios para trasladar el producto a un canal de venta o punto de distribución no propio.
 
 Se debe tener en cuenta que el producto puede competir por el canal de distribución con otro bien y/o servicio, por ejemplo, si mi producto es una pasta de dientes, puede competir por una cadena de supermercado o una empresa de transportes con un producto lácteo, es decir, no competir por el consumidor, pues no está enfocado a satisfacer una misma necesidad, pero sí por el distribuidor.
+
+
+## Empresas, Productos
+
+**Empresa sin fines de lucro**: es una entidad cuyo fin no es la persecución de un beneficio económico sino que principalmente persigue una finalidad social, altruista, humanitaria, artística o comunitaria.
+
