@@ -4,7 +4,7 @@
 
 ## Eating Habits
 
-**Pag 152**.
+**Pag 152, 6, 9**
 ### Vocabulary Food
 **Canned**: En conserva / enlatado
 **Fresh**: Fresco
@@ -36,35 +36,47 @@
 - I love it
 - I Hate it
 - I've never eaten it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Vocabulary Cooking
 **Fried**: Freir
 **Grilled**: A la parrilla
 **Steamed**: Al vapor
 **Roasted**: Asado rostizado
-**Bolied**: Hervido
+**Boiled**: Hervido
 **Baked**: Horneado
 
 ### Phrasal Verbs
 **Eat Out**: Comer afuera
 **Cut down**: Rebajar
 **Cut Out**: Quitar
+**Pizza topping**: ingredientes de pizza
+**Sandwich filling**: Relleno de sanguche
+**Take-out food**: comida pre preparada
+**Cheer yourself up**: Subir el animo
+
+### Dishes and words
+**Crab salad**: Ensalada de cangrejo
+**Grilled squid**: Calamar a la parrilla
+**A large carton of milk**: Caja grande de leche
+**Steamed green beans**: Porotos verdes al vapor
+**A good cook**: Buena cocina (haciendo referencia a lo cocinado)
+**Hot sausages**: Salchicha caliente
+**four forks**: cuatro tenedores
+**Tuna with zucchini**: Atun con zucchini
+
+### On typical day
+**Where do you usually have lunch?**: donde sueles almorzar
+**Have you ever cook?, What do you make**: has cocinado alguna vez, que hiciste?
+**Eating at home**: Comer en casa
+**Eating out**: Comer afuera
 
 
+### Nowadays/Right now (Preguntar a la profe)
+**What  vitamins or food supplements do you take right now?** : que tipo de vitaminas o suplementos estas tomando ahora (Habitual) (Are / taking : Ahora mismo en la acción)
 
+**What do you try to cut down on anything rightnow?**: Estas tratando de bajarle a algo (como habito empezado).
+### Agree and disagree
+**I agree / I don't agree / I disagree**: with that, with you
+**I think / I don't think / I think it depends**: that's true, you're right
 ### Questions Eat habits
 Is there any food or drink that you couldn’t live without? How often do you have it?
 - Yes, I couldn't live without lasagna because is my favorite dish and I love it, I eat once month
@@ -152,26 +164,77 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 **Reliable**: Confiable, Fiable
 ![[Pasted image 20240325003609.png]]
 ## Future forms
+**Arragements**: Use Iam + ving
 ![[Pasted image 20240317163500.png]]
-
-
-## Oder of birth influences personality
+![[Pasted image 20240330164604.png]]
+**be going to + base from**
+![[Pasted image 20240330164839.png]]
+**Predictions**
+![[Pasted image 20240330164948.png]]
+**Present continuous be + verb ing**
+![[Pasted image 20240330165236.png]]
+**instant decisions, promises, offers, predictions, future facts**
+![[Pasted image 20240330165631.png]]
+## Personality and Order births
 
 **Formas de decir el orden de los hijos**
-1) I'm the oldest child
-2) I'm the middle child
-3) I'm the youngest child
-4) I'm an only child
-
-### Vocabulary
+1) **I'm the oldest child:**  Cuida de sus hermanos menores **(look after their youngers)** usualmente es sensato y responsable, tienden a ser ambiciosos y buenos lideres, del lado malo pueden ser inseguros y ansiosos.
+2) **I'm the middle child:** Son mas relajados porque los padres ya se ocuparon mucho del primer hijo, son mas sociable y amables con todos usualmente son sensibles con las personas que lo necesitan porque creció en medio de sus hermanos mayores, por lo mismo el es muy bueno resolver conflictos y son mas empático con la persona del lado perdedor o de quien tiene los problemas, por otro lado suele se des ambicioso y falta de dirección en su vida
+3) **I'm the youngest child**: Son muy de salir y encantadores, ya que esto es la manera en la que reciben la atención de los padres y sus hermanos, es rebelde porque los padres no aplicaron la disciplina estricta, ademas ellos pueden ser inmaduros y desorganizados, y a menudo dependen mucho de la otra gente porque siempre serán los bebes de la familia
+4) **I'm an only child**: Le va super bien en la escuela porque siempre se ha relacionado con adultos, tiene todo el amor de sus padres, y es muy confiado, independiente ya que invierte mucho tiempo en si mismo, es muy organizado, y por otro lado también suelen ser egoístas y impacientes, especialmente cuando las cosas van mal, porque nunca lideraron con hermanos
+### Vocabulary phrasal verbs
 **Firstborn**: primer nacido
 **look after**: cuidar de/ ocuparse de
 **Tend to**: tiende a
 **get along with**: llevarse bien con
-**dealing with arguments**:
+**dealing with arguments**: lidiar con problemas
 **sympathetic**: empático.
+**Themselves**: así mismos.
+**Lack**: Falta (escasez)
 
-
+### Adjetives
+**Affectionate**: cariñoso, afectuoso
+**Ambitious**: ambicioso
+**Anxious**: Ansiedad
+**Bossy**: Mandon
+**Charming**: Encantador
+**Competitive**: Competitivo
+**Honest**: Honesto
+**Imaginative**: Imaginativo
+**Independent**: Independiente
+**Insecure**: Inseguro
+**Mature**: Maduro
+**Moody**: Cambiante de humor
+**Patient**: Paciente
+**Rebellious**: Rebelde
+**Reliable**: fiable
+**Self-confidente**: confiado
+**Selfish**: Egoísta
+**Sensible**: Sensato
+**Sensitive**: Sensible
+**Sociable**: Sociable
+**Spoiled**: Consentido
+**Stubborn**: Terco
+### Negative prefix
+**Common prefixes**: un-, in-, dis-
+**Before b, m and p**: in- and changes to -im
+**Before r**: ir-
+**Before l**: il-
+#### Examples:
+- Unambitious
+- unclean
+- unfriendly
+- dishonest
+- unimaginative
+- unkind
+- immature
+- unorganized
+- impatient
+- unreliable
+- irresponsable
+- unselfish
+- insensitive
+- unsociable
 ## Present Perfect
 **Characteristics**
 - Talk about life experience without details (Don't tell the time)
@@ -232,7 +295,7 @@ I’ve worked here **for 5 years, since 2017**
 ### Present Perfect continuous + “for” or “since”
 Mention 2 things you or someone you know have been doing for a while.
 
-**Example**: I have been studying computing engineering since 2020. Jorge has been working from home since the lockdown started.
+**Example**: I have been studying computing engineering since 2020. Jorge has been working from home since the lock down started.
 
 **Questions Speaking**
 1) What is it?
@@ -242,10 +305,10 @@ Mention 2 things you or someone you know have been doing for a while.
 
 ### Money Vocabulary
 **be worth**: Valer la pena
-**borrow**: Pedir prestado (de parte mia)
+**borrow**: Pedir prestado (de parte mía)
 **lent**: Pedir prestado o presto (de parte del otro)
 **owe**: Deber de dinero o algo
-**Raise**: Reacaudar
+**Raise**: Recaudar
 **Charge**: Cobrar
 **Get into debt**: endeudarse
 **budget**: Presupuesto
@@ -255,9 +318,57 @@ Mention 2 things you or someone you know have been doing for a while.
 **live off**: vivir de (dependiente.)
 **live on**: vivir de (independiente)
 **took out**: sacar de.
+**bought**: compro
+**inherit**: heredar
+**save**: ahorrar
+
 ## Vocabulary
-- **Recognize**: Idenficar, reconocer, admitir
+- **Recognize**: Identificar, reconocer, admitir
 - **Belong**: pertenecer
 - **Immediate**: Cercano. (familiar)
-- **Extended family**: forma de llamar cuando tienes abuelos, tias, tios y primos
+- **Extended family**: forma de llamar cuando tienes abuelos, tías, tíos y primos
 - **Obey**: obedecer, cumplir, responder
+## Changing lives
+
+### Vocabulary
+**Orphan**: Niño sin una madre o padre.
+
+## Strong Adjetives
+**Tired**: exhausted
+**Surprised**: amazed
+**Big**: huge
+**Cold**: freezing
+**Dirty**: filthy
+**Funny**: hilarious
+**Happy**: delighted
+**Hot**: boiling
+**Hungry**: starving
+**Interesting**: fascinating
+**Small**: tiny
+**Sure**: positive
+**Afraid**: terrified
+**Angry**: Afraid
+
+
+## Transportation
+### Vocabulary
+**Freeway**: carretera
+**Platform**: parada
+**Scooter**: moto-neta
+**Subway**: metro
+**Truck**: camión
+**Speed Camera**: cámara de velocidad
+**Pedestrian zone**: zona de peatones
+**Ticket**: multa (parking, speed)
+**Traffic Jam**: Taco
+**Taxi stand**: parada de los taxis
+**Road work**: ruta donde hombres trabajan
+**Rush hour**: hora pick
+**Bicycle lane**: Ciclovia
+
+### Transportation Phrasalverbs
+**Set off**: partir (salir a cierta hora)
+**pick me up**: recogerme
+**end up**: acabar (de terminar el viaje en un lado)
+**run out of**:  quedarse sin / agotar (algún recurso)
+**Look out**: Tener cuidado.

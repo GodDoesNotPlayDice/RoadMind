@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad8308eaae78388b",
+            "id": "8e7dbc947af8020e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Year/Semester/Tasks/March/27-03.md",
-                "mode": "source",
-                "source": false
+                "file": "Year/Semester/Ingles/Images/Pasted image 20240330165631.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Tasks/March/27-03.md",
+                "file": "Year/Semester/Ingles/Images/Pasted image 20240330165631.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Tasks/March/27-03.md",
+                "file": "Year/Semester/Ingles/Images/Pasted image 20240330165631.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Tasks/March/27-03.md"
+                "file": "Year/Semester/Ingles/Images/Pasted image 20240330165631.png"
               }
             }
           }
@@ -148,10 +146,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad8308eaae78388b",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
+    "Year/Semester/Ingles/Summary.md",
+    "Untitled.md",
+    "Year/Semester/Ingles/Images/Pasted image 20240330165631.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240330165236.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240330164948.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240330164839.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240330164604.png",
+    "Year/Semester/Tasks/March/30-03.md",
+    "Year/Semester/Tasks/March/31-03.md",
     "Year/Semester/MachineLearning/Draws/Clase_3.md",
-    "Year/Semester/Tasks/March/27-03.md",
     "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/MachineLearning/Draws/Sin título",
@@ -167,14 +173,8 @@
     "Year/Semester/MachineLearning/Images/Pasted image 20240323130757.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323130556.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240323130505.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240323130356.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240323125609.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240323122902.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240323122738.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240323122646.png",
     "Web/React/Imagenes",
     "Year/Semester/BPM/Draws/Clase_4.md",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Tasks/March/22-03.md",
     "Year/Semester/Tasks/March/21-03.md",
     "Year/Semester/Tasks/March/20-03.md",
@@ -186,8 +186,6 @@
     "Web/React/Tests.md",
     "Year/Semester/Tasks/21-03.md",
     "Sin título.md",
-    "Year/Semester/Tasks/20-03.md",
-    "Year/Semester/Tasks/18-03.md",
     "Projects/py-kmuda",
     "Projects/py-guncs2",
     "Sales",
