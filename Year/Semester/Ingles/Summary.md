@@ -347,7 +347,7 @@ Mention 2 things you or someone you know have been doing for a while.
 **Small**: tiny
 **Sure**: positive
 **Afraid**: terrified
-**Angry**: Afraid
+**Angry**: furious
 
 
 ## Transportation
