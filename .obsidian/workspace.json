@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/Tasks/April/1-04.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "428fde94bfe209aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/MachineLearning/Draws/Clase_4.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/MachineLearning/Draws/Clase_4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/MachineLearning/Draws/Clase_4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md"
+                "file": "Year/Semester/MachineLearning/Draws/Clase_4.md"
               }
             }
           }
@@ -148,19 +159,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e7dbc947af8020e",
+  "active": "428fde94bfe209aa",
   "lastOpenFiles": [
+    "Year/Semester/Tasks/April/1-04.md",
+    "Year/Semester/MachineLearning/Draws/Clase_4.md",
+    "Year/Semester/Plataformas/Evaluación-1.md",
+    "Year/Semester/Plataformas/Draws/Arbol de Roles de la Empresa.md",
+    "Year/Semester/Plataformas/Draws/Vista-Cliente.md",
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/Tasks/April/2-04.md",
     "Year/Semester/Tasks/March/31-03.md",
-    "Year/Semester/Tasks/March/30-03.md",
+    "Year/Semester/Tasks/April",
     "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Tasks/March/30-03.md",
     "Year/Semester/Ingles/Images/Pasted image 20240330165631.png",
-    "Untitled.md",
     "Year/Semester/Ingles/Images/Pasted image 20240330165236.png",
     "Year/Semester/Ingles/Images/Pasted image 20240330164948.png",
     "Year/Semester/Ingles/Images/Pasted image 20240330164839.png",
     "Year/Semester/Ingles/Images/Pasted image 20240330164604.png",
     "Year/Semester/MachineLearning/Draws/Clase_3.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/MachineLearning/Draws/Sin título",
     "Year/Semester/Plataformas/Draws/Clase_1.md",
@@ -183,10 +200,6 @@
     "Year/Semester/Tasks/March/16-03 y 17-03.md",
     "Year/Semester/Reminders/20-03.md",
     "Year/Semester/Reminders/15-3.md",
-    "Web/React/React.md",
-    "Web/React/Videos.md",
-    "Web/React/Tests.md",
-    "Year/Semester/Tasks/21-03.md",
     "Projects/py-kmuda",
     "Projects/py-guncs2",
     "Sales",
@@ -194,7 +207,6 @@
     "Year/Semester/Tasks",
     "Year/Semester/Reminders",
     "Excalidraw",
-    "Year/Semester/BPM/Draws",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
