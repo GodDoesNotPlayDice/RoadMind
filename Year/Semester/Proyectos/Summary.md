@@ -258,7 +258,85 @@ Este mercado está conformado por todas aquellas organizaciones que se encargan 
 Se debe tener en cuenta que el producto puede competir por el canal de distribución con otro bien y/o servicio, por ejemplo, si mi producto es una pasta de dientes, puede competir por una cadena de supermercado o una empresa de transportes con un producto lácteo, es decir, no competir por el consumidor, pues no está enfocado a satisfacer una misma necesidad, pero sí por el distribuidor.
 
 
-## Empresas, Productos
+### Empresas, Productos
 
 **Empresa sin fines de lucro**: es una entidad cuyo fin no es la persecución de un beneficio económico sino que principalmente persigue una finalidad social, altruista, humanitaria, artística o comunitaria.
 
+## Estudio Técnico de un Proyecto
+El estudio técnico se enfoca en determinar el análisis organizativo, administrativo y legal del proyecto, que permitan determinar factores vinculados con los recursos para el óptimo desarrollo del proyecto informático.
+
+**Debe responder a:**
+1) Qué.
+2) Cómo.
+3) Cuándo.
+4) Dónde.
+5) Quienes
+
+### Objetivos
+Este estudio pretende identificar la factibilidad de la creación del proyecto en base a las tecnologías y conocimientos existentes para su realización, hay espacios donde no hay conocimiento y si no hay conocimiento no es factible.
+
+1) Verificar la posibilidad técnica de la fabricación del producto o servicio.
+2) Analizar y determinar factores como instalaciones, equipos y organización que permitan el desarrollo del producto
+
+#### Desde el punto de vista de un proyecto informático, el estudio técnico deberá:
+- Definir la plataforma hardware. (capa mas externa, donde va funcionar el hardware)
+- Sistema de administración o bases de datos. (capa intermedia, el motor de base de datos, MySql, Oracle, etc)
+- Definir toda la arquitectura del sistema. (definir toda la arquitectura)
+
+#### Con este estudio podríamos solucionar interrogantes como:
+¿Existe actualmente la tecnología que permita desarrollar el proyecto?
+- Técnico, RRHH, Dinero (Tiene que haber decision política osea que el jefe no da el visto bueno no sirve de nada).
+¿Si existe la tecnología, ¿podré tener acceso a ella?
+- Si aunque algunas veces no (Reconocer objetos con IA ).
+¿Existe personal adecuado, con los conocimientos técnicos para el desarrollo del proyecto?
+- Hay personal para la tecnología anterior.
+Si no poseo el personal adecuado. ¿Podré capacitarlos para obtenerlos?
+- Si obvio que si.
+
+#### En base a este estudio podemos obtener información relacionada con aspectos como:
+Mejorará la producción y disminuirá los costos asociados al proyecto. También permitirá una ventaja competitiva en relación a la pronta respuesta ante eventos que puedan ocurrir en cualquiera de las etapas del proyecto, trazando una mejor comercialización y aceptación por parte del cliente.
+
+
+1) Recursos humanos. (Se necesita )
+2) Recursos materiales.
+3) Descripción geográfica. (Si afecta la geografía donde se instala. (demanda, cercanía de elaboración) )
+4) Infraestructura.
+5) Aspectos legales. (Si no se puede hacer en aspectos legales es imposible realizar los pasos anteriores)
+##### Recursos Humanos
+El estudio técnico debe determinar los recursos humanos existentes en el proyecto, siendo este punto uno de los mas relevantes debido a la sensibilidad del recurso y su importancia en la elaboración del producto o servicio. Para este punto debemos determinar
+
+- **Determinación de cargos para el proyecto.** (Perfiles que necesito, roles)
+- **Organización de los recursos humanos en base a cargos y actividades** (Como organizar los roles, por tiempo, de manera gradual)
+- **Aspectos legales para la contratación de personal** (Empleados?, Servicios especializados?)
+
+##### Recursos Materiales
+Estos recursos se deben establecer en la base de las actividades que se desean desarrollar y el tipo de proyecto  informático a crear. Algunos recursos a considerar
+
+- **Aplicaciones para el desarrollo del proyecto** (SGBD, lenguaje de programación)uh 
+- **Materiales de Hardware** (Computadores, impresoras, orientado a la nube)
+- **Recursos adicionales** (Medios de transporte, mobiliario)
+- **Recursos en conectividad** (Servidores, Internet, Telefonía)
+
+##### Descripción geográfica
+Todo proyecto necesita de una ubicación para su realización, por lo general basándose en su futura comercialización. Además, se deben considerar los aspectos legales de la ubicación geográfica deseada. Los aspectos a considerar para este punto son
+
+- **Aspectos legales que permitan el desarrollo del proyecto.** (Dan garantías en lugares que favorecen el proyecto)
+- **Insumos de producción cercanos o de fácil acceso a la ubicación de producción**. (Que necesito para hacer el proyecto, ejemplo de la unversidades de ingeniera en valpo hay hartas por lo cual hay mucho informatico buscando pega).
+- **Ubicación estratégica para fácil transporte en su comercialización y post venta.** (La electricidad la conectividad pero hoy en día es mas habitual que haya.)
+- **Espacio de trabajo acorde a lo que se va a desarrollar.** (En que lado se ubicara o deplegara la empresa con el proyecto.)
+- **Mano de obra local, acorde a las necesidades del proyecto**
+
+##### Infrastructura
+Muy relacionado con el punto anterior, la infraestructura es un punto importante que nos permitirá desarrollar nuestro proyecto de manera correcta. La infraestructura se específica como el espacio de trabajo donde desarrollaremos, pero además, deben existir los servicios básicos necesarios para nuestro desarrollo. Por ejemplo, el servicio de Internet debe ser de excelente calidad para la cantidad de equipos con los cuales se estará trabajando.
+
+- **Espacio de trabajo acorde a las necesidades del proyecto.** (Decir como van a trabajar la gente del proyecto, ejemplo: cuanto metros cuadrados necesito para meter 50 esclavos)
+- **Servicios básicos necesarios para la gestión y producción.** (Transporte, alimentacion, servicios de electricidad)
+- **Ubicación estratégica para los trabajadores y clientes.** (Donde estar, y que quede cerca)
+
+
+##### Aspectos Legales
+Punto a considerar dentro del aspecto técnico de mucha relevancia. Si existen aspectos legales que impidan el desarrollo del proyecto en la ubicación geográfica donde me encuentro, en algunas ocasiones es mejor desistir del proyecto hasta que existan alternativas legales que permitan su desarrollo.
+
+- **Constitución de empresa en el caso de no ser una y que sea requisito para el proyecto.** (Crean una empresa para un proyecto muy grande lo emerita)
+- **Contratos de prestación de servicios, de arriendo o venta de un producto.** (Tema legal para contrataciones)
+- **Aspectos legales en relación al equipo de trabajo** (Contratos, boletas de honorarios, permisos administrativos, entre otros).

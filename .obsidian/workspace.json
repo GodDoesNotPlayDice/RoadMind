@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Tasks/April/1-04.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Tasks/April/1-04.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Tasks/April/1-04.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Tasks/April/1-04.md"
+                "file": "Year/Semester/Proyectos/Summary.md"
               }
             }
           }
@@ -150,6 +151,7 @@
   },
   "active": "8e7dbc947af8020e",
   "lastOpenFiles": [
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Tasks/April/2-04.md",
     "Year/Semester/Tasks/April/1-04.md",
     "Year/Semester/Ingles/Images/Pasted image 20240401211051.png",
@@ -163,7 +165,6 @@
     "Year/Semester/Plataformas/Evaluación-1.md",
     "Year/Semester/Plataformas/Draws/Arbol de Roles de la Empresa.md",
     "Year/Semester/Plataformas/Draws/Vista-Cliente.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Tasks/March/31-03.md",
     "Year/Semester/Tasks/April",
     "Year/Semester/Tasks/March/30-03.md",
