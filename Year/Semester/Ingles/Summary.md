@@ -372,3 +372,157 @@ Mention 2 things you or someone you know have been doing for a while.
 **end up**: acabar (de terminar el viaje en un lado)
 **run out of**:  quedarse sin / agotar (algún recurso)
 **Look out**: Tener cuidado.
+
+
+## Comparative and superlatives
+### Comparative Forms
+- Esto sirve para comparar cosas, lugares o personas.
+	- Comparative Adjetives
+	- Comparative Adverbs
+	- less (adjetive/adverb) than
+	- (not) as (adjetive/adverb) as
+
+#### C. Adjetives
+- Estos adjetivos recordemos que son comparativos por lo que despues de cada uno de ellos viene un than estos son para calificar un sustantivo o pronombres, para dar mas informacion de ellos.
+1) **Syllable:** los de una silaba suelen repetirse su ultima letra.
+	- Bigger, Thinner, Hotter (Big, Hot, Thin)
+	- This day was hotter than yesterday
+2) **Y - Endings**: los que terminan en Y suelen usar **ier** al final remplazando la y
+	- Happier, Prettier, Friendlier, busier
+	- The next week I'll be busier than this week
+3) **2 or more syllables**: Usualmente estos se usan con more y al final than para comaprar.
+	-  Beautiful, Interesting, Comfortable, Expensive, Cheap (todo despues un than)
+	- She's more beautiful than you.
+5) **Irregular**: Los irregulares se usan igual que los de silaba usando solo el than
+	- better, worse, farther, less, more
+	- You are better than others
+	- Their horses are worse than his horse.
+- The you store is farther than my store.
+![[Pasted image 20240401211013.png]]
+
+### C. adverbs
+- Los adbervios comparativos son algo diferentes porque estamos modificando un verbo y describiendo algo o alguien.
+	- **Regular**: Quickly, Slowly, Frequently, Carefully, Easily, Loudly
+		- The car moved quickly on the highway
+		- She solved the problem easily
+		- He cut the papaer carefully.
+		- He has completely done his work.
+		- He runs faster than his friend
+		- She walked more slowly than usual
+		- They finished the race more quickly than expected
+		- The music played more loudly than I expected
+	- **Irregular**: Better, Worse, Less, More, Farther, Later,
+		- She plays the piano better than he does
+		- His results were worse than we expected
+		- He has more experience in that field
+		- You car is father than my car.
+![[Pasted image 20240401211051.png]]
+### Comparatives (adjetives and adverbs)
+**![](https://lh7-us.googleusercontent.com/jdNDjWkmXY-O71-C41vV7r6b-DfX2PzRDR9kbcGORnrwZ-5ODc9kpildDqlYjwlG9qf50GEcN7Nf_CuodAqZsDY9oLaiNe2Md2Ybosgm4vS-O8KXr2fAYArqjh0NtFcm6SfojJ0mJcH7BAFZiRwczop-yg=s2048)**
+
+**![](https://lh7-us.googleusercontent.com/9B8u09CKaDGE7ucVTlHxlDrKeTXdhj_p715T6QvK72xYs6cGRJAH2-NvYCO5fYPBHAD-7m7oZcXkjMM6LFx73KT9Zpo0y6LkI2m2e0qgMFO7MwhydR9fL8QaB-ifczsleCyt8bgcqOvgbO9EKvjW-g14IA=s2048)**
+
+
+### C.less
+- Less es para expresar que algo es pequeño o menor a algo.
+	- **Adjetive:** 
+		- My bag is less heavy than yours
+		- I'm less stressed than last week
+	- **Adverbs**: 
+		- They arrive less quickly now
+		- You need to work less hard
+
+### Comparative as as
+Un simple ejemplo es:
+Cube A as isn't as big as cube B, Cube B is bigger.
+![[Pasted image 20240401185800.png]]
+- Se utiliza en comparativos para expresar que algo no es igual de algo como se esperaba o se compara con algo diferente.
+	- She is not as tall as her sister
+	- The movie is not as interesting as the one we saw last night.
+	- His performance was not as goof as i had hoped.
+	- The new restaurant is not as expensive as the one downtown.
+![[Pasted image 20240401203400.png]]
+### Superlatives adjetives
+Un superlativo es una expresion para decir lo mas grande a diferencia de los comparativos.
+- Se caracteriza por siempre usar The al inicio y est pero en alguno no y se ocupa el most.
+- Se usa para destacar un objeto.
+
+Brazil is the **biggest** country in South America.
+
+**![](https://lh7-us.googleusercontent.com/IBH66k4XO8OTdzPUjVvP_6nw9oPOvNDeyzyLTJDiroVh4B83cVUkt9e6jkzg7_zQRp_xZL4mizZSG6Tc1ibrf-Evlmfjnh3qVWBiTCdwes6fV-b_VKCMTs2Ucky95yFKMEnApK4xdbp5sFIjswrST1rDVA=s2048)![](https://lh7-us.googleusercontent.com/6eik-ovYsMH2mpCgabckn8OP8Wat1Xm_5MBy8vPIqWdUKlOyE_3uJ7Jo2cpwffw7J-RfsU8ldialMlC6fOrwNXtr_jwPE1864s__Y9LnNDZtp_gHMN2ZdCWj3rsWXpEzs6RYktG5cErPqsiPhhyI8QuaJg=s2048)**
+
+
+| Superlativo     | Significado    |
+| --------------- | -------------- |
+| Best            | Mejor          |
+| Worst           | Peor           |
+| Biggest         | Más grande     |
+| Smallest        | Más pequeño    |
+| Fastest         | Más rápido     |
+| Slowest         | Más lento      |
+| Tallest         | Más alto       |
+| Shortest        | Más bajo       |
+| Strongest       | Más fuerte     |
+| Weakest         | Más débil      |
+| Most Beautiful  | Más hermoso    |
+| Most Ugly       | Más feo        |
+| Most Expensive  | Más caro       |
+| Least Expensive | Menos caro     |
+| Most Dangerous  | Más peligroso  |
+| Safest          | Más seguro     |
+| Happiest        | Más feliz      |
+| Saddest         | Más triste     |
+| Most Delicious  | Más delicioso  |
+| Most Important  | Más importante |
+
+## Prepositions
+### Preposiciones de lugar
+![[Pasted image 20240401191548.png]]
+
+### Preposiciones de tiempo y lugar de todo
+
+#### With
+La traducción más habitual de **la preposición _with_ es con**. Pero hay que tener en cuenta que la preposición _with_ en inglés **se utiliza para formar numerosos _phrasal verbs_**, y el uso de la preposición con un verbo hace que cambie el significado de ambas palabras.
+
+##### Verbos phrasales con with
+**_As with_** _any town, there is a lot of gossip._ (así como sucede con)
+_I don’t feel_ **_at ease with_** _him._ (cómodo/a)
+_You are always_ **_at war with_** _me!_ (en guerra con)
+_James **agreed with** his wife about the color of the curtains._ (coincidió)
+_I will **break up with** my boyfriend after Christmas._ (Cortaré con)
+_Susan **came down with** a cold during her summer holidays._ (pillar un resfriado)
+_You should_ **_get on with_** _him_ (llevarse bien con alguien; seguir adelante con algo)
+_You won’t_ **_get away with_** _it again._ (librarse de un castigo).
+_It’s very difficult to_ **_keep up with_** _his pace._ (seguir el ritmo).
+_I cannot_ **_put up with_** _that noise!_ (soportar, aguantar, tolerar).
+_The gang had to_ **_do away with_** _him as he was very rebellious._  (eliminar algo, prescindir de algo; deshacerse de alguien o cargarse a alguien “matar”).
+_I wouldn’t_ **_go along with_** _his excuses!_  (aceptar algo pero con resignación).
+_My house was_ **_abound with_** _bedbugs._ (rebosar de, repleta de).
+
+##### From the book
+I never **argue with** my husband about money (discutir con)
+She is really **angry with** her boyfriend about last night (enojada con)
+
+#### About
+About podemos tratarla como **acerca/sobre** de algún tema, hora, lugar y también de **alrededor**.
+**Ejemplos**:
+- _Sara had written an article_ _about_ _divorce._ (sobre su divorcio)
+- _Let me tell you_ _about_ _my proposal._ (sobre mi propuesta)
+- _The doctor will come in_ _about_ _an hour._ (alrededor de una hora.)
+- _They promised to be here_ _about_ _Thursday._ (alrededor del jueves.)
+
+**Ejemplos de tiempo**
+**about + verbo en infinitivo**: A punto de.
+- _The class is about to finish._ (Esta clase está a punto de terminar.)
+**Añadiendo _at_ delante_,_ querríamos decir “aproximadamente a las. . .”** 
+- _I need to eat at about 14:00._ (Necesito comer sobre las 14:00)
+**Refiriéndonos a lugar, se traduce como "por todas partes".**
+- _The baby is walking about._ (El bebe está andando por todas partes.
+**Para hablar de qué trata un libro, obra, película, etc.** 
+- _This book is about a French artist._ (Este libro trata de un artista francés.)
+**En frases hechas o “_idioms”._**
+- _What about your friend?_ (¿Qué hay de tu amigo?)
+
+#### In , On, At
+![[Pasted image 20240401203020.png]]
+

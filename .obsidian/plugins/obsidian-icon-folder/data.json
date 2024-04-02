@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
       "IbTreeMapDown",
       "BoBxsFileDoc",
       "LiFolder",
-      "RiYoutubeFill",
-      "LiPen"
+      "RiYoutubeFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -148,5 +148,7 @@
   "Year/Semester/Plataformas/Evaluación-1.md": "RiFile3Fill",
   "Year/Semester/Plataformas/Draws/Vista-Cliente.md": "LiPen",
   "Year/Semester/Plataformas/Draws/Arbol de Roles de la Empresa.md": "IbTreeMapDown",
-  "Year/Semester/MachineLearning/Draws/Clase_4.md": "LiPen"
+  "Year/Semester/MachineLearning/Draws/Clase_4.md": "LiPen",
+  "Year/Semester/Tasks/April/1-04.md": "LiFile",
+  "Year/Semester/Tasks/April/2-04.md": "LiFile"
 }
