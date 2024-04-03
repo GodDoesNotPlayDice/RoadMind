@@ -484,7 +484,13 @@ Brazil is the **biggest** country in South America.
 ### Preposiciones de tiempo y lugar de todo
 
 #### With
+
 La traducción más habitual de **la preposición _with_ es con**. Pero hay que tener en cuenta que la preposición _with_ en inglés **se utiliza para formar numerosos _phrasal verbs_**, y el uso de la preposición con un verbo hace que cambie el significado de ambas palabras.
+
+Se usa "with" para expresar la causa o razón de algo.
+
+Se utiliza "with" porque describe una sensación de satisfacción o contentamiento en relación con el sofá.
+
 
 ##### Verbos phrasales con with
 **_As with_** _any town, there is a lot of gossip._ (así como sucede con)
@@ -507,6 +513,10 @@ She is really **angry with** her boyfriend about last night (enojada con)
 
 #### About
 About podemos tratarla como **acerca/sobre** de algún tema, hora, lugar y también de **alrededor**.
+**The children are very excited about going to the concert.**
+- En esta oración, "about" es la preposición más adecuada **para transmitir el sentido de emoción o entusiasmo** hacia la acción de ir al concierto.
+
+
 **Ejemplos**:
 - _Sara had written an article_ _about_ _divorce._ (sobre su divorcio)
 - _Let me tell you_ _about_ _my proposal._ (sobre mi propuesta)
@@ -527,11 +537,18 @@ About podemos tratarla como **acerca/sobre** de algún tema, hora, lugar y tambi
 
 #### For
 La preposición “**for”** se usa para expresar la duración de una acción, el periodo de una acción o un evento.
+
 **Ejemplos**: 
 1) “I’ve lived here **for** 8 months”. He vivido aquí durante 8 meses.
 2)  “She was waiting for him **for** five years”. Ella lo estuvo esperando durante cinco años.
 3) “We haven’t seen each other **for** a long time”. No nos hemos visto en un buen tiempo.
 4) “How long will you go there **for**?” ¿Por cuánto tiempo vas a ir allí?
+
+
+#### From
+"from" se utiliza para indicar la comparación entre dos cosas o personas diferentes.
+
+
 
 #### Since
 La preposición **“since”** se usa para indicar un momento a partir del cual la acción continúa.
@@ -551,6 +568,10 @@ La preposición “**during”** se usa con sustantivos y muestra que algo ocur
 
 #### Of
 Podemos traducirlo en (de o en) depende de la palabra anterior
+**A lot of people are scared of spiders.**
+- "Of" se usa para expresar posesión, pertenencia o relación
+
+
 
 **Become of**: pasar de suceder
 **Consist of**: consiste en
@@ -570,6 +591,10 @@ Podemos traducirlo en (de o en) depende de la palabra anterior
 #### In , On, At
 ![[Pasted image 20240401203020.png]]
 
+#### To
+**Matrimonial**: "to" en esta oración se debe a la estructura comúnmente utilizada para expresar la relación matrimonial en inglés. Cuando hablamos de matrimonio en inglés, utilizamos la preposición "to" para conectar el nombre de la persona que está casada con el nombre de su cónyuge.
+
+Se puede usar **"to"** porque indica la dirección de la acción.
 
 ## Stereotypes - or are they?
 **What is a stereotype?**

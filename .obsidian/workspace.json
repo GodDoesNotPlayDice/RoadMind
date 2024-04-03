@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e7dbc947af8020e",
+            "id": "1e307acdc90863a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Tasks/April/2-04.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e307acdc90863a7",
+            "id": "95b52b7bb12381ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Tasks/April/2-04.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Tasks/April/2-04.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Tasks/April/2-04.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Tasks/April/2-04.md"
+                "file": "Year/Semester/Ingles/Summary.md"
               }
             }
           }
@@ -161,17 +161,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e307acdc90863a7",
+  "active": "95b52b7bb12381ce",
   "lastOpenFiles": [
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Proyectos/Images/Pasted image 20240403085248.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240403084623.png",
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/Tasks/April/3-04.md",
+    "Year/Semester/Tasks/April/2-04.md",
     "Year/Semester/Tasks/April/1-04.md",
     "Year/Semester/Ingles/Images/Pasted image 20240402165119.png",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Ingles/Images/Pasted image 20240402165139.png",
-    "Year/Semester/Tasks/April/2-04.md",
-    "Year/Semester/Tasks/April/3-04.md",
     "Year/Semester/Plataformas/Draws/Arbol de Roles de la Empresa.md",
-    "Year/Semester/Proyectos/Summary.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Ingles/Images/Pasted image 20240401211051.png",
     "Year/Semester/Ingles/Images/Pasted image 20240401211013.png",
     "Year/Semester/Ingles/Images/Pasted image 20240401203400.png",
@@ -184,8 +186,6 @@
     "Year/Semester/Tasks/March/31-03.md",
     "Year/Semester/Tasks/April",
     "Year/Semester/Tasks/March/30-03.md",
-    "Year/Semester/Ingles/Images/Pasted image 20240330165631.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240330165236.png",
     "Year/Semester/MachineLearning/Draws/Clase_3.md",
     "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/MachineLearning/Draws/Sin título",

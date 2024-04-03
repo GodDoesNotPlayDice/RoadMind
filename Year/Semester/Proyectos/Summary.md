@@ -340,3 +340,45 @@ Punto a considerar dentro del aspecto técnico de mucha relevancia. Si existen a
 - **Constitución de empresa en el caso de no ser una y que sea requisito para el proyecto.** (Crean una empresa para un proyecto muy grande lo emerita)
 - **Contratos de prestación de servicios, de arriendo o venta de un producto.** (Tema legal para contrataciones)
 - **Aspectos legales en relación al equipo de trabajo** (Contratos, boletas de honorarios, permisos administrativos, entre otros).
+
+
+
+
+## Proceso Productivo y Técnicas de Planificación
+### Ingeniería de Producción
+En palabras simples, es el proceso de transformación de entradas, o materias primas o insumos, en salidas o productos, es decir, cómo se debe producir el bien y/o servicio que se está evaluando.
+![[Pasted image 20240403084623.png]]
+
+**Entrada**: Materias primas y suministros. Lo que se requiere para la elaboración del producto.
+**Proceso productivo**: Mano de obra y equipos; tecnología y procesos. Esto es el proceso de transformación de las entradas (Bien de capital la maquina que nos permite trasformar, mientras mas proceso productivo la economía crece.)
+**Salida**: Productos y residuos o desechos. Es decir, lo que se obtiene luego del proceso.
+
+
+### Función de Producción (Qué) y Proceso Productivo (Cómo)
+Corresponde a la primera parte del esquema, es decir, a las entradas o insumos necesarios para la realización del producto; el qué se necesita para producir el bien y/o servicio y en qué cantidad. Se busca eficiencia y eficacia en el uso de recursos, por lo que se debe determinar la cantidad óptima de entradas. 
+
+**Ejemplo**: La importancia de conocer el proceso productivo que se utilizará radica en que influirá directamente en las inversiones, costos e ingresos del proyecto, por ejemplo, la cantidad de equipos que se deberá comprar para producir un determinado bien. El criterio de selección para la tecnología tiene que ver con determinar aquella que tenga el menor valor actualizado de sus costos
+
+#### Clasificación
+
+**Según flujo**:  El proceso puede ser en serie, por pedido o por proyecto. 
+**Según tipo de producto**: El proceso puede ser en función de los bienes o en función de los servicios que se van a producir. 
+
+
+### Costos
+Los costos totales se obtienen sumando los costos fijos y los costos variables asociados a la tecnología evaluada.
+
+**Costo fijo**: es algo que estas pagando siempre y no genera ninguna ganacia si no se ocupa.
+![[Pasted image 20240403085248.png]]
+
+
+### Programación del proyecto
+Tiene que ver con fechas, plazos, calendario y cronograma de las actividades de un proyecto, permitiendo saber fechas de inicio y término, prever distintas situaciones que puedan retrasar el proyecto, optimizar el uso de recursos, evitar tiempos y recursos ociosos, y minimizar costos. 
+
+No es más que establecer un calendario de ejecución del proyecto, mostrando actividades, tiempos y relaciones. 
+
+#### Métodos de programación
+1) Diagrama de barras como la Carta Gantt
+2) Diagrama de redes como el Método CPM (Critical Path Method), 
+3) Malla Pert (Program Evaluation and Review Technique) 
+4) Bloques.
