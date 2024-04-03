@@ -328,6 +328,8 @@ Mention 2 things you or someone you know have been doing for a while.
 - **Immediate**: Cercano. (familiar)
 - **Extended family**: forma de llamar cuando tienes abuelos, tías, tíos y primos
 - **Obey**: obedecer, cumplir, responder
+- **Fond**: Tener cariño por
+- **Proud**: Orgulloso
 ## Changing lives
 
 ### Vocabulary
@@ -523,6 +525,61 @@ About podemos tratarla como **acerca/sobre** de algún tema, hora, lugar y tambi
 **En frases hechas o “_idioms”._**
 - _What about your friend?_ (¿Qué hay de tu amigo?)
 
+#### For
+La preposición “**for”** se usa para expresar la duración de una acción, el periodo de una acción o un evento.
+**Ejemplos**: 
+1) “I’ve lived here **for** 8 months”. He vivido aquí durante 8 meses.
+2)  “She was waiting for him **for** five years”. Ella lo estuvo esperando durante cinco años.
+3) “We haven’t seen each other **for** a long time”. No nos hemos visto en un buen tiempo.
+4) “How long will you go there **for**?” ¿Por cuánto tiempo vas a ir allí?
+
+#### Since
+La preposición **“since”** se usa para indicar un momento a partir del cual la acción continúa.
+**Ejemplos**:
+1) “I haven’t seen them **since** 2012”. No los he visto desde el 2012.
+2) “It has been raining **since** morning”. Ha estado lloviendo desde la mañana.
+3) “You haven’t talked about that **since** Jake left”. No has hablado sobre eso desde que Jack se marchó.
+4) “Those people have been in the USA **since** 1998”. Esas personas han estado en los EE.UU. desde 1998.
+5) “**Since** we met, I haven’t stopped thinking of you”. Desde que nos conocimos, no he parado de pensar en ti.
+
+#### During
+La preposición “**during”** se usa con sustantivos y muestra que algo ocurre dentro de un periodo específico de tiempo.
+
+**Ejemplos**:
+“He fell asleep **during the film**. He was asleep for half an hour”. Él se durmió durante la película. Estuvo dormido por media hora.
+
+
+#### Of
+Podemos traducirlo en (de o en) depende de la palabra anterior
+
+**Become of**: pasar de suceder
+**Consist of**: consiste en
+**A bit of**: un poco de / toque de
+**A number of**: un numero de / varios
+**Sort of**: mas o menos 
+**In terms of**: En términos de
+**Reminds me of**: recordarme en
+**A couple of**: un par de
+**Instead of**: en vez de
+**A range of**: en un rango de, muchos de
+**Out of**: de cada
+**On the basis of**: en la base de
+**Kind of**: Un poco, Algo
+
+
 #### In , On, At
 ![[Pasted image 20240401203020.png]]
+
+
+## Stereotypes - or are they?
+**What is a stereotype?**
+**Name some stereotypes you can notice in our society**
+
+## a / an / the / no articles
+
+**A / AN**
+![[Pasted image 20240402165119.png]]
+
+**The**
+![[Pasted image 20240402165139.png]]
 
