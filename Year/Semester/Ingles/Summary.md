@@ -81,7 +81,7 @@
 Is there any food or drink that you couldn’t live without? How often do you have it?
 - Yes, I couldn't live without lasagna because is my favorite dish and I love it, I eat once month
 **Is there anything you don’t eat? Why?**
-- I don't eat pea because i don't like for their flavor and texture
+- I don't eat pea because i don't like for their taste and texture
 **Are you allergic or intolerant to any kind of food? How long have you had that problem?**
 - yes I'm whole milk intolerant because that make me stomach hurts, I'm Intolerant since I was kid.
 **What’s your favorite dish? Snack? Pizza topping? Sandwich filling?**
@@ -248,16 +248,20 @@ Verbs expressing states or feelings such as **love, hate, like, want, enjoy, bel
 **![](https://lh7-us.googleusercontent.com/dqYeCwBYvWqGIWaNWhhjmsRAiM52u5Xcd2dK_0WZEFnMuAOUvLaA52F3xSvnSd36tjCvn2UuM02U0vrvzAbREponkqupd5oAISTOESvgz22-MPRFYPaYp30LoDPUAZawp8lsXWcUYwdJCoNjFZ2ty7bOJA=s2048)**
 
 1. Have you ever found money on the street or won money in a contest?  
-	-  
-1. Have you or someone you know ever been scammed or robbed? 
-2. Have you ever saved money for a long time for buying something?
-3. Have you ever lent money to somebody and who never paid you back?
-4. Have you ever wasted money on something you never used?
-5. Have you ever bought something and immediately regretted it?
-6. Have you ever inherited something from a relative?
-7. Have you ever taken out a loan from a bank?
-8. Have you ever lost a wallet or a bag?
-9. Have you ever bought something on Marketplace, MercadoLibre or a similar site?
+	-  **Yes I have, just a time i found a twenty lucas on the floor leaving from MacDonald**
+1. Have you or someone you know ever been scammed or robbed?
+	- **Yes I have, Twice times somebody scammed me, how?, okay one time I did join to scam page as real page but isn't was it, so I entered my credentials and then they scammed all objects from game that in that time i played**
+1. Have you ever saved money for a long time for buying something?
+	- **Yes, I have. Twice times somebody scammed me. How? Okay,  one time I did join the scam page as a real page, but wasn't it? So I entered my credentials, and then they scammed all objects from the game that I was playing at that time.**
+2. Have you ever lent money to somebody and who never paid you back?
+	-  **Yes, I have. Many times I lent money and somebody paid me back, and another no at all, but most of them paid me back, and whoever didn't pay me back never lent me more money.**
+1. Have you ever wasted money on something you never used?
+	**
+2. Have you ever bought something and immediately regretted it?
+3. Have you ever inherited something from a relative?
+4. Have you ever taken out a loan from a bank?
+5. Have you ever lost a wallet or a bag?
+6. Have you ever bought something on Marketplace, MercadoLibre or a similar site?
 
 ### Present perfect continuous
 We use the present perfect continuous to talk about actions (waiting) that have happened over a period of time and are still happening.
@@ -330,6 +334,7 @@ Mention 2 things you or someone you know have been doing for a while.
 - **Obey**: obedecer, cumplir, responder
 - **Fond**: Tener cariño por
 - **Proud**: Orgulloso
+- **Fed up**: harto / cansado de 
 ## Changing lives
 
 ### Vocabulary
@@ -586,7 +591,6 @@ Podemos traducirlo en (de o en) depende de la palabra anterior
 **Out of**: de cada
 **On the basis of**: en la base de
 **Kind of**: Un poco, Algo
-
 
 #### In , On, At
 ![[Pasted image 20240401203020.png]]
