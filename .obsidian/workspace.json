@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/BPM/Actividad Pre Prueba.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56749ae010831a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/Plataformas/Evaluación-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/Actividad Pre Prueba.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/Actividad Pre Prueba.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/BPM/Actividad Pre Prueba.md"
+                "file": "Year/Semester/MachineLearning/Summary.md"
               }
             }
           }
@@ -151,18 +162,19 @@
   },
   "active": "d19bd41842690d5e",
   "lastOpenFiles": [
-    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/Plataformas/Evaluación-1.md",
+    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/BPM/Actividad Pre Prueba.md",
     "Year/Semester/BPM/Summary.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Plataformas/Draws/Arbol de Roles de la Empresa.md",
+    "Year/Semester/Plataformas/Draws/Vista-Cliente.md",
+    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/BPM/Caso 3.md",
     "Year/Semester/Tasks/April/2-04.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240403085248.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240403084623.png",
-    "Year/Semester/Plataformas/Draws/Vista-Cliente.md",
     "Year/Semester/Plataformas/Draws/Clase_1.md",
-    "Year/Semester/Plataformas/Evaluación-1.md",
     "Year/Semester/Tasks/April/1-04.md",
     "Year/Semester/Ingles/Images/Pasted image 20240402165119.png",
     "Year/Semester/Ingles/Summary.md",
@@ -180,7 +192,6 @@
     "Year/Semester/Tasks/April",
     "Year/Semester/Tasks/March/30-03.md",
     "Year/Semester/MachineLearning/Draws/Clase_3.md",
-    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/MachineLearning/Draws/Sin título",
     "Web/React/Estructura.md",
     "Year/Semester/Plataformas/Draws/Clase_3.md",
