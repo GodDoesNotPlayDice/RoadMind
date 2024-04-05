@@ -19,6 +19,28 @@ export const Title: React.FC<TitleProps> = ({name}) => {
 ```
 
 
+## Vite + Tailwind + React
+```sh
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+```sh
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+
+
+
 ## Manejo de los elementos en React
 
 ### Sin uso del estado
