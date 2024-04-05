@@ -253,3 +253,12 @@ Sobre todo la herramienta AS IS / TO BE debe enfocarse en la madurez del proceso
 - Cada vez más adherente a los objetivos estratégicos de la organización y Estructurado para simplificar y traer eficacia a los procesos y sus actividades, ya sean en el ámbito estratégico o operacional.
 
 Para lograr estos objetivos, es fundamental la participación y el compromiso de todos los participantes y el foco diario en la mejora continua, además de la adopción de una solución eficiente de Gestión de Procesos
+
+### Procesos estratégicos
+Son los procesos relacionados con la estrategia de la empresa y están a cargo  de como establecer la misión, visión  y objetivos corporativos.
+
+### Procesos operativos
+Son procesos que permiten generar el producto/servicio que se entrega al cliente, por lo que inciden directamente en la satisfacción del cliente final. Generalmente atraviesan muchas funciones.
+
+### Procesos de apoyo
+Son los procesos internos dentro de la empresa necesarios para que el proceso de negocio cumpla su objetivo.

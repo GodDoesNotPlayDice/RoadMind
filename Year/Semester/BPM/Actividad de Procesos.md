@@ -11,7 +11,7 @@
 ### Proceso Estratégico
 - Planificación de Ventas.
 - Ubicación
-- Definición de Menus
+- Definición de Menús
 - Tipo de publico
 - Ambientes
 - Metas de ventas

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiFileFilled",
+      "TiTools",
       "LiFile",
       "IbTreeMapDown",
-      "BoBxsFileDoc",
-      "LiFolder",
-      "RiYoutubeFill"
+      "BoBxsFileDoc"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -151,5 +151,6 @@
   "Year/Semester/MachineLearning/Draws/Clase_4.md": "LiPen",
   "Year/Semester/Tasks/April/1-04.md": "LiFile",
   "Year/Semester/Tasks/April/2-04.md": "LiFile",
-  "Year/Semester/Tasks/April/3-04.md": "LiFile"
+  "Year/Semester/Tasks/April/3-04.md": "LiFile",
+  "Year/Semester/BPM/Actividad Pre Prueba.md": "TiFileFilled"
 }
