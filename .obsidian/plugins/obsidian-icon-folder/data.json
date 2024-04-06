@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFolderImageFill",
+      "LiPen",
       "TiFileFilled",
       "TiTools",
-      "LiFile",
-      "IbTreeMapDown",
-      "BoBxsFileDoc"
+      "LiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -153,6 +153,9 @@
   "Year/Semester/Tasks/April/2-04.md": "LiFile",
   "Year/Semester/Tasks/April/3-04.md": "LiFile",
   "Year/Semester/BPM/Actividad Pre Prueba.md": "TiFileFilled",
+  "Web/React/Estructura.md": "IbTreeMapDown",
+  "Year/Semester/Proyectos/Draws/TreeSummary.md": "LiPen",
+  "Year/Semester/Proyectos/Draws/ThreeImages": "RiFolderImageFill",
   "Year/Semester/Tasks/April/6-03.md": "LiFile",
   "Year/Semester/Tasks/April/7-03.md": "LiFile",
   "Year/Semester/Tasks/April/8-03.md": "LiFile"
