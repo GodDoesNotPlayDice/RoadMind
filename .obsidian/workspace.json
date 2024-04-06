@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7acbb1d74156e3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/BPM/Actividad Pre Prueba.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "56749ae010831a58",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/Plataformas/Evaluación-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/Plataformas/Evaluación-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md"
+                "file": "Year/Semester/Plataformas/Evaluación-1.md"
               }
             }
           }
@@ -145,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +173,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d19bd41842690d5e",
+  "active": "56749ae010831a58",
   "lastOpenFiles": [
-    "Year/Semester/Plataformas/Evaluación-1.md",
     "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/BPM/Actividad Pre Prueba.md",
+    "Year/Semester/Tasks/April/6-03.md",
+    "Year/Semester/Tasks/April/8-03.md",
+    "Year/Semester/Tasks/April/7-03.md",
+    "Year/Semester/Plataformas/Evaluación-1.md",
     "Year/Semester/BPM/Summary.md",
     "Year/Semester/Plataformas/Draws/Arbol de Roles de la Empresa.md",
     "Year/Semester/Plataformas/Draws/Vista-Cliente.md",
@@ -197,10 +213,7 @@
     "Year/Semester/Plataformas/Draws/Clase_3.md",
     "Year/Semester/Tasks/March/25-03.md",
     "Year/Semester/Tasks/March/23-03.md",
-    "Year/Semester/Tasks/March/24-03.md",
     "Web/React/Imagenes",
-    "Year/Semester/BPM/Draws/Clase_4.md",
-    "Year/Semester/Tasks/March/22-03.md",
     "Projects/py-kmuda",
     "Projects/py-guncs2",
     "Sales",

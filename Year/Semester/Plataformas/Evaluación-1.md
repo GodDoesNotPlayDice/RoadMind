@@ -1,4 +1,4 @@
-## Repaso de la materia 1
+## Repaso de la materia
 ### Modelo de Procesos de negocio
 - Estratégicos
 - Operativos
@@ -88,8 +88,19 @@ Son los procesos internos dentro de la empresa necesarios para que el proceso de
 
 
 ### Estratégicos
+**Misión**: Satisfacción del cliente, la excelencia en el servicio, la innovación, el liderazgo en el mercado y el crecimiento sostenible.
 
 ### Operativos
-
+- Gestión de Ventas
+- Atención al Cliente
+- Gestión de Proveedores
+- Gestión de Stock
+- Logística
 ### Apoyo
+- Recursos Humanos
+- Tecnologías de la Información
+- Mantenimiento.
+- Contabilidad y Finanzas
 
+### Web Servicie
+- Se utilizará API Rest

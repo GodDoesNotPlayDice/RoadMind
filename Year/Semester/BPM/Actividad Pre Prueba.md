@@ -24,6 +24,9 @@ Son los procesos internos dentro de la empresa necesarios para que el proceso de
 - Finanzas del banco deberá ser responsable de  controlar los ingresos por conceptos de pagos a sus registros contables
 
 ### Actores
+- Cliente
+- Servicio tecnico
+- 
 
 ### Entradas
 - Solicitud de productos por parte del cliente (Operativos)
