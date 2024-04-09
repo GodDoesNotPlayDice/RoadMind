@@ -312,7 +312,7 @@ El estudio técnico debe determinar los recursos humanos existentes en el proyec
 ##### Recursos Materiales
 Estos recursos se deben establecer en la base de las actividades que se desean desarrollar y el tipo de proyecto  informático a crear. Algunos recursos a considerar
 
-- **Aplicaciones para el desarrollo del proyecto** (SGBD, lenguaje de programación)uh 
+- **Aplicaciones para el desarrollo del proyecto** (SGBD, lenguaje de programación)
 - **Materiales de Hardware** (Computadores, impresoras, orientado a la nube)
 - **Recursos adicionales** (Medios de transporte, mobiliario)
 - **Recursos en conectividad** (Servidores, Internet, Telefonía)
