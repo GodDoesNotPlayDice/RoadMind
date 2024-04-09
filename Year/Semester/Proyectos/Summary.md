@@ -41,6 +41,8 @@ El definir un proyecto implica visualizar y relacionar sus características, **t
 
 **Actores sociales**: captar que cada uno es diferente y debemos integrarlos por obligación.
 
+**Diferencias entre ONU, GOB, Emp**: Estos tres no buscan lo mismo en un proyecto, ejemplo entel el empresario no le interesa quienes estan conectadas o no pero al estado si le intersa entonces da covertura atravez de entel para dar covertura nacional.
+
 ### Características que distinguen un proyecto
 
 - Son de carácter temporal
