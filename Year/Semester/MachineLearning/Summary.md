@@ -119,7 +119,7 @@ Miden una propiedad con un dominio denso. Es importante destacar que estos n�
 **Radio**: El cero existe, la división tiene sentido. Podemos realizar operaciones propias de los intervalos y además multiplicación y división.
 
 ![[Pasted image 20240307171706.png]]
-
+F
 ## Estadística I
 
 La estadística se emplea para comprender la estructura y las relaciones presentes en los datos, así como para evaluar la validez y el rendimiento de los modelos de aprendizaje automático.
@@ -228,10 +228,43 @@ Sólo se requiere identificar los datos (características) que influyen en gran 
 
 ![[Pasted image 20240409193651.png]]
 
+### Pasos entre medidas
+
+1) El paso 1 en el Análisis de la Varianza, indica que debemos obtener una estimación de la varianza de la población a partir de la varianza entre las medias de las muestras.
+2) El paso 2 requiere una segunda estimación de la varianza de la población, basada en la varianza dentro de las muestras.
+3) En el paso 3 de ANOVA se comparan estas dos estimaciones de la varianza de la población mediante el cálculo de su cociente.
+
+### Grados de libertad
+Dependiendo del tamaño de las muestras, las distribuciones son diferentes. Esto se denomina grados de libertad, que podría definirse como el número de valores que podemos escoger libremente.
 
 
+### Prueba de Hipótesis
 
-## Estadistica II
+Para llevar a cabo pruebas de hipótesis F debemos utilizar una tabla F, en la cual las columnas representan el número de grados de libertad del numerador y las filas el número de grados de libertad del denominador.
+
+
+### Calculo de distancias
+Muchos algoritmos de Machine Learning requieren calcular distancias entre los puntos observados. Hay diferentes métricas de distancias.
+
+Es una medida de la distancia  en línea recta entre dos puntos en el espacio euclidiano.
+
+#### Eucliniana
+Es una medida de la distancia  en línea recta entre dos puntos en el espacio euclidiano.
+1) Por dos puntos pasa una sola recta.
+2) Tres puntos sobre el plano forman un triángulo cuyos ángulos internos siempre suman 180º
+3) En un triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de los cuadrados de sus catetos.
+
+#### Manhatan
+La única diferencia es que la anterior es mas corta porque funciona de manera oblicua para llegar y este va por cateto y adyacente.
+![[Pasted image 20240410093854.png]]
+
+#### Conseno
+Esta métrica de distancia se utiliza principalmente para calcular la similitud entre dos vectores.
+Se mide por el coseno del ángulo entre dos vectores y determina si dos vectores apuntan en la misma dirección. 
+
+![[Pasted image 20240410094019.png]]
+
+## Estadística II
 
 ### Dispersión
 Son aquellas que manejan la desviación promedio respecto a alguna medida de tendencia central. Dos de estas medidas son importantes: **la varianza** y la **desviación estándar.**
@@ -256,7 +289,7 @@ Podemos medir aún con más precisión el porcentaje de observaciones que caen d
 
 ![[Pasted image 20240317134622.png]]![[Pasted image 20240317134626.png]]
 
-## Probabilidades y Distribución
+## Estadística III
 **El planteamiento clásico define la probabilidad de que un evento ocurra**
 ![[Pasted image 20240319141142.png]]
 
@@ -375,6 +408,32 @@ $$
 P(B|A) = \frac{P(BA)}{P(A)}
 $$
 ![[Pasted image 20240319155633.png]]
+
+
+## Distribución y Probabilidades 
+
+### Tipos de distribución
+Las distribuciones de probabilidad se clasifican como discretas y continuas. 
+
+**Discreta**: En la distribución de probabilidad discreta está permitido considerar sólo un número limitado de valores. 
+
+**Continua**: En una distribución de probabilidad continua, por otro lado, la variable que se está considerando puede tomar cualquier valor dentro de un intervalo dado.
+
+**Variable aleatoria**: Una variable es aleatoria si toma diferentes valores como resultado de un experimento aleatorio.
+
+Si puede tomar sólo un número limitado de valores, entonces es una variable aleatoria discreta. En el otro extremo, si puede tomar cualquier valor dentro de un intervalo dado, entonces se trata de una variable aleatoria continua. 
+
+
+### Valor esperado
+El valor esperado de una variable aleatoria es, sencillamente, el promedio ponderado de cada resultado posible, multiplicado por la probabilidad de que ocurra ese resultado.
+
+Para obtener el valor esperado de una variable aleatoria discreta, multiplicamos cada valor que la variable puede tomar por la probabilidad de ocurrencia de ese valor y luego sumamos los productos.
+
+### Distribución Binominal
+Este tipo de distribución describe datos discretos, no continuos.
+
+
+
 
 ## Regresión Lineal y Correlación | Ecuaciones Lineales y Matrices
 La regresión es utilizada en todo tipo de industrias alrededor del mundo, es útil para predecir el valor de una propiedad inmobiliaria tal y como es útil para predecir el valor de un boleto de avión, las aplicaciones son infinitas. Casualmente también es la forma más sencilla y recomendada de entrar al mundo del Machine Learning, por este motivo es importante tener un entendimiento de la misma.
