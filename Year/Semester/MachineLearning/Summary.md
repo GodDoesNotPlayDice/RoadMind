@@ -216,6 +216,21 @@ Podemos, también, clasificar la información de acuerdo con características cu
 El rango intercuartílico mide aproximadamente qué tan lejos de la mediana debemos ir en cualquiera de las dos direcciones antes de recorrer una mitad de los valores del conjunto de datos. Para calcular este rango, se calcula la diferencia entre los valores del primer y tercer cuartil
 
 ![[Pasted image 20240316215202.png]]
+
+## Análisis de varianza
+**Machine Learning** es poder seleccionar los datos adecuados (conocidos como “características”) que permitan entrenar adecuadamente un modelo, con el fin de predecir correctamente los resultados.
+
+Sólo se requiere identificar los datos (características) que influyen en gran medida en la variable a predecir. Pero ¿qué ocurre si dicha variable es continua (números decimales) y nuestros datos (características predictoras) son categóricos?
+
+1) Determinar una estimación de la varianza de la población a partir de la varianza entre las medias de las muestras.
+2) Determinar una segunda estimación de la varianza de la población a partir de la varianza dentro de las muestras.
+3) Comparar estas estimaciones. Si su valor es aproximadamente igual, se acepta la hipótesis nula.
+
+![[Pasted image 20240409193651.png]]
+
+
+
+
 ## Estadistica II
 
 ### Dispersión
