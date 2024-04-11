@@ -119,7 +119,7 @@ Miden una propiedad con un dominio denso. Es importante destacar que estos n�
 **Radio**: El cero existe, la división tiene sentido. Podemos realizar operaciones propias de los intervalos y además multiplicación y división.
 
 ![[Pasted image 20240307171706.png]]
-F
+
 ## Estadística I
 
 La estadística se emplea para comprender la estructura y las relaciones presentes en los datos, así como para evaluar la validez y el rendimiento de los modelos de aprendizaje automático.
@@ -195,7 +195,7 @@ Podemos, también, clasificar la información de acuerdo con características cu
 - Cuando hay varias modas, es difícil interpretarla.
 
 
-**Comparación**: :  En distribuciones simétricas de datos, la moda, la mediana y la media tienen el mismo valor. Cuando la población de datos está sesgada negativa o positivamente, la mediana suele ser la mejor medida de posición, debido a que siempre está entre la moda y la media. Pero, elegir la medida adecuada, dependerá de cada caso que se esté analizando.
+**Comparación**:   En distribuciones simétricas de datos, la moda, la mediana y la media tienen el mismo valor. Cuando la población de datos está sesgada negativa o positivamente, la mediana suele ser la mejor medida de posición, debido a que siempre está entre la moda y la media. Pero, elegir la medida adecuada, dependerá de cada caso que se esté analizando.
 
 ![[Pasted image 20240314145151.png]]
 
@@ -432,10 +432,34 @@ Para obtener el valor esperado de una variable aleatoria discreta, multiplicamos
 ### Distribución Binominal
 Este tipo de distribución describe datos discretos, no continuos.
 
+Una distribución de probabilidad de variable aleatoria discreta utilizada ampliamente es la distribución binomial.
+
+
+**Por ejemplo**, el lanzamiento de la moneda no alterada un número fijo de veces es un **proceso** de Bernoulli, y los resultados de tales lanzamientos pueden representarse mediante la distribución binomial de probabilidad.
+
+#### Proceso
+ 1. Cada intento (cada lanzamiento, en este caso) tiene solamente dos resultados posibles: cara o sello, sí o no, éxito o fracaso. 
+
+2. La probabilidad del resultado de cualquier intento (lanzamiento) permanece fijo con respecto al tiempo. Con una moneda no alterada, la probabilidad de obtener cara siempre es 0.5 para cada lanzamiento, independientemente del número de veces que se lance la moneda.
+
+3. Los intentos son estadísticamente independientes, es decir, el resultado de un lanzamiento no afecta el resultado de cualquier otro lanzamiento.
+
+
+### Distribución de Poisson
+ La distribución de Poisson se utiliza para describir ciertos tipos de procesos, **distribución de llamadas telefónicas, las solicitudes de pacientes que requieren servicio en una institución de salud,  las llegadas de camiones y automóviles**
+
+Pueden ser descritos mediante una variable aleatoria discreta que toma valores enteros
+
+### Distribucion Normal
+Hay casos en que la variable puede tomar cualquier valor que esté en un intervalo de valores dado, y en los cuales la distribución de probabilidad es continua.
+
+Una distribución de probabilidad continua que es muy importante es la distribución normal.
+
+La distribución normal casi se ajusta a las distribuciones de frecuencias reales observadas en muchos fenómenos, incluyendo características humanas (peso, altura, coeficiente intelectual), resultados de procesos físicos (dimensiones y rendimientos), y muchas otras medidas de interés.
 
 
 
-## Regresión Lineal y Correlación | Ecuaciones Lineales y Matrices
+## Regresión Lineal y Correlación
 La regresión es utilizada en todo tipo de industrias alrededor del mundo, es útil para predecir el valor de una propiedad inmobiliaria tal y como es útil para predecir el valor de un boleto de avión, las aplicaciones son infinitas. Casualmente también es la forma más sencilla y recomendada de entrar al mundo del Machine Learning, por este motivo es importante tener un entendimiento de la misma.
 ### Regresión Simple
 Los análisis de regresión y de correlación se basan en la relación, o asociación, entre dos (o más) variables.
@@ -551,6 +575,10 @@ $$
 
 
 
+
+
+## Ecuaciones Lineales y Matrices
+Una sistema de ecuaciones lineales es un conjunto finito de ecuaciones lineales, cada una con las mismas variables.
 
 ## Google Collab (Meanings)
 

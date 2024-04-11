@@ -118,8 +118,6 @@
   "Year/Semester/Plataformas/Draws/Clase_2.md": "LiPen",
   "Year/Semester/Tasks": "RiTaskFill",
   "Year/Semester/Ingles/Images": "LiImage",
-  "Sales": "LiDollarSign",
-  "Sales/HTC VIVE - Venta.md": "TiFileFilled",
   "Projects/py-guncs2": "BoBxlPython",
   "Projects/py-guncs2/TODO.md": "LiFile",
   "Projects/py-guncs2/NOTE.md": "LiFile",
@@ -159,5 +157,8 @@
   "Year/Semester/BPM/Draws/Clase_4.md": "LiPen",
   "Year/Semester/MachineLearning/Draws/Clase_5.md": "LiPen",
   "Year/Semester/Tasks/April/9-03.md": "LiFile",
-  "Year/Semester/Tasks/April/10-03.md": "LiFile"
+  "Year/Semester/Tasks/April/11-03.md": "LiFile",
+  "Year/Semester/Tasks/April/12-03.md": "LiFile",
+  "Year/Semester/Tasks/April/13-03.md": "LiFile",
+  "Year/Semester/Tasks/April/14-03.md": "LiFile"
 }
