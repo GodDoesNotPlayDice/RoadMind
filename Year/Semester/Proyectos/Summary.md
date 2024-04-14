@@ -384,3 +384,57 @@ No es más que establecer un calendario de ejecución del proyecto, mostrando ac
 2) Diagrama de redes como el Método CPM (Critical Path Method), 
 3) Malla Pert (Program Evaluation and Review Technique) 
 4) Bloques.
+
+
+## Costos y Gastos de Implementación
+### ¿Que son los costos?
+**Los costos de un proyecto** son los gastos económicos que representan la fabricación de un producto o servicio.
+**Costos fijos**: Independientes del nivel de producción, son costos que siempre estarán presentes.
+- Arriendo de oficina, Internet, Pago de obligaciones financieras
+**Costos variables**: Costos que varían según la producción, porque son aquellos que debes pagar para producir tus productos o servicios
+- Insumos, Materia prima, Comisiones por ventas, Proveedores externos para la producción
+#### Árbol de clasificación
+![[Pasted image 20240413140108.png]]
+
+![[Pasted image 20240413140302.png]]
+
+
+### Estimación de costos
+La estimación de costos nunca dará un resultado exacto.
+En la etapa de **factibilidad** del proyecto, debemos determinar si invertimos o no en él.
+
+Es por ello que debemos conseguir un alto nivel de precisión. Dentro del proyecto, debemos considerar distintos recursos económicos a utilizar.
+
+**Algunos recursos económicos son**: Inversion, Material de trabajo, Servicios Basicos, Capital Humano, Licencias de Desarrollo
+
+Una de las estimaciones utilizadas se denomina **“Estimación por Analogía”**
+- Esta se basa es que un proyecto, por muy nuevo que sea, tendrá similitudes con uno realizado anteriormente.
+- Esta estimación usa información de proyectos ya realizados y en base a ella, se realiza la estimación de costos. Para ello se asume que el alcance del nuevo proyecto es similar al del cual se quiere basar.
+
+**Juicio de Expertos**: permite estimar los costos en base a conocimientos y experiencias de personas que han realizado un trabajo igual o semejante del cual estamos determinando el costo.
+- Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflación, factores de riesgo, que influyen en la estimación  de los costos.
+
+**Estimación Ascendente**: Utiliza la estructura de descomposición de trabajo (EDT), para estimar los componentes de trabajo, con el fin de obtener un detalle más específico por actividad, generando cálculos de mayor precisión. 
+- Su grado de exactitud depende de la magnitud y complejidad de la actividad o paquete de trabajo individual. 
+- El costo se va determinando a nivel de cada actividad y luego se resume en los paquetes de trabajo para luego calcular en los niveles superiores de la EDT.
+
+La estimación por **tres valores** se basa en la incertidumbre y el riesgo como factores condicionantes a la estimación de costos.
+- **Costo más probable:** Se basa en una evaluación realista del esfuerzo necesario para el trabajo requerido y los gastos previstos
+- **Costo Optimista**: El costo de la actividad se basa en el análisis del mejor escenario posible para esa actividad.
+- **Costo Pesimista**: El costo de la actividad se basa en el análisis del peor escenario posible para esa actividad.
+
+### Obtención de información
+**Costos de Inversión:** Son aquellos vinculados a la adquisición de los activos necesarios para poner el proyecto en marcha.
+**Capital de trabajo**: Son los recursos que se necesitan para adquirir los elementos necesarios para desarrollar un proyecto
+**Costos de operación**: Son aquellos que sirven para mantener el proyecto en operación.
+**Costos de Mantención y reparación**: Utilizados para mantener la capacidad de producción
+
+#### Su estimación de costos bajo las siguientes acciones
+**Línea base del alcance**: Desarrollaremos y desglosaremos las actividades consideradas en el proyecto a través de la EDT.
+**Cronograma**: Generaremos un cronograma del proyecto, con la finalidad de establecer la duración de las actividades y los recursos asociados a ellas.
+- Con ello podremos estimar los recursos asociados a cada una de las actividades del proyecto.
+**Plan de recursos humanos**: En un proyecto informático, la estimación de recursos humanos es de mucha importancia y pueden ser estimados en conjunto con el cronograma
+**Registro de riesgos**: Se deben considerar los costos asociados a mitigar los riesgos que fueron analizados en las experiencias de aprendizaje anteriores
+- Recuerda que en este aspecto estarás considerando la Reserva de Contingencia
+**Factores ambientales**: Las condiciones de mercado son importantes para la determinación de los costos del proyecto.
+- (proveedores, oferta y demanda regional, productos y/o servicios ya disponibles)

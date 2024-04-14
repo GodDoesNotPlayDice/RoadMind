@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0a776e978c1979d",
+        "id": "9cfe1e710d57a27c",
         "type": "tabs",
         "children": [
           {
-            "id": "d108d5d1b84711cd",
+            "id": "7a27fb4fb51b106b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/Tasks/April/13-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 200
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/Tasks/April/13-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/Tasks/April/13-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md"
+                "file": "Year/Semester/Tasks/April/13-03.md"
               }
             }
           }
@@ -148,17 +148,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d108d5d1b84711cd",
+  "active": "7a27fb4fb51b106b",
   "lastOpenFiles": [
-    "Year/Semester/Plataformas/Summary.md",
-    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/Tasks/April/14-03.md",
+    "Web/React/Errors/Functions are not valid as a React child.md",
+    "Year/Semester/Tasks/April/13-03.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Web/React/React.md",
+    "Web/React/Errors",
+    "Year/Semester/Proyectos/Images/Pasted image 20240413140108.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240413140302.png",
+    "Pasted image 20240413135620.png",
     "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Tasks/April/12-03.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/Plataformas/Summary.md",
     "().md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240410094019.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240410093854.png",
-    "Year/Semester/Tasks/April/14-03.md",
-    "Year/Semester/Tasks/April/13-03.md",
-    "Year/Semester/Tasks/April/12-03.md",
     "Year/Semester/Tasks/April/11-03.md",
     "Year/Semester/Tasks/April/9-03.md",
     "Year/Semester/Proyectos/Draws/TreeSummary.md",
@@ -168,7 +175,6 @@
     "Year/Semester/Plataformas/Draws/Arbol de Roles de la Empresa.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240409193651.png",
     "Year/Semester/BPM/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240409082629_380.png",
     "Year/Semester/Tasks/April/3-04.md",
     "Year/Semester/Plataformas/Evaluación-1.md",
@@ -177,16 +183,10 @@
     "Projects/py-kmuda/NOTE.md",
     "Projects/py-guncs2/TODO.md",
     "Projects/py-guncs2/NOTE.md",
-    "Sales/HTC VIVE - Venta.md",
-    "Year/Semester/Tasks/April/6-03.md",
-    "Year/Semester/Tasks/April/7-03.md",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240407193056_214.png",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240407200117_920.png",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240407194726_190.png",
-    "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240406193919_619.png",
-    "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240406194657_660.png",
     "Year/Semester/Proyectos/Draws/ThreeImages",
-    "Year/Semester/Proyectos/Images/Pasted image 20240312085329.png",
     "Year/Semester/Tasks/April",
     "Year/Semester/MachineLearning/Draws/Sin título",
     "Web/React/Imagenes",
@@ -195,7 +195,6 @@
     "Sales",
     "Year/Semester/Ingles/Images",
     "Year/Semester/Tasks",
-    "Year/Semester/Reminders",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

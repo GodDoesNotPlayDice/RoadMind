@@ -612,3 +612,25 @@ Se puede usar **"to"** porque indica la dirección de la acción.
 **The**
 ![[Pasted image 20240402165139.png]]
 
+
+## Manners?
+### Good manners
+1) **Saying “Thank you” and “Please”**:Thank you” and “Please” are basic manners that all kids should be taught at home. The importance of saying “Please” when your child asks for something, and “Thank you” when receiving something is an important virtue for children to learn from an early age.
+2) **Saying Sorry**: I’m sorry” helps children learn empathy and take responsibility for their actions in any given situation.
+
+### Bad manners
+People who don't say "thanks" after you hold the door for them.
+People who just stand in front of elevator doors when you're exiting
+People who text in movie theaters
+## Obligations, prohibitions and recommendations
+**Have to / Must**: decir que tienes que hacer algo de manera obligatoria
+**Don't have to**: decir que no tienen que hacer algo pero de manera opcional
+**Should, Shouldn't**: Hacer una recomendación de algo o no recomendar
+**Mustn't** : prohibir algo.
+
+
+## Ability and possibility
+**Can / Could**: Poder , Podria (Usadas solamente en Simple present, Simple Past)
+**Be able to**: Es usada en todas las demas formas 
+- future (will, going to, arrangements), you will be able to fly in a plane someday!
+- present perfect, have you ever been able to found your keys when you lost them?
