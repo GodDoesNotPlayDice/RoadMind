@@ -11,15 +11,26 @@
             "id": "7a27fb4fb51b106b",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/Plataformas/Draws/Vista-Cliente.md"
+              }
+            }
+          },
+          {
+            "id": "7c1d271b67c2db79",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Tasks/April/14-03.md",
+                "file": "Web/React/React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 331.5
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Tasks/April/14-03.md",
+                "file": "Web/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Tasks/April/14-03.md",
+                "file": "Web/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Tasks/April/14-03.md"
+                "file": "Web/React/React.md"
               }
             }
           }
@@ -148,8 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a27fb4fb51b106b",
+  "active": "7c1d271b67c2db79",
   "lastOpenFiles": [
+    "Year/Semester/Plataformas/Draws/Metodologias.md",
+    "Year/Semester/Plataformas/Draws/Vista-Cliente.md",
     "Year/Semester/Tasks/April/15-03.md",
     "Year/Semester/Tasks/April/14-03.md",
     "Year/Semester/Tasks/April/13-03.md",
@@ -183,8 +196,6 @@
     "Projects/MagerSegurosWeb/Note.md",
     "Projects/py-kmuda/TODO.md",
     "Projects/py-kmuda/NOTE.md",
-    "Projects/py-guncs2/TODO.md",
-    "Projects/py-guncs2/NOTE.md",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240407193056_214.png",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240407200117_920.png",
     "Year/Semester/Proyectos/Draws/ThreeImages",
