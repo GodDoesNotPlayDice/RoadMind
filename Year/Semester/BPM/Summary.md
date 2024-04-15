@@ -1,3 +1,4 @@
+## Unidad 1
 ### Que es un proceso?
 Un Proceso de Negocio **(Business Process)** es un conjunto de actividades que son realizadas en coordinación con el entorno organización y técnico.
 
@@ -260,5 +261,137 @@ Son los procesos relacionados con la estrategia de la empresa y están a cargo 
 ### Procesos operativos
 Son procesos que permiten generar el producto/servicio que se entrega al cliente, por lo que inciden directamente en la satisfacción del cliente final. Generalmente atraviesan muchas funciones.
 
+
+
 ### Procesos de apoyo
 Son los procesos internos dentro de la empresa necesarios para que el proceso de negocio cumpla su objetivo.
+## Unidad 2
+### Plan de mejora en la organización
+#### Evaluación Técnica
+El análisis y modelamiento del **As Is**, en conjunto con los **KPI** y los **KRI** son esenciales para evaluar los procesos actuales del negocio, ya que nos permiten visualizar su estado y los riesgos a los cuales se enfrenta.
+
+Uno de los problemas asociados al diseño de procesos de gran escala se centra en las actividades de inspección y evaluación del modelo durante las distintas etapas de construcción y manutención de este en el tiempo.
+
+Las dificultades en la producción de indicadores, como los problemas en la lectura cuando los procesos son muy extensos.
+
+Aparentemente cualquier cambio propuesto puede parecer simple, pero desencadena una gran cantidad de decisiones, estimación, esfuerzo en diseño y pruebas; junto con el impacto que uno de estos cambios pueden tener para el negocio
+
+Por esta razón, conocer el grado de complejidad que tiene nuestro proceso de negocio, es de gran valor para la actividad de diseño y mantenimiento del negocio
+
+Una vez centrados en el diseño y estructuración de procesos de negocio, es importante mencionar que estos procesos de negocio normalmente se encuentran desarrollados en lenguajes de alto nivel.
+
+
+#### Plan de Mejora
+Conjunto de acciones y tareas definidas para mejorar los procesos y reducir y/o eliminar problemas producidos por falta de controles y ejecución de malas prácticas identificadas en las áreas de análisis.
+
+#### Beneficios para la Organización
+- Incrementar la eficiencia en los procesos, subprocesos, servicio, etc.
+- Corregir problemas que se presentan
+- Decidir en que área o procesos se debe dar mayor atención. Establecer prioridades de solución.
+- Herramienta de ayuda para la mejora de los procesos en las áreas de evaluación
+- Lograr compromiso y apoyo de las áreas que están relacionadas con el o los procesos en conflicto.
+
+### PHVA (Ciclo de mejora continua)
+![[Pasted image 20240414142019.png]]
+
+#### Actores y Responsables (Stakeholder)
+- Directores
+- Gerentes y Subgerentes de áreas.
+- Jefes o Supervisores (Mandos Medios)
+- Analistas.
+- Coordinador.
+
+#### Tareas más importantes
+- Evaluación del proceso donde se implementara el plan de mejora. Análisis de problemas que se presentan en el desarrollo del mismo.
+- Capacitar e implementar el plan de mejor con la asistencia técnica en dicha implementación.
+- Implementar y monitorear la implementación.
+- Evaluar los resultados de los planes y realizar retroalimentación.
+- Control del tiempo en el desarrollo del plan de mejora
+- Entregar los instrumentos para aplicar el plan de mejora
+
+
+#### Diagnostico
+Es el análisis mediante el cual podemos obtener la situación actual del unidades de estudio e identificar la problemática que impiden a la organización ser más eficientes y efectivos en sus servicios y/o producción.
+
+- Levantamiento de información
+- Estado de Situación Actual
+- Socialización de Resultados
+- Resultado del análisis de Calidad
+- Resultado de Observación
+- Priorización de acciones de Mejora
+
+#### Capacitación y Construcción del plan.
+Etapa en la cual se deben capacitar a todos los actores implicados en el plan de mejor, con el fin de que utilicen las herramientas para la construcción del plan de mejora.
+
+#### Ejecución de acciones de mejora
+
+n esta etapa se confecciona el plan de mejora con el detalle o lista de mejoras a implementar con su respectiva priorización. 
+
+Matriz de Trazabilidad: Identifica las acciones de mejoras, priorización, acciones a implementar, cumplimiento y observaciones.
+
+
+#### Monitoreo y evaluación del plan
+Es la medición de los avances para garantizar la implementación de la mejora. 
+En esta etapa es fundamental contar con la completitud de la siguiente documentación:
+- Matriz de trazabilidad del Plan de Mejora
+- Respaldos o evidencias de las mejoras implementadas
+
+#### Actividades de control
+Control Técnico, profesional a cargo controla que se desarrollen cada una de las tareas y actividades planificadas en el plan.
+
+Es un seguimiento continuo para verificar avances.
+
+- **Evaluación**: En esta etapa se verifica que cada tarea planificada se implementó la o las mejoras.
+- **Sistematización**: Análisis de la experiencia y los resultado obtenidos. Son los resultados y lecciones aprendidas en la implementación del plan de mejora. Esta información es de gran aporte, ya que nos ayudarán en la implementación de nuevos planes de mejoras en el futuro.
+
+### Clasificación y técnicas de mejora
+
+#### Análisis y estructura
+Con el análisis de estructura se busca mejorar el desempeño de los procesos sobre todo con miras a reducir los tiempos de ciclo y mejorar la calidad de los servicios de los procesos. 
+Para estos efectos podemos revisar:
+- El orden de las actividades en un proceso
+- Si existen redundancias
+- Actividades, procedimientos o reglas de negocio obsoletas
+- Flujos complejos que se puedan simplificar
+
+**Las posibilidades que tenemos para reestructurar los procesos :**
+- Optimizar el orden
+- Acelerar
+- Agregar
+
+#### Análisis de Ciclo
+El concepto de tiempo de ciclo dice relación con el tiempo que toma el proceso
+en ejecutar una instancia, desde su inicio hasta el fin del proceso.
+
+Conceptos asociados a estos son el “Cuello de Botella” que dice relación con una reducción en la capacidad de flujo del proceso, y el “Bloqueo” que se refiere a una detención de las actividades, ya que una de ellas no tiene “ donde dejar” la instancia ya procesada.
+
+En términos generales, además de reducir el tiempo de ejecución de las actividades, las
+recomendaciones a fin de reducir el tiempo de ciclo es un proceso dicen relación con:
+
+- Reducir las interrupciones del proceso.
+- Eliminar los cuellos de botella
+- Eliminar las colas o almacenamientos.
+- Cambiar el orden de las actividades
+- Diseñar actividades en paralelo
+- Juntar dos o más actividades en una.
+
+#### Análisis de costeo de actividades
+Un objetivo principal de toda empresa u organización es gestionar sus costos y
+los procesos, los que durante su ejecución consumen actividades y, por su
+parte, las actividades consumen recursos.
+
+La idea central de costeo por actividades es asignar el consumo de recursos a cada actividad ( la obtención de esta información es un proceso separado al de modelamiento), por ejemplo : consumo de materiales, obra de mano, energía, tiempo de máquina, etc., obteniendo así un costo para cada actividad
+
+
+##### Perspectiva de BPM.
+Algunas recomendaciones para optimizar los costos de los proceso:
+- Eliminar del proceso aquellas características del producto o servicio que no agregan valor para el cliente.
+- Aumentar el uso de los recursos a través del aumento de la productividad de la capacidad instalada.
+- Aumentar la calidad en todo el proceso
+
+
+#### Análisis de responsabilidades
+Estudia la relación entre las actividades del proceso y su respectiva asignación de responsabilidades.
+
+En organizaciones grandes y antiguas, como también en la administración pública nos encontramos con estructuras jerárquicas y burocráticas que se pueden reducir, liberando de esta forma actividades que retienen el proceso y no cumplen otra función que confirmar o aprobar un documento, que elaboró un ejecutivo o usuario de negocio.
+

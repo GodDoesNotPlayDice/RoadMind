@@ -599,3 +599,138 @@ describe() # La función `describe()` proporciona estadísticas descriptivas que
 
 
 ```
+
+
+## Machine Learning Introducción
+
+### Tarea
+El aprendizaje automático nos permite abordar tareas que son demasiado difíciles de resolver con programas fijos escritos y diseñados por seres humanos.
+
+Las tareas de aprendizaje automático generalmente son descrito en términos de cómo el sistema de aprendizaje automático debe procesar un ejemplo. 
+
+**Un ejemplo**: es una colección de características que se han medido cuantitativamente a partir de algún objeto o evento que queremos que procese el sistema de aprendizaje automático. 
+
+Varias clases de tareas pueden ser resueltas por el aprendizaje automático. Algunas de las más comunes son: **Clasificación, Regresión, Traducción de idiomas, Detección de anomalías, entre otras.**
+
+
+### Media
+Para evaluar las capacidades de un algoritmo de aprendizaje automático, debemos **diseñar una medida cuantitativa de su rendimiento.** 
+
+Para tareas como la clasificación, a menudo medimos la **precisión del modelo**.
+La precisión es solo la proporción de ejemplos para los cuales el modelo produce el resultado correcto. 
+
+También podemos obtener información equivalente midiendo la **tasa de error**, la proporción de ejemplos para los que el modelo produce una salida incorrecta.
+
+La elección de la medida de rendimiento puede parecer sencilla y objetiva, pero a menudo es difícil elegir una medida de rendimiento que se corresponda adecuadamente con el **comportamiento deseado de el sistema.**
+
+### Experiencia
+Los algoritmos de aprendizaje automático se pueden clasificar en términos generales como **no supervisados o supervisados** según el tipo de experiencia que se les permite tener durante el proceso de aprendizaje. 
+
+La mayoría de los algoritmos de aprendizaje se pueden entender según como experimenten sobre **un conjunto de datos.**
+- Un conjunto de datos es una **colección de muchos ejemplos**.
+
+
+### Tipos de aprendizaje automático
+**Entrenamiento bajo o no de supervision humana.**
+- Aprendizaje Supervisado
+- Aprendizaje no Supervisado
+- Aprendizaje Semi supervisado
+- Aprendizaje por refuerzo
+
+**Pueden aprender de forma gradual sobre la marcha**
+Tenemos Aprendizaje On Line frente a Aprendizaje por Lotes.
+
+**Si funcionan comparando datos nuevos con datos conocidos o si detectan patrones crean modelos predictivos**
+Tenemos Aprendizaje basado en instancias frente a aprendizaje basado en modelos.
+
+### Tipos
+Los criterios anteriores no son exclusivos, pueden combinarse de diferentes formas. 
+**Aprendizaje supervisado** y en detalle, veremos métodos de **clasificación y métodos de regresión.**
+#### Aprendizaje con o sin supervisión
+Los sistemas de Machine Learning pueden calificarse según la cantidad y el tipo de supervisión que tengan durante el entrenamiento.
+
+##### Categorías
+- **Aprendizaje supervisado:** En el Aprendizaje Supervisado, el conjunto de datos de entrenamiento que introducimos en el algoritmo  incluye las soluciones deseadas. A esto se le denomina etiquetas (o target).
+	- Una tarea típica del aprendizaje supervisado es la clasificación. El filtro de spam es un buen ejemplo de esto.
+	- Otra tarea típica es predecir un valor numérico “objetivo”
+		- Como el precio de una casa, según algún conjunto de características (barrio, tipo de construcción, cercanía a colegios, etc.) denominados predictores. Este tipo de tareas se llama regresión.
+- **Aprendizaje no supervisado:** En el Aprendizaje NO Supervisado, los datos de entrenamiento no están etiquetados.
+	- Por ejemplo, los compradores de una tienda, para los cuales queremos generar grupos por alguna característica similar. En este caso, no indicamos al algoritmo a que grupo pertenece el comprador, pues él encuentra las conexiones sin ayuda.
+	- **Algoritmos importantes de esta Area**:
+		- Agrupamiento
+		- Detección de anomalías y detección de novedades
+		- Visualización y reducción de dimensionalidad
+		- Reglas de asociación
+- **Aprendizaje semi supervisado:** Puesto que etiquetar datos suele llevar mucho tiempo y supone un gasto importante, a menudo existirán un montón de instancias sin etiquetar y unas pocas etiquetadas, algunos algoritmos pueden ocuparse de datos que están etiquetados en parte.
+	- Un ejemplo de esto son los servicios de alojamiento de fotos, como Google Fotos. Donde en algunas fotos se reconoce a una misma persona y en otras fotos no se reconoce. Pero si nosotros etiquetamos a esa persona en una fotografía, el algoritmo podrá hacerlo en las otras.
+	- La mayoría de los algoritmos de aprendizaje semi supervisado son combinaciones de algoritmos no supervisados y supervisados.
+- **Aprendizaje por refuerzo:** El Aprendizaje por refuerzo es algo totalmente diferente, el sistema de aprendizaje, que en este contexto se denomina agente, puede observar el entorno, seleccionar y realizar acciones y recibir recompensas a cambio (o castigos en forma de recompensas negativas)
+	- Debe aprender por sí mismo cual es la mejor estrategia, denominada política, para obtener la mayor recompensa con el tiempo. Una política define que acción debería elegir el agente cuando se encuentra en una situación determinada.
+	- Un ejemplo de aprendizaje por refuerzo, son los robots que aprenden a caminar o aquellos que juegan ajedrez o Go
+
+
+
+## Librerías (Python)
+
+### Pandas
+Pandas se deriva del término Panel Data, un término econométrico para conjuntos de datos que incluyen observaciones en múltiples períodos de tiempo para los mismos individuos
+
+Esta librería se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos.
+
+Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.
+
+#### DataFrame
+El  DataFrame que es la estructura fundamental de Pandas, estos son estructuras de datos etiquetados bidimensionales con columnas de tipos potencialmente diferentes. 
+
+Los Pandas DataFrame constan de tres componentes principales: los datos, el índice y las columnas.
+
+Estos componentes son muy útiles cuando se requiera manipular los datos.
+
+#### Características
+- Objeto DataFrame rápido y eficiente con indexación predeterminada y personalizada.
+- Herramientas para cargar datos en objetos de datos en memoria desde diferentes formatos de archivo.
+- Alineación de datos y manejo integrado de datos faltantes.
+- Remodelación y giro de conjuntos de fechas.
+- Etiquetado, corte, indexación y subconjunto de grandes conjuntos de datos.
+- Las columnas de una estructura de datos se pueden eliminar o insertar.
+- Agrupa por datos para agregación y transformaciones.
+- Alto rendimiento de fusión y unión de datos.
+- Funcionalidad de la serie de tiempo.
+
+#### Estructuras de datos
+Los dos componentes principales de Pandas son l**a Serie y el DataFrame.**
+
+Las Series de Pandas, estas son una **estructura de datos unidimensional** que puede almacenar valores y para cada valor también tiene un índice único.
+
+Por su parte, los DataFrames de Pandas son **estructuras de datos de dos o más dimensiones**, básicamente una tabla con filas y columnas. Las columnas tienen nombres y las filas tienen índices.
+
+
+### Numpy
+es el nombre es un acrónimo de Python Numérico. Es una librería que consiste en objetos de matrices multidimensionales y una colección de rutinas para procesar esas matrices.
+
+Es un módulo de extensión para Python, escrito en su mayor parte en C, esto asegura que las funciones y funcionalidades matemáticas y numéricas precompiladas de NumPy **garantizan una gran velocidad de ejecución**
+
+NumPy **es un paquete de procesamiento de matrices de uso general**, proporciona un objeto de matriz multidimensional de alto rendimiento, y herramientas para trabajar con estas matrices.
+
+**NumPy** se basa en dos módulos anteriores de Python que trataban matrices: Numeric y Numarray.
+**NumPy** es una fusión de esos dos, se basa en el código de Numeric y las características de Numarray.
+
+Los array o matrices de NumPy son un poco como las listas de Python, pero al mismo tiempo muy diferentes. 
+
+El array de NumPy es un poderoso objeto de matriz n-dimensional que tiene forma de filas y columnas. Podemos iniciar las matrices NumPy desde listas de Python anidadas y acceder a sus elementos.
+
+#### Características
+- NumPy es una librería numérica de Python de código abierto.
+- NumPy contiene una matriz multidimensional y estructuras de datos matriciales.
+- Se puede utilizar para realizar una serie de operaciones matemáticas en matrices como rutinas trigonométricas, estadísticas y algebraicas. Por lo tanto, la librería contiene un gran número de funciones matemáticas, algebraicas y de transformación.
+- NumPy también contiene generadores de números aleatorios.
+- Los objetos de Pandas (otra librería de Python) dependen en gran medida de los objetos de NumPy. Esencialmente, Pandas extiende NumPy
+
+### MatPlot
+**Matplotlib** es una librería de trazado utilizada para gráficos 2D en lenguaje de programación Python, muy flexible y tiene muchos valores predeterminados incorporados. 
+
+Produce figuras de calidad de publicación en una variedad de formatos impresos y entornos interactivos. .
+
+Los datos a usar en gráficos de matplotlib deberán estar estructurados bajo la librería de NumPy.
+
+Con NumPy podrás realizar operaciones sobre ellos, inspeccionar sus matrices y manipularlas para que estés trabajando con el subconjunto de datos adecuado.
