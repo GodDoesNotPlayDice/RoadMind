@@ -395,3 +395,92 @@ Estudia la relación entre las actividades del proceso y su respectiva asignaci�
 
 En organizaciones grandes y antiguas, como también en la administración pública nos encontramos con estructuras jerárquicas y burocráticas que se pueden reducir, liberando de esta forma actividades que retienen el proceso y no cumplen otra función que confirmar o aprobar un documento, que elaboró un ejecutivo o usuario de negocio.
 
+
+
+### Ventajas de Mejora continua
+Los cambios no se **producen de manera traumática** y, por lo tanto, son asumidos positivamente y de forma natural por los profesionales.
+
+Su implantación **no requiere de grandes inversiones ni de un gran sobreesfuerzo de los empleados.**
+### ReIngenería
+**REINGENIERÍA, REDISEÑO Y MEJORA REINGENIERÍA** Los Procesos en la empresa en el tiempo pueden mejorarse (calidad total), pero llegará un punto que será necesario realizar un cambio, innovar porque ya se agotó las mejoras.
+
+En ese aspecto, la definición de reingeniería será hacer un nuevo diseño radicalmente distinto.
+
+#### Ventaja
+Si se toman las decisiones correctas y se implementan de forma adecuada pueden lograrse nuevos diseños radicales, notables mejoras en eficacia, eficiencia, productividad y efectividad, alcanzado un balance global muy positivo.
+
+### Modelo To Be
+El Proceso To be es la continuidad del proceso AS IS, su objetivo es mejorar el AS IS y proyectar el modelo de proceso para el futuro.
+
+Después del análisis del proceso As Is, como es, la fase de To Be tiene el objetivo de crear o diseñar nuevos y mejores proyectos, más eficaces y eficientes.
+
+![[Pasted image 20240416091042.png]]
+![[Pasted image 20240416091054.png]]
+
+#### Modelo To Be en 6 actividades
+
+##### Diseño del Proceso To Be
+Al diseñar el nuevo proceso (To Be), el objetivo es asegurarse de que le
+ofrezca a la empresa exactamente lo que la empresa espera lograr con este
+nuevo proceso, **tiene ciertos detalles a cumplir**
+- Las actividades detalladas
+- Las reglas de negocio
+- Las interacciones con los clientes
+- Los Productos
+
+Para lograr este resultado, se utilizan diferentes metodologías, tales como
+estudios de escenarios, brainstorming o intercambio de ideas, el modelado en
+tiempo real, e incluso la vieja pizarra.
+
+##### Definición de las actividades del proceso
+La definición de las actividades del proceso To Be debe incluir una visión sencilla y directa de lo que se debe hacer.
+
+La clave en esta etapa es ser tan simple como sea posible, idealizando
+actividades fáciles de entender y de explicar. Buena manera de comprobar si la descripción de las actividades es eficiente y objetiva.
+
+**Cosas a cumplir**:
+- Las actividades deben estar encadenadas en orden
+- Defina las actividades sin aferrarse a los agentes del proceso
+- Defina objetivamente lo que se hará
+- Trate de crear un paralelismo entre las actividades
+
+##### Análisis de lagunas y comparaciones
+El proceso To Be debe ser diferente y mejor que el proceso actual. Para lograr esto, es necesario hacer una comparación entre los resultados obtenidos en la actualidad, con los resultados a alcanzar.
+
+Esto se puede hacer con herramientas de simulación:
+
+- Esbozar lo que se debe cambiar en el proceso To Be
+- Hacer tangibles las ganancias que se pretende obtener con el nuevo proceso
+- Documentar los resultados esperados
+- Crear una mayor colaboración y apoyo a la forma en que el proceso To Be funcionará
+
+
+##### Diseño y Análisis de la Infraestructura 
+Esta es una etapa crucial en el diseño de nuevos procesos, que a menudo no
+se toma con la seriedad necesaria.
+
+**Desarrollar una TI correcta hay que**:
+- El flujo de datos
+- Las Aplicaciones
+- Los Sistemas
+- Las Interfaces entre sistemas
+- Quién va a usar la información
+- Cuándo utilizará la información
+- Por medio de qué sistema
+
+
+##### Simulación, pruebas y aceptación del modelo
+La simulación del proceso To Be, o cómo será el proceso en el futuro, debe aprovechar las tecnologías actuales que ayudan a predecir los resultados con seguridad, confiabilidad y también con agilidad.
+
+Dado que se trata de una simulación, este es el momento de hacer las
+pruebas para poner límites.
+
+Certificación definitiva de las etapas del proceso, es necesario estimar los riesgos con mucho cuidado.
+
+Siempre hay que contar con el responsable del proceso, que dará la última palabra
+
+
+##### Creación del plan de implementación
+Todo lo que se decidió y se diseñó, no se implementará por sí solo. El diseño del nuevo proceso es sólo un paso hacia su implementación. 
+
+Un buen plan de implementación debe definir la gestión del cambio, qué sistemas se verán afectados por el proceso rediseñado, determinar claramente los equipos implicados y señalar las siguientes actividades del proyecto punto a punto.

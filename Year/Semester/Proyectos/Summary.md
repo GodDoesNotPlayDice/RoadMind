@@ -438,3 +438,75 @@ La estimación por **tres valores** se basa en la incertidumbre y el riesgo como
 - Recuerda que en este aspecto estarás considerando la Reserva de Contingencia
 **Factores ambientales**: Las condiciones de mercado son importantes para la determinación de los costos del proyecto.
 - (proveedores, oferta y demanda regional, productos y/o servicios ya disponibles)
+
+
+
+## Tipos de financiamiento
+### ¿Que es el financiamiento
+Financiamiento es "La obtención de recursos de fuentes internas o externas, a corto, mediano o largo plazo, que requiere para su operación normal y eficiente una empresa pública, privada, social o mixta.
+
+El financiamiento es el abastecimiento y uso eficiente del dinero, líneas de crédito y fondos de cualquier clase que se emplean en la realización de un proyecto o en el funcionamiento de una empresa.
+
+**Objetivo**: obtener liquidez suficiente para poder realizar las actividades propias de la empresa en un periodo de tiempo, de una forma segura y eficiente.
+
+
+### Diferentes tipos de financiamiento
+
+#### Fuentes de Financiamiento Internas
+Las fuentes internas de financiamiento. Son fuentes generadas dentro de la misma empresa, como resultado de sus operaciones y promoción.
+
+Es aquel que proviene de los recursos propios de la empresa, y se ve reflejado en el activo, es por eso que se debe llevar a cabo un inventario de todo aquello de lo cual se pudiera echar mano en un momento dado.
+
+Para tener sobrante de capital de trabajo, o bien hacerle frente a una situación difícil en materia financiera.
+
+##### Características
+- Activo Fijo susceptible de ser vendido.
+- Venta de desperdicio.
+- Bienes Raíces.
+- Excedentes de Mercancías.
+- Venta de Materia Prima.
+- Depreciaciones y Amortizaciones.
+- Emisión de acciones.
+
+**Emisión de acciones:** Las acciones son títulos corporativos cuya principal función es atribuir al tenedor de la misma calidad de miembro de una corporación
+- Títulos que se expiden de manera seriada y nominativa
+- Esencialmente especulativas
+- Adquiere una acción no sabe cuánto ganará, ya que se somete al resultado de los negocios que realice la sociedad
+- La manera en que la asamblea decide distribuir los dividendos.
+
+**Acción:** Es un titulo crédito normativo cual representa una de las partes iguales en que
+se divide el capital social de una empresa. Las acciones permiten al inversionista la posibilidad de participar como socio de una empresa.
+
+#### Financiamiento de Fuentes Externas
+En términos financieros al uso de las fuentes externas de financiamiento se le denomina **Apalancamiento financiero**. A mayor apalancamiento, mayor deuda, por el contrario, un menor apalancamiento, implicaría menos responsabilidad crediticia. 
+
+Es aquel que surge cuando los fondos generados por operaciones normales más aportaciones de los propietarios de la empresa, son insuficientes para hacer frente a desembolsos exigidos para mantener el curso normal de la empresa.
+
+Generalmente, esto ocurre por falta de liquidez de momento ya que muchas veces las empresas piensan en expansión y crecimiento futuro.
+
+#### Otras posibilidades de Financiamiento
+Una de las instituciones que provee de este tipo de financiamiento es la **Banca comercial o Múltiple,** ya que utiliza la intermediación financiera con findes de rentabilidad, capta recursos del publico sobre los que se constituye su capacidad de financiamiento y haciendo uso de esta, principalmente en operaciones activas **crédito**, realiza su función de promover la creación y desarrollo de las empresas como un complemento en la inversión de las sociedades industriales, comerciales y de servicios.
+
+**Múltiples opciones de financiamiento**:
+- Crédito Simple o en cuenta corriente.
+- Préstamos quirografarios.
+- Prestamos de habilitación o avío.
+- Préstamos refaccionarios.
+- Créditos Hipotecarios.
+- Arrendamiento Financiero.
+- Descuento de Documentos.
+- Préstamos prendarios
+
+#### Otras opciones de financiamento auxiliares
+En ocasiones las empresas necesitan recursos inmediatos, una forma de obtenerlos es descontando documentos en el banco, quien a cambio de una comisión será el encargado de hacer efectivos dichos documentos, para esto se hace uso del **factorage financiero o factoring**.
+
+Dos opciones de incremento de capital, estas terceras personas analizarán si es rentable el negocio para hacer su aportación, por eso es conveniente elaborar un estado financiero pro forma para visualizar a futuro la marcha del negocio.
+
+1) **Incorporando un nuevo socio al negocio, vendiéndole acciones que amparan el capital no suscrito.**
+2) **Aumentando el capital social con la aportación de uno o varios socios.**
+
+
+**Empresa de factoraje**: son aquellas empresas que mediante contratos convienen con sus clientes adquirir derechos de créditos que este tenga a su favor, ya sea en moneda nacional o extranjera. La cobranza de los derechos de crédito son realizados por la propia empresa de factoraje.
+
+**Uniones de crédito**: son organismos constituidos como sociedades anónimas de capital variable, integrada por un número de socios no menor a veinte.
+
