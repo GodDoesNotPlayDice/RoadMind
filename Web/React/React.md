@@ -72,30 +72,61 @@ En React, los "hooks" son funciones especiales que te permiten utilizar el estad
 
 Los hooks proporcionan una forma más simple y efectiva de compartir lógica entre componentes, reutilizar código y manejar el ciclo de vida del componente.
 ##### useState 
- Este hook permite agregar un estado variable al componente, así hacer un componente dinámico
+Sirve para re renderizar un componente, o del atributo que quiero guardar. Es la función que react me da para interactuar con el.
+- Uso del booleano (Re render)
+- Uso de cambio de lista de productos (Re render)
+- Uso de cambio de texto (Re render)
 ```tsx
-import React, { useState } from "react"; // importamos use state 
-interface CounterProps { // interfaz para declarar la variable
-    value: number;
-}
-export const CounterApp: React.FC<CounterProps> = ({value}) => { // export y agregar el contrato
-    const [counter, setCounter] = useState(value); // declara dos variable para la funcion del state 1 es el valor y la segunda es su cambio
-    const handleAdd = () => { // funcion donde se ejecuta el set counter.
-        setCounter(counter + 1);
-        setCounter( () => 400); // funcion anonima tiene el valor exacto del counter
-        setCounter( (c) => c + 1) // es lo mimso que usar el counter
-    }
-    return (
-        <div className="block">
-            <h1>CounterApp</h1>
-            <h2>{counter}</h2>
-            <button onClick={handleAdd}>
-                add + 1
-            </button>
-        </div>
-    );
+const [inputValue, setInputValue] = useState<string>("");  
+const [searchResults, setSearchResults] = useState<Product[]>([]);  
+const [isFocused, setIsFocused] = useState<boolean>(false);
+```
+
+Se da una destructuracion del array porque react es flojo, y es simple uno es el valor inicial y el otro es el método para re renderizar.
+
+
+##### useEffect
+Tiene que pasar algo para que ejecute, en este caso si las deps cambian se ejecutara el useEffect.
+
+```tsx
+useEffect(() => {  
+  if (isFocused) {  
+    fetchData(inputValue);  
+  } else {  
+    setSearchResults([]);  
+  }  
+}, [inputValue, isFocused]); // deps
+```
+
+### Fetch 
+No es buena practica usar fetch, porque la función ocupa valor en memoria y no se limpia y se va ir cacheando por 1 segundo por lo menos hasta que el garbage collector.
+ ```tsx
+ const fetchData = (value: string) => {  
+  fetch(`https://test-products-json-default-rtdb.firebaseio.com/.json`)  
+    .then((response) => response.json())  
+    .then((data) => {  
+      const filteredData: Product[] = data.filter((item: Product) => {  
+        return item?.nombre?.toLowerCase().includes(value.toLowerCase());  
+      });  
+      setSearchResults(filteredData);  
+    });  
 };
 ```
 
 
- 
+### useCallback
+Hace que no cache una función normal y no le afecte el re render.
+
+### Events
+Los da React por que la arquitectura 
+```tsx
+onChange={(e) => handleChange(e.target.value)}  // Devuelve un evento
+onFocus={handleFocus}  // es void
+onBlur={handleBlur} // es void
+```
+
+### Teoria
+**Componentes Sencillos**: Cuando los componentes son sencillos se usan estados simples.
+**UseState de objeto**: Se usa el estado y manejo del estado, el manejo del estado es usar el state de una manera compleja.
+
+

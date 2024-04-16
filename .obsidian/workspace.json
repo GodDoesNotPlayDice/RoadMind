@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9c3d6eb59fd81a",
+        "id": "4edc220b48e29204",
         "type": "tabs",
         "children": [
           {
-            "id": "75350afa67bfc5a3",
+            "id": "6dd9c852c8edefc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,21 +148,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75350afa67bfc5a3",
+  "active": "6dd9c852c8edefc5",
   "lastOpenFiles": [
-    "Year/Semester/BPM/Summary.md",
-    "Pasted image 20240416091054.png",
-    "Pasted image 20240416091042.png",
-    "().md",
+    "Year/Semester/Tasks/April/15-03.md",
+    "Web/React/React.md",
+    "Web/React/Untitled.md",
+    "Year/Semester/BPM/Images/Pasted image 20240416091042.png",
+    "Year/Semester/BPM/Images/Pasted image 20240416091054.png",
     "Year/Semester/Tasks/April/16-03.md",
+    "().md",
+    "Year/Semester/BPM/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240312085329.png",
     "Untitled.md",
     "Pasted image 20240416083840.png",
     "Year/Semester/Tasks/April/14-03.md",
     "Year/Semester/Plataformas/Draws/Vista-Cliente.md",
-    "Year/Semester/Tasks/April/15-03.md",
-    "Web/React/React.md",
     "Year/Semester/Plataformas/Draws/Metodologias.md",
     "Year/Semester/Tasks/April/13-03.md",
     "Year/Semester/MachineLearning/Summary.md",
