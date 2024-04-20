@@ -1,0 +1,112 @@
+- 1A: Eating habits
+	- Is there any food or drink that you couldn’t live without? How often do you have it?
+	- Is there anything you don’t eat? Why? 
+	- Are you allergic or intolerant to any kind of food? How long have you had that problem?
+	- What’s your favorite dish? Snack? Pizza topping? Sandwich filling?
+	- Do you ever have ready-made or take-out food? What kind?
+	- How often do you have take-out or delivery food?
+	- What do you have when you feel a little down and you want to cheer yourself up? And when you don’t want to cook?
+- Now about yourself...
+	- 1. What was your favorite dish when you were a child?
+	- 2. What kinds of things did your mother/ father/ grandmother cook? Do you still have them?
+	- 3. Do you have a favorite restaurant? What kind of food does it offer? What do you like the most about it? The food? The atmosphere? The service? The price?
+- 1B: Family life
+	- 1. Who do you consider as family?
+	- 2. Do you have a big or a small family? Who do you live with?
+	- 3. Are there any members of your family who you have very little contact with? Why?
+	- 4. What do you enjoy doing with your family?
+	- 5. What do you and your family mainly argue about? Cleaning? House chores? Discipline? Food?
+	- 1. Do you have any siblings or are you an only child? What’s your position in the family?
+	- 2. Do you think the order of birth affected your personality? How? What about your siblings?
+	- 3. What are your siblings like?
+- 2A: Talking about money: Are you a spender or a saver?
+	- How do you feel when you think about money? Happy? Anxious? Stressed? Why do you think is that?
+	- When did you earn money for the first time? How did you feel?
+	- Do you agree with the belief that money is a taboo topic in our society? Why/ why not? Why do you think is this?
+- 2A: Present perfect or simple past?
+	- 1. Have you ever found money on the street or won money in a contest? 
+	- 2. Have you or someone you know ever been scammed or robbed? 
+	- 3. Have you ever saved money for a long time for buying something?
+	- 4. Have you ever lent money to somebody and who never paid you back?
+	- 5. Have you ever wasted money on something you never used?
+	- 6. Have you ever bought something and immediately regretted it?
+	- 7. Have you ever inherited something from a relative?
+	- 8. Have you ever taken out a loan from a bank?
+	- 9. Have you ever lost a wallet or a bag?
+	- 10.Have you ever bought something on Marketplace, Mercadolibre or a similar site?
+- 2B
+	- Tell your classmate about something you have been doing for a while. Don’t forget to ask follow up questions about  what they tell you.
+		- What is it?
+		- How long have you been doing it?
+		- When and how did it start?
+		- How do you feel about it?
+- 3A: Talking about transportation
+	- 1. The quickest way to get from Valparaíso to Viña del Mar is by bus.
+	- 2. The best season to visit Viña del Mar is summer.
+	- 3. Young people are more careful drivers than elderly people.
+	- 4. Doing your hair when driving is as dangerous as eating.
+	- 5. Santiago is the most exciting city in Chile.
+	- 6. Valparaíso is more beautiful than Viña del Mar.
+	- 7. Taking the train is more comfortable than taking the bus.
+	- Talk about transportation in your city. Include the ideas below. Listen to your classmate. Remember to ask at least 1 follow-up question.
+		- What mean of transportation do you use? Why? What’s the best way to get around your city? (Use comparatives, superlatives and vocabulary)
+		- How do you commute from home to Duoc everyday?
+		- How long does it take you?
+- 3B: Stereotypes - or are they?
+	- 1. What is a stereotype?
+	- 2. Name some stereotypes you can notice in our society.
+	- 3. How do you think stereotypes have affected your life? Which stereotypes?
+- 4A: Bad manners?
+	- 1. What are manners?
+	- 2. Do you think manners are important? Why? Why not?
+	- 3. Give examples of good/bad traditional and modern manners in our society.
+- Conversation
+	- What phone network do you use? Are you happy with them? Why? Why not? Do you have monthly contract? Or are you pay as you go? (Provide extended ideas)
+	- Have you ever sent a message to the wrong person or group of people? What happened?
+	- Have you ever hung up on someone or has someone ever hung up on you?
+	- Do you make calls, or do you prefer texting or sending voice messages?
+	- Has your phone ever gone off at a bad time? E.g.,in a test or class?
+	- Provide extended ideas on some examples of modern manners (use prohibitions/obligations expressions).
+- 4B
+	- Something you would like to be able to do.
+	- Something you have tried to learn but haven’t been successful.
+	- Something you have learned to do after a lot of effort.
+	- Something you can do, but would like to be able to do better.
+	- Something you think young people should be able to know before graduating from school.
+- 5A: Sporting superstitions
+	- How often do you play sports or do exercise? What do you practice / play?
+	- Do you watch sports events? Which ones?
+	- Do you think physical education should be optional or mandatory at school?
+	- Do you prefer watching or practicing sports? Which ones? Why?
+	- Do you think there are good sport facilities in your city/town?
+- Speaking: Tell the class an anecdote about a moment when…
+	- You won a cup, trophy or competition.
+	- You saw a really exciting sports event.
+	- You had an accident or a sports injury.
+	- You saw or met someone famous.
+	- You got lost.
+	- You nearly missed or missed something important (e.g., a test, a flight, a meeting, etc.
+- Speaking practice
+	- What did you use to have for breakfast when you were a child? Who made it for you?
+	- What music did you use to listen when you were a teenager? What do you usually listen to nowadays?
+	- What did you use to do in your summer vacation when you were a child? What do you usually do now?
+	- What TV shows did you use to be addicted to? What do you usually watch now?
+	- -
+	- Is there a friend you used to be really close to, but don’t talk anymore?
+	- Is there a device or machine you used to use a lot, but don’t use anymore? What apps do you usually use now? What for?
+	- Is there a sport you used to practice but you’ve given up? Do you do exercise nowadays?
+	- -
+	- Tell your classmate about something you learned to do after a lot of effort.
+	- Give examples of good and bad modern manners.
+	- Have you ever had any lucky charms? Tell your classmate about it.
+	- Provide extended information about your relationship with one of your friends.
+	- Telling an anecdote: Tell your classmate about an exciting adventure in your life.
+	- Do you have any regrets? Tell your classmate about 2 things you regret about.
+	- -
+	- Eating habits now and when you were a child/teenager.
+	- Your siblings, their order of birth and their character (If you are an only child talk about someone´s siblings you know well).
+	- Tell an anecdote about a moment when you had an accident or sports injury. 
+	- Comment about transportation in your city.
+	- Your relationship with your best friend.
+	- Have you ever done any charity work?
+	- A skill you have learned after a lot of effort and a skill you would like to be able to have in the future.

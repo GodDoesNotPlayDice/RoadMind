@@ -634,3 +634,32 @@ People who text in movie theaters
 **Be able to**: Es usada en todas las demas formas 
 - future (will, going to, arrangements), you will be able to fly in a plane someday!
 - present perfect, have you ever been able to found your keys when you lost them?
+## Play/ Go/ Do
+### Play: Sports you play with a ball
+- Basketball -Tennis -Golf -Football -Table tennis - Soccer
+### Go: They focus on movement, sports ending in “ing”.
+- Skiing -Snowboarding -Golfing -Rowing -Wrestling -Fencing -Scuba diving -Swimming -Cycling -Jogging
+### Do: Individual sports or recreational activities
+- Karate -Judo -Aerobics -Yoga -Weightlifting -Gymnastics -Horse racing -Track and field -Archery
+
+
+## Past tenses: Simple, continuous, perfect. Using them together
+![[Pasted image 20240420144018.png]]
+- We use the past continuous to **set the scene.**
+- We use the simple past to **say what happened.**
+- We use the past perfect to mention **what happened before the previous action.**
+
+
+
+## Talking about past habits and states
+![[Pasted image 20240420144742.png]]
+- We use used to /didn't use to + base form to refer to past habits or states
+- Use to does not exist in the present
+- We often use “I never used to” instead of “I didn’t use to…”
+
+![[Pasted image 20240420145342.png]]
+For present habits or states we use the simple present + an adverb of frequency such as “**usually**” or “**regularly**”.
+
+![[Pasted image 20240420145606.png]]
+
+

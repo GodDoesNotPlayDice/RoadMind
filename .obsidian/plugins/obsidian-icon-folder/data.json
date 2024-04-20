@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPen",
       "LiFile",
       "RiErrorWarningFill",
       "RiFolderImageLine",
-      "BoBxsFileDoc"
+      "BoBxsFileDoc",
+      "RiFolderImageFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -167,6 +167,7 @@
   "Year/Semester/Tasks/April/15-03.md": "LiFile",
   "Year/Semester/Tasks/April/16-03.md": "LiFile",
   "Year/Semester/Tasks/April/17-03.md": "LiFile",
-  "Year/Semester/Tasks/April/19-04.md": "LiFile",
-  "Year/Semester/BPM/Draws/Clase_5.md": "LiPen"
+  "Year/Semester/Tasks/April/20-04.md": "LiFile",
+  "Year/Semester/Ingles/Summary-Oral.md": "LiFile",
+  "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md": "LiFile"
 }

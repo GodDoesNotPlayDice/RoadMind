@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4edc220b48e29204",
+        "id": "8dd189d869842f16",
         "type": "tabs",
         "children": [
           {
-            "id": "6dd9c852c8edefc5",
+            "id": "72fbe5708613c8aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Tasks/April/19-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41035972d14f8b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/BPM/Summary.md",
+                "file": "Year/Semester/Tasks/April/21-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 249.5
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md",
+                "file": "Year/Semester/Tasks/April/21-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md",
+                "file": "Year/Semester/Tasks/April/21-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md"
+                "file": "Year/Semester/Tasks/April/21-04.md"
               }
             }
           }
@@ -161,16 +148,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41035972d14f8b15",
+  "active": "72fbe5708613c8aa",
   "lastOpenFiles": [
-    "Year/Semester/BPM/Draws/Clase_5.md",
-    "Year/Semester/Tasks/April/19-04.md",
-    "Untitled.md",
+    "Year/Semester/Tasks/April/20-04.md",
+    "Year/Semester/Tasks/April/21-04.md",
+    "Web/React/Videos.md",
+    "Web/React/Tests.md",
+    "Web/React/React.md",
+    "Web/React/Estructura.md",
+    "Year/Semester/Ingles/Summary-Oral.md",
+    "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
+    "Conversaciones.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Ingles/Images/Pasted image 20240420145606.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240420144742.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240420145342.png",
+    "Pasted image 20240420145601.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240420144018.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240317135210.png",
     "Year/Semester/Tasks/April/17-03.md",
+    "Year/Semester/BPM/Draws/Clase_5.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Tasks/April/16-03.md",
     "Year/Semester/Tasks/April/15-03.md",
-    "Web/React/React.md",
     "Web/React/Untitled.md",
     "Year/Semester/BPM/Images/Pasted image 20240416091042.png",
     "Year/Semester/BPM/Images/Pasted image 20240416091054.png",
@@ -183,23 +183,10 @@
     "Year/Semester/Plataformas/Draws/Metodologias.md",
     "Year/Semester/Tasks/April/13-03.md",
     "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/BPM/Images/Pasted image 20240414142019.png",
     "Web/React/Errors/Functions are not valid as a React child.md",
     "Web/React/Errors",
-    "Year/Semester/Proyectos/Images/Pasted image 20240413140108.png",
-    "Year/Semester/Proyectos/Images/Pasted image 20240413140302.png",
-    "Pasted image 20240413135620.png",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Tasks/April/12-03.md",
     "Year/Semester/Plataformas/Summary.md",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240410094019.png",
-    "Year/Semester/MachineLearning/Images/Pasted image 20240410093854.png",
-    "Year/Semester/Tasks/April/11-03.md",
-    "Year/Semester/Tasks/April/9-03.md",
-    "Year/Semester/Proyectos/Draws/TreeSummary.md",
-    "Year/Semester/Tasks/April/8-03.md",
-    "Year/Semester/BPM/Actividad de Procesos.md",
-    "Year/Semester/BPM/Actividad Pre Prueba.md",
     "Year/Semester/Proyectos/Draws/ThreeImages",
     "Year/Semester/Tasks/April",
     "Year/Semester/MachineLearning/Draws/Sin título",
