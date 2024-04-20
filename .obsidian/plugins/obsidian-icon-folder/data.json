@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPen",
       "LiFile",
       "RiErrorWarningFill",
       "RiFolderImageLine",
-      "BoBxsFileDoc",
-      "RiFolderImageFill"
+      "BoBxsFileDoc"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -166,5 +166,7 @@
   "Web/React/Errors/Functions are not valid as a React child.md": "BoBxsFileDoc",
   "Year/Semester/Tasks/April/15-03.md": "LiFile",
   "Year/Semester/Tasks/April/16-03.md": "LiFile",
-  "Year/Semester/Tasks/April/17-03.md": "LiFile"
+  "Year/Semester/Tasks/April/17-03.md": "LiFile",
+  "Year/Semester/Tasks/April/19-04.md": "LiFile",
+  "Year/Semester/BPM/Draws/Clase_5.md": "LiPen"
 }

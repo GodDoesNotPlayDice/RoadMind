@@ -285,7 +285,7 @@ Una vez centrados en el diseño y estructuración de procesos de negocio, es imp
 Conjunto de acciones y tareas definidas para mejorar los procesos y reducir y/o eliminar problemas producidos por falta de controles y ejecución de malas prácticas identificadas en las áreas de análisis.
 
 #### Beneficios para la Organización
-- Incrementar la eficiencia en los procesos, subprocesos, servicio, etc.
+- Incrementar la eficiencia en los procesos, subprocesos, servicio, etc. (Competen con el objetivo de la empresa)
 - Corregir problemas que se presentan
 - Decidir en que área o procesos se debe dar mayor atención. Establecer prioridades de solución.
 - Herramienta de ayuda para la mejora de los procesos en las áreas de evaluación
@@ -294,7 +294,9 @@ Conjunto de acciones y tareas definidas para mejorar los procesos y reducir y/o 
 ### PHVA (Ciclo de mejora continua)
 ![[Pasted image 20240414142019.png]]
 
-#### Actores y Responsables (Stakeholder)
+**Verificar**: ver si realmente se mejoro
+
+#### Actores y Responsables (Stakeholder Interesados en el proyectos)
 - Directores
 - Gerentes y Subgerentes de áreas.
 - Jefes o Supervisores (Mandos Medios)
@@ -376,6 +378,8 @@ recomendaciones a fin de reducir el tiempo de ciclo es un proceso dicen relació
 - Juntar dos o más actividades en una.
 
 #### Análisis de costeo de actividades
+Cualquier cambio del sistema requiere un costo.
+
 Un objetivo principal de toda empresa u organización es gestionar sus costos y
 los procesos, los que durante su ejecución consumen actividades y, por su
 parte, las actividades consumen recursos.
