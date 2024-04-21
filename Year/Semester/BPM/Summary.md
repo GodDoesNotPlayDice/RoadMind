@@ -488,3 +488,134 @@ Siempre hay que contar con el responsable del proceso, que dará la última pala
 Todo lo que se decidió y se diseñó, no se implementará por sí solo. El diseño del nuevo proceso es sólo un paso hacia su implementación. 
 
 Un buen plan de implementación debe definir la gestión del cambio, qué sistemas se verán afectados por el proceso rediseñado, determinar claramente los equipos implicados y señalar las siguientes actividades del proyecto punto a punto.
+
+### Que es un KPI
+Los KPI o Índices Clave de Desempeño (Key Performance Indicators), son indicadores que ayudan a medir y cuantificar nuestro trabajo, habiendo previamente definido objetivos y actividades que nos ayuden a conseguir dichos objetivos.
+
+Es decir, los KPI nos indican qué debemos hacer para incrementar de un modo extremadamente significativo el desempeño de la empresa. Dichos indicadores son la materia prima de los directivos de la empresa, ya que apoyaran en la toma de decisiones
+
+#### Modo de elección
+**(Specific) Específico:** Tienes que ser concreto y conciso a la hora de
+seleccionar un KPI.
+
+**(Measurable) Medible:** Son cuantificable, en cifras, categorías,
+porcentajes, para luego poder compararlo con otros datos.
+
+**(Achievable) Alcanzable:** El objetivo debe ser realista y posible de lograr.
+
+**(Relevant) Relevante:** Son relevantes para
+el objetivo y la estrategia del negocio.
+
+**(Timely) Medible en el tiempo:** Tiene variación en el tiempo, esto para garantizar comparaciones.
+
+
+#### Como definir un KPI
+Cómo definimos unos KPIs para un proyecto nuevo, podemos guiarnos por las siguientes simples preguntas.
+
+**¿Qué medimos?**
+**¿Por qué medimos este dato?**
+**¿Realiza el seguimiento de los resultados de uno de nuestros objetivos?**
+**¿Es un factor clave para la empresa?**
+**¿Quién es el responsable de supervisarlo?**
+**¿Con qué periodicidad conviene supervisarlo?**
+
+#### Partes de un KPI
+**Definición:** Debemos dar una descripción de nuestro objetivo específico, de manera que
+todo el equipo sepa bien a qué se refiere. **¿Por que y para que medir?**
+**Formula de medición:** ¿Cómo lo vamos a medir?, Ejemplo: Ventas/Visitas a la página x 100 = %
+**Unidades de medida:** Unidad de medida del KPI. Por ejemplo, Notas, veces, porcentaje, etc.
+**Periodicidad:** ¿Cada cuánto vamos a medirlo? Responsable del proyecto o departamento. Actividad o proyecto al que se vincula el KPI.
+
+#### Características
+Al momento de seleccionar los KPIs con los cuales medirá sus procesos.
+- Los KPIs solo resultan útiles si se definen de manera correcta.
+- Se deben elegir indicadores simples que todos comprendan.
+- Existen KPIs estándar, es decir, predefinidos pero lo ideal es tener KPIs que se adapten a la realidad de la organización.
+- Deben ser indicadores medibles cuantitativamente.
+- Deben tener una frecuencia de análisis, un constante acompañamiento nos indicará la dirección que está tomando la organización.
+- Deben ser dinámicos, el indicador de ayer que fue importante, hoy puede haber perdido valor.
+
+Otro características importante de los KPIs es que están enfocados a la
+temporalidad.
+
+**KPIs históricos:** estos indicadores mostrarán lo que ha ocurrido en el pasado
+inmediato o histórico
+
+**KPIs en tiempo real:** en este caso en particular los indicadores nos entregaran
+información de procesos operacionales que entregan resultados en línea.
+
+**KPIs predictivos:** en este caso se proyectarán resultados futuros sin cambio de
+parámetros actuales
+
+**KPIs de simulación:** permiten visualizar la proyección de posibles resultados de
+futuro en función de patrones de comportamiento actual e histórico.
+
+
+### ¿Indicador clave de riesgo KRI?
+Los indicadores clave de riesgo, o KRI, por su sigla en inglés (Key Risk Indicators), son métricas que se utilizan para determinar el potencial de un riesgo eventual y tomar medidas oportunas.
+
+**Definición simple:**  Los KRI proporcionan información útil sobre los riesgos potenciales que pueden impactar los objetivos estratégicos de una empresa, indicando la información que se requiere para determinar si alcanzaremos las metas del negocio
+
+
+Estos indicadores son una especie de alarma que avisa cuando algo no está funcionando como debería. **Por ejemplo, una disminución en la demanda que impacta en las ventas.**
+
+**KRI se concentran en el pronóstico de lo que podría suceder.**
+
+![[Pasted image 20240421131610.png]]
+
+#### Indicadores de conceptos básicos
+El riesgo no siempre tiene que ser una amenaza para una empresa, también podría ser una oportunidad.
+
+**Ejemplo**: perder a un **colaborador clave** puede ser una amenaza, por un lado, pero por otro lado, puede ser **una oportunidad de encontrar un nuevo colaborador** que le proporcione nuevas habilidades e ideas.
+
+![[Pasted image 20240421131724.png]]
+
+#### Auditoria continua
+El proceso para determinar los riesgos y mantener una auditoria continua a nuestros procesos.
+- Los procesos seleccionados determinar sus indicadores más oportunos.
+- Identificar los datos que permitan obtener los indicadores seleccionados.
+- Cuando no se posean datos automatizados, se pueden definir cuestionarios y fechas de recepción; estableciendo métodos de comprobación.
+- Definir rangos de admisión de valores, es decir, cuando un valor es aceptable o cuando se deberían gatillar las alertas.
+- Analizar los resultados y consultar las causas de las desviaciones atípicas.
+- Abrir un proceso de auditoría para los casos no justificados razonablemente.
+- Concluir sobre las causas reales que justifican las desviaciones.
+- Proponer recomendaciones y mejoras.
+
+Los **KRI**, al momento de analizar los datos siempre se hacen respecto de datos comparativos, es decir, comparar las situaciones observadas con las que resulten habituales, alineadas y compatibles con los objetivos del negocio.
+
+
+#### Definiendo un KRI
+Definir nuestro objetivo específico, de manera que todo el equipo sepa bien
+que debemos mitigar y controlar.
+
+Los mismos principios que utilizamos para los KPI los podemos llevar a la definición de KRI
+- Se necesita tener un contexto empresarial adecuado
+- Es necesario que sean medibles o cuantificable
+- Debe ser relevante
+- Tiene que haber una persona responsable del KRI
+- Debería haber una participación del equipo.
+- Medible en el tiempo
+
+##### Fórmula de medición.
+
+**¿Cómo lo vamos a medir?**
+**Ejemplo**: Total Aprobados en Unidad 1/ Total alumnos del curso x 100 = %
+(Ver proyección)
+
+
+##### Fórmula de medición.
+
+**¿Cómo lo vamos a medir?**
+**Ejemplo**: Total Aprobados en Unidad 1/ Total alumnos del curso x 100 = %
+(Ver proyección)
+
+
+##### Periodicidad.
+**¿Cada cuánto vamos a medir para controlar?**
+
+Responsable del proyecto o departamento.
+Actividad o proyecto al que se vincula el KRI.
+
+
+
+![[Pasted image 20240421142551.png]]
