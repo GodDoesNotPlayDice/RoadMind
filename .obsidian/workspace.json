@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "de1b3d690b77f694",
+        "id": "be352c45c404970a",
         "type": "tabs",
         "children": [
           {
-            "id": "110018921395c856",
+            "id": "121f08d8403e2127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/NestJS/NestJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7e08ef5b68ac47b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/NestJS/NestJS.md",
+                "file": "Web/React/React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/NestJS/NestJS.md",
+                "file": "Web/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/NestJS/NestJS.md",
+                "file": "Web/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/NestJS/NestJS.md"
+                "file": "Web/React/React.md"
               }
             }
           }
@@ -161,31 +148,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7e08ef5b68ac47b",
+  "active": "121f08d8403e2127",
   "lastOpenFiles": [
+    "Web/React/Estructura.md",
+    "Web/NestJS/NestJS.md",
+    "Courses/Curso de Python/Indice.md",
+    "Courses/Curso de Python/Introducción.md",
+    "Courses/Curso de Python",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/ExcaliAI.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
+    "Courses",
+    "Web/NestJS/Overview.md",
+    "Web/NestJS/Images",
+    "Web/NestJS/Images/Pasted Image 20240420214447_941.png",
     "Year/Semester/MachineLearning/EV2/Teorias.md",
     "Year/Semester/MachineLearning/EV2",
     "Year/Semester/BPM/Images/Pasted image 20240421142551.png",
     "Year/Semester/BPM/Images/Pasted image 20240421131724.png",
     "Year/Semester/BPM/Images/Pasted image 20240421131610.png",
-    "Web/NestJS/Overview.md",
-    "Web/NestJS/NestJS.md",
-    "Pasted Image 20240420214447_941.png",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
-    "Excalidraw/Scripts/Downloaded/ExcaliAI.svg",
-    "Excalidraw/Scripts/Downloaded/ExcaliAI.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Web/NestJS/Untitled.md",
-    "Untitled",
     "Web/NestJS",
     "Projects/InvestCS2/Bussiness Rules.md",
     "Year/Semester/Tasks/April/16-03.md",
@@ -203,12 +195,7 @@
     "Web/React/Untitled.md",
     "().md",
     "Year/Semester/BPM/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
-    "Year/Semester/Tasks/April/14-03.md",
-    "Year/Semester/Plataformas/Draws/Vista-Cliente.md",
     "Web/React/Errors",
-    "Year/Semester/Proyectos/Draws/ThreeImages",
-    "Year/Semester/Tasks/April",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

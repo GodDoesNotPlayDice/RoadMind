@@ -34,7 +34,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},2
+    extend: {},
   },
   plugins: [],
 }
