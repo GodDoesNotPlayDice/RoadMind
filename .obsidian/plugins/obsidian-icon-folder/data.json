@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrandDatabricks",
+      "LiPen",
       "LiFileBox",
       "IbQuestionMarkWithCircle",
-      "LiBook",
-      "BoBxlPython",
-      "RiFolderImageFill"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -175,5 +175,7 @@
   "Courses": "LiBook",
   "Courses/Curso de Python": "LiBook",
   "Courses/Curso de Python/Indice.md": "IbQuestionMarkWithCircle",
-  "Courses/Curso de Python/Introducción.md": "LiFileBox"
+  "Courses/Curso de Python/Introducción.md": "LiFileBox",
+  "Year/Semester/Plataformas/Draws/Metodologias.md": "LiPen",
+  "DDD": "TiBrandDatabricks"
 }

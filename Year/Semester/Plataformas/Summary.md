@@ -190,3 +190,7 @@ Hace un uso muy eficiente del protocolo HTTP y permite la interacción entre dis
 
 **SOAP y REST**
 ![[Pasted image 20240319140943.png]]
+
+
+
+## 
