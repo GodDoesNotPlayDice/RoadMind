@@ -619,3 +619,4 @@ Actividad o proyecto al que se vincula el KRI.
 
 
 ![[Pasted image 20240421142551.png]]
+

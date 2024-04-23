@@ -510,3 +510,114 @@ Dos opciones de incremento de capital, estas terceras personas analizarán si es
 
 **Uniones de crédito**: son organismos constituidos como sociedades anónimas de capital variable, integrada por un número de socios no menor a veinte.
 
+
+
+## Estados de Resultados del Proyecto
+
+### Indicadores financieros
+El proyecto es conveniente realizarlo, desde el punto de vista del inversionista
+
+Si poseo una cartera de inversión en la cual debo decidir cuál será el orden de realización de estos proyectos, los indicadores de evaluación serán de gran ayuda
+
+os criterios de evaluación comparan **los beneficios** proyectados con la **inversión inicial**, de tal forma de determinar si se recupera dicha inversión y si se **obtiene rentabilidad.**
+
+### Tipos de indicadores
+Las variables o datos necesarios para realizar esta evaluación. Son el flujo de caja, la tasa de descuento y el horizonte, que normalmente  Son 10 años a no ser que las características del proyecto requieran un periodo menor.
+
+-  Punto de Equilibrio
+-  Valor Actual Neto(VAN)
+-  Período de Recuperación de Capital (PRI)
+-  Tasa Interna de Retorno (TIR)
+-  Análisis de Costo Beneficio
+
+
+### Punto de equilibrio
+Es el nivel de producción en el que los beneficios por las ventas son exactamente iguales a la suma de los costos fijos y variables. La inversión inicial no es considerada en su cálculo (es por ello que no se considera como una herramienta de evaluación económica).
+
+La gran utilidad es la de calcular el punto mínimo de producción que se debe realizar para no incurrir en pérdidas. 
+
+![[Pasted image 20240423082549.png]]![[Pasted image 20240423082557.png]]
+
+
+### Periodo de recuperación capital
+Es el primer período en el cual el flujo de caja se hace positivo, permitiendo recuperar la inversión. Este período varía dependiendo de algunos factores, como por ejemplo su magnitud. También es conocido bajo el nombre de Payback
+
+![[Pasted image 20240423082654.png]]
+
+
+![[Pasted image 20240423082706.png]]
+
+### Valor actual neto
+También conocido como valor presente neto (VPN), sirve para determinar la viabilidad de un proyecto. Su propósito es determinar el valor de una inversión en función de todos los flujos de caja construido y actualizados al valor del momento inicial, que es cuando se está realizando la evaluación del proyecto.
+
+Nos permitirá determinar si la inversión se debe realizar y en el caso de tener que decidir entre varios proyectos podremos determinar cual nos dará una mayor rentabilidad a futuro.
+
+**Objetivo**: Determinar cuánto gana el inversionista por sobre lo mínimo exigido, una vez recuperada la inversión.
+
+El VAN calcula el valor actual, es decir, al momento 0 o de inversión inicial, de todos los flujos de fondos futuros obtenidos en el flujo de caja.
+
+![[Pasted image 20240423082912.png]]
+- Los flujos de dinero en cada Período (Ft)
+- La inversión realizada al inicio (I0)
+- El número de períodos de tiempo (n)
+- El tipo de descuento o interés exigido en la inversión (k)
+#### Cuando invertir
+**VAN > 0:** Nos indica que el proyecto generará beneficios, por lo que se recomienda hacer el proyecto, es decir, se recupera la inversión, se obtiene la rentabilidad exigida y una ganancia sobre lo exigido.
+**VAN = 0:** Nos indica que el proyecto no generará beneficios ni pérdidas, por lo que la determinación de realizarlo se deberá establecer bajo otros criterios, es decir, se recupera la inversión y se obtiene la rentabilidad mínima exigida.
+**VAN < 0:** Nos indica que el proyecto generará pérdidas, por lo que se recomienda no hacer el proyecto, es decir, puede o no cubrir la inversión y no cubre la rentabilidad mínima exigida.
+
+
+### Tasa de descuento
+La tasa de descuento nos permite transformar el dinero del futuro a un valor presente, con el fin de determinar cuál es la rentabilidad que desearemos para nuestro proyecto. Está muy relacionada al tipo inversión a utilizar en el proyecto.  
+
+**Tasa de Descuento = Rentabilidad mínima + riesgo**
+
+**Proyecto financiado con aportes propios:** Si se posee de la totalidad de los fondos necesarios, a esta nueva inversión se le debe exigir igualar la rentabilidad que obtendríamos con nuestro dinero en otra inversión (Plazo fijo, fondos mutuos, entre otros)
+
+**Proyecto financiado con fondos ajenos**: Si no se posee el dinero y se solicita una financiación bancaria, la tasa de descuento debe ser el costo del préstamo.
+
+**Proyecto con financiación mixta:** Si se pretende realizar un aporte propio y solicitar un préstamo para cubrir la totalidad de la inversión, se debe calcular el costo medio ponderado de amabas fuentes de financiación.
+
+Una vez analizado y aclarado el tipo de financiamiento de la inversión, debemos calcular el riesgo de realizarla. Este análisis es especulativo, pero debemos considerar ciertos factores que son:
+
+- Si la inversión presenta más riesgo que la que estamos tomando de referencia, debemos aumentar la tasa de descuento
+- Debemos analizar el nivel de riesgo asociado a la inversión
+- La inflación es un punto a tomar en cuenta para el cálculo de la tasa de descuento, que en Chile se mide por el I.P.C.
+
+### Tasa interna de retorno
+Es un indicador relacionado de manera directa con el VAN. Nos permite determinar, en términos de porcentaje, el beneficio o pérdida que tendrá una inversión para las cantidades que no se han retirado del proyecto.
+![[Pasted image 20240423083607.png]]
+
+**Fn:** es el flujo de caja en el periodo n.
+**n:** es el número de períodos.
+**I:** Valor a descubrir en base a prueba y error, hasta que i iguale a la suma de los flujos descontados a la inversión inicial
+ 
+**TIR > 0:** Nos indica que el proyecto está sobre la rentabilidad mínima, por lo que se recomienda hacer el proyecto.
+**TIR = 0:** Nos indica que el proyecto no generará beneficios ni pérdidas, por lo que la determinación de realizarlo se deberá establecer bajo otros criterios.
+**TIR < 0:** Nos indica que el proyecto no alcanza la rentabilidad mínima, por lo que se recomienda no hacer el proyecto.
+
+![[Pasted image 20240423083823.png]]
+
+### Costo beneficio
+Es un estudio del retorno, no sólo financiero de nuestras inversiones, sino también de aspectos sociales y medioambientales de lo que el proyecto tiene alguna o toda influencia.
+Se debe utilizar para comparar los costos y beneficios ante diferentes decisiones. 
+Lo que establece es que cada peso que se invierta se obtiene un beneficio.
+
+Se deben analizar todos los costos relacionados con el desarrollo, gestión y mantenimiento del proyecto.
+
+#### Algunos costos:
+1) Adquisición de Hardware y Software
+2) Gastos en mantenimiento de Hardware y Software
+3) Costos de instalaciones
+4) Costos de desarrollo
+5) Costos de mantenimiento del sistema
+6) Costos de Traslado
+
+#### Algunos beneficios
+1) Aumento de la productividad
+2) Ahorro de material
+3) Control de la productividad 
+4) Ahorro de gastos de Mantenimiento
+5) Satisfacción hacia el cliente de la organización
+6) Obtención y análisis de la información de manera más eficiente
+7) Mejora en los procesos de la organización

@@ -193,4 +193,27 @@ Hace un uso muy eficiente del protocolo HTTP y permite la interacción entre dis
 
 
 
-## 
+## Modelo 4 + 1 y Estandares
+Lo que se requiere ahora es un modelo que nos apoye a describir nuestro sistema de una manera genérica.
+Si bien es cierto, el modelo 4+1, no esta asociado a ningún lenguaje gráfico de modelado, UML calza a la perfección con él.
+![[Pasted image 20240423084442.png]]
+
+**Vista logica**: describe el modelo de objetos del diseño cuando se usa un método de diseño orientado a objetos. 
+- Para diseñar una aplicación muy orientada a los datos, se puede usar un enfoque alternativo para desarrollar algún otro tipo de vista lógica, tal como diagramas de entidad-relación.
+**Vista de procesos:** describe los procesos y la forma en la que se comunican estos **procesos**; es decir, se representan desde la perspectiva de integración.
+- En esta vista representaremos las actividades desde el punto de vista del negocio y su relación  con las componentes que conforman el o los  sistemas.
+**Vista física:** describe el mapeo del software en el hardware y refleja los aspectos de distribución de las componentes y conexiones físicas de nuestra solución, incluyendo los servicios en las soluciones de interoperabilidad.
+**Vista de desarrollo despliegue:** describe la organización estática del software en su ambiente de desarrollo, en esta vista modelaremos las componentes de software desde la perspectiva del programador.
+**Vista de escenarios:** describe las funcionalidades del sistema como un todo, representa un conjunto de reglas o normas para entender las demás vistas. 
+
+
+### Estandares
+Existen un conjunto de normativas y estándares asociados a los procesos de negocio y sus dominios. 
+
+## Web Services REST
+**GET:** Esta anotación representa un método que nos permite leer información. 
+**POST:** Esta anotación representa un método y se usa para añadir un recurso.
+**DELETE**: Esta anotación marca un método y define  una operación DELETE que permite eliminar un recurso del servidor.
+**PUT**: Esta anotación se encarga de reemplazar un recurso del servidor.
+**Path**: Esta anotación es distinta a las anteriores y se encarga de definir un punto de entrada al servicio.  Puede usarse tanto a nivel de clase como a nivel de método.
+**Produces**: Esta anotación se encarga del contenido del servicio sea generado con distintos formatos.

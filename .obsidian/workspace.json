@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Plataformas/Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19e862c9bdfccb2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DDD/DDD.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD/DDD.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD/DDD.md",
+                "file": "Year/Semester/MachineLearning/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD/DDD.md"
+                "file": "Year/Semester/MachineLearning/Summary.md"
               }
             }
           }
@@ -161,12 +148,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19e862c9bdfccb2f",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
+    "Year/Semester/MachineLearning/EV2/Teorias.md",
+    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/Plataformas/Images/Pasted image 20240423084442.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240423083823.png",
+    "Year/Semester/Proyectos/Summary.md",
+    "Untitled.md",
+    "Year/Semester/Proyectos/Images/Pasted image 20240423083607.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240423082912.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240423082706.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240423082654.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240423082557.png",
+    "Year/Semester/Proyectos/Images/Pasted image 20240423082549.png",
+    "Year/Semester/Plataformas/Draws/Clase_4.md",
     "DDD/DDD.md",
     "DDD",
-    "Year/Semester/Plataformas/Draws/CLase.md",
     "Web/React/React.md",
     "Web/React/Estructura.md",
     "Web/NestJS/NestJS.md",
@@ -180,17 +180,9 @@
     "Courses",
     "Web/NestJS/Overview.md",
     "Web/NestJS/Images",
-    "Web/NestJS/Images/Pasted Image 20240420214447_941.png",
-    "Year/Semester/MachineLearning/EV2/Teorias.md",
     "Year/Semester/MachineLearning/EV2",
-    "Year/Semester/BPM/Images/Pasted image 20240421142551.png",
-    "Year/Semester/BPM/Images/Pasted image 20240421131724.png",
-    "Year/Semester/BPM/Images/Pasted image 20240421131610.png",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -203,12 +195,7 @@
     "Year/Semester/Tasks/April/20-04.md",
     "Year/Semester/Tasks/April/17-03.md",
     "Year/Semester/Ingles/Summary-Oral.md",
-    "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
-    "Year/Semester/Ingles/Images/Pasted image 20240420145606.png",
-    "Year/Semester/BPM/Draws/Clase_5.md",
-    "Excalidraw/Drawing 2024-04-20 20.32.47.excalidraw.md",
     "Projects/InvestCS2",
-    "Year/Semester/Tasks/April/15-03.md",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
