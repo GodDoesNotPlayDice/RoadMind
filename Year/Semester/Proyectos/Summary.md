@@ -243,7 +243,7 @@ etc., de manera de determinar la propia estrategia comercial del proyecto, esto 
 
 **Indirecta**: Competencia con otros productos, ya sea por los proveedores o por los distribuidores existentes. Aquí el evaluador puede conocer cuáles serán las relaciones comerciales del proyecto, por ejemplo, el canal de distribución del producto.
 
-
+ 
 ### Mercado Proveedor
 El mercado proveedor está conformado por todas las empresas que proporcionarán insumos para la elaboración y/o prestación del producto del proyecto
 
