@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
+      "LiFolderInput",
       "TiBrandDatabricks",
       "LiPen",
-      "LiFileBox",
-      "IbQuestionMarkWithCircle",
-      "LiBook"
+      "LiFileBox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -177,5 +177,12 @@
   "Courses/Curso de Python/Indice.md": "IbQuestionMarkWithCircle",
   "Courses/Curso de Python/Introducción.md": "LiFileBox",
   "Year/Semester/Plataformas/Draws/Metodologias.md": "LiPen",
-  "DDD": "TiBrandDatabricks"
+  "DDD": "TiBrandDatabricks",
+  "Year/Semester/Plataformas/Draws/Clase_4.md": "LiPen",
+  "Year/Semester/MachineLearning/EV2": "LiFolderInput",
+  "Year/Semester/MachineLearning/EV2/Teorias.md": "LiPen",
+  "Year/Semester/BPM/Draws/Clase_5.md": "LiPen",
+  "Year/Semester/BPM/Draws/Clase_6.md": "LiPen",
+  "Year/Semester/BPM/Actividad KPI.md": "LiFile",
+  "Year/Semester/BPM/Draws/Banco KPI.md": "LiPen"
 }

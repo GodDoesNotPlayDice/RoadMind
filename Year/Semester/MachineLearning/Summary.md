@@ -734,3 +734,54 @@ Produce figuras de calidad de publicación en una variedad de formatos impresos 
 Los datos a usar en gráficos de matplotlib deberán estar estructurados bajo la librería de NumPy.
 
 Con NumPy podrás realizar operaciones sobre ellos, inspeccionar sus matrices y manipularlas para que estés trabajando con el subconjunto de datos adecuado.
+
+## CRISP
+Como **metodología**, incluye descripciones de las fases normales de un proyecto, las tareas necesarias en cada fase y una explicación de las relaciones entre las tareas.
+
+Como **modelo de proceso**, CRISP-DM ofrece un resumen del ciclo vital de minería de datos.
+
+El modelo **contiene seis fases** con flechas que indican las dependencias más importantes y frecuentes entre fases. **La secuencia de las fases no es estricta**. 
+De hecho, la mayoría de los proyectos avanzan y retroceden entre fases si es necesario.
+
+### Comprender el negocio
+Esta es la etapa más importante, ya que, si no se comprende correctamente el negocio, o problema, no servirá pasar a las siguientes etapas. 
+
+**Identificación del problema:** Aborda el entendimiento y delimitación de la problemática, así como la identificación de los requisitos, restricciones, supuestos y beneficios del proyecto.
+
+**Determinación de objetivos:** Establece los resultados a obtener al proponer la solución.
+
+**Evaluación de la situación actual:** Describe el estado actual antes de ser implementada la solución propuesta, con el fin de tener un objeto de comparación que permita medir el grado de éxito del proyecto.
+
+
+### Comprensión de los datos
+Comprende la recolección inicial de datos, con el objetivo de establecer un primer acercamiento con el problema, conociendo a los datos, identificando su calidad y estableciendo las primeras relaciones que permitan definir correlaciones entre variables.
+
+**Recolección de datos:** Consiste en obtener los datos a utilizar en el proyecto a partir de algunas fuentes de datos, e identificando las técnicas utilizadas para su recolección.
+
+**Exploración de datos:** Se basa en aplicar pruebas estadísticas que permitan conocer las propiedades de los datos.
+
+### Preparación de datos
+Esta es la etapa que demanda más tiempo en el proyecto, aquí se seleccionan los datos que serán transformados de acuerdo con los resultados de la etapa anterior a fin de ser utilizados en la etapa de modelado. 
+
+**Limpieza de datos:** Para este fin se aplican diferentes técnicas, por ejemplo, normalización de datos, tratamiento de valores nulos, tratamiento de duplicados e imputación de datos.
+
+**Transformación de datos:** Aquí se cambia la estructura o el formato de ciertos datos sin alterar su significado, a fin de poder ser utilizados en la etapa de modelado
+
+### Modelado
+En esta etapa se obtiene el modelo propuesto.
+
+**Selección de técnica de modelado:** Se elige la técnica apropiada de acuerdo con el problema a resolver, los datos disponibles, las herramientas de minería de datos disponibles.
+
+**Selección de datos de prueba:** En algunos modelos se necesita segmentar la muestra en datos de entrenamiento y de prueba.
+
+**Obtención del modelo:** Aquí se genera el mejor modelo mediante un proceso iterativo con los datos de prueba y de entrenamiento.
+
+
+### Evaluación de modelos
+En esta etapa se determina la calidad del modelo teniendo en cuenta el análisis de determinadas métricas y criterios estadísticos del mismo, comparando los resultados con resultados previos. 
+
+De acuerdo con los resultados de esta etapa se decide continuar con la última fase de la metodología, revisar alguna de las etapas anteriores o incluso iniciar desde cero con un nuevo proyecto. (Ciclo de mejora continua?)
+
+
+### Implementación
+Aquí el modelo ya ha sido construido y evaluado. Esta etapa explota, mediante acciones específicas, el conocimiento adquirido mediante el modelo en las etapas previas, pudiendo ser aplicado el modelo a diversos conjuntos de datos o también dentro de un proceso del negocio.
