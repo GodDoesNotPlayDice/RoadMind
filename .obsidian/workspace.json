@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "a1da647e5215bc1d",
+        "id": "d9602fdde33f11fb",
         "type": "tabs",
         "children": [
           {
-            "id": "d301d70efd7c6d0b",
+            "id": "5ecadfaa97f156d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/BPM/Actividad Pre Prueba.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "85803123c325f8e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/BPM/Draws/Clase_6.md"
+              }
+            }
+          },
+          {
+            "id": "9a793eaefa1106f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/BPM/Draws/Banco KPI.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/BPM/Draws/Clase_6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/BPM/Draws/Clase_6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md"
+                "file": "Year/Semester/BPM/Draws/Clase_6.md"
               }
             }
           }
@@ -148,16 +169,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "85803123c325f8e4",
   "lastOpenFiles": [
-    "Year/Semester/MachineLearning/EV2/Teorias.md",
-    "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/BPM/Actividad KPI.md",
+    "Year/Semester/BPM/Actividad Pre Prueba.md",
+    "Year/Semester/BPM/Draws/Banco KPI.md",
+    "Excalidraw",
+    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Untitled.canvas",
     "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/Draws/Clase_1.md",
+    "Year/Semester/BPM/Draws/Clase_6.md",
+    "Year/Semester/Proyectos/Draws/TreeSummary.md",
+    "Year/Semester/Proyectos/Draws/Clase_1.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/MachineLearning/EV2/Teorias.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Plataformas/Images/Pasted image 20240423084442.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240423083823.png",
-    "Year/Semester/Proyectos/Summary.md",
-    "Untitled.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240423083607.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240423082912.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240423082706.png",
@@ -186,18 +216,9 @@
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
-    "Web/NestJS/Untitled.md",
     "Web/NestJS",
-    "Projects/InvestCS2/Bussiness Rules.md",
-    "Year/Semester/Tasks/April/16-03.md",
-    "Year/Semester/Tasks/April/21-04.md",
-    "Year/Semester/Tasks/April/20-04.md",
-    "Year/Semester/Tasks/April/17-03.md",
-    "Year/Semester/Ingles/Summary-Oral.md",
     "Projects/InvestCS2",
     "Year/Semester/Plataformas/Untitled.canvas",
-    "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
 }
