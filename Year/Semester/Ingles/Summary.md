@@ -628,7 +628,6 @@ People who text in movie theaters
 **Should, Shouldn't**: Hacer una recomendación de algo o no recomendar
 **Mustn't** : prohibir algo.
 
-
 ## Ability and possibility
 **Can / Could**: Poder , Podria (Usadas solamente en Simple present, Simple Past)
 **Be able to**: Es usada en todas las demas formas 
@@ -649,8 +648,6 @@ People who text in movie theaters
 - We use the simple past to **say what happened.**
 - We use the past perfect to mention **what happened before the previous action.**
 
-
-
 ## Talking about past habits and states
 ![[Pasted image 20240420144742.png]]
 - We use used to /didn't use to + base form to refer to past habits or states
@@ -661,5 +658,3 @@ People who text in movie theaters
 For present habits or states we use the simple present + an adverb of frequency such as “**usually**” or “**regularly**”.
 
 ![[Pasted image 20240420145606.png]]
-
-
