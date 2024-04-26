@@ -104,26 +104,26 @@
 **What did you use to have for breakfast when you were a child? Who made it for you?**
 - I used to eat oreo cookies and milo milk, that for me was super unhealthy, so, now I eat fruit breakfast, and Who made it, My mom did it for me when i was a child
 **What music did you use to listen when you were a teenager? What do you usually listen to nowadays?**
-I used to listen rap gender because in that moment the rap was the most cool for me.
+- I used to listen rap gender because in that moment the rap was the most cool for me.
 **What did you use to do in your summer vacation when you were a child? What do you usually do now?**
-I used to go to Maintencillo City because my parents had a vacation house there. Now I've continued going there, but not as much as before.
+- I used to go to Maitencillo City because my parents had a vacation house there. Now I've continued going there, but not as much as before.
 **What TV shows did you use to be addicted to? What do you usually watch now?**
-I used to be addicted at Nickelodeon TV Show, It has been Tv show about cartoons, now I watch series occasionally example Fallout is one of them.
+- I used to be addicted at Nickelodeon TV Show, It has been Tv show about cartoons, now I watch series occasionally example Fallout is one of them.
 **Is there a friend you used to be really close to, but don’t talk anymore?**
-I had many close friends with whom I used to talk; one of them maybe stopped talking because we moved away, so we never talk anymore. 
+- I had many close friends with whom I used to talk; one of them maybe stopped talking because we moved away, so we never talk anymore. 
 **Is there a device or machine you used to use a lot, but don’t use anymore? What apps do you usually use now? What for?**
-Yes, it was a tracking device where you can track yourself completely for a videogame, and I realized that videogame consume a lot of my time, so it happened that I didn't use it anymore; currently, I'm selling it.
+- Yes, it was a tracking device where you can track yourself completely for a videogame, and I realized that videogame consume a lot of my time, so it happened that I didn't use it anymore; currently, I'm selling it.
 **Is there a sport you used to practice but you’ve given up? Do you do exercise nowadays?**
-Yes there was one, I used to practice Karate when I was 16 17 years old, and one day I realized that is not for me, because I enjoying do exercises where you don't have to hit.
+- Yes there was one, I used to practice Karate when I was 16 17 years old, and one day I realized that is not for me, because I enjoying do exercises where you don't have to hit.
 **Tell your classmate about something you learned to do after a lot of effort.**
-Something that i did a lot of effort was when I was learing programming because I didn't understand but nowadays I understand more than before.
+- Something that i did a lot of effort was when I was learing programming because I didn't understand but nowadays I understand more than before.
 **Give examples of good and bad modern manners.**
 XD
 **Have you ever had any lucky charms? Tell your classmate about it.**
-Yes i had lucky charms, there were red dices, I bought those dices on mercadolibre and nowadays idk where are them
+- Yes i had lucky charms, there were red dices, I bought those dices on mercadolibre and nowadays idk where are them
 **Provide extended information about your relationship with one of your friends.**
-I have a friend who his name is Matias, he is  a one of my close friends, we met 8 years ago, we have a great communication and we always support us in everything, also he is kind, independent, reliable, self-confident and a lot of more.
+- I have a friend who his name is Matias, he is  a one of my close friends, we met 8 years ago, we have a great communication and we always support us in everything, also he is kind, independent, reliable, self-confident and a lot of more.
 **Telling an anecdote: Tell your classmate about an exciting adventure in your life.**
-One day I was enjoying with friends in Santiago city, in Movistar arena where we went there for watch the final event of a e-sport, we went around the all because in there were a lot of fast food and cosplayers, so we took photos with everyone but at the same time the main event had started, so we ran to get a chair. 
+- One day I was enjoying with friends in Santiago city, in Movistar arena where we went there for watch the final event of a e-sport, we went around the all because in there were a lot of fast food and cosplayers, so we took photos with everyone but at the same time the main event had started, so we ran to get a chair. 
 **Do you have any regrets? Tell your classmate about 2 things you regret about.**
-Yes, First was when I didn't keep the workout rutine when i was it, second was not invest in virtual object that now value too much money.
+- Yes, First was when I didn't keep the workout rutine when i was it, second was not invest in virtual object that now value too much money.
