@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Ingles/Summary-Oral.md",
+                "file": "Year/Semester/Proyectos/EV1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Summary-Oral.md",
+                "file": "Year/Semester/Proyectos/EV1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Summary-Oral.md",
+                "file": "Year/Semester/Proyectos/EV1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Summary-Oral.md"
+                "file": "Year/Semester/Proyectos/EV1.md"
               }
             }
           }
@@ -150,14 +150,21 @@
   },
   "active": "116e3ceb84de0b07",
   "lastOpenFiles": [
-    "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Web/React/React.md",
+    "Web/React/Tests.md",
+    "Web/React/Estructura.md",
+    "Projects/InvestCS2/Bussiness Rules.md",
+    "Projects/py-guncs2/NOTE.md",
+    "Projects/py-guncs2/TODO.md",
     "Year/Semester/Ingles/Summary-Oral.md",
+    "Projects/MagerSegurosWeb/Note.md",
+    "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Proyectos/EV1.md",
     "Year/Semester/Proyectos/Draws/EV1.md",
     "Year/Semester/Ingles/Images/Pasted image 20240317135210.png",
     "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240421201247_435.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240423083823.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240423083607.png",
@@ -175,8 +182,6 @@
     "Arquitectures/DDD.md",
     "Arquitectures",
     "Year/Semester/Proyectos/Draws/TreeSummary.md",
-    "Web/React/React.md",
-    "Web/React/Estructura.md",
     "Web/NestJS/NestJS.md",
     "Courses/Curso de Python/Indice.md",
     "Courses/Curso de Python/Introducción.md",
@@ -184,12 +189,8 @@
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/ExcaliAI.md",
     "Courses",
-    "Web/NestJS/Overview.md",
     "Web/NestJS/Images",
-    "Year/Semester/MachineLearning/EV2/Teorias.md",
     "Year/Semester/MachineLearning/EV2",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
