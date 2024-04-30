@@ -11,7 +11,9 @@ Se especializa en la mantención, calibración, evaluación de desempeño y repa
 ## Histórico / Actual
 **Fresenius Medical Care AG & Co. KGaA:** 
 - **Histórico:** Servicios de diálisis renal a través de una red de 4.171 centros de diálisis ambulatorios, y atienden a 345.425 pacientes aprox.
+	- En el año 2022 contaban con unas ganancias de 19,40 millones de euros
 - **Actual:** ha descuidado su calidad, clientes como empleados por lo que sus pacientes podrían haber disminuido hasta la fecha.
+	- Ganancias de 11,62 mil millones de dólares
 
 **DaVita Inc:** 
 - **Histórico:** Servicios de diálisis renal a través una red de 2.816 centros de diálisis, y atienden a 204.200 paciente aprox.
