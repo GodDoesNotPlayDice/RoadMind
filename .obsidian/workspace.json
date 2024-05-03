@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md",
-                "mode": "source",
+                "file": "Year/Semester/BPM/Actividad KPI.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md",
+                "file": "Year/Semester/BPM/Actividad KPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md",
+                "file": "Year/Semester/BPM/Actividad KPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/BPM/Summary.md"
+                "file": "Year/Semester/BPM/Actividad KPI.md"
               }
             }
           }
@@ -163,9 +164,9 @@
   },
   "active": "77c6ce248eddb543",
   "lastOpenFiles": [
+    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Actividad KPI.md",
     "Year/Semester/BPM/Draws/Clase 7.md",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Actividad Pre Prueba.md",
     "Year/Semester/Ingles/Summary-Oral.md",
     "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
