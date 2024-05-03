@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiJavascriptFill",
       "LiFile",
       "LiFolderInput",
       "TiBrandDatabricks",
-      "LiPen"
+      "LiPen",
+      "LiFileBox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -157,7 +157,7 @@
   "Web/React/Errors/Functions are not valid as a React child.md": "BoBxsFileDoc",
   "Year/Semester/Tasks/April/15-03.md": "LiFile",
   "Year/Semester/Tasks/April/16-03.md": "LiFile",
-  "Web/NestJS": "RiJavascriptFill",
+  "Web/NestJS": "BoBxlJavascript",
   "Web/NestJS/NestJS.md": "LiFile",
   "Web/NestJS/Overview.md": "LiPen",
   "Web/NestJS/Images": "RiFolderImageFill",
@@ -176,5 +176,5 @@
   "Year/Semester/BPM/Draws/Banco KPI.md": "LiPen",
   "Year/Semester/Ingles/Summary-Oral.md": "LiFile",
   "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md": "LiFile",
-  "Year/Semester/Proyectos/EV1.md": "LiFile"
+  "Year/Semester/BPM/Draws/Clase 7.md": "LiPen"
 }

@@ -620,3 +620,13 @@ Actividad o proyecto al que se vincula el KRI.
 
 ![[Pasted image 20240421142551.png]]
 
+
+
+| Nivel        | Descripción                                | Horas de Baja | % de Clientes Afectados |
+|--------------|--------------------------------------------|---------------|--------------------------|
+| Muy Bueno    | Bajo impacto en la operación              | Menos de 50 horas | Menos del 1% |
+| Bueno        | Impacto mínimo en la operación            | 50 - 100 horas | 1% - 2.5% |
+| Moderado     | Impacto perceptible en la operación       | 100 - 200 horas | 2.5% - 5% |
+| Malo         | Impacto significativo en la operación     | 200 - 300 horas | 5% - 7.5% |
+| Muy Malo     | Impacto grave en la operación             | Más de 300 horas | Más del 7.5% |
+
