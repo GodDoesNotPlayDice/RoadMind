@@ -670,15 +670,38 @@ For present habits or states we use the simple present + an adverb of frequency 
 - **Remaining**: restante
 - **Largely**: en gran parte
 - **Digital ones**: los digitales
+- **Foreign**: Extranjero
 ### Passive voice
+(Be + Participe) : regular and irregular.
 - We use the passive voice when it isn’t said, known or relevant who does the action.
 - If we want to say who does the action, we use “by”.
-- We often use the passive voice to refer to processes (for example scientific processes) and formal language (such as news reports).
+- We often use the passive voice to refer to processes 
+	- (for example scientific processes) and formal language (such as news reports).
 ![](https://lh7-us.googleusercontent.com/40_7m5mYv-Aib7JNyZ7JKQJb7r8Td26QAY9OBZCfMRrqHbgnu852uSL_oH93kDtkvFgyol7MBk9sjHseqR6UPNqP3E8AKsQqHe0raUwu3dOi7CTq5ghAp8gVGTRP70mA0jwcOiNkp-hjrKytIvzls0d1fw=nw)
 
 Future: 
 - We will bake the bread / The bread will be baked.
 - We are going to bake the bread / The bread is going to be baked.
+
+**Passive Voice and Active voice**:
+- Mary Shelly wrote Frankenstein (Subject / verb) : here Mary Shelly is the most important .
+- Frankenstein was written by Mary Shelly (Agent) : Here Frankenstein is the most important in the sentence.
+
+
+
+**Page 142**
+**Exercise B**
+2) A lot of foreign movies was being subtitule.
+3) Love in the time of Cholera was written by Garcia Marquez in 1985.
+4) My laptop is being repaired.
+5) The DVD of the movie hasn't been released
+6) The movie won't be finished until the spring
+7) The tickets have to be collected from the box office
+8) The actor hadn't been told about changes in the script
+9) La la land was directed by Damien Chazelle.
+10) The soundtrack has been already recorded
+11) The director was being interviewed about the movie. 
+
 
 ### Writing passive voice
 - What kind of movie is it?

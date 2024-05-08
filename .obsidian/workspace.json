@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md"
+                "file": "Year/Semester/Ingles/Summary.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "571d6bc43e0ab440",
   "lastOpenFiles": [
-    "Year/Semester/Tasks/May/08-05.md",
+    "Untitled.md",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Tasks/May/08-05.md",
     "Year/Semester/Tasks/May",
     "Year/Semester/Proyectos/MedServ.md",
     "Year/Semester/Proyectos/Draws/MedServ.md",
@@ -187,7 +188,6 @@
     "Web/React/Estructura.md",
     "Web/NestJS/NestJS.md",
     "Courses/Curso de Python/Indice.md",
-    "Courses/Curso de Python/Introducción.md",
     "Courses/Curso de Python",
     "Courses",
     "Web/NestJS/Images",
