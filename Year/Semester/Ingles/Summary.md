@@ -657,4 +657,70 @@ People who text in movie theaters
 ![[Pasted image 20240420145342.png]]
 For present habits or states we use the simple present + an adverb of frequency such as “**usually**” or “**regularly**”.
 
-![[Pasted image 20240420145606.png]]
+![[Pasted image 20240420145606.png]]o
+## Behind the scenes (Passive voice)
+### Vocaburlary
+- **Mimic**: Mimica
+- **Thick**: Grueso
+- **Put Up**: Colgar, Akojar
+- **Breath**: Respiracion.
+- **Lasting**: Duradero perdurable
+- **Dozen**: docena
+- **Homeland**: seguiridad personal, patria
+- **Remaining**: restante
+- **Largely**: en gran parte
+- **Digital ones**: los digitales
+### Passive voice
+- We use the passive voice when it isn’t said, known or relevant who does the action.
+- If we want to say who does the action, we use “by”.
+- We often use the passive voice to refer to processes (for example scientific processes) and formal language (such as news reports).
+![](https://lh7-us.googleusercontent.com/40_7m5mYv-Aib7JNyZ7JKQJb7r8Td26QAY9OBZCfMRrqHbgnu852uSL_oH93kDtkvFgyol7MBk9sjHseqR6UPNqP3E8AKsQqHe0raUwu3dOi7CTq5ghAp8gVGTRP70mA0jwcOiNkp-hjrKytIvzls0d1fw=nw)
+
+Future: 
+- We will bake the bread / The bread will be baked.
+- We are going to bake the bread / The bread is going to be baked.
+
+### Writing passive voice
+- What kind of movie is it?
+    
+- Is it based on a book or a real event? Is it inspired on anything?
+    
+- When and where is it set?
+    
+- Who stars in it? Who is it directed by?
+    
+- Does it have a good plot?
+    
+- Does it have a good soundtrack?
+    
+- Why do you like it?
+
+#### Example
+**The Godfather**
+My favorite movie is the Godfather. This crime drama, set in New York in 1945, is based on the novel written by Mario Puzo and was directed by Francis Ford Coppola. The cast includes well-known stars such as Al Pacino, Marlon Brando and Diane Keaton. The film has 2 sequels, the Godfather 2 and 3.
+
+The plot tells the story of an Italian-American family involved in the mafia and follows the transformation of one of Vito Corleone’s children who is reluctant to participate in the family business at the beginning of the film. It has a brilliant soundtrack composed by Nino Rota.  
+
+I like it because I think it’s a masterpiece since it combines a brilliant cast, soundtrack and plot. Indeed, it shows a fictional historical drama about a controversial matter such as mafias in the US in the early XIX century.
+
+## Judging by appearances
+**Modals like: MIGHT - MIGHT NOT - COULD - MAY - MAY NOT - MUST - CAN'T**
+
+### Writing 
+- Do you have a profile photo of yourself that you use on social networking sites? What is it like? Describe it.
+    
+- Why did you choose it?
+    
+- What do you think it says about you?
+	
+- What is a stereotype?
+	
+- What do you think of the stereotypes mentioned in the text, are they true? Which ones? 
+    
+-  What about your profile picture? Does it match any of the stereotypes mentioned? What do you think about that?
+
+- Which modal verbs mean it’s possible? 
+    
+- Which modal verb means it’s very likely to happen? 
+    
+- Which modal verb means it’s impossible?

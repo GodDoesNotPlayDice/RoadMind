@@ -396,7 +396,13 @@ No es más que establecer un calendario de ejecución del proyecto, mostrando ac
 #### Árbol de clasificación
 ![[Pasted image 20240413140108.png]]
 
+
+
+
+
 ![[Pasted image 20240413140302.png]]
+
+
 
 
 ### Estimación de costos
@@ -405,7 +411,7 @@ En la etapa de **factibilidad** del proyecto, debemos determinar si invertimos o
 
 Es por ello que debemos conseguir un alto nivel de precisión. Dentro del proyecto, debemos considerar distintos recursos económicos a utilizar.
 
-**Algunos recursos económicos son**: Inversion, Material de trabajo, Servicios Basicos, Capital Humano, Licencias de Desarrollo
+**Algunos recursos económicos son**: Inversion, Material de trabajo, Servicios Básicos, Capital Humano, Licencias de Desarrollo
 
 Una de las estimaciones utilizadas se denomina **“Estimación por Analogía”**
 - Esta se basa es que un proyecto, por muy nuevo que sea, tendrá similitudes con uno realizado anteriormente.
@@ -621,3 +627,101 @@ Se deben analizar todos los costos relacionados con el desarrollo, gestión y ma
 5) Satisfacción hacia el cliente de la organización
 6) Obtención y análisis de la información de manera más eficiente
 7) Mejora en los procesos de la organización
+
+
+
+
+
+## Informe de Factibilidad Económico
+Se entiende por Factibilidad las posibilidades que tiene de lograrse un determinado proyecto.
+**Factibilidad Económico Financiero que contenga técnicas utilizadas internacionalmente como:**
+- Flujo de caja
+- Valor actual neto (VAN)
+- Valor Interna de retorno (TIR)
+- Retorno de inversion (ROI)
+
+**EL ESTUDIO DE LA FACTIBILIDAD ECONÓMICA:** Ayuda a realizar el análisis costo-
+beneficio del sistema, el mismo que permitirá determinar si es factible desarrollar
+económicamente el proyecto.
+
+**LA FACTIBILIDAD ECONÓMICA:** se trata de una propuesta de acción para resolver un
+problema práctico o satisfacer una necesidad. Es indispensable que dicha propuesta se
+acompañe de una investigación, que demuestre su factibilidad o posibilidad de realización.
+
+### Flujo de caja
+El presupuesto de efectivo es un informe de las entradas y salidas de efectivo planeadas de la empresa que se utiliza para calcular sus requerimientos de efectivo a corto plazo, con particular atención a la planeación en vista de excedentes y faltantes de efectivo.
+
+Una empresa que espera un excedente de efectivo puede planear inversiones a corto
+plazo, en tanto que una empresa que espera faltantes de efectivo debe disponer del
+financiamiento a corto plazo. Se utiliza para analizar la viabilidad de proyectos, siendo éste la
+base de cálculo del Valor Actual Neto y la Tasa Interna de Retorno.
+
+**Calculo:** Usualmente, el Flujo de caja se calcula con una matriz con columnas y filas. En las columnas se disponen los períodos de tiempo que generalmente son de meses y en las filas los ingresos y salidas de dinero.
+
+FLUJO DE CAJA = ENTRADAS (INGRESOS) – SALIDAS (COSTOS)
+
+
+### Valor Actual Neto (VAN)
+se suele definir como el valor actual de los flujos de caja esperados, entendiéndose por flujos de caja el flujo de ingresos y egresos en efectivo.
+
+Una definición más explícita correspondería, entonces, a la que lo define como el valor actualizado del saldo entre el flujo de ingresos y egresos en efectivo generados por un proyecto durante su vida útil.
+
+Para hallar dicho saldo se descuentan los flujos a una tasa de descuento constante durante el período de vida útil del proyecto.
+
+![[Pasted image 20240508084403.png]]
+
+ **Determinación de VAN:** Las tasas de interés a que la empresa y el país reciben recursos financieros, los niveles de rentabilidad de la rama económica a que pertenece el proyecto, el riesgo financiero, y también criterios subjetivos relacionados a la experiencia y al buen juicio de quien evalúa la inversión
+
+**𝑉𝐴𝑁 > 0** El proyecto puede aceptarse, implica que se
+produce un rendimiento superior al mínimo requerido y el
+proyecto producirá ganancias.
+
+**𝑉𝐴𝑁 = 0** Dado que el proyecto no agrega valor monetario,
+la decisión debería basarse en otros criterios, tales como la
+obtención de un mejor posicionamiento en el mercado,
+beneficios sociales, u otros factores. El proyecto no
+producirá ni ganancias ni pérdidas.
+
+**𝑉𝐴𝑁 < 0** El proyecto debe rechazarse debido a que éste
+producirá pérdidas, solo se aceptará un proyecto con VAN
+menor que cero si éste tiene un alto impacto en la sociedad.
+
+
+### Tasa Interna de Retorno (TIR)
+**Ventajas**: Su ventaja fundamental es muy similar a la del VAN pues como criterio dinámico, refiere a un mismo momento del tiempo todas las cantidades de dinero que produce el proyecto.   
+
+Proporciona una visualización más fácil de la rentabilidad del proyecto, al expresarla en términos relativos por unidad monetaria. 
+
+No requiere para su cálculo conocer el valor de k,aunque esta es realmente una ventaja relativa pues para tomar la decisión de inversión se necesita conocer qué R > K. No obstante, si la tasa de rentabilidad del proyecto es significativamente alta, esta obviamente se asumiría como mayor que k, sin necesidad de precisar el valor de esta última.
+
+**Desventaja**:
+Implica determinadas dificultades de cálculo, pues constituye una ecuación de n grados en que la incógnita a despejar es la TIR. 
+
+La solución de este tipo de ecuaciones es laboriosa, siendo generalmente necesario utilizar un procedimiento de aproximaciones sucesivas.
+
+
+### Retorno de Inversion (ROI)
+Es un indicador financiero que utilizan las empresas y emprendedores para
+medir y proyectar los resultados económicos de sus inversiones y la viabilidad de las mismas.
+
+El resultado de su cálculo es el margen de beneficio de cada peso, euro o dólar destinado para un negocio o proyecto, lo que a su vez ayuda a determinar en cuánto tiempo se recupera la inversión.
+
+**(Ingresos – Inversión) / Inversión.**
+
+![[Pasted image 20240508085956.png]]
+
+
+**Ventajas**: El ROI incluye el dinero de la equidad, así como el dinero de los préstamos, por lo que la empresa puede pedir prestado el dinero si va a obtener una mayor rentabilidad en el largo plazo.
+
+Una de las ventajas del ROI es que es un método muy simple para ayudar a la gestión a decidir si un proyecto merece la pena.
+
+
+**Desventajas**: Una desventaja del retorno de la inversión es que esta medida sólo le dice a la empresa si un proyecto específico le permitirá obtener un beneficio, no la empresa en su conjunto.
+
+Otra desventaja del ROI es que requiere un período de tiempo bien definido.
+
+Un proyecto puede requerir varios años para permitir la ganancia de un beneficio, e incurrirá en pérdidas en los años anteriores. La empresa tendrá que predecir las tasas de interés en los próximos años, y también tendrá que decidir si es probable que haya proyectos más rentables disponibles para invertir posteriormente.
+
+El ROI no es tan completo como otros indicadores de inversión. Un análisis de costo-beneficio incluye los efectos de otros factores, incluso si es difícil asignar un precio a estos factores.
+
+

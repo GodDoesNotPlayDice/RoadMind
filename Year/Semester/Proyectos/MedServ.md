@@ -66,3 +66,18 @@ Es la serie de recursos materiales adecuados para el proyecto.
 - Al implementar un nuevo sistema tecnológico, MEDSERV debe asegurarse de contar con contratos claros y acuerdos con sus clientes y proveedores
 **Capacitación y el desarrollo del personal.**
 Debe cumplir con las leyes laborales relacionadas con la capacitación y el desarrollo del personal.
+
+
+## Costos Fijos y Variables
+
+**Costo Fijo**: 
+**Costos Variables**: La compra de instrumentos
+**Semi Variables**: El personal ya que incrementa de manera discreta.
+
+**Materiales de trabajo**: Instrumentos
+**Capital Humano**: Sueldo, Capacitación
+
+**Estimación de costo**: Como copiar y pegar?, donde hay lugar para estimar el costo a partir de algo ya existente en un lugar existente
+
+**Juicio experto**: Preguntar a un experto por estimación y relación del precio.
+

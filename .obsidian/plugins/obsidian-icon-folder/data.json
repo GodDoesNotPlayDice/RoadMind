@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolder",
       "LiFile",
       "LiFolderInput",
       "TiBrandDatabricks",
-      "LiPen",
-      "LiFileBox"
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -176,5 +176,9 @@
   "Year/Semester/BPM/Draws/Banco KPI.md": "LiPen",
   "Year/Semester/Ingles/Summary-Oral.md": "LiFile",
   "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md": "LiFile",
-  "Year/Semester/BPM/Draws/Clase 7.md": "LiPen"
+  "Year/Semester/BPM/Draws/Clase 7.md": "LiPen",
+  "Year/Semester/Proyectos/Draws/MedServ.md": "LiPen",
+  "Year/Semester/Proyectos/MedServ.md": "LiFile",
+  "Year/Semester/Tasks/May": "LiFolder",
+  "Year/Semester/Tasks/May/08-05.md": "LiFile"
 }
