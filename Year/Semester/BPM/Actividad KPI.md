@@ -13,13 +13,13 @@
 ## Actividad de KPI Banco de la palta
 
 ### Solicitudes Web
-| Nivel        | Descripción                                | % de Clientes que Visitó la Página Web |
-|--------------|--------------------------------------------|----------------------------------------|
-| Muy Bueno    | Alto compromiso y satisfacción             | Menos del 1% |
-| Bueno        | Compromiso y satisfacción satisfactorios   | 1% - 2.5% |
-| Moderado     | Compromiso y satisfacción aceptables       | 2.5% - 5% |
-| Malo         | Compromiso y satisfacción deficientes      | 5% - 7.5% |
-| Muy Malo     | Compromiso y satisfacción muy bajos        | Más del 7.5% |
+| Nivel     | Descripción                              | % de Clientes que Visitó la Página Web |
+| --------- | ---------------------------------------- | -------------------------------------- |
+| Muy Bueno | Alto compromiso y satisfacción           | Menos del 1%                           |
+| Bueno     | Compromiso y satisfacción satisfactorios | 1% - 2.5%                              |
+| Moderado  | Compromiso y satisfacción aceptables     | 2.5% - 5%                              |
+| Malo      | Compromiso y satisfacción deficientes    | 5% - 7.5%                              |
+| Muy Malo  | Compromiso y satisfacción muy bajos      | Más del 7.5%                           |
 
 
 | Nivel     | Acción a Tomar                                                                                                                                                   |

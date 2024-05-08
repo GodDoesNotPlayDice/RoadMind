@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "be352c45c404970a",
+        "id": "7e380ec368a25f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "571d6bc43e0ab440",
+            "id": "999e553f5662a627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a4b26735f9715d02",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md"
               }
             }
           }
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md"
+                "file": "Year/Semester/BPM/Actividad con dos (KPI, KRI).md"
               }
             }
           }
@@ -148,15 +159,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "571d6bc43e0ab440",
+  "active": "999e553f5662a627",
   "lastOpenFiles": [
+    "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md",
+    "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
+    "Year/Semester/BPM/Actividad KPI.md",
+    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Tasks/May/08-05.md",
     "Year/Semester/Ingles/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Tasks/May",
     "Year/Semester/Proyectos/MedServ.md",
     "Year/Semester/Proyectos/Draws/MedServ.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240508085956.png",
     "Year/Semester/Ingles/Summary-Oral.md",
     "Year/Semester/BPM/Summary.md",
@@ -164,7 +179,6 @@
     "Year/Semester/Proyectos/Draws/TreeSummary.md",
     "Year/Semester/Proyectos/Draws/Clase_1.md",
     "Year/Semester/Proyectos/Draws/EV1.md",
-    "Year/Semester/BPM/Actividad KPI.md",
     "Year/Semester/BPM/Draws/Clase 7.md",
     "Year/Semester/BPM/Actividad Pre Prueba.md",
     "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
@@ -185,9 +199,6 @@
     "Arquitectures",
     "Web/React/React.md",
     "Web/React/Estructura.md",
-    "Web/NestJS/NestJS.md",
-    "Courses/Curso de Python/Indice.md",
-    "Courses/Curso de Python/Introducción.md",
     "Courses/Curso de Python",
     "Courses",
     "Web/NestJS/Images",
