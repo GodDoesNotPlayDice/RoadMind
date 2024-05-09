@@ -671,6 +671,11 @@ For present habits or states we use the simple present + an adverb of frequency 
 - **Largely**: en gran parte
 - **Digital ones**: los digitales
 - **Foreign**: Extranjero
+- **Western**: "Tematica de vaqueros"
+- **Is base on**: es basada en
+- **Was shot**: Fue grabado
+- **Plays the part of**: Representar el papel de
+- **Was dubbed into**: Doblar (lenguaje)
 ### Passive voice
 (Be + Participe) : regular and irregular.
 - We use the passive voice when it isn’t said, known or relevant who does the action.
@@ -705,13 +710,13 @@ Future:
 
 ### Writing passive voice
 - What kind of movie is it?
-    
+	- Hunger Games is science fiction movie
 - Is it based on a book or a real event? Is it inspired on anything?
-    
+    - Hunger Games is based on a book what is science fiction too.
 - When and where is it set?
-    
+    - Hunger Games was set on Ivry-sur-Seine y Noisy-le-Grand
 - Who stars in it? Who is it directed by?
-    
+	- The star from Hunger Games is part of Jennifer Lawrence
 - Does it have a good plot?
     
 - Does it have a good soundtrack?
