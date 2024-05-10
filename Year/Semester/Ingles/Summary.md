@@ -676,6 +676,13 @@ For present habits or states we use the simple present + an adverb of frequency 
 - **Was shot**: Fue grabado
 - **Plays the part of**: Representar el papel de
 - **Was dubbed into**: Doblar (lenguaje)
+- **Grown-up**: Madurar(Crecer)
+- **Dipers**: Pañales
+- **Rude**: Mal educado
+- **Portrait**: Autoretrato.
+- **Nod**: Asentir (cabeza)
+- **Stare**: Quedarse mirando
+- **Wishtle**: Silvar
 ### Passive voice
 (Be + Participe) : regular and irregular.
 - We use the passive voice when it isn’t said, known or relevant who does the action.
@@ -736,9 +743,9 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 
 ### Writing 
 - Do you have a profile photo of yourself that you use on social networking sites? What is it like? Describe it.
-    
+    I was at home with my girlfriend and I took the pfp before the 2024 new year.
 - Why did you choose it?
-    
+    - I chose this pfp, because is the most I liked than others. 
 - What do you think it says about you?
 	
 - What is a stereotype?
