@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be352c45c404970a",
+        "id": "457ffd7c7d015f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "571d6bc43e0ab440",
+            "id": "71203996bce7e3e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md"
+                "file": "Year/Semester/BPM/Actividad con dos (KPI, KRI).md"
               }
             }
           }
@@ -148,12 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "571d6bc43e0ab440",
+  "active": "71203996bce7e3e6",
   "lastOpenFiles": [
     "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md",
+    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
     "Untitled.md",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Tasks/May/08-05.md",
     "Year/Semester/Tasks/May",

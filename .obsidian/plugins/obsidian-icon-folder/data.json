@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPen",
       "BoBxsServer",
       "LiFolder",
       "LiFile",
-      "LiFolderInput",
-      "TiBrandDatabricks"
+      "LiFolderInput"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -182,5 +182,6 @@
   "Year/Semester/Tasks/May": "LiFolder",
   "Year/Semester/Tasks/May/08-05.md": "LiFile",
   "Year/Semester/BPM/Actividad con dos (KPI, KRI).md": "LiFile",
-  "Arquitectures": "BoBxsServer"
+  "Arquitectures": "BoBxsServer",
+  "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md": "LiPen"
 }
