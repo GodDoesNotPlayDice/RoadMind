@@ -43,6 +43,7 @@ $$
 ### A - B
 - 10/5/24 - 10/5/24 = 0 dias -> Optimo
 -  10/5/24 - 11/5/24 = -1 -> No cumple -> C. total (No cumple) / T. Solicitudes Ex 5 / 20 = 25%
+- 10/5/24 - 9/5/24 = 1 (Excelente) -> Excelente
 
 ### Ejemplo 1 KPI (Despacho)
 **KPI**: Rendimiento
