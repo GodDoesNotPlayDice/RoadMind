@@ -725,7 +725,7 @@ Future:
 - Who stars in it? Who is it directed by?
 	- The star from Hunger Games is part of Jennifer Lawrence
 - Does it have a good plot?
-    
+    Yes the grand f
 - Does it have a good soundtrack?
     
 - Why do you like it?
@@ -741,17 +741,21 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 ## Judging by appearances
 **Modals like: MIGHT - MIGHT NOT - COULD - MAY - MAY NOT - MUST - CAN'T**
 
+**Must be**: cuando es algo muy probable
+**Might be**: Cuando algo es posible puede que si.
+**Can't be**: Que no piuede ser es imposible.
+
 ### Writing 
 - Do you have a profile photo of yourself that you use on social networking sites? What is it like? Describe it.
     I was at home with my girlfriend and I took the pfp before the 2024 new year.
 - Why did you choose it?
     - I chose this pfp, because is the most I liked than others. 
 - What do you think it says about you?
-	
+	- Because I seems happy and fell in love
 - What is a stereotype?
-	
+	- Its a tag what society put on you.
 - What do you think of the stereotypes mentioned in the text, are they true? Which ones? 
-    
+    - 
 -  What about your profile picture? Does it match any of the stereotypes mentioned? What do you think about that?
 
 - Which modal verbs mean it’s possible? 
@@ -759,3 +763,5 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 - Which modal verb means it’s very likely to happen? 
     
 - Which modal verb means it’s impossible?
+
+

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "922cd604384a3a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/OverTheWire/Natas/Natas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Hacking/OverTheWire/Natas/Natas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Hacking/OverTheWire/Natas/Natas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md"
+                "file": "Hacking/OverTheWire/Natas/Natas.md"
               }
             }
           }
@@ -148,12 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "571d6bc43e0ab440",
+  "active": "922cd604384a3a88",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Hacking/OverTheWire/Natas/Natas.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Hacking/OverTheWire/Natas",
+    "Hacking/OverTheWire",
     "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md",
     "Year/Semester/BPM/Actividad con dos (KPI, KRI).md",
-    "Untitled.md",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Tasks/May/08-05.md",
     "Year/Semester/Tasks/May",
@@ -187,15 +203,12 @@
     "Arquitectures/DDD.md",
     "Arquitectures",
     "Web/React/React.md",
-    "Web/React/Estructura.md",
     "Courses/Curso de Python",
     "Courses",
     "Web/NestJS/Images",
     "Year/Semester/MachineLearning/EV2",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
-    "Web/NestJS",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

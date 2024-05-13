@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiFile",
+      "IbWebsiteWithText",
+      "TiWall",
       "BoBxsServer",
-      "LiFolder",
-      "LiFile",
-      "LiFolderInput",
-      "TiBrandDatabricks"
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -182,5 +182,8 @@
   "Year/Semester/Tasks/May": "LiFolder",
   "Year/Semester/Tasks/May/08-05.md": "LiFile",
   "Year/Semester/BPM/Actividad con dos (KPI, KRI).md": "LiFile",
-  "Arquitectures": "BoBxsServer"
+  "Arquitectures": "BoBxsServer",
+  "Hacking/OverTheWire": "TiWall",
+  "Hacking/OverTheWire/Natas": "IbWebsiteWithText",
+  "Hacking/OverTheWire/Natas/Natas.md": "TiFile"
 }
