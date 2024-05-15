@@ -765,3 +765,21 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 - Which modal verb means it’s impossible?
 
 
+## About your High school
+### Subjects Programs
+**Physical education**
+**Art**
+**Music**
+**Mathematics**
+**Physics**
+
+
+
+**Turns five/six/seven**: 5 6 7 hasta los,, cuando cumplió.
+**Priests**: Sacerdote
+**Nuns**: Monja
+**Boarding Schools**: Internados
+**Nursery**: Guardería
+**Pupils**: Pupilo.
+**Misbehave**: Portarse mal
+**Punished**: Suspender

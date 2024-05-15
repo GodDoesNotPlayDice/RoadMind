@@ -180,5 +180,6 @@
   "Hacking/OverTheWire": "TiWall",
   "Hacking/OverTheWire/Natas": "IbWebsiteWithText",
   "Hacking/OverTheWire/Natas/Natas.md": "TiFile",
-  "Arquitectures/DDD.md": "TiFile"
+  "Arquitectures/DDD.md": "TiFile",
+  "Year/Semester/BPM/Actividad Tienda (KPI, KRI).md": "TiFile"
 }
