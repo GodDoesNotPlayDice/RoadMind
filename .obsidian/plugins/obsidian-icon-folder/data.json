@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiJavascriptFill",
       "TiFile",
       "IbWebsiteWithText",
       "TiWall",
-      "BoBxsServer",
-      "LiFolder"
+      "BoBxsServer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -151,7 +151,7 @@
   "Web/React/Errors/Functions are not valid as a React child.md": "BoBxsFileDoc",
   "Year/Semester/Tasks/April/15-03.md": "LiFile",
   "Year/Semester/Tasks/April/16-03.md": "LiFile",
-  "Web/NestJS": "BoBxlJavascript",
+  "Web/NestJS": "RiJavascriptFill",
   "Web/NestJS/NestJS.md": "LiFile",
   "Web/NestJS/Overview.md": "LiPen",
   "Web/NestJS/Images": "RiFolderImageFill",
@@ -179,5 +179,6 @@
   "Arquitectures": "BoBxsServer",
   "Hacking/OverTheWire": "TiWall",
   "Hacking/OverTheWire/Natas": "IbWebsiteWithText",
-  "Hacking/OverTheWire/Natas/Natas.md": "TiFile"
+  "Hacking/OverTheWire/Natas/Natas.md": "TiFile",
+  "Arquitectures/DDD.md": "TiFile"
 }
