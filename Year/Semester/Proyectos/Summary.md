@@ -431,16 +431,23 @@ La estimación por **tres valores** se basa en la incertidumbre y el riesgo como
 
 ### Obtención de información
 **Costos de Inversión:** Son aquellos vinculados a la adquisición de los activos necesarios para poner el proyecto en marcha.
+- Cuanto voy a necesitar para poder montarlo
 **Capital de trabajo**: Son los recursos que se necesitan para adquirir los elementos necesarios para desarrollar un proyecto
+- Cuanto tiempo necesito para empezar a producir.
 **Costos de operación**: Son aquellos que sirven para mantener el proyecto en operación.
-**Costos de Mantención y reparación**: Utilizados para mantener la capacidad de producción
+- Mantener en funcionamiento la empresa.
+**Costos de Manutención y reparación**: Utilizados para mantener la capacidad de producción
+- KPI / KRI, Indice de riesgo. (Que tanto se esta deteniendo la maquina / Como resuelvo y que tan grave es.)
 
 #### Su estimación de costos bajo las siguientes acciones
 **Línea base del alcance**: Desarrollaremos y desglosaremos las actividades consideradas en el proyecto a través de la EDT.
+- **EDT:** Como se va a dividir el proyecto.
 **Cronograma**: Generaremos un cronograma del proyecto, con la finalidad de establecer la duración de las actividades y los recursos asociados a ellas.
 - Con ello podremos estimar los recursos asociados a cada una de las actividades del proyecto.
 **Plan de recursos humanos**: En un proyecto informático, la estimación de recursos humanos es de mucha importancia y pueden ser estimados en conjunto con el cronograma
+- Segun el plan del EDT se saca la cantidad de mano de obra
 **Registro de riesgos**: Se deben considerar los costos asociados a mitigar los riesgos que fueron analizados en las experiencias de aprendizaje anteriores
+- Nomina de riesgos.
 - Recuerda que en este aspecto estarás considerando la Reserva de Contingencia
 **Factores ambientales**: Las condiciones de mercado son importantes para la determinación de los costos del proyecto.
 - (proveedores, oferta y demanda regional, productos y/o servicios ya disponibles)
@@ -460,11 +467,15 @@ El financiamiento es el abastecimiento y uso eficiente del dinero, líneas de cr
 
 #### Fuentes de Financiamiento Internas
 Las fuentes internas de financiamiento. Son fuentes generadas dentro de la misma empresa, como resultado de sus operaciones y promoción.
+- De donde sale la plata para poder materializar lo que se va hacer. (legal)
 
 Es aquel que proviene de los recursos propios de la empresa, y se ve reflejado en el activo, es por eso que se debe llevar a cabo un inventario de todo aquello de lo cual se pudiera echar mano en un momento dado.
 
 Para tener sobrante de capital de trabajo, o bien hacerle frente a una situación difícil en materia financiera.
 
+##### Lineas de Crédito y Crédito
+**Linea de crédito**: Cuando necesite el dinero y el banco no hacer preguntas y tiene un presupuesto.
+**Crédito**: El banco otorga préstamo con Intereses
 ##### Características
 - Activo Fijo susceptible de ser vendido.
 - Venta de desperdicio.
