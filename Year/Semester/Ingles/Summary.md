@@ -743,7 +743,7 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 
 **Must be**: cuando es algo muy probable
 **Might be**: Cuando algo es posible puede que si.
-**Can't be**: Que no piuede ser es imposible.
+**Can't be**: Que no puede ser es imposible.
 
 ### Writing 
 - Do you have a profile photo of yourself that you use on social networking sites? What is it like? Describe it.
@@ -783,3 +783,39 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 **Pupils**: Pupilo.
 **Misbehave**: Portarse mal
 **Punished**: Suspender
+**Principal**: Director
+**Appointment**: Cit, Hora
+
+### Page 68
+
+**SAT**: Scholastic Academic Test (PSU)
+#### Olivia
+1) She thinks she did well but she's a little worried about math
+2) She will get the results online the next-week
+3) She doesn't want to plan a celebration until she gets the results
+4) She wants study medicine at the university of california (become a Doctor)
+5) She will apply to a university that asks for lower scores
+
+#### Woo-sung
+1) He thinks he did pretty well, he's optimistic
+2) Online in 10 days
+3) He will go out to dinner with his GF
+4) He wants to college and become air traffic controller
+5) If he gets a bad score, he'll study more and take the test again in June.
+
+
+### Conditionals
+
+**unless**: a menos que
+- They probably won't admit me **unless** i get a 1450 **(Alternativa al IF)**
+**As soon as**: tan pronto como
+- **As soon as** they're online, I'll look up my scores. **(Otra variante)**
+**until**: hasta
+- I don't want to plan any celebration **until**, I get the results. **(Alternativa al IF pero con solo presente)**
+**If**: A possible situation in the present and its consequences in the future.
+- **If** he **gets** a bad score, **he'll study** more and take the test again in June. **(Simple present / Future will)**
+**When**: Cuando
+- **When** they scores the **they'll** post the results online. **(Otra variante)**
+
+
+
