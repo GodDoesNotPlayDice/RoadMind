@@ -774,6 +774,44 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 **Physics**
 
 
+#### Questions about education
+
+-What kind of school did you go to? Was it a single-sex or a coeducational school? Was it a vocational, artistic, religious, bilingual, montessori, language, or a science education school? Was it voucher, public or private?
+
+- How was your experience at school? Did you like it? Why?/ Why not? What did you like the most/ least about your school?
+
+-Did you always attend the same school? How many schools did you go to? Why?
+
+-How many students were there in your class? Do you think it was a right number? Were there too many? What time did you start/end school?
+
+-Which subjects were you good/ bad at? Which was your favorite subject?
+
+-What were your teachers like? Did you have a favorite one? Tell us about him/her.
+
+-What were you like as a student? And your classmates? Did they behave well or did they misbehave?
+
+
+#### Talking about college
+- Are you in college right now?
+    
+- What are you studying?
+    
+- Are you enjoying it?
+    
+- Is there anything you don’t like? 
+    
+- What are you planning to do when you graduate?
+
+
+#### Talking about your dream home
+**Where do you live now and how’s your dream home?**
+**Example:** Currently I live alone in an apartment in Valparaíso, I love it here. I live on the top floor of a building that doesn’t have a lift, it’s a building which was built in the 60’s. However, I love the fact that this is an old building so even though it doesn’t have a balcony, it’s very spacious, light cozy. Also, it has a beautiful wood floor. Nevertheless, someday in the future I would love to live in the country in the south of Chile. I would love to have a gazebo or a deck, a fireplace and big windows to enjoy the sun and the landscape. I would also love to adopt some dogs and live close to some friends so we can make each other some company
+
+#### Talking about your dream home
+- Where do you live now? Who do you live with? How do you feel about it?
+- Where would you like to live if you could choose? How would you like that place to be? What would you like that place to have?
+
+#### Vocabulary
 
 **Turns five/six/seven**: 5 6 7 hasta los,, cuando cumplió.
 **Priests**: Sacerdote
@@ -806,16 +844,36 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 
 ### Conditionals
 
-**unless**: a menos que
+#### First Conditional
+ We use it to talk about a possible situation and its consequence.
+
+**Unless**: a menos que
 - They probably won't admit me **unless** i get a 1450 **(Alternativa al IF)**
 **As soon as**: tan pronto como
 - **As soon as** they're online, I'll look up my scores. **(Otra variante)**
-**until**: hasta
+**Until**: hasta
 - I don't want to plan any celebration **until**, I get the results. **(Alternativa al IF pero con solo presente)**
 **If**: A possible situation in the present and its consequences in the future.
 - **If** he **gets** a bad score, **he'll study** more and take the test again in June. **(Simple present / Future will)**
 **When**: Cuando
 - **When** they scores the **they'll** post the results online. **(Otra variante)**
 
+##### Examples
+- It is usually a combination between present and future: If you **don’t leave** now, **you’ll miss** the bus.
+- However, we can also use the imperative instead of the future: **Come** visit me if **you have time** next week.
+- We can use unless instead of “if” in conditional sentences: **Unless you leave now,** **you’ll miss** the bus.
+- We can also use the expressions **where, as soon as, until, before** and **after**. Use the **present tense** (not the future) after **when, as soon as, until, before** and use after to talk about the
+	-  **Future Examples:**
+		- **As soon as you get** your test scores,
+		- call me, **I’ll have** a quick lunch before I leave, 
+		- I won’t go until your sister **gets** home.
+
+
+#### Second Conditional
+We use the second conditional to talk about a **hypothetical/ imaginary situation** in the **present or the future** and its consequences
+
+- We use a combination of the simple past and the conditional to express these ideas. 
+	- If I had a job, I would have my own place 
+	- If your sister were here, she would know what to do.
 
 

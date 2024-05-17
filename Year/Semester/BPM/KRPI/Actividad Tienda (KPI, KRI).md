@@ -13,7 +13,7 @@
 #### Formula
 
 $$ 
-\text{C.Visitas } += \text{ C.Visitas}
+\text{C.Visitas } = \text{ C.Visitas} + \text{ C. Nuevas Visitas}
 $$
 
 #### KPI

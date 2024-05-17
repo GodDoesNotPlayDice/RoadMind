@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbFolder",
       "RiJavascriptFill",
       "TiFile",
       "IbWebsiteWithText",
-      "TiWall",
-      "BoBxsServer"
+      "TiWall"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -166,7 +166,6 @@
   "Year/Semester/MachineLearning/EV2/Teorias.md": "LiPen",
   "Year/Semester/BPM/Draws/Clase_5.md": "LiPen",
   "Year/Semester/BPM/Draws/Clase_6.md": "LiPen",
-  "Year/Semester/BPM/Actividad KPI.md": "LiFile",
   "Year/Semester/BPM/Draws/Banco KPI.md": "LiPen",
   "Year/Semester/Ingles/Summary-Oral.md": "LiFile",
   "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md": "LiFile",
@@ -175,11 +174,14 @@
   "Year/Semester/Proyectos/MedServ.md": "LiFile",
   "Year/Semester/Tasks/May": "LiFolder",
   "Year/Semester/Tasks/May/08-05.md": "LiFile",
-  "Year/Semester/BPM/Actividad con dos (KPI, KRI).md": "LiFile",
   "Arquitectures": "BoBxsServer",
   "Hacking/OverTheWire": "TiWall",
   "Hacking/OverTheWire/Natas": "IbWebsiteWithText",
   "Hacking/OverTheWire/Natas/Natas.md": "TiFile",
   "Arquitectures/DDD.md": "TiFile",
-  "Year/Semester/BPM/Actividad Tienda (KPI, KRI).md": "TiFile"
+  "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md": "LiFile",
+  "Year/Semester/BPM/KRPI/Actividad KPI.md": "LiFile",
+  "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md": "TiFile",
+  "Year/Semester/BPM/KRPI": "IbFolder",
+  "Web/ExpressJS": "RiJavascriptFill"
 }
