@@ -630,3 +630,11 @@ Actividad o proyecto al que se vincula el KRI.
 | Malo         | Impacto significativo en la operación     | 200 - 300 horas | 5% - 7.5% |
 | Muy Malo     | Impacto grave en la operación             | Más de 300 horas | Más del 7.5% |
 
+
+
+$$
+```
+\sum_{i=1}^{n} \text{Ingresos}_i
+```
+
+$$

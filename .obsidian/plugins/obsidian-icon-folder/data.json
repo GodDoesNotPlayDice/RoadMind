@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPen",
       "IbFolder",
       "RiJavascriptFill",
       "TiFile",
-      "IbWebsiteWithText",
-      "TiWall"
+      "IbWebsiteWithText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -183,5 +183,7 @@
   "Year/Semester/BPM/KRPI/Actividad KPI.md": "LiFile",
   "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md": "TiFile",
   "Year/Semester/BPM/KRPI": "IbFolder",
-  "Web/ExpressJS": "RiJavascriptFill"
+  "Web/ExpressJS": "RiJavascriptFill",
+  "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md": "LiPen",
+  "Year/Semester/BPM/Draws/Clase_7.md": "LiPen"
 }
