@@ -11,12 +11,8 @@
             "id": "f0ec5a2b3d909cc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,12 +140,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0ec5a2b3d909cc6",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
-    "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
-    "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md",
-    "Year/Semester/BPM/KRPI/Actividad KPI.md",
+    "Courses/Curso de Python/Indice.md",
+    "Courses/Curso de Python/Introducción.md",
+    "OS/Linux/Arch/Images/Pasted image 20240521185843.png",
+    "OS/Linux/Arch/Images/Pasted image 20240521181837.png",
+    "OS/Linux/Arch/Hyprland.md",
+    "OS/Linux/Arch/Terminals/Alacritty.md",
+    "OS/Linux/Arch/Basic Installing.md",
+    "OS/Linux/Arch/Images/Pasted image 20240521175809.png",
+    "OS/Linux/Arch/Images/Pasted image 20240521180807.png",
+    "OS/Linux/Arch/Images/Pasted image 20240521180241.png",
+    "Terminals.md",
+    "OS/Linux/Arch/Terminals",
+    "Alacritty.md",
+    "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
     "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
+    "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
+    "Year/Semester/BPM/KRPI/Actividad KPI.md",
+    "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md",
+    "OS/Linux/Arch/Images",
+    "OS/Linux/Arch/Images/Pasted image 20240521133921.png",
+    "OS/Linux/Arch",
+    "OS/Linux",
+    "OS",
     "Year/Semester/BPM/Draws/Clase_7.md",
     "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Draws/Clase_6.md",
@@ -164,38 +175,18 @@
     "Pasted Image 20240517130713_948.png",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/MachineLearning/Summary.md",
-    "Courses/Curso de Python/Indice.md",
-    "Courses/Curso de Python/Introducción.md",
     "Arquitectures/DDD.md",
     "Year/Semester/Ingles/Summary-Oral.md",
     "Year/Semester/BPM/Actividad de Procesos.md",
     "Year/Semester/BPM/KRPI",
     "Year/Semester/Proyectos/Summary.md",
-    "Untitled.md",
     "Hacking/OverTheWire/Natas/Natas.md",
     "Hacking/OverTheWire/Natas",
     "Hacking/OverTheWire",
-    "Year/Semester/Tasks/May/08-05.md",
     "Year/Semester/Tasks/May",
-    "Year/Semester/Proyectos/MedServ.md",
-    "Year/Semester/Proyectos/Draws/MedServ.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240508085956.png",
     "Year/Semester/Proyectos/Images/Pasted image 20240508084403.png",
-    "Year/Semester/Proyectos/Draws/TreeSummary.md",
-    "Year/Semester/Proyectos/Draws/Clase_1.md",
-    "Year/Semester/Ingles/Images/Pasted image 20240317135210.png",
-    "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240421201247_435.png",
-    "Year/Semester/Proyectos/Images/Pasted image 20240423083823.png",
-    "Year/Semester/Proyectos/Images/Pasted image 20240423083607.png",
-    "Year/Semester/Proyectos/Images/Pasted image 20240423082912.png",
-    "Year/Semester/Proyectos/Images/Pasted image 20240423082706.png",
     "Arquitectures",
-    "Courses/Curso de Python",
-    "Courses",
-    "Web/NestJS/Images",
-    "Year/Semester/MachineLearning/EV2",
-    "Excalidraw/Scripts/Downloaded",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

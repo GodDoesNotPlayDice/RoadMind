@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPen",
-      "IbFolder",
-      "RiJavascriptFill",
-      "TiFile",
-      "IbWebsiteWithText"
+      "OcTerminal16",
+      "FiFile",
+      "BoBxImages",
+      "CiArch",
+      "TiScript"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -155,10 +155,6 @@
   "Web/NestJS/NestJS.md": "LiFile",
   "Web/NestJS/Overview.md": "LiPen",
   "Web/NestJS/Images": "RiFolderImageFill",
-  "Courses": "LiBook",
-  "Courses/Curso de Python": "LiBook",
-  "Courses/Curso de Python/Indice.md": "IbQuestionMarkWithCircle",
-  "Courses/Curso de Python/Introducción.md": "LiFileBox",
   "Year/Semester/Plataformas/Draws/Metodologias.md": "LiPen",
   "DDD": "TiBrandDatabricks",
   "Year/Semester/Plataformas/Draws/Clase_4.md": "LiPen",
@@ -186,5 +182,14 @@
   "Web/ExpressJS": "RiJavascriptFill",
   "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md": "LiPen",
   "Year/Semester/BPM/Draws/Clase_7.md": "LiPen",
-  "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md": "TiFile"
+  "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md": "TiFile",
+  "OS": "LiPcCase",
+  "OS/Linux": "CiLinux",
+  "OS/Linux/Arch/Basic Installing.md": "TiScript",
+  "OS/Linux/Arch/Hyprland.md": "TiScript",
+  "OS/Linux/Arch": "CiArch",
+  "OS/Linux/Arch/Images": "BoBxImages",
+  "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md": "FiFile",
+  "OS/Linux/Arch/Terminals": "OcTerminal16",
+  "OS/Linux/Arch/Terminals/Alacritty.md": "TiScript"
 }
