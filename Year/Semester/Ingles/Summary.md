@@ -823,6 +823,8 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 **Punished**: Suspender
 **Principal**: Director
 **Appointment**: Cit, Hora
+**Dorm**: Pieza de universidad
+
 
 ### Page 68
 
@@ -871,6 +873,12 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 
 #### Second Conditional
 We use the second conditional to talk about a **hypothetical/ imaginary situation** in the **present or the future** and its consequences
+
+##### Examples
+
+If I had the money, i'd move out immediately
+I wouldn't move out if I could affort it
+If I were you, I wouldn't go
 
 - We use a combination of the simple past and the conditional to express these ideas. 
 	- If I had a job, I would have my own place 

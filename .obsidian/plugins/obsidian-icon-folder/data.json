@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "OcTerminal16",
-      "FiFile",
-      "BoBxImages",
-      "CiArch",
-      "TiScript"
+      "BoBxsFileArchive",
+      "LiPcCase",
+      "TiScript",
+      "TiTerminal2",
+      "BoBxImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -183,13 +183,11 @@
   "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md": "LiPen",
   "Year/Semester/BPM/Draws/Clase_7.md": "LiPen",
   "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md": "TiFile",
-  "OS": "LiPcCase",
-  "OS/Linux": "CiLinux",
+  "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md": "TiFile",
+  "OS/Linux/Arch/Images": "BoBxImages",
+  "OS/Linux/Arch/Terminals": "TiTerminal2",
   "OS/Linux/Arch/Basic Installing.md": "TiScript",
   "OS/Linux/Arch/Hyprland.md": "TiScript",
-  "OS/Linux/Arch": "CiArch",
-  "OS/Linux/Arch/Images": "BoBxImages",
-  "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md": "FiFile",
-  "OS/Linux/Arch/Terminals": "OcTerminal16",
-  "OS/Linux/Arch/Terminals/Alacritty.md": "TiScript"
+  "OS": "LiPcCase",
+  "OS/Linux": "BoBxsFileArchive"
 }

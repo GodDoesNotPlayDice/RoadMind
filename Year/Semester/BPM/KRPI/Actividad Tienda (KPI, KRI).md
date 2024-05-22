@@ -85,3 +85,33 @@ $$
 | Normal    | Revisar el proceso de pago y las páginas de confirmación para identificar posibles puntos de fricción.                  | Ofrecer incentivos adicionales para completar la compra, como descuentos o promociones especiales.                                         |
 | Malo      | Realizar un análisis exhaustivo del comportamiento del usuario durante el proceso de compra para identificar problemas. | Contratar personal especializado en UX/UI para rediseñar el proceso de compra y mejorar la experiencia del usuario.                        |
 | Muy Malo  | Considerar la posibilidad de reemplazar el sistema de compra actual con uno más confiable y fácil de usar.              | Invertir en una revisión completa del sistema de compra y contratar expertos en desarrollo para implementar mejoras significativas.        |
+
+### Cantidad de productos buscados
+**Variables**: Cantidad de productos, Total de productos
+**Descripción**: Este modelo sirve para calcular la cantidad porcentual de productos buscados.
+
+#### Formula
+
+(Cantidad de productos / Total de productos) X 100 = Porcentaje del total de productos buscados.
+
+(100 / 500) X 100 = %
+
+#### KPI
+
+| Evaluacion | Medida    |
+| ---------- | --------- |
+| Muy bueno  | > 90%     |
+| Normal     | 60% - 89% |
+| Malo       | 30% - 59% |
+| Muy malo   | < 29%     |
+
+#### KRI
+
+
+| Evaluacion | Pronostico                                                          | Accion                                                                                                                                                                                   |
+| ---------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Muy bueno  | Se buscaran la mayoria de productos                                 | Mantener buenas practicas de marketing                                                                                                                                                   |
+| Normal     | Se buscaran en el promedio normal de productos                      | Poner en oferta productos que esten en el rango menos vendido                                                                                                                            |
+| Malo       | Se buscaran pocos productos del total en stock                      | Hacer campaña de marketing de los productos menos vendidos y mas vendidos para aumentar sus ventas con publicidad y promoción                                                            |
+| Muy malo   | Se buscaran un muy bajo porcentaje de productos del total del stock | Hacer campaña de marketing de los productos menos vendidos, rematar a un precio muy bajo los productos ya no tan buscados y hacer un analisis del mercado con los productos en tendencia |
+

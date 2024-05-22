@@ -11,7 +11,7 @@
 
 
 $$ 
-(\frac{\text{T.P encontrados} - \text{T.P ensamblados}}{100}) * 100 =  \text{ (Porcentaje) T.P no encontrados}
+(\frac{\text{T.P encontrados} - \text{T.P ensamblados}}{T.P encontrados}) * 100 =  \text{ (Porcentaje) T.P no encontrados}
 $$
 
 

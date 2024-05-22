@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13427830343c73b7",
+        "id": "a934eadc43130902",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9476df1ae2c6c6",
+            "id": "4bb8a435d8e7a066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5124969482422
+    "width": 200
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md"
+                "file": "Year/Semester/Ingles/Summary.md"
               }
             }
           }
@@ -148,53 +148,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e9476df1ae2c6c6",
+  "active": "4bb8a435d8e7a066",
   "lastOpenFiles": [
-    "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
+    "OS/Linux/Arch/Hyprland.md",
+    "OS/Linux/Arch/Basic Installing.md",
+    "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Ingles/Summary-Oral.md",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md",
+    "Year/Semester/BPM/KRPI/Actividad KPI.md",
     "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
     "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
-    "Untitled.md",
-    "Web/React/Estructura.md",
-    "Web/React/React.md",
-    "Web/React/Tests.md",
-    "Web/React/Videos.md",
-    "Arquitectures/DDD.md",
-    "Courses/Curso de Python/Indice.md",
-    "Courses/Curso de Python/Introducción.md",
+    "Year/Semester/Proyectos/MedServ.md",
+    "OS/Linux/Arch/Terminals/Alacritty.md",
     "OS/Linux/Arch/Images/Pasted image 20240521185843.png",
     "OS/Linux/Arch/Images/Pasted image 20240521181837.png",
-    "OS/Linux/Arch/Hyprland.md",
-    "OS/Linux/Arch/Terminals/Alacritty.md",
-    "OS/Linux/Arch/Basic Installing.md",
-    "OS/Linux/Arch/Images/Pasted image 20240521175809.png",
     "OS/Linux/Arch/Images/Pasted image 20240521180807.png",
     "OS/Linux/Arch/Images/Pasted image 20240521180241.png",
-    "Terminals.md",
-    "OS/Linux/Arch/Terminals",
-    "Alacritty.md",
-    "Year/Semester/BPM/KRPI/Actividad KPI.md",
-    "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md",
-    "OS/Linux/Arch/Images",
+    "OS/Linux/Arch/Images/Pasted image 20240521175809.png",
     "OS/Linux/Arch/Images/Pasted image 20240521133921.png",
+    "OS/Linux/Arch/Terminals",
+    "OS/Linux/Arch/Images",
     "OS/Linux/Arch",
     "OS/Linux",
     "OS",
-    "Year/Semester/BPM/Draws/Clase_7.md",
-    "Year/Semester/BPM/Summary.md",
-    "Year/Semester/BPM/Draws/Clase_6.md",
-    "Year/Semester/BPM/Draws/Banco KPI.md",
-    "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md",
-    "Year/Semester/BPM/Actividad Pre Prueba.md",
+    "Pasted Image 20240517130807_213.png",
     "Year/Semester/MachineLearning/Images/Pasted Image 20240517130807_213.png",
+    "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
+    "Year/Semester/BPM/Draws/Clase_7.md",
     "Pasted Image 20240517130713_948.png",
-    "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md",
     "Year/Semester/MachineLearning/Summary.md",
+    "Courses/Curso de Python/Indice.md",
+    "Courses/Curso de Python/Introducción.md",
+    "Arquitectures/DDD.md",
+    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/BPM/Actividad Pre Prueba.md",
     "Year/Semester/BPM/KRPI",
+    "Untitled.md",
+    "Hacking/OverTheWire/Natas/Natas.md",
     "Hacking/OverTheWire/Natas",
     "Hacking/OverTheWire",
+    "Year/Semester/Tasks/May/08-05.md",
     "Year/Semester/Tasks/May",
+    "Year/Semester/Proyectos/Draws/MedServ.md",
+    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Proyectos/Images/Pasted image 20240508085956.png",
-    "Year/Semester/Proyectos/Images/Pasted image 20240508084403.png",
     "Arquitectures",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",

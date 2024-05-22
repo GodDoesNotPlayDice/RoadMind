@@ -201,3 +201,5 @@ starship preset gruvbox-rainbow -o ~/.config/starship.toml
 
 Al final puede verse a si la terminal
 ![[Pasted image 20240521185843.png]]
+
+
