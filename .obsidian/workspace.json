@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "207dcd37b2b93c0f",
+        "id": "13427830343c73b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ec5a2b3d909cc6",
+            "id": "5e9476df1ae2c6c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md"
+              }
             }
           }
         ]
@@ -140,8 +148,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "5e9476df1ae2c6c6",
   "lastOpenFiles": [
+    "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
+    "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
+    "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
+    "Untitled.md",
+    "Web/React/Estructura.md",
+    "Web/React/React.md",
+    "Web/React/Tests.md",
+    "Web/React/Videos.md",
+    "Arquitectures/DDD.md",
     "Courses/Curso de Python/Indice.md",
     "Courses/Curso de Python/Introducción.md",
     "OS/Linux/Arch/Images/Pasted image 20240521185843.png",
@@ -155,9 +172,6 @@
     "Terminals.md",
     "OS/Linux/Arch/Terminals",
     "Alacritty.md",
-    "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
-    "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
-    "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
     "Year/Semester/BPM/KRPI/Actividad KPI.md",
     "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md",
     "OS/Linux/Arch/Images",
@@ -175,12 +189,7 @@
     "Pasted Image 20240517130713_948.png",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/MachineLearning/Summary.md",
-    "Arquitectures/DDD.md",
-    "Year/Semester/Ingles/Summary-Oral.md",
-    "Year/Semester/BPM/Actividad de Procesos.md",
     "Year/Semester/BPM/KRPI",
-    "Year/Semester/Proyectos/Summary.md",
-    "Hacking/OverTheWire/Natas/Natas.md",
     "Hacking/OverTheWire/Natas",
     "Hacking/OverTheWire",
     "Year/Semester/Tasks/May",
