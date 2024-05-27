@@ -187,8 +187,7 @@ eval "$(starship init zsh)"
 ```
 
 Y comentamos el **Theme** que ocupa por defecto **zsh**
-
-```zsh
+```
 # ZSH_THEME="robbyrussell"
 ```
 
@@ -202,4 +201,34 @@ starship preset gruvbox-rainbow -o ~/.config/starship.toml
 Al final puede verse a si la terminal
 ![[Pasted image 20240521185843.png]]
 
+
+
+## Configuración de la waybar
+Configurar la **waybar** es otro aspecto visual que Hyprland hace denotar de las demás distros debido a su alta personalización
+
+### Instalar waybar
+Usaremos pacman para instalar
+```bash
+sudo pacman -S waybar
+```
+
+### Como inicializarlo
+Usaremos `waybar` para iniciar y lo primero que veremos sera esta barra superior .
+
+![[Pasted image 20240522202531.png]]
+
+### Configuración de modules y estilos
+Primero debemos crear la carpeta **waybar** dentro de **.config**
+```bash
+cd .config; mkdir waybar/
+```
+Y dentro de esta carpeta crearemos dos archivos.
+```bash
+touch config.jsonc; touch styles.css
+```
+Dentro del archivo **config.jsonc** configuraremos los módulos para nuestra waybar, y así mismo los estilos en **styles.css**
+
+**Realmente configurar la waybar es algo muy extenso de explicar. por lo que adjunto [repositorio](https://github.com/Alexays/Waybar)por si quieres ver que puedes hacer**
+
+En mi caso tengo una config ya realizada de ella.
 

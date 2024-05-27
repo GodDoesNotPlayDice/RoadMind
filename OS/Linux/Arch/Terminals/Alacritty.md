@@ -1,7 +1,7 @@
 
 ## Config
 
-**Agregar esta linea a la configuracion si usas ZSH**
+**Agregar esta linea a la configuración si usas ZSH**
 ```toml
 [shell]
 program = "/usr/bin/zsh"

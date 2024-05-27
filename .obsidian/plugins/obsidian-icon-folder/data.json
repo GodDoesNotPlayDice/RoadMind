@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CiWaylandLogo",
+      "CiLinux",
+      "CiArch",
       "BoBxsFileArchive",
-      "LiPcCase",
-      "TiScript",
-      "TiTerminal2",
-      "BoBxImages"
+      "LiPcCase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -88,7 +88,6 @@
   "Year/Semester/Proyectos": "SiBlueprint",
   "Year/Semester/Proyectos/Summary.md": "FasFile",
   "Web/React/React.md": "BoBxsFileDoc",
-  "Year/Semester/Ingles/Summary.md": "FasFile",
   "Year/Semester/MachineLearning/Images": "LiImage",
   "Year/Semester/Plataformas/Images": "LiImage",
   "Hacking/Tools/Arp-scan/ArpScan.md": "BoBxsFileDoc",
@@ -187,7 +186,10 @@
   "OS/Linux/Arch/Images": "BoBxImages",
   "OS/Linux/Arch/Terminals": "TiTerminal2",
   "OS/Linux/Arch/Basic Installing.md": "TiScript",
-  "OS/Linux/Arch/Hyprland.md": "TiScript",
   "OS": "LiPcCase",
-  "OS/Linux": "BoBxsFileArchive"
+  "OS/Linux": "CiLinux",
+  "OS/Linux/Arch": "CiArch",
+  "OS/Linux/Arch/Terminals/Alacritty.md": "TiScript",
+  "OS/Linux/Arch/Wayland": "CiWaylandLogo",
+  "OS/Linux/Arch/Wayland/Hyprland.md": "TiScript"
 }
