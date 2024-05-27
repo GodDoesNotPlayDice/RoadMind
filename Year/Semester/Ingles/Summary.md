@@ -885,3 +885,33 @@ If I were you, I wouldn't go
 	- If your sister were here, she would know what to do.
 
 
+
+
+## The Right job for you
+
+### Posibles Writtings
+- **Writting about the work of somebody else**
+
+
+### Vocabulary
+**Set up**: Armo / empezar / comenzar (negocio)
+**Resign**: Renunciar. 
+**doing very well**:
+**unemployed**: Desempleado
+**fired**: despedir (de fue despedido.)
+**Applied for**: aplico para (trabajo)
+**Work overtime**: hacer horas extras.
+**made / make / earn**: hacer plata.
+**looking for job**: buscar trabajo
+**resume**: curriculum.
+**sent in**: (pasado de enviado.)
+**interviews**: entrevistas
+**degree**: Grado académico (degree a college qualification.) / temperature.
+**Somebody running business**: Dirige un negocio / esta a cargo de un negocio.
+**downsized**: recortar personal / echar cagando.
+**retire**: retiro
+**responsible**: responsable
+**freelance**: trabaja independiente
+**self-employed**: trabaja para si mismo.
+**work shifts**: trabajar por 
+**part-time**: trabajos por pocas horas.
