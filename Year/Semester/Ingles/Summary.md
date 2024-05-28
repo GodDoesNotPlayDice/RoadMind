@@ -658,11 +658,11 @@ People who text in movie theaters
 For present habits or states we use the simple present + an adverb of frequency such as “**usually**” or “**regularly**”.
 
 ![[Pasted image 20240420145606.png]]o
-## Behind the scenes (Passive voice)
+## Behind the scenes (Passive voice) 6A
 ### Vocaburlary
 - **Mimic**: Mimica
 - **Thick**: Grueso
-- **Put Up**: Colgar, Akojar
+- **Put Up**: Colgar, Alojar
 - **Breath**: Respiracion.
 - **Lasting**: Duradero perdurable
 - **Dozen**: docena
@@ -677,12 +677,18 @@ For present habits or states we use the simple present + an adverb of frequency 
 - **Plays the part of**: Representar el papel de
 - **Was dubbed into**: Doblar (lenguaje)
 - **Grown-up**: Madurar(Crecer)
-- **Dipers**: Pañales
+- **Dippers**: Pañales
 - **Rude**: Mal educado
 - **Portrait**: Autoretrato.
 - **Nod**: Asentir (cabeza)
 - **Stare**: Quedarse mirando
-- **Wishtle**: Silvar
+- **Whistle**: Silvar
+- **Lasting**: a lo ultimo
+- **Shot on location**: se ruedan en exteriores (usualmente en un lugar o por algo)
+- **Plot**: trama
+- **Sequel**: Secuela
+- **Romcom**: Comedia romantica
+- **Thriller**: Suspenso
 ### Passive voice
 (Be + Participe) : regular and irregular.
 - We use the passive voice when it isn’t said, known or relevant who does the action.
@@ -698,7 +704,6 @@ Future:
 **Passive Voice and Active voice**:
 - Mary Shelly wrote Frankenstein (Subject / verb) : here Mary Shelly is the most important .
 - Frankenstein was written by Mary Shelly (Agent) : Here Frankenstein is the most important in the sentence.
-
 
 
 **Page 142**
@@ -738,7 +743,27 @@ The plot tells the story of an Italian-American family involved in the mafia and
 
 I like it because I think it’s a masterpiece since it combines a brilliant cast, soundtrack and plot. Indeed, it shows a fictional historical drama about a controversial matter such as mafias in the US in the early XIX century.
 
-## Judging by appearances
+## Judging by appearances 6B
+
+### Vocabulary
+**Close-up:** Cerrar / Primer plano
+**Annoying:** Molesto / Irritante
+**Childhood**: Infancia
+**Grown-up**: Madurar(Crecer)
+**Accomplish**: Lograr / Conseguir
+**Diaper**: Pañal
+**Beard**: Baraba
+**Outgoing**: Extrovertido
+**Pointy**: Punteagudo
+**Shoulder**: Hombros
+**Narrow**: estrecho, angosto, corto
+**Chin**: Menton
+**Stared**: mirar fijamente
+**Clapped**: aplaudir, palmada.
+**Pointed**: puntiagudo
+**Nodded**: inclinar la cabeza, asentir
+
+
 **Modals like: MIGHT - MIGHT NOT - COULD - MAY - MAY NOT - MUST - CAN'T**
 
 **Must be**: cuando es algo muy probable
