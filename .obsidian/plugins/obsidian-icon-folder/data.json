@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPen",
+      "IbFolder",
       "FiFile",
       "CiWaylandLogo",
-      "CiLinux",
-      "CiArch",
-      "BoBxsFileArchive"
+      "CiLinux"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -187,5 +187,7 @@
   "OS/Linux/Arch/Terminals/Alacritty.md": "TiScript",
   "OS/Linux/Arch/Wayland": "CiWaylandLogo",
   "OS/Linux/Arch/Wayland/Hyprland.md": "TiScript",
-  "Year/Semester/Ingles/Summary.md": "FiFile"
+  "Year/Semester/Ingles/Summary.md": "FiFile",
+  "Year/Semester/BPM/EV3": "IbFolder",
+  "Year/Semester/Proyectos/Draws/TreeSummary2.md": "LiPen"
 }

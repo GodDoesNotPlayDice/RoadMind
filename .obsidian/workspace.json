@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bab5b1b482cce17",
+            "id": "c7f1a38c3513bb8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md"
+              }
+            }
+          },
+          {
+            "id": "325cf8b4b697883d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md"
+                "file": "Year/Semester/Proyectos/Summary.md"
               }
             }
           }
@@ -144,19 +155,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "nested-daily-todos:Add incomplete todos to today's note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "0bab5b1b482cce17",
+  "active": "325cf8b4b697883d",
   "lastOpenFiles": [
+    "Year/Semester/Proyectos/Draws/TreeSummary2.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
+    "Year/Semester/Proyectos/Draws/TreeSummary.md",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/EV3",
+    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Tasks/April/13-03.md",
     "Year/Semester/Tasks/April/14-03.md",
     "Year/Semester/Tasks/April/3-04.md",
     "Year/Semester/Tasks/April/6-03.md",
     "Year/Semester/Tasks/April/7-03.md",
     "Untitled.md",
-    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Tasks/April/1-04.md",
     "Year/Semester/Ingles/Summary-Oral.md",
     "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
@@ -166,8 +183,6 @@
     "OS/Linux/Arch/Wayland",
     "Pasted image 20240522202624.png",
     "OS/Linux/Arch/Images/Pasted image 20240522202531.png",
-    "Year/Semester/BPM/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md",
     "Year/Semester/BPM/KRPI/Actividad KPI.md",
     "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
@@ -185,17 +200,12 @@
     "OS/Linux",
     "OS",
     "Pasted Image 20240517130807_213.png",
-    "Year/Semester/MachineLearning/Images/Pasted Image 20240517130807_213.png",
     "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
     "Year/Semester/BPM/Draws/Clase_7.md",
     "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md",
-    "Year/Semester/MachineLearning/Summary.md",
-    "Courses/Curso de Python/Indice.md",
-    "Courses/Curso de Python/Introducción.md",
     "Year/Semester/BPM/KRPI",
     "Hacking/OverTheWire/Natas",
     "Hacking/OverTheWire",
-    "Year/Semester/Tasks/May",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
