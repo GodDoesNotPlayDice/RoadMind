@@ -780,17 +780,17 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 - What is a stereotype?
 	- Its a tag what society put on you.
 - What do you think of the stereotypes mentioned in the text, are they true? Which ones? 
-    - 
+    - Nah really, most of them are just for kidding although something could be real.
 -  What about your profile picture? Does it match any of the stereotypes mentioned? What do you think about that?
-
+	- Nah really, the closest stereotype is the married pfp but Im not got married, Im taken and I get pfp with my partner, they thinks that Im looks like happy.
 - Which modal verbs mean it’s possible? 
-    
+    - ??
 - Which modal verb means it’s very likely to happen? 
-    
+    - ??
 - Which modal verb means it’s impossible?
+	- ??
 
-
-## About your High school
+## About your High school 7A
 ### Subjects Programs
 **Physical education**
 **Art**
@@ -940,3 +940,48 @@ If I were you, I wouldn't go
 **self-employed**: trabaja para si mismo.
 **work shifts**: trabajar por 
 **part-time**: trabajos por pocas horas.
+
+
+### Infinitive and Gerund uses
+
+**Infinitive**: to play
+**Gerund**: playing
+
+#### Infinitive
+Es el verbo en su forma original pero con un to antes de, están relacionados con el pensar o sentimiento.
+
+**Example**: hope, try, learn, want, remember, need, plan, promise, would like, etc
+
+**Example sentence**
+He started to clean as soon as the party was over.
+We will learn to drive soon.
+I would like to move to other country.
+
+##### Adjetives questions
+Lilian was tired to feel sad
+It will be easy to contact the teacher
+He didn't know where to go after fight
+
+Also provide a reason why you do something
+
+Why did u skip math classes
+- To go to the mall.
+
+
+#### Gerund
+We use the gerund after some verbs (mainly related to preferences)
+
+**Examples:** Enjoy, finish, go on, hate, like, love, mind, spend, start, stop, feel (like), keep
+
+
+We use the gerund as the subject of a sentence
+
+**Dancing** makes me feel relaxed after a long day
+**Cooking** on weekends gives me free time during the week
+
+
+We use the gerund after prepositions
+
+I like the idea of **recycling** clothes
+She was **thinking** about getting a new haircut
+

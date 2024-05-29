@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5df22b2c63313cfa",
+        "id": "f8aa415d1c2ca7db",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f1a38c3513bb8f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md"
-              }
-            }
-          },
-          {
-            "id": "325cf8b4b697883d",
+            "id": "a6f766396b453ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/Ingles/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md"
+                "file": "Year/Semester/Ingles/Summary.md"
               }
             }
           }
@@ -159,10 +148,11 @@
       "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "325cf8b4b697883d",
+  "active": "a6f766396b453ffb",
   "lastOpenFiles": [
-    "Year/Semester/Proyectos/Draws/TreeSummary2.md",
     "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Proyectos/Draws/TreeSummary2.md",
+    "Year/Semester/BPM/EV3/Dashboard.md",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
     "Year/Semester/Proyectos/Draws/TreeSummary.md",
     "Year/Semester/BPM/Summary.md",

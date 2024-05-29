@@ -184,7 +184,36 @@ Estimación ascendente
 
 Utiliza la estructura de descomposición de trabajo (EDT), para estimar los componentes de trabajo, con el fin de obtener un detalle más específico por actividad, generando cálculos de mayor precisión.  ^fbiNlxtC
 
-Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflación, factores de riesgo, que influyen en la estimación  de los costos. ^Wfc5xMND
+- Su grado de exactitud depende de la magnitud y complejidad de la actividad o paquete de trabajo individual.
+
+
+- El costo se va determinando a nivel de cada actividad y luego se resume en los paquetes de trabajo para luego calcular en los niveles superiores de la EDT.  ^Wfc5xMND
+
+Tres valores
+
+1) Costo mas probable
+2) Costo optimista
+3) Costo pesimista ^s57tgPwO
+
+Costo mas probable
+
+Se basa en una evaluación realista del esfuerzo necesario para el trabajo requerido y los gastos previstos ^eRazomrn
+
+Costo optimista
+
+El costo de la actividad se basa en el análisis del mejor escenario posible para esa actividad. ^o5kWVnLi
+
+Costo pesimista
+
+El costo de la actividad se basa en el análisis del peor escenario posible para esa actividad. ^VdIFcv8s
+
+Que son ^HoqaJMTZ
+
+Obtención de Información
+1) Costos de inversion
+2) Capital de trabajo
+3) Costos de operación
+4) Costos de manutención ^mEix2SLU
 
 
 # Embedded files
@@ -200,8 +229,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 365,
-			"versionNonce": 1337169056,
+			"version": 366,
+			"versionNonce": 1050416846,
 			"isDeleted": false,
 			"id": "1MOfpBolZ5Srrp6K0nWyu",
 			"fillStyle": "solid",
@@ -250,14 +279,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989748179,
+			"updated": 1717003911647,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 264776864,
+			"version": 216,
+			"versionNonce": 435160338,
 			"isDeleted": false,
 			"id": "E2BtEMwJ",
 			"fillStyle": "solid",
@@ -277,7 +306,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727451,
+			"updated": 1717003911647,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -293,8 +322,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 754,
-			"versionNonce": 1285033312,
+			"version": 755,
+			"versionNonce": 1087114510,
 			"isDeleted": false,
 			"id": "DYYwCT_k_rjiXhrnRPhGb",
 			"fillStyle": "solid",
@@ -323,14 +352,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989735509,
+			"updated": 1717003911647,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 772,
-			"versionNonce": 217014624,
+			"version": 773,
+			"versionNonce": 194089682,
 			"isDeleted": false,
 			"id": "KpGIPCyI",
 			"fillStyle": "solid",
@@ -350,7 +379,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989735509,
+			"updated": 1717003911647,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -366,8 +395,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 579,
-			"versionNonce": 416188768,
+			"version": 580,
+			"versionNonce": 1579367246,
 			"isDeleted": false,
 			"id": "OYmkDj2WiBeRbBZKjd55l",
 			"fillStyle": "solid",
@@ -408,14 +437,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989735509,
+			"updated": 1717003911647,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 609,
-			"versionNonce": 2004048032,
+			"version": 610,
+			"versionNonce": 1966827666,
 			"isDeleted": false,
 			"id": "DnR7BOpj",
 			"fillStyle": "solid",
@@ -435,7 +464,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989790233,
+			"updated": 1717003911647,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -451,8 +480,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 1854,
-			"versionNonce": 200117654,
+			"version": 1865,
+			"versionNonce": 1614723278,
 			"isDeleted": false,
 			"id": "hWiZCC8c3NWKxlQbnwd1_",
 			"fillStyle": "solid",
@@ -471,8 +500,13 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1716991019329,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "HoqaJMTZ"
+				}
+			],
+			"updated": 1717004257431,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -504,9 +538,46 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			]
 		},
 		{
+			"id": "HoqaJMTZ",
+			"type": "text",
+			"x": -801.8671107877054,
+			"y": 9.52264609382712,
+			"width": 108.75245666503906,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1949118098,
+			"version": 8,
+			"versionNonce": 670125454,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717004229531,
+			"link": null,
+			"locked": false,
+			"text": "Que son",
+			"rawText": "Que son",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 25,
+			"containerId": "hWiZCC8c3NWKxlQbnwd1_",
+			"originalText": "Que son",
+			"lineHeight": 1.25
+		},
+		{
 			"type": "arrow",
-			"version": 1062,
-			"versionNonce": 1082892310,
+			"version": 1079,
+			"versionNonce": 218455374,
 			"isDeleted": false,
 			"id": "4RygTmfnHTgbno1H_2qOf",
 			"fillStyle": "solid",
@@ -531,7 +602,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"id": "fb2U51dI"
 				}
 			],
-			"updated": 1716991019329,
+			"updated": 1717004257432,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -560,8 +631,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "text",
-			"version": 29,
-			"versionNonce": 1307109728,
+			"version": 30,
+			"versionNonce": 1351303118,
 			"isDeleted": false,
 			"id": "fb2U51dI",
 			"fillStyle": "solid",
@@ -581,7 +652,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727451,
+			"updated": 1717003911647,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -597,8 +668,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 794,
-			"versionNonce": 1151805792,
+			"version": 795,
+			"versionNonce": 1084484626,
 			"isDeleted": false,
 			"id": "R0su6xtBcV_Xgf6hexWs8",
 			"fillStyle": "solid",
@@ -627,14 +698,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989735509,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 748,
-			"versionNonce": 1824193888,
+			"version": 749,
+			"versionNonce": 2095977998,
 			"isDeleted": false,
 			"id": "nZDkhGZi",
 			"fillStyle": "solid",
@@ -654,7 +725,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989735509,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -670,8 +741,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 1125,
-			"versionNonce": 938874774,
+			"version": 1142,
+			"versionNonce": 1283361486,
 			"isDeleted": false,
 			"id": "zkHAuI9jFmuf5XEFDu0ya",
 			"fillStyle": "solid",
@@ -696,7 +767,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"id": "S0xjyVgg"
 				}
 			],
-			"updated": 1716991019349,
+			"updated": 1717004257443,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -725,8 +796,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "text",
-			"version": 41,
-			"versionNonce": 2131104096,
+			"version": 42,
+			"versionNonce": 991700046,
 			"isDeleted": false,
 			"id": "S0xjyVgg",
 			"fillStyle": "solid",
@@ -746,7 +817,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727452,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -762,8 +833,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 939,
-			"versionNonce": 513243488,
+			"version": 940,
+			"versionNonce": 794922898,
 			"isDeleted": false,
 			"id": "0z_xbwps_6ipYFk7C2_dK",
 			"fillStyle": "solid",
@@ -800,14 +871,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989735509,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1041,
-			"versionNonce": 1143033184,
+			"version": 1042,
+			"versionNonce": 485386894,
 			"isDeleted": false,
 			"id": "mF7Y5jIA",
 			"fillStyle": "solid",
@@ -827,7 +898,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989735509,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -843,8 +914,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 1492,
-			"versionNonce": 930720278,
+			"version": 1509,
+			"versionNonce": 83406670,
 			"isDeleted": false,
 			"id": "4GCqi7me6wbg3X47GZ3If",
 			"fillStyle": "solid",
@@ -869,7 +940,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"id": "l2bqOAsd"
 				}
 			],
-			"updated": 1716991019357,
+			"updated": 1717004257448,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -898,8 +969,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "text",
-			"version": 68,
-			"versionNonce": 418986336,
+			"version": 69,
+			"versionNonce": 287172814,
 			"isDeleted": false,
 			"id": "l2bqOAsd",
 			"fillStyle": "solid",
@@ -919,7 +990,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727452,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -935,8 +1006,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 311,
-			"versionNonce": 446508384,
+			"version": 312,
+			"versionNonce": 111956754,
 			"isDeleted": false,
 			"id": "o6St9e92HIVWuOi__bgh4",
 			"fillStyle": "solid",
@@ -965,14 +1036,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"id": "0tCLFxSX"
 				}
 			],
-			"updated": 1716989818351,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 491815264,
+			"version": 212,
+			"versionNonce": 1195613966,
 			"isDeleted": false,
 			"id": "0tCLFxSX",
 			"fillStyle": "solid",
@@ -992,7 +1063,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989818351,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1008,8 +1079,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 215,
-			"versionNonce": 1641246880,
+			"version": 216,
+			"versionNonce": 2006196434,
 			"isDeleted": false,
 			"id": "WkiwDiecjyZoiZLUt98MI",
 			"fillStyle": "solid",
@@ -1038,14 +1109,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"id": "Yun6QeYZ"
 				}
 			],
-			"updated": 1716989815145,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 117,
-			"versionNonce": 56384672,
+			"version": 118,
+			"versionNonce": 332959054,
 			"isDeleted": false,
 			"id": "Yun6QeYZ",
 			"fillStyle": "solid",
@@ -1065,7 +1136,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989815145,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1081,8 +1152,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 726,
-			"versionNonce": 1263837590,
+			"version": 743,
+			"versionNonce": 2118933710,
 			"isDeleted": false,
 			"id": "B7UMJMbRXSMmI83vqWGlw",
 			"fillStyle": "solid",
@@ -1091,11 +1162,11 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1291.0437797459904,
+			"x": -1291.0437688264115,
 			"y": 818.1718793573646,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 126.2954184133348,
+			"width": 126.29542400050514,
 			"height": 126.49650038682034,
 			"seed": 1762551968,
 			"groupIds": [],
@@ -1107,7 +1178,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"id": "75EouxO0"
 				}
 			],
-			"updated": 1716991019386,
+			"updated": 1717004257463,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1129,15 +1200,15 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					-126.2954184133348,
+					-126.29542400050514,
 					126.49650038682034
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 24,
-			"versionNonce": 506410336,
+			"version": 25,
+			"versionNonce": 1412805518,
 			"isDeleted": false,
 			"id": "75EouxO0",
 			"fillStyle": "solid",
@@ -1157,7 +1228,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727453,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1173,8 +1244,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 532,
-			"versionNonce": 943567894,
+			"version": 549,
+			"versionNonce": 922353998,
 			"isDeleted": false,
 			"id": "fVRx4q_cUVQ4VkLik7C75",
 			"fillStyle": "solid",
@@ -1183,11 +1254,11 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1068.5207609321735,
+			"x": -1068.5207611585145,
 			"y": 816.3536198580753,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 121.19653100194137,
+			"width": 121.19653113527522,
 			"height": 172.61611106178975,
 			"seed": 759524704,
 			"groupIds": [],
@@ -1199,7 +1270,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"id": "z2Q2WB3s"
 				}
 			],
-			"updated": 1716991019398,
+			"updated": 1717004257470,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1221,15 +1292,15 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					121.19653100194137,
+					121.19653113527522,
 					172.61611106178975
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 35,
-			"versionNonce": 1902217568,
+			"version": 36,
+			"versionNonce": 1385435598,
 			"isDeleted": false,
 			"id": "z2Q2WB3s",
 			"fillStyle": "solid",
@@ -1249,7 +1320,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727453,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1265,8 +1336,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 392,
-			"versionNonce": 1985887392,
+			"version": 393,
+			"versionNonce": 1573468690,
 			"isDeleted": false,
 			"id": "wG3ZfEjza9mVcDSoGXHvH",
 			"fillStyle": "solid",
@@ -1311,14 +1382,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727453,
+			"updated": 1717003911648,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 377,
-			"versionNonce": 1395219808,
+			"version": 378,
+			"versionNonce": 705472526,
 			"isDeleted": false,
 			"id": "fpe0jj4T",
 			"fillStyle": "solid",
@@ -1338,7 +1409,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1354,8 +1425,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 514,
-			"versionNonce": 1055139478,
+			"version": 531,
+			"versionNonce": 183010766,
 			"isDeleted": false,
 			"id": "wFgdzzfVxLtVv4FuwYoiJ",
 			"fillStyle": "solid",
@@ -1364,18 +1435,18 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -382.7043059418967,
+			"x": -382.70430594223404,
 			"y": -138.27866268489828,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 163.85576865652334,
+			"width": 163.85576865673488,
 			"height": 150.26258307935558,
 			"seed": 95563936,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019405,
+			"updated": 1717004257474,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1397,15 +1468,15 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					163.85576865652334,
+					163.85576865673488,
 					150.26258307935558
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 285,
-			"versionNonce": 1423356256,
+			"version": 286,
+			"versionNonce": 714634830,
 			"isDeleted": false,
 			"id": "x3wA5S0ZNw4XeZDIBQPIJ",
 			"fillStyle": "solid",
@@ -1434,14 +1505,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 175,
-			"versionNonce": 237999264,
+			"version": 176,
+			"versionNonce": 1108041106,
 			"isDeleted": false,
 			"id": "kng7mp4t",
 			"fillStyle": "solid",
@@ -1461,7 +1532,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1477,8 +1548,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 316,
-			"versionNonce": 1572439392,
+			"version": 317,
+			"versionNonce": 1024490638,
 			"isDeleted": false,
 			"id": "UaJSLmwMeAsbUZDPF-dkW",
 			"fillStyle": "solid",
@@ -1507,14 +1578,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 221,
-			"versionNonce": 412352672,
+			"version": 222,
+			"versionNonce": 934140754,
 			"isDeleted": false,
 			"id": "UhuTAfBy",
 			"fillStyle": "solid",
@@ -1534,7 +1605,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1550,8 +1621,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 329,
-			"versionNonce": 1797380448,
+			"version": 330,
+			"versionNonce": 1194179278,
 			"isDeleted": false,
 			"id": "EPNn6eo4kX28m-A35lQUN",
 			"fillStyle": "solid",
@@ -1580,14 +1651,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 241,
-			"versionNonce": 864742560,
+			"version": 242,
+			"versionNonce": 1471848722,
 			"isDeleted": false,
 			"id": "XcqHwaz4",
 			"fillStyle": "solid",
@@ -1607,7 +1678,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1623,8 +1694,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 441,
-			"versionNonce": 1348447584,
+			"version": 442,
+			"versionNonce": 260649230,
 			"isDeleted": false,
 			"id": "qIiO0owWPpCHXnWcM4h4t",
 			"fillStyle": "solid",
@@ -1653,14 +1724,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 333,
-			"versionNonce": 683956384,
+			"version": 334,
+			"versionNonce": 1839771346,
 			"isDeleted": false,
 			"id": "JXbtjip9",
 			"fillStyle": "solid",
@@ -1680,7 +1751,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727453,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1696,8 +1767,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 402,
-			"versionNonce": 215465494,
+			"version": 411,
+			"versionNonce": 889803598,
 			"isDeleted": false,
 			"id": "Pa2vtcvLsvmI2Vv7ZgSBr",
 			"fillStyle": "solid",
@@ -1717,7 +1788,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019416,
+			"updated": 1717004257479,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1750,8 +1821,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 296,
-			"versionNonce": 134459542,
+			"version": 313,
+			"versionNonce": 113989582,
 			"isDeleted": false,
 			"id": "x-bGRZS8aaZaWLJO7ndN1",
 			"fillStyle": "solid",
@@ -1760,18 +1831,18 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 24.951121690704937,
-			"y": 50.75814867488482,
+			"x": 24.951121690704895,
+			"y": 50.75814867959126,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 195.66942524706218,
-			"height": 18.697263243358172,
+			"width": 195.66942524706224,
+			"height": 18.697263245993554,
 			"seed": 1669280,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019424,
+			"updated": 1717004257483,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1793,15 +1864,15 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					195.66942524706218,
-					-18.697263243358172
+					195.66942524706224,
+					-18.697263245993554
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 263,
-			"versionNonce": 212676054,
+			"version": 272,
+			"versionNonce": 594226702,
 			"isDeleted": false,
 			"id": "LHzs6F-EEKGTl1eLQEd8t",
 			"fillStyle": "solid",
@@ -1821,7 +1892,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019430,
+			"updated": 1717004257488,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1854,8 +1925,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 493,
-			"versionNonce": 1370817302,
+			"version": 502,
+			"versionNonce": 1110850638,
 			"isDeleted": false,
 			"id": "zjERVeL77cRvRGiO-Actq",
 			"fillStyle": "solid",
@@ -1875,7 +1946,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019436,
+			"updated": 1717004257495,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1908,8 +1979,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 307,
-			"versionNonce": 440019296,
+			"version": 308,
+			"versionNonce": 19588046,
 			"isDeleted": false,
 			"id": "xnbzwzcZ22uYPNYlAMdQN",
 			"fillStyle": "solid",
@@ -1946,14 +2017,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727462,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 436,
-			"versionNonce": 1558158496,
+			"version": 437,
+			"versionNonce": 641763346,
 			"isDeleted": false,
 			"id": "etADOe9L",
 			"fillStyle": "solid",
@@ -1973,7 +2044,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727462,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1989,8 +2060,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 337,
-			"versionNonce": 401472864,
+			"version": 338,
+			"versionNonce": 1106852366,
 			"isDeleted": false,
 			"id": "7mcVEeE9pcpyuHyfO9_de",
 			"fillStyle": "solid",
@@ -2027,14 +2098,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727463,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 564,
-			"versionNonce": 604178592,
+			"version": 565,
+			"versionNonce": 1624880594,
 			"isDeleted": false,
 			"id": "4Bo8w328",
 			"fillStyle": "solid",
@@ -2054,7 +2125,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727463,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2070,8 +2141,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 410,
-			"versionNonce": 1476874592,
+			"version": 411,
+			"versionNonce": 2065877070,
 			"isDeleted": false,
 			"id": "NmM5eo-Y1Cqb6ksVXzBmS",
 			"fillStyle": "solid",
@@ -2108,14 +2179,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727463,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 597,
-			"versionNonce": 198767776,
+			"version": 598,
+			"versionNonce": 1401367442,
 			"isDeleted": false,
 			"id": "VmgpwhhB",
 			"fillStyle": "solid",
@@ -2135,7 +2206,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727463,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2151,8 +2222,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 604,
-			"versionNonce": 1909859680,
+			"version": 605,
+			"versionNonce": 1820364430,
 			"isDeleted": false,
 			"id": "WDTsjgOuoxu1Q99d3PtPv",
 			"fillStyle": "solid",
@@ -2189,14 +2260,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727463,
+			"updated": 1717003911649,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 779,
-			"versionNonce": 1511088288,
+			"version": 780,
+			"versionNonce": 75491666,
 			"isDeleted": false,
 			"id": "jeXPGarV",
 			"fillStyle": "solid",
@@ -2216,7 +2287,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727463,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2232,8 +2303,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 310,
-			"versionNonce": 1343468950,
+			"version": 327,
+			"versionNonce": 2056388814,
 			"isDeleted": false,
 			"id": "5xI7U4S81smOVJiSvzIDZ",
 			"fillStyle": "solid",
@@ -2253,7 +2324,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019442,
+			"updated": 1717004257508,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2282,8 +2353,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 251,
-			"versionNonce": 1322257686,
+			"version": 268,
+			"versionNonce": 1679461966,
 			"isDeleted": false,
 			"id": "4Z3hb3fxbnGtc9EV_4yB3",
 			"fillStyle": "solid",
@@ -2303,7 +2374,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019474,
+			"updated": 1717004257521,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2332,8 +2403,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 395,
-			"versionNonce": 1162134678,
+			"version": 412,
+			"versionNonce": 674954190,
 			"isDeleted": false,
 			"id": "lHU7ZIbMMaTtVq8k14hFg",
 			"fillStyle": "solid",
@@ -2353,7 +2424,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019480,
+			"updated": 1717004257534,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2382,8 +2453,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 626,
-			"versionNonce": 1705630742,
+			"version": 643,
+			"versionNonce": 730548558,
 			"isDeleted": false,
 			"id": "7Z6J4vtVEG0Kw4_H6bXSr",
 			"fillStyle": "solid",
@@ -2403,7 +2474,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019485,
+			"updated": 1717004257539,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2432,8 +2503,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 534,
-			"versionNonce": 212050272,
+			"version": 535,
+			"versionNonce": 426586446,
 			"isDeleted": false,
 			"id": "hDrZQ61cMaceJx7GpT3r8",
 			"fillStyle": "solid",
@@ -2462,14 +2533,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727463,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 618,
-			"versionNonce": 971613344,
+			"version": 619,
+			"versionNonce": 1681117842,
 			"isDeleted": false,
 			"id": "KXQJVPLf",
 			"fillStyle": "solid",
@@ -2489,7 +2560,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727463,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2505,8 +2576,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 465,
-			"versionNonce": 1852339552,
+			"version": 466,
+			"versionNonce": 127260558,
 			"isDeleted": false,
 			"id": "tjYLuT8Z5btYcTzsNvaGm",
 			"fillStyle": "solid",
@@ -2535,14 +2606,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727463,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 588,
-			"versionNonce": 1653346464,
+			"version": 589,
+			"versionNonce": 1191161938,
 			"isDeleted": false,
 			"id": "9AjzcCaA",
 			"fillStyle": "solid",
@@ -2562,7 +2633,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727464,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2578,8 +2649,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 987,
-			"versionNonce": 1480020886,
+			"version": 1004,
+			"versionNonce": 10712782,
 			"isDeleted": false,
 			"id": "hL7VWiK3201frUbL4xhe9",
 			"fillStyle": "solid",
@@ -2599,7 +2670,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019488,
+			"updated": 1717004257544,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2628,8 +2699,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 804,
-			"versionNonce": 1838933526,
+			"version": 821,
+			"versionNonce": 231906126,
 			"isDeleted": false,
 			"id": "3njWBm_mlk7JVDDPn8Q3h",
 			"fillStyle": "solid",
@@ -2638,18 +2709,18 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1802.4983150445316,
+			"x": -1802.4983061769485,
 			"y": -718.4811767770179,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2.292745531551418,
+			"width": 2.2927440103426306,
 			"height": 75.64698558283487,
 			"seed": 422919520,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019493,
+			"updated": 1717004257556,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2671,15 +2742,15 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					2.292745531551418,
+					2.2927440103426306,
 					-75.64698558283487
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 430,
-			"versionNonce": 1444060512,
+			"version": 431,
+			"versionNonce": 380881934,
 			"isDeleted": false,
 			"id": "8z5v6GEm6CS53mS-eJCEC",
 			"fillStyle": "solid",
@@ -2708,14 +2779,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727468,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 542,
-			"versionNonce": 1073244320,
+			"version": 543,
+			"versionNonce": 944325586,
 			"isDeleted": false,
 			"id": "amCLJxj0",
 			"fillStyle": "solid",
@@ -2735,7 +2806,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727468,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2751,8 +2822,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 441,
-			"versionNonce": 681046368,
+			"version": 442,
+			"versionNonce": 1052449358,
 			"isDeleted": false,
 			"id": "0OXVlwG8gZNF-32uwnHik",
 			"fillStyle": "solid",
@@ -2781,14 +2852,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727468,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 544,
-			"versionNonce": 1109546144,
+			"version": 545,
+			"versionNonce": 1909782930,
 			"isDeleted": false,
 			"id": "CH11M6vD",
 			"fillStyle": "solid",
@@ -2808,7 +2879,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727469,
+			"updated": 1717003911650,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2824,8 +2895,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 830,
-			"versionNonce": 1407047830,
+			"version": 847,
+			"versionNonce": 602054606,
 			"isDeleted": false,
 			"id": "LpfEfObjCn3Buqnji-Lg7",
 			"fillStyle": "solid",
@@ -2845,7 +2916,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019497,
+			"updated": 1717004257566,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2874,8 +2945,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 630,
-			"versionNonce": 992291606,
+			"version": 647,
+			"versionNonce": 1746633806,
 			"isDeleted": false,
 			"id": "1u-BdE1cUunG4o_DpBOhI",
 			"fillStyle": "solid",
@@ -2884,18 +2955,18 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1047.870187969699,
+			"x": -1047.8702480356108,
 			"y": -717.1121556969829,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0.14177377527721546,
+			"width": 0.14178667186160965,
 			"height": 58.09518868582586,
 			"seed": 801132704,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019502,
+			"updated": 1717004257571,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2917,15 +2988,15 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					0.14177377527721546,
+					0.14178667186160965,
 					-58.09518868582586
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 486,
-			"versionNonce": 798169440,
+			"version": 487,
+			"versionNonce": 636968654,
 			"isDeleted": false,
 			"id": "8p9DjZC8BWjsgglV3KBFO",
 			"fillStyle": "solid",
@@ -2954,14 +3025,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727469,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 490,
-			"versionNonce": 432909472,
+			"version": 491,
+			"versionNonce": 1590508818,
 			"isDeleted": false,
 			"id": "pijvqv4m",
 			"fillStyle": "solid",
@@ -2981,7 +3052,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727469,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2997,8 +3068,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 485,
-			"versionNonce": 1957227872,
+			"version": 486,
+			"versionNonce": 763254030,
 			"isDeleted": false,
 			"id": "E5vNrA1qWnIbKdJ3gecCB",
 			"fillStyle": "solid",
@@ -3027,14 +3098,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727469,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 708,
-			"versionNonce": 950999200,
+			"version": 709,
+			"versionNonce": 805817042,
 			"isDeleted": false,
 			"id": "utdYjspA",
 			"fillStyle": "solid",
@@ -3054,7 +3125,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727469,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3070,8 +3141,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 926,
-			"versionNonce": 1771691414,
+			"version": 943,
+			"versionNonce": 1304774862,
 			"isDeleted": false,
 			"id": "qFzimXwk3N6LIW_SPEwLi",
 			"fillStyle": "solid",
@@ -3080,18 +3151,18 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -690.5473498176573,
+			"x": -690.5486612404734,
 			"y": -703.1338148544753,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 2.854805045018793,
+			"width": 2.854579295448275,
 			"height": 49.84840531782686,
 			"seed": 60640608,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019507,
+			"updated": 1717004257577,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3113,15 +3184,15 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					-2.854805045018793,
+					-2.854579295448275,
 					-49.84840531782686
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 690,
-			"versionNonce": 996405270,
+			"version": 707,
+			"versionNonce": 371715406,
 			"isDeleted": false,
 			"id": "m74X9DASHalSO681pCX_q",
 			"fillStyle": "solid",
@@ -3141,7 +3212,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019509,
+			"updated": 1717004257580,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3170,8 +3241,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 738,
-			"versionNonce": 815076704,
+			"version": 739,
+			"versionNonce": 666560910,
 			"isDeleted": false,
 			"id": "xA50_hAhAPwL3pZz2iM40",
 			"fillStyle": "solid",
@@ -3200,14 +3271,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727469,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 810,
-			"versionNonce": 519663776,
+			"version": 811,
+			"versionNonce": 1961672274,
 			"isDeleted": false,
 			"id": "JGMBCsB9",
 			"fillStyle": "solid",
@@ -3227,7 +3298,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727469,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3243,8 +3314,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 757,
-			"versionNonce": 2081122656,
+			"version": 758,
+			"versionNonce": 738363342,
 			"isDeleted": false,
 			"id": "f0cn97kw9RFS4Lc5f4BPV",
 			"fillStyle": "solid",
@@ -3273,14 +3344,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716989727469,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 962,
-			"versionNonce": 734157984,
+			"version": 963,
+			"versionNonce": 1898259474,
 			"isDeleted": false,
 			"id": "1EnyVuk5",
 			"fillStyle": "solid",
@@ -3300,7 +3371,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727470,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3316,8 +3387,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 1897,
-			"versionNonce": 581657238,
+			"version": 1914,
+			"versionNonce": 1351315918,
 			"isDeleted": false,
 			"id": "v4tQmWRziOS18qnIXni-V",
 			"fillStyle": "solid",
@@ -3337,7 +3408,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019515,
+			"updated": 1717004257615,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3366,8 +3437,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 1638,
-			"versionNonce": 664286486,
+			"version": 1655,
+			"versionNonce": 1513608782,
 			"isDeleted": false,
 			"id": "mMDoznou58Df8nzrXLdzW",
 			"fillStyle": "solid",
@@ -3376,18 +3447,18 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 549.7119955613642,
-			"y": -692.8025809384458,
+			"x": 549.7120651417822,
+			"y": -692.8025809384457,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 3.758065592591606,
-			"height": 55.80493920481126,
+			"width": 3.758053364482066,
+			"height": 55.804939204811376,
 			"seed": 148952416,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019521,
+			"updated": 1717004257621,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3409,15 +3480,15 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					3.758065592591606,
-					-55.80493920481126
+					3.758053364482066,
+					-55.804939204811376
 				]
 			]
 		},
 		{
 			"type": "image",
-			"version": 68,
-			"versionNonce": 1720226144,
+			"version": 69,
+			"versionNonce": 123825230,
 			"isDeleted": false,
 			"id": "oyYrHZhh9R2hkVHBRBdaA",
 			"fillStyle": "solid",
@@ -3437,7 +3508,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727470,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3449,8 +3520,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "image",
-			"version": 104,
-			"versionNonce": 285979808,
+			"version": 105,
+			"versionNonce": 720684946,
 			"isDeleted": false,
 			"id": "I-kIwlH1LhsqE8HpX84r_",
 			"fillStyle": "solid",
@@ -3470,7 +3541,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727470,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3482,8 +3553,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "image",
-			"version": 129,
-			"versionNonce": 506422624,
+			"version": 130,
+			"versionNonce": 1095414414,
 			"isDeleted": false,
 			"id": "fKwekT6uOJOQbAKm2otZ6",
 			"fillStyle": "solid",
@@ -3503,7 +3574,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727470,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3515,8 +3586,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "image",
-			"version": 108,
-			"versionNonce": 720117920,
+			"version": 109,
+			"versionNonce": 1406797138,
 			"isDeleted": false,
 			"id": "OBW-O4jJW_HCvZOo-OfqY",
 			"fillStyle": "solid",
@@ -3536,7 +3607,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716989727470,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3548,8 +3619,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 707,
-			"versionNonce": 1647493322,
+			"version": 710,
+			"versionNonce": 1924214990,
 			"isDeleted": false,
 			"id": "HjGOdsyYFUvaetioh7wNn",
 			"fillStyle": "solid",
@@ -3584,16 +3655,24 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 				{
 					"id": "L1cPmxp1p8K__25pHZcUf",
 					"type": "arrow"
+				},
+				{
+					"id": "wVvwhSeHQJgdxCaWBjWUJ",
+					"type": "arrow"
+				},
+				{
+					"id": "WF-26k4cUE8SdBnRXjjCc",
+					"type": "arrow"
 				}
 			],
-			"updated": 1716990753888,
+			"updated": 1717003911651,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 803,
-			"versionNonce": 713999242,
+			"version": 804,
+			"versionNonce": 819038994,
 			"isDeleted": false,
 			"id": "GUUb1aov",
 			"fillStyle": "solid",
@@ -3613,7 +3692,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716990753959,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -3629,8 +3708,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "text",
-			"version": 39,
-			"versionNonce": 1259205450,
+			"version": 40,
+			"versionNonce": 657319694,
 			"isDeleted": false,
 			"id": "fo1VE46M",
 			"fillStyle": "solid",
@@ -3650,7 +3729,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716990760029,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3666,8 +3745,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 952,
-			"versionNonce": 1615133194,
+			"version": 953,
+			"versionNonce": 408049874,
 			"isDeleted": false,
 			"id": "yvHRzDhf9XW4fBWRDaltV",
 			"fillStyle": "solid",
@@ -3696,14 +3775,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716990760029,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1010,
-			"versionNonce": 778905802,
+			"version": 1011,
+			"versionNonce": 255448398,
 			"isDeleted": false,
 			"id": "mO2WhCed",
 			"fillStyle": "solid",
@@ -3723,7 +3802,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716990760029,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3738,47 +3817,36 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"baseline": 165
 		},
 		{
-			"id": "aCokKFY7TlOTPbdbHTtrI",
 			"type": "arrow",
-			"x": -4718.270106817368,
-			"y": -335.22907420216177,
-			"width": 7.147361580362485,
-			"height": 293.85149713412443,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 991,
+			"versionNonce": 1715025806,
+			"isDeleted": false,
+			"id": "aCokKFY7TlOTPbdbHTtrI",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -4718.270106817367,
+			"y": -335.22907420216177,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 7.147361580361576,
+			"height": 293.85149713412443,
+			"seed": 1135687434,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1135687434,
-			"version": 974,
-			"versionNonce": 148979478,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "bvElq6G4"
 				}
 			],
-			"updated": 1716991019536,
+			"updated": 1717004257673,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.147361580362485,
-					293.85149713412443
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "HjGOdsyYFUvaetioh7wNn",
 				"gap": 25.269203224934216,
@@ -3789,68 +3857,79 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 				"gap": 23.20556130481168,
 				"focus": 0.11921726216682252
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					7.147361580361576,
+					293.85149713412443
+				]
+			]
 		},
 		{
-			"id": "bvElq6G4",
 			"type": "text",
+			"version": 106,
+			"versionNonce": 115642638,
+			"isDeleted": false,
+			"id": "bvElq6G4",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": -4470.059936773279,
 			"y": -292.5400699993986,
-			"width": 203.25282287597656,
-			"height": 140,
-			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
+			"width": 305.92926025390625,
+			"height": 105,
+			"seed": 1712715990,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1712715990,
-			"version": 103,
-			"versionNonce": 1338731658,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716990746092,
+			"boundElements": [],
+			"updated": 1717004257642,
 			"link": null,
 			"locked": false,
-			"text": "Análisis preciso\npara usar bien\nlos recursos\neconomicos",
-			"rawText": "Análisis preciso para usar bien los recursos  economicos",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "Análisis preciso para\nusar bien los recursos\neconomicos",
+			"rawText": "Análisis preciso para usar bien los recursos  economicos",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 130,
 			"containerId": "aCokKFY7TlOTPbdbHTtrI",
 			"originalText": "Análisis preciso para usar bien los recursos  economicos",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 95
 		},
 		{
-			"id": "tL59IwXBcgWzm7SQVgVA0",
 			"type": "rectangle",
-			"x": -5639.28110478079,
-			"y": -1386.1653962287699,
-			"width": 518.8266550684375,
-			"height": 465,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 269,
+			"versionNonce": 980143186,
+			"isDeleted": false,
+			"id": "tL59IwXBcgWzm7SQVgVA0",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -5639.28110478079,
+			"y": -1386.1653962287699,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 518.8266550684375,
+			"height": 465,
+			"seed": 60370518,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 60370518,
-			"version": 268,
-			"versionNonce": 2137789846,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -3869,89 +3948,78 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716990782182,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "56PO2reA",
 			"type": "text",
+			"version": 278,
+			"versionNonce": 1279482318,
+			"isDeleted": false,
+			"id": "56PO2reA",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": -5612.66076125536,
 			"y": -1381.1653962287699,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 465.5859680175781,
 			"height": 280,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
+			"seed": 1987421590,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1987421590,
-			"version": 277,
-			"versionNonce": 599847638,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716990782182,
+			"boundElements": [],
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
-			"text": "Estimación por analogía\n\nEs una técnica utilizada para\nprever costos, tiempos y recursos\nnecesarios para un proyecto\nbasándose en la comparación con\nproyectos similares previamente\ncompletados.",
-			"rawText": "Estimación por analogía\n\nEs una técnica utilizada para prever costos, tiempos y recursos necesarios para un proyecto basándose en la comparación con proyectos similares previamente completados.",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "Estimación por analogía\n\nEs una técnica utilizada para\nprever costos, tiempos y recursos\nnecesarios para un proyecto\nbasándose en la comparación con\nproyectos similares previamente\ncompletados.",
+			"rawText": "Estimación por analogía\n\nEs una técnica utilizada para prever costos, tiempos y recursos necesarios para un proyecto basándose en la comparación con proyectos similares previamente completados.",
 			"textAlign": "center",
 			"verticalAlign": "top",
-			"baseline": 270,
 			"containerId": "tL59IwXBcgWzm7SQVgVA0",
 			"originalText": "Estimación por analogía\n\nEs una técnica utilizada para prever costos, tiempos y recursos necesarios para un proyecto basándose en la comparación con proyectos similares previamente completados.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 270
 		},
 		{
-			"id": "nMYdlFH2XDsUdSP-SMZ7R",
 			"type": "arrow",
-			"x": -5424.98152330142,
-			"y": -689.7395318857584,
-			"width": 0.5642547430406921,
-			"height": 211.3853497695527,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 614,
+			"versionNonce": 1811885070,
+			"isDeleted": false,
+			"id": "nMYdlFH2XDsUdSP-SMZ7R",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -5424.931612967706,
+			"y": -689.7395318857584,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.5892269751875574,
+			"height": 211.3853497695527,
+			"seed": 101287050,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 101287050,
-			"version": 597,
-			"versionNonce": 509669782,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "hJFBYQ2K"
 				}
 			],
-			"updated": 1716991019540,
+			"updated": 1717004257679,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.5642547430406921,
-					-211.3853497695527
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "HjGOdsyYFUvaetioh7wNn",
 				"gap": 18.907921125328954,
@@ -3962,68 +4030,79 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 				"gap": 20.040514573458722,
 				"focus": 0.17825408120021652
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.5892269751875574,
+					-211.3853497695527
+				]
+			]
 		},
 		{
-			"id": "hJFBYQ2K",
 			"type": "text",
+			"version": 10,
+			"versionNonce": 1049817102,
+			"isDeleted": false,
+			"id": "hJFBYQ2K",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": -5465.591172932267,
 			"y": -807.9322067705348,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 79.87991333007812,
 			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
+			"seed": 1587510934,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1587510934,
-			"version": 9,
-			"versionNonce": 67037834,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716990974393,
+			"boundElements": [],
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
-			"text": "Analogia",
-			"rawText": "Analogia",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Analogia",
+			"rawText": "Analogia",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 18,
 			"containerId": "nMYdlFH2XDsUdSP-SMZ7R",
 			"originalText": "Analogia",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
-			"id": "0JMBABUo0ijjFbnsbiplx",
 			"type": "rectangle",
-			"x": -5826.029770036845,
-			"y": -1687.4802710381423,
-			"width": 350.63797529549254,
-			"height": 167.9052150989553,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 232,
+			"versionNonce": 1549688786,
+			"isDeleted": false,
+			"id": "0JMBABUo0ijjFbnsbiplx",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -5826.029770036845,
+			"y": -1687.4802710381423,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 350.63797529549254,
+			"height": 167.9052150989553,
+			"seed": 1290460746,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1290460746,
-			"version": 231,
-			"versionNonce": 224998358,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -4034,69 +4113,69 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716991019545,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "rpzaC7mj",
 			"type": "text",
+			"version": 260,
+			"versionNonce": 1729478222,
+			"isDeleted": false,
+			"id": "rpzaC7mj",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": -5814.230588297301,
 			"y": -1653.5276634886645,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 327.03961181640625,
 			"height": 100,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
+			"seed": 709163658,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 709163658,
-			"version": 259,
-			"versionNonce": 1439005590,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716991019548,
+			"boundElements": [],
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
-			"text": "Esta se basa es que un\nproyecto, por muy nuevo que sea,\ntendrá similitudes con uno\nrealizado anteriormente",
-			"rawText": "Esta se basa es que un proyecto, por muy nuevo que sea, tendrá similitudes con uno realizado anteriormente",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Esta se basa es que un\nproyecto, por muy nuevo que sea,\ntendrá similitudes con uno\nrealizado anteriormente",
+			"rawText": "Esta se basa es que un proyecto, por muy nuevo que sea, tendrá similitudes con uno realizado anteriormente",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 93,
 			"containerId": "0JMBABUo0ijjFbnsbiplx",
 			"originalText": "Esta se basa es que un proyecto, por muy nuevo que sea, tendrá similitudes con uno realizado anteriormente",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 93
 		},
 		{
-			"id": "N3HKlabJP-lS7TtyVEF9c",
 			"type": "rectangle",
-			"x": -5392.990781698464,
-			"y": -1673.4766254650249,
-			"width": 470.8567096825192,
-			"height": 154.28070913001716,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 286,
+			"versionNonce": 216438162,
+			"isDeleted": false,
+			"id": "N3HKlabJP-lS7TtyVEF9c",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -5392.990781698464,
+			"y": -1673.4766254650249,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 470.8567096825192,
+			"height": 154.28070913001716,
+			"seed": 516763862,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 516763862,
-			"version": 285,
-			"versionNonce": 1979554006,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -4107,84 +4186,73 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716991019548,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "9gAN1bIV",
 			"type": "text",
+			"version": 298,
+			"versionNonce": 178570382,
+			"isDeleted": false,
+			"id": "9gAN1bIV",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
 			"x": -5387.06218271658,
 			"y": -1658.8362709000162,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 458.99951171875,
 			"height": 125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
+			"seed": 302042646,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 302042646,
-			"version": 297,
-			"versionNonce": 622330006,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716991019553,
+			"boundElements": [],
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
-			"text": "Esta estimación usa información de proyectos\nya realizados y en base a ella, se realiza la\nestimación de costos. Para ello se asume que\nel alcance del nuevo proyecto es similar al del\ncual se quiere basar.",
-			"rawText": "Esta estimación usa información de proyectos ya realizados y en base a ella, se realiza la estimación de costos. Para ello se asume que el alcance del nuevo proyecto es similar al del cual se quiere basar.",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Esta estimación usa información de proyectos\nya realizados y en base a ella, se realiza la\nestimación de costos. Para ello se asume que\nel alcance del nuevo proyecto es similar al del\ncual se quiere basar.",
+			"rawText": "Esta estimación usa información de proyectos ya realizados y en base a ella, se realiza la estimación de costos. Para ello se asume que el alcance del nuevo proyecto es similar al del cual se quiere basar.",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 118,
 			"containerId": "N3HKlabJP-lS7TtyVEF9c",
 			"originalText": "Esta estimación usa información de proyectos ya realizados y en base a ella, se realiza la estimación de costos. Para ello se asume que el alcance del nuevo proyecto es similar al del cual se quiere basar.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 118
 		},
 		{
-			"id": "tT05oVkl6-ojVonpTdHtn",
 			"type": "arrow",
-			"x": -5583.272980224916,
-			"y": -1403.911590619644,
-			"width": 2.632029376457467,
-			"height": 96.4706310420629,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 494,
+			"versionNonce": 620644750,
+			"isDeleted": false,
+			"id": "tT05oVkl6-ojVonpTdHtn",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -5583.30621914216,
+			"y": -1403.911590619644,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2.6514437510604694,
+			"height": 96.4706310420629,
+			"seed": 608740374,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 608740374,
-			"version": 477,
-			"versionNonce": 58898006,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716991019545,
+			"boundElements": [],
+			"updated": 1717004257686,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.632029376457467,
-					-96.4706310420629
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "tL59IwXBcgWzm7SQVgVA0",
 				"gap": 17.746194390874052,
@@ -4195,46 +4263,46 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 				"gap": 19.192834277480074,
 				"focus": -0.41036080491242644
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"id": "LVUoHRem_hex_N3M3W8ph",
-			"type": "arrow",
-			"x": -5209.250318264535,
-			"y": -1400.8303550690205,
-			"width": 0.6493513152800006,
-			"height": 103.8768087951803,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1469289354,
-			"version": 650,
-			"versionNonce": 67230550,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716991019548,
-			"link": null,
-			"locked": false,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					0.6493513152800006,
-					-103.8768087951803
+					2.6514437510604694,
+					-96.4706310420629
 				]
-			],
-			"lastCommittedPoint": null,
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 667,
+			"versionNonce": 1177009678,
+			"isDeleted": false,
+			"id": "LVUoHRem_hex_N3M3W8ph",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -5209.250318264535,
+			"y": -1400.8303550690205,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.6493513152800006,
+			"height": 103.8768087951803,
+			"seed": 1469289354,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717004257689,
+			"link": null,
+			"locked": false,
 			"startBinding": {
 				"elementId": "tL59IwXBcgWzm7SQVgVA0",
 				"gap": 14.66495884025062,
@@ -4245,13 +4313,24 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 				"gap": 14.488752470806844,
 				"focus": 0.21391898955348818
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.6493513152800006,
+					-103.8768087951803
+				]
+			]
 		},
 		{
 			"type": "rectangle",
-			"version": 337,
-			"versionNonce": 582450646,
+			"version": 338,
+			"versionNonce": 522705170,
 			"isDeleted": false,
 			"id": "lnt7J8UKRSGLTd7iPzcZu",
 			"fillStyle": "solid",
@@ -4284,14 +4363,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716991019553,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 392,
-			"versionNonce": 8853706,
+			"version": 393,
+			"versionNonce": 715880718,
 			"isDeleted": false,
 			"id": "uSXvS5RC",
 			"fillStyle": "solid",
@@ -4311,7 +4390,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991003514,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4327,8 +4406,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 680,
-			"versionNonce": 349627094,
+			"version": 697,
+			"versionNonce": 1919502094,
 			"isDeleted": false,
 			"id": "L1cPmxp1p8K__25pHZcUf",
 			"fillStyle": "solid",
@@ -4353,7 +4432,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"id": "6dT6gflV"
 				}
 			],
-			"updated": 1716991019553,
+			"updated": 1717004257698,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4381,46 +4460,46 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			]
 		},
 		{
-			"id": "6dT6gflV",
 			"type": "text",
-			"x": -4140.512027513928,
-			"y": -777.1440106403298,
-			"width": 137.8798370361328,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 825567054,
+			"isDeleted": false,
+			"id": "6dT6gflV",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -4140.512027513928,
+			"y": -777.1440106403298,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 137.8798370361328,
+			"height": 25,
+			"seed": 977332950,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 977332950,
-			"version": 19,
-			"versionNonce": 25310666,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1716990980905,
+			"boundElements": [],
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false,
-			"text": "Juicio experto",
-			"rawText": "Juicio experto",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Juicio experto",
+			"rawText": "Juicio experto",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 18,
 			"containerId": "L1cPmxp1p8K__25pHZcUf",
 			"originalText": "Juicio experto",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 433,
-			"versionNonce": 865559498,
+			"version": 434,
+			"versionNonce": 93207698,
 			"isDeleted": false,
 			"id": "S4xkzz6ufH5AWKSj2lbfm",
 			"fillStyle": "solid",
@@ -4449,14 +4528,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716991003514,
+			"updated": 1717003911652,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 465,
-			"versionNonce": 1196186250,
+			"version": 466,
+			"versionNonce": 250547598,
 			"isDeleted": false,
 			"id": "7FFYT9UJ",
 			"fillStyle": "solid",
@@ -4476,7 +4555,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991003514,
+			"updated": 1717003911653,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4492,8 +4571,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "arrow",
-			"version": 941,
-			"versionNonce": 9479510,
+			"version": 958,
+			"versionNonce": 1611750286,
 			"isDeleted": false,
 			"id": "iUYcwjPASXAiSZ2-irNOB",
 			"fillStyle": "solid",
@@ -4513,7 +4592,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991019557,
+			"updated": 1717004257702,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4542,8 +4621,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 356,
-			"versionNonce": 1329494870,
+			"version": 358,
+			"versionNonce": 1628580814,
 			"isDeleted": false,
 			"id": "srs6fD3tasyau3rvyL4wI",
 			"fillStyle": "solid",
@@ -4570,16 +4649,20 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 				{
 					"id": "6nfAU8EgmW6okd3fDuxX7",
 					"type": "arrow"
+				},
+				{
+					"id": "wVvwhSeHQJgdxCaWBjWUJ",
+					"type": "arrow"
 				}
 			],
-			"updated": 1716991020391,
+			"updated": 1717003911653,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 432,
-			"versionNonce": 1278465674,
+			"version": 433,
+			"versionNonce": 290570258,
 			"isDeleted": false,
 			"id": "fbiNlxtC",
 			"fillStyle": "solid",
@@ -4599,7 +4682,7 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991080736,
+			"updated": 1717003911653,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4615,8 +4698,8 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		},
 		{
 			"type": "rectangle",
-			"version": 452,
-			"versionNonce": 1928721174,
+			"version": 474,
+			"versionNonce": 901218830,
 			"isDeleted": false,
 			"id": "KEkJapJdBJ0VgWATEPLxr",
 			"fillStyle": "solid",
@@ -4625,12 +4708,12 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -4071.888099509587,
-			"y": -1616.1420364859136,
+			"x": -4061.118868740356,
+			"y": -1969.9881903320675,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 350.63797529549254,
-			"height": 167.9052150989553,
+			"height": 520.2129074066476,
 			"seed": 2126606806,
 			"groupIds": [],
 			"frameId": null,
@@ -4645,14 +4728,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					"type": "arrow"
 				}
 			],
-			"updated": 1716991020391,
+			"updated": 1717003911653,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 485,
-			"versionNonce": 355672150,
+			"version": 521,
+			"versionNonce": 1157885394,
 			"isDeleted": false,
 			"id": "Wfc5xMND",
 			"fillStyle": "solid",
@@ -4661,35 +4744,35 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -4059.0889177700437,
-			"y": -1594.689428936436,
+			"x": -4055.009689442219,
+			"y": -1964.9881903320675,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 325.03961181640625,
-			"height": 125,
+			"width": 338.41961669921875,
+			"height": 275,
 			"seed": 10536726,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991020391,
+			"updated": 1717003911653,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Evalúa y aporta ideas en\naspectos propios del ámbito del\nproyecto como inflación, factores\nde riesgo, que influyen en la\nestimación  de los costos.",
-			"rawText": "Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflación, factores de riesgo, que influyen en la estimación  de los costos.",
+			"text": "- Su grado de exactitud depende\nde la magnitud y complejidad de\nla actividad o paquete de\ntrabajo individual.\n\n\n- El costo se va determinando a\nnivel de cada actividad y luego\nse resume en los paquetes de\ntrabajo para luego calcular en\nlos niveles superiores de la EDT. ",
+			"rawText": "- Su grado de exactitud depende de la magnitud y complejidad de la actividad o paquete de trabajo individual.\n\n\n- El costo se va determinando a nivel de cada actividad y luego se resume en los paquetes de trabajo para luego calcular en los niveles superiores de la EDT. ",
 			"textAlign": "center",
-			"verticalAlign": "middle",
+			"verticalAlign": "top",
 			"containerId": "KEkJapJdBJ0VgWATEPLxr",
-			"originalText": "Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflación, factores de riesgo, que influyen en la estimación  de los costos.",
+			"originalText": "- Su grado de exactitud depende de la magnitud y complejidad de la actividad o paquete de trabajo individual.\n\n\n- El costo se va determinando a nivel de cada actividad y luego se resume en los paquetes de trabajo para luego calcular en los niveles superiores de la EDT. ",
 			"lineHeight": 1.25,
-			"baseline": 118
+			"baseline": 268
 		},
 		{
 			"type": "arrow",
-			"version": 1006,
-			"versionNonce": 74656458,
+			"version": 1069,
+			"versionNonce": 2089212174,
 			"isDeleted": false,
 			"id": "6nfAU8EgmW6okd3fDuxX7",
 			"fillStyle": "solid",
@@ -4698,18 +4781,18 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -3894.9927710262928,
+			"x": -3888.9032117789448,
 			"y": -1362.6964096337265,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1.898736659235965,
-			"height": 71.26211271216062,
+			"width": 0.04156158012619926,
+			"height": 72.8005742506225,
 			"seed": 1315140694,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716991081453,
+			"updated": 1717004257720,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4731,10 +4814,633 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 					0
 				],
 				[
-					-1.898736659235965,
-					-71.26211271216062
+					0.04156158012619926,
+					-72.8005742506225
 				]
 			]
+		},
+		{
+			"id": "wVvwhSeHQJgdxCaWBjWUJ",
+			"type": "arrow",
+			"x": -3960.2455077312006,
+			"y": -682.5554859192594,
+			"width": 1.9696969696965425,
+			"height": 185.45454545454538,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 554460366,
+			"version": 59,
+			"versionNonce": 1238901902,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717004257711,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.9696969696965425,
+					-185.45454545454538
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "HjGOdsyYFUvaetioh7wNn",
+				"gap": 11.723875158829884,
+				"focus": 0.90431544330637
+			},
+			"endBinding": {
+				"elementId": "srs6fD3tasyau3rvyL4wI",
+				"gap": 19.212911141774953,
+				"focus": 0.2315913038805907
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "CITMhW2pMentwglLQQmqr",
+			"type": "rectangle",
+			"x": -3680.27436776006,
+			"y": -738.9696273334007,
+			"width": 905.7142857142858,
+			"height": 440,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1824798930,
+			"version": 138,
+			"versionNonce": 139504270,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "WF-26k4cUE8SdBnRXjjCc",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "s57tgPwO"
+				},
+				{
+					"id": "cyY-8jHhNnciXn7T335l9",
+					"type": "arrow"
+				},
+				{
+					"id": "VDKW94rdpiOe6zTeOVfew",
+					"type": "arrow"
+				},
+				{
+					"id": "T4_N5K9o5JDcgdzhVZMXR",
+					"type": "arrow"
+				}
+			],
+			"updated": 1717003918408,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "s57tgPwO",
+			"type": "text",
+			"x": -3421.4932747076045,
+			"y": -733.9696273334007,
+			"width": 388.152099609375,
+			"height": 225,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 942121490,
+			"version": 126,
+			"versionNonce": 494674258,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717003911653,
+			"link": null,
+			"locked": false,
+			"text": "Tres valores\n\n1) Costo mas probable\n2) Costo optimista\n3) Costo pesimista",
+			"rawText": "Tres valores\n\n1) Costo mas probable\n2) Costo optimista\n3) Costo pesimista",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 212,
+			"containerId": "CITMhW2pMentwglLQQmqr",
+			"originalText": "Tres valores\n\n1) Costo mas probable\n2) Costo optimista\n3) Costo pesimista",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "WF-26k4cUE8SdBnRXjjCc",
+			"type": "arrow",
+			"x": -3856.248393734085,
+			"y": -516.149646927556,
+			"width": 150.25974025973983,
+			"height": 0.6616490186459032,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 241464786,
+			"version": 145,
+			"versionNonce": 1769106830,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717004257732,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					150.25974025973983,
+					0.6616490186459032
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "HjGOdsyYFUvaetioh7wNn",
+				"gap": 24.785778764387942,
+				"focus": -0.025271803201002634
+			},
+			"endBinding": {
+				"elementId": "CITMhW2pMentwglLQQmqr",
+				"gap": 25.714285714285097,
+				"focus": -0.02517614608960844
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "FRbkzeAgJgN-qVgVh2L_2",
+			"type": "rectangle",
+			"x": -3851.9374269231166,
+			"y": -235.4342737980469,
+			"width": 409.09090909090946,
+			"height": 440,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1860708882,
+			"version": 69,
+			"versionNonce": 936388370,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "cyY-8jHhNnciXn7T335l9",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "eRazomrn"
+				}
+			],
+			"updated": 1717003911653,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "eRazomrn",
+			"type": "text",
+			"x": -3832.654728725318,
+			"y": -230.4342737980469,
+			"width": 370.5255126953125,
+			"height": 245,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1453747022,
+			"version": 37,
+			"versionNonce": 167185166,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717003911653,
+			"link": null,
+			"locked": false,
+			"text": "Costo mas probable\n\nSe basa en una evaluación\nrealista del esfuerzo\nnecesario para el trabajo\nrequerido y los gastos\nprevistos",
+			"rawText": "Costo mas probable\n\nSe basa en una evaluación realista del esfuerzo necesario para el trabajo requerido y los gastos previstos",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 235,
+			"containerId": "FRbkzeAgJgN-qVgVh2L_2",
+			"originalText": "Costo mas probable\n\nSe basa en una evaluación realista del esfuerzo necesario para el trabajo requerido y los gastos previstos",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "cyY-8jHhNnciXn7T335l9",
+			"type": "arrow",
+			"x": -3584.664699650388,
+			"y": -291.79791016168303,
+			"width": 23.636363636363967,
+			"height": 38.18181818181807,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1226706642,
+			"version": 29,
+			"versionNonce": 320962446,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717004257746,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-23.636363636363967,
+					38.18181818181807
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "CITMhW2pMentwglLQQmqr",
+				"gap": 7.171717171717603,
+				"focus": 0.3677416852436927
+			},
+			"endBinding": {
+				"elementId": "FRbkzeAgJgN-qVgVh2L_2",
+				"gap": 18.181818181818073,
+				"focus": -0.31800279507051127
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 116,
+			"versionNonce": 54538642,
+			"isDeleted": false,
+			"id": "YhYxHbha8Z8HyEuy0gmzv",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3378.301063286751,
+			"y": -231.79791016168303,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 409.09090909090946,
+			"height": 440,
+			"seed": 1320462606,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "o5kWVnLi"
+				},
+				{
+					"id": "VDKW94rdpiOe6zTeOVfew",
+					"type": "arrow"
+				}
+			],
+			"updated": 1717003912779,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 98,
+			"versionNonce": 589836114,
+			"isDeleted": false,
+			"id": "o5kWVnLi",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3370.6244136729365,
+			"y": -226.79791016168303,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 393.73760986328125,
+			"height": 210,
+			"seed": 1553487694,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717003912779,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "Costo optimista\n\nEl costo de la actividad se\nbasa en el análisis del mejor\nescenario posible para esa\nactividad.",
+			"rawText": "Costo optimista\n\nEl costo de la actividad se basa en el análisis del mejor escenario posible para esa actividad.",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": "YhYxHbha8Z8HyEuy0gmzv",
+			"originalText": "Costo optimista\n\nEl costo de la actividad se basa en el análisis del mejor escenario posible para esa actividad.",
+			"lineHeight": 1.25,
+			"baseline": 200
+		},
+		{
+			"id": "VDKW94rdpiOe6zTeOVfew",
+			"type": "arrow",
+			"x": -3222.4145423860828,
+			"y": -288.1615465253193,
+			"width": 1.817789401187838,
+			"height": 49.09090909090904,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1383188622,
+			"version": 43,
+			"versionNonce": 561345550,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717004257757,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.817789401187838,
+					49.09090909090904
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "CITMhW2pMentwglLQQmqr",
+				"gap": 10.8080808080814,
+				"focus": 0.00886318289516018
+			},
+			"endBinding": {
+				"elementId": "YhYxHbha8Z8HyEuy0gmzv",
+				"gap": 7.272727272727252,
+				"focus": -0.1806625577811961
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 140,
+			"versionNonce": 1863704334,
+			"isDeleted": false,
+			"id": "KgFyO3oa2AneUkW-94mo_",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2923.755608741293,
+			"y": -233.6160919798649,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 409.09090909090946,
+			"height": 440,
+			"seed": 811192270,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "VdIFcv8s"
+				},
+				{
+					"id": "T4_N5K9o5JDcgdzhVZMXR",
+					"type": "arrow"
+				}
+			],
+			"updated": 1717003918409,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 136,
+			"versionNonce": 1646039506,
+			"isDeleted": false,
+			"id": "VdIFcv8s",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2912.2849527798226,
+			"y": -228.6160919798649,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 386.14959716796875,
+			"height": 210,
+			"seed": 74098190,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717004199467,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "Costo pesimista\n\nEl costo de la actividad se\nbasa en el análisis del peor\nescenario posible para esa\nactividad.",
+			"rawText": "Costo pesimista\n\nEl costo de la actividad se basa en el análisis del peor escenario posible para esa actividad.",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": "KgFyO3oa2AneUkW-94mo_",
+			"originalText": "Costo pesimista\n\nEl costo de la actividad se basa en el análisis del peor escenario posible para esa actividad.",
+			"lineHeight": 1.25,
+			"baseline": 200
+		},
+		{
+			"id": "T4_N5K9o5JDcgdzhVZMXR",
+			"type": "arrow",
+			"x": -2802.846517832202,
+			"y": -293.6160919798649,
+			"width": 25.454545454545496,
+			"height": 43.6363636363636,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1331236882,
+			"version": 30,
+			"versionNonce": 834029710,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717004257764,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					25.454545454545496,
+					43.6363636363636
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "CITMhW2pMentwglLQQmqr",
+				"gap": 5.35353535353579,
+				"focus": -0.504334620270724
+			},
+			"endBinding": {
+				"elementId": "KgFyO3oa2AneUkW-94mo_",
+				"gap": 16.363636363636374,
+				"focus": 0.23941738734638113
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 828,
+			"versionNonce": 2122304654,
+			"isDeleted": false,
+			"id": "sOXkk_1hU5kTdu_izf1WW",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -4843.106258091946,
+			"y": 547.4661591023865,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1649.7777777777774,
+			"height": 310.3333333333334,
+			"seed": 288298638,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "mEix2SLU"
+				}
+			],
+			"updated": 1717004341640,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1070,
+			"versionNonce": 1043532494,
+			"isDeleted": false,
+			"id": "mEix2SLU",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -4245.971428040948,
+			"y": 552.4661591023865,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 455.50811767578125,
+			"height": 225,
+			"seed": 275322062,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1717004341640,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "Obtención de Información\n1) Costos de inversion\n2) Capital de trabajo\n3) Costos de operación\n4) Costos de manutención",
+			"rawText": "Obtención de Información\n1) Costos de inversion\n2) Capital de trabajo\n3) Costos de operación\n4) Costos de manutención",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": "sOXkk_1hU5kTdu_izf1WW",
+			"originalText": "Obtención de Información\n1) Costos de inversion\n2) Capital de trabajo\n3) Costos de operación\n4) Costos de manutención",
+			"lineHeight": 1.25,
+			"baseline": 212
 		}
 	],
 	"appState": {
@@ -4748,14 +5454,14 @@ Evalúa y aporta ideas en aspectos propios del ámbito del proyecto como inflaci
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 4753.663114861461,
-		"scrollY": 1705.0877925310492,
+		"scrollX": 5464.058639044325,
+		"scrollY": 144.73423772301055,
 		"zoom": {
-			"value": 0.5499999999999999
+			"value": 0.35
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
