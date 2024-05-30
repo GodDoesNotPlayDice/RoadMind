@@ -792,41 +792,120 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 
 ## About your High school 7A
 ### Subjects Programs
-**Physical education**
-**Art**
-**Music**
-**Mathematics**
-**Physics**
+Mathematics, Science, Language, Physical Education, Arts, Biology, Chemistry, Geography, History, Information Technology, Mathematic, Physics.
 
+### Vocabulary
 
+**Turns five/six/seven**: 5 6 7 hasta los,, cuando cumplió.
+**Priests**: Sacerdote
+**Nuns**: Monja
+**Boarding Schools**: Internados
+**Nursery**: Guardería
+**Pupils**: Pupilo (Refiere a los estudiantes)
+**Misbehave**: Portarse mal
+**Punished**: Suspender
+**Principal**: Director
+**Appointment**: Cit, Hora
+**Dorm**: Pieza de universidad
+**Elementary**: elemental
+**High school**: Secundaria
+**Grades**: Grado
+**Kindergarten**: Jardin de infantes 
+**Twelfth Grade**: Segundo grado de bachillerato
+**Semester**: Semestre
+**College**: Universidad / Instituto (casa de estudio)
+**Primary School**: Escuela primaria (5 years old)
+**Boarding School** :  Internados
+**Secondary School**: Escuela secundaria (11 - 18 years old)
+**Head Teacher**: Profesor jefe
+**Three Terms**: Trimestres
+**University**: Educación Superior
+**Let us**: Dejar
+**Allow**: Permitir
+**Hurry**: Darse prisa
+**Get into trouble**: Meterse en problemas
+**Hand in your homework**: Entregar tarea
+**Improve**: Mejorar
+**Shout**: Gritar
+**Bathtub**: Tina
+**Appointment**: Cita, Hora
+**matter/mind**: Importar
+**leave/let**: dejar
+**wake/awake**: despertar
+**Shade**: Sombra
+**Complain**: Quejarse
+### Conditionals
+
+#### First Conditional
+ We use it to talk about a possible situation and its consequence.
+
+**Unless**: a menos que
+- They probably won't admit me **unless** i get a 1450 **(Alternativa al IF)**
+**As soon as**: tan pronto como
+- **As soon as** they're online, I'll look up my scores. **(Otra variante)**
+**Until**: hasta
+- I don't want to plan any celebration **until**, I get the results. **(Alternativa al IF pero con solo presente)**
+**If**: A possible situation in the present and its consequences in the future.
+- **If** he **gets** a bad score, **he'll study** more and take the test again in June. **(Simple present / Future will)**
+**When**: Cuando
+- **When** they scores the **they'll** post the results online. **(Otra variante)**
+
+**Examples**: 
+- If you won't pass ur exams, what will you do?
+- If we sit in the shade, we won-t get sunburned
+- 
+
+#### Second Conditional
+We use the second conditional to talk about a **hypothetical/ imaginary situation** in the **present or the future** and its consequences
+
+**IF + SUBJECT + VERB en pasado, Subject + Would + Verbo en infinitivo sin to.**
+
+**Example**: 
+We use a combination of the simple past and the conditional to express these ideas. 
+- If she were here, they wouldn't be crying., 
+- they wouldn't be crying if I were over there.
+- My kids would get up earlier if they didn't go to bed so late.
+- Where would you live if go to college.
+- If I had the money, i'd move out immediately
+- I wouldn't move out if I could affort it
+- If I were you, I wouldn't go
+- If I had a job, I would have my own place 
+- If your sister were here, she would know what to do.
+- If she made less noise, her neighbors **wouldn't complain** so often.
+### Questions
 #### Questions about education
-
--What kind of school did you go to? Was it a single-sex or a coeducational school? Was it a vocational, artistic, religious, bilingual, montessori, language, or a science education school? Was it voucher, public or private?
-
+- What kind of school did you go to?
+	- I went to Inmaculada de Lourdes School long of my life.
+- Was it a single-sex or a coeducational school?
+	- I went to coeducational school, I met with many friends
+- Was it a vocational, artistic, religious, bilingual, montessori, language, or a science education school?
+	- My old school is religious because they have a church near and they use it for ceremony
+- Was it voucher, public or private?
+	- It was private voucher, because we had to wear uniform.
 - How was your experience at school? Did you like it? Why?/ Why not? What did you like the most/ least about your school?
-
--Did you always attend the same school? How many schools did you go to? Why?
-
--How many students were there in your class? Do you think it was a right number? Were there too many? What time did you start/end school?
-
--Which subjects were you good/ bad at? Which was your favorite subject?
-
--What were your teachers like? Did you have a favorite one? Tell us about him/her.
-
--What were you like as a student? And your classmates? Did they behave well or did they misbehave?
-
+	- It was cool because the most part of my friends are from the school, so I liked so much when I used to go to school and latest thing what I remember and I remember as care is their teachers.
+- Did you always attend the same school? How many schools did you go to? Why?
+	-  Yes I went to the same school since I was going to Kinder.
+- How many students were there in your class? Do you think it was a right number? Were there too many? What time did you start/end school?
+	- A lot, I think we were 40 pupils in class so so, usually the class used to start at the 8 AM until 4:30 PM 
+- Which subjects were you good/ bad at? Which was your favorite subject?
+	- Yes I used to did well all of them, my favorite subject was philosophy because I could sleep all of the class
+- What were your teachers like? Did you have a favorite one? Tell us about him/her.
+	- My teachers was kind and sympathies and patients, also they teach very well.
+- What were you like as a student? And your classmates? Did they behave well or did they misbehave?
+	- I used to show a good behavior because Im was chill pupil during the 
 
 #### Talking about college
 - Are you in college right now?
-    
+    - Yes i current go to college
 - What are you studying?
-    
+    - I study computer science
 - Are you enjoying it?
-    
+    - Yes a lot, I enjoying so much learn about programing
 - Is there anything you don’t like? 
-    
+    - Yes the programs what I don't use out from college.
 - What are you planning to do when you graduate?
-
+	- I'd like looking a job in other country.
 
 #### Talking about your dream home
 **Where do you live now and how’s your dream home?**
@@ -835,21 +914,6 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 #### Talking about your dream home
 - Where do you live now? Who do you live with? How do you feel about it?
 - Where would you like to live if you could choose? How would you like that place to be? What would you like that place to have?
-
-#### Vocabulary
-
-**Turns five/six/seven**: 5 6 7 hasta los,, cuando cumplió.
-**Priests**: Sacerdote
-**Nuns**: Monja
-**Boarding Schools**: Internados
-**Nursery**: Guardería
-**Pupils**: Pupilo.
-**Misbehave**: Portarse mal
-**Punished**: Suspender
-**Principal**: Director
-**Appointment**: Cit, Hora
-**Dorm**: Pieza de universidad
-
 
 ### Page 68
 
@@ -868,23 +932,6 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 4) He wants to college and become air traffic controller
 5) If he gets a bad score, he'll study more and take the test again in June.
 
-
-### Conditionals
-
-#### First Conditional
- We use it to talk about a possible situation and its consequence.
-
-**Unless**: a menos que
-- They probably won't admit me **unless** i get a 1450 **(Alternativa al IF)**
-**As soon as**: tan pronto como
-- **As soon as** they're online, I'll look up my scores. **(Otra variante)**
-**Until**: hasta
-- I don't want to plan any celebration **until**, I get the results. **(Alternativa al IF pero con solo presente)**
-**If**: A possible situation in the present and its consequences in the future.
-- **If** he **gets** a bad score, **he'll study** more and take the test again in June. **(Simple present / Future will)**
-**When**: Cuando
-- **When** they scores the **they'll** post the results online. **(Otra variante)**
-
 ##### Examples
 - It is usually a combination between present and future: If you **don’t leave** now, **you’ll miss** the bus.
 - However, we can also use the imperative instead of the future: **Come** visit me if **you have time** next week.
@@ -894,22 +941,6 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 		- **As soon as you get** your test scores,
 		- call me, **I’ll have** a quick lunch before I leave, 
 		- I won’t go until your sister **gets** home.
-
-
-#### Second Conditional
-We use the second conditional to talk about a **hypothetical/ imaginary situation** in the **present or the future** and its consequences
-
-##### Examples
-
-If I had the money, i'd move out immediately
-I wouldn't move out if I could affort it
-If I were you, I wouldn't go
-
-- We use a combination of the simple past and the conditional to express these ideas. 
-	- If I had a job, I would have my own place 
-	- If your sister were here, she would know what to do.
-
-
 
 
 ## The Right job for you

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8aa415d1c2ca7db",
+        "id": "5df22b2c63313cfa",
         "type": "tabs",
         "children": [
           {
-            "id": "a6f766396b453ffb",
+            "id": "0bab5b1b482cce17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,28 +144,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "nested-daily-todos:Add incomplete todos to today's note": false
+      "nested-daily-todos:Add incomplete todos to today's note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6f766396b453ffb",
+  "active": "0bab5b1b482cce17",
   "lastOpenFiles": [
-    "Year/Semester/Proyectos/Summary.md",
-    "Year/Semester/Proyectos/Draws/TreeSummary2.md",
-    "Year/Semester/BPM/EV3/Dashboard.md",
-    "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
-    "Year/Semester/Proyectos/Draws/TreeSummary.md",
-    "Year/Semester/BPM/Summary.md",
-    "Year/Semester/BPM/EV3",
+    "Year/Semester/Ingles/Summary-Oral.md",
     "Year/Semester/Ingles/Summary.md",
+    "Hurr.md",
+    "Year/Semester/Proyectos/Draws/TreeSummary2.md",
+    "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
+    "Year/Semester/BPM/EV3/Dashboard.md",
+    "Year/Semester/BPM/EV3",
     "Year/Semester/Tasks/April/13-03.md",
     "Year/Semester/Tasks/April/14-03.md",
     "Year/Semester/Tasks/April/3-04.md",
     "Year/Semester/Tasks/April/6-03.md",
     "Year/Semester/Tasks/April/7-03.md",
-    "Untitled.md",
     "Year/Semester/Tasks/April/1-04.md",
-    "Year/Semester/Ingles/Summary-Oral.md",
     "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
     "OS/Linux/Arch/Wayland/Hyprland.md",
     "OS/Linux/Arch/Basic Installing.md",
@@ -173,6 +170,8 @@
     "OS/Linux/Arch/Wayland",
     "Pasted image 20240522202624.png",
     "OS/Linux/Arch/Images/Pasted image 20240522202531.png",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md",
     "Year/Semester/BPM/KRPI/Actividad KPI.md",
     "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
@@ -193,6 +192,7 @@
     "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
     "Year/Semester/BPM/Draws/Clase_7.md",
     "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md",
+    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/BPM/KRPI",
     "Hacking/OverTheWire/Natas",
     "Hacking/OverTheWire",
