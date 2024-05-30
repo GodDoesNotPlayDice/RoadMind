@@ -790,7 +790,7 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 - Which modal verb means it’s impossible?
 	- ??
 
-## About your High school 7A
+## About your High school 7A / B
 ### Subjects Programs
 Mathematics, Science, Language, Physical Education, Arts, Biology, Chemistry, Geography, History, Information Technology, Mathematic, Physics.
 
@@ -943,7 +943,7 @@ We use a combination of the simple past and the conditional to express these ide
 		- I won’t go until your sister **gets** home.
 
 
-## The Right job for you
+## The Right job for you 8A
 
 ### Posibles Writtings
 - **Writting about the work of somebody else**
@@ -1015,4 +1015,75 @@ We use the gerund after prepositions
 
 I like the idea of **recycling** clothes
 She was **thinking** about getting a new haircut
+
+
+
+## Reported Speech 8B
+Es lo que la otra persona dijo, es como un chisme, What the other person said but no exactly if not the mainly idea.
+
+### Vocabulary
+**announce**: anuncio
+**ask**: preguntar / pedir
+**say**: decir
+**tell**: contar
+**explain**: explicar
+**answer**: respuesta 
+**reply**: responder
+**suggest**: sugerir / proponer
+**booked**: reservado
+**flight**: vuelo
+
+
+### Tell or say
+**Tell**: Nosotros ocupamos tell para contar algo a una persona la cual se dice explicitamente.
+- Sarah's boss told her she could leave early.
+- Daniel tells me he's ready
+- **Otras opciones**: Tell a story, Tell a lie, Tell a joke, Tell the true. (Todo lo que sea contar algo corto es tell.)
+**Say**: Nosotros ocupamos say cuando no se menciona explicitamente
+- Sarah's boss said she could leave early.
+- Daniel says he's ready
+
+
+### Direct speech and Reported Speech
+**Reported speech**: Usualmente se usa I, he, she, or they.
+
+1) Simple present ⇒ Simple past
+2) Present Continuous ⇒ Past continuous
+3) Future ⇒ Conditional (would, wouldn't)
+4) Simple past ⇒ Past perfect (had, hadn't + participle)
+5) Present perfect (have, has + participle) ⇒ Past perfect
+6) Can, can't ⇒ could, couldn't
+7) May ⇒ Might
+8) Must ⇒ had to
+
+#### Directed statements / Reported Statements
+**I like** traveling ⇒ She said (that) **she liked** traveling
+**I'm** leaving **tomorrow** ⇒ He told her (that) **he was** leaving the next day
+**I'll** always love you ⇒ He said (that) **he would** always love to **me**
+**I passed** the exam! ⇒ She told me (that) **she had passed** the exam.
+**I've** forgotten my keys ⇒ He said (that) **he had** forgotten **his** keys
+**I can't** come ⇒ She said (that) she **couldn't** come
+**I may** be late ⇒ He said (that) **he might** be late.
+**I must** go ⇒ He said (that) **she had to** go
+
+
+**Observación**: se mantiene la estructura de lo que dijo la otra persona pero se cambia y se interpreta cambiando el sujeto, tiempo.
+
+#### Examples
+I'm in love with you
+- My boyfriend told he was in love with me
+I'm selling all my books
+- My friend Tim said he was selling all his books
+I've booked the flights
+- Samin told me she had booked the flights
+Your new dress doesn't suit you
+- My mother told me my new dress didn't suit me.
+I may not be able to go to the party
+- He might not be able to go the party
+I won't wear these shoes again
+- Jenny said she wouldn't wear those shoes again.
+I didn't buy you a present
+- My brother told me he hadn't bought me a present
+I can't find anywhere to park
+- Ahmet told me he couldn't find anywhere to park
 
