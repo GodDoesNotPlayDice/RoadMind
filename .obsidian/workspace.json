@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f8aa415d1c2ca7db",
+        "id": "f46e0c12f086d373",
         "type": "tabs",
         "children": [
           {
-            "id": "a6f766396b453ffb",
+            "id": "3cb864862eeac9eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/Plataformas/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "642fb9c90c75a5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/BPM/Examen/Caso.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/BPM/Examen/Caso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Year/Semester/BPM/Examen/Caso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md"
+                "file": "Year/Semester/BPM/Examen/Caso.md"
               }
             }
           }
@@ -148,16 +161,19 @@
       "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "642fb9c90c75a5c4",
   "lastOpenFiles": [
-    "s.md",
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/BPM/Examen/Caso.md",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/Examen",
     "Year/Semester/Ingles/Summary.md",
+    "s.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Draws/TreeSummary2.md",
     "Year/Semester/BPM/EV3/Dashboard.md",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
     "Year/Semester/Proyectos/Draws/TreeSummary.md",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/EV3",
     "Year/Semester/Tasks/April/13-03.md",
     "Year/Semester/Tasks/April/14-03.md",
@@ -191,11 +207,8 @@
     "OS",
     "Pasted Image 20240517130807_213.png",
     "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
-    "Year/Semester/BPM/Draws/Clase_7.md",
-    "Year/Semester/BPM/Draws/Actividad (KPI, KRI).md",
     "Year/Semester/BPM/KRPI",
     "Hacking/OverTheWire/Natas",
-    "Hacking/OverTheWire",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
