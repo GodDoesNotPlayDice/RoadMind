@@ -743,6 +743,10 @@ The plot tells the story of an Italian-American family involved in the mafia and
 
 I like it because I think it’s a masterpiece since it combines a brilliant cast, soundtrack and plot. Indeed, it shows a fictional historical drama about a controversial matter such as mafias in the US in the early XIX century.
 
+
+![[Pasted image 20240530235502.png]]
+
+
 ## Judging by appearances 6B
 
 ### Vocabulary
@@ -769,6 +773,8 @@ I like it because I think it’s a masterpiece since it combines a brilliant cas
 **Must be**: cuando es algo muy probable
 **Might be**: Cuando algo es posible puede que si.
 **Can't be**: Que no puede ser es imposible.
+
+![[Pasted image 20240530235831.png]]
 
 ### Writing 
 - Do you have a profile photo of yourself that you use on social networking sites? What is it like? Describe it.
@@ -853,8 +859,8 @@ Mathematics, Science, Language, Physical Education, Arts, Biology, Chemistry, Ge
 **Examples**: 
 - If you won't pass ur exams, what will you do?
 - If we sit in the shade, we won-t get sunburned
-- 
 
+![[Pasted image 20240530235915.png]]
 #### Second Conditional
 We use the second conditional to talk about a **hypothetical/ imaginary situation** in the **present or the future** and its consequences
 
@@ -872,6 +878,10 @@ We use a combination of the simple past and the conditional to express these ide
 - If I had a job, I would have my own place 
 - If your sister were here, she would know what to do.
 - If she made less noise, her neighbors **wouldn't complain** so often.
+
+![[Pasted image 20240530235944.png]]
+
+
 ### Questions
 #### Questions about education
 - What kind of school did you go to?
@@ -981,13 +991,40 @@ We use a combination of the simple past and the conditional to express these ide
 #### Infinitive
 Es el verbo en su forma original pero con un to antes de, están relacionados con el pensar o sentimiento.
 
-**Example**: hope, try, learn, want, remember, need, plan, promise, would like, etc
+**IT+IS+ADJETIVE+TO infinitive**
+- It's easy for me to **to learn** grammar.
+- It's hard for Max **to be** organised
+- It's important **to bring** water.
 
-**Example sentence**
-He started to clean as soon as the party was over.
-We will learn to drive soon.
-I would like to move to other country.
 
+**Example**: hope, try, learn, want, remember, need, plan, promise, would like, refuse, manage etc
+- Mike **promised** to be there.
+- Nancy **refused** to leave the building.
+- They **manage** run away. (lograron escapar)
+- I **decided** not tell anyone.
+- Dustin **failed** to pass his test.
+- I can't **afford** to change my phone now.
+- He **started** to clean as soon as the party was over.
+- We will **learn** to drive soon.
+- I **would** like **to** move to other country.
+
+##### Requested...
+Requested, Expected, Supposed, Required
+- You are **requested** to finish your project before Friday.
+
+##### Object in the middle
+I want **you** to stop!
+I need **you** to stop!
+I asked **you** to stop!
+I invited **Jane** to come tonight.
+I teach **kids** to spell words. 
+
+##### Stop, Remember
+I **stopped buying** fish in the market. (habito que no hacemos)
+I **stopped to buy** fish in the market. (Paramos la accion anterior)
+
+I **remember coming** to this lake in summer.
+I **remember come** to this lake at 5!
 ##### Adjetives questions
 Lilian was tired to feel sad
 It will be easy to contact the teacher
@@ -999,10 +1036,57 @@ Why did u skip math classes
 - To go to the mall.
 
 
+![[Pasted image 20240530180344.png]]
+
+
 #### Gerund
 We use the gerund after some verbs (mainly related to preferences)
 
 **Examples:** Enjoy, finish, go on, hate, like, love, mind, spend, start, stop, feel (like), keep
+
+La action cuando comienza con un Verbo pasa a ser el sujeto
+- **Learning** English can be fun.
+- Firstly, **renting** a flat is too expensive for many young adults.
+
+Tambien puede usarse cuando algo nos gusta o odiamos (Enjoy, Love, Fancy, Like, Hate, Dislike, Can't stand)
+- I enjoy **editing** videos
+- I love **watching** telly in the evening
+- I hate **doing** sport on summer.
+
+Usado usualmente
+**Avoid**: evitar
+- You should **avoid** going to the city centre by car.
+**Regret**: Arrepentirse
+- I **regrate** staying up so late.
+**Suggest/Recommend**: Sugerir
+- I **recommend** watching the new season of Fallout
+**Admit**: Admitir
+- She **admitted** leaving the office at 4 to meet her lover.
+**Deny**: Denegar
+- She **denied** leaving the office at 4 to meet her lover.
+**Apologise for**: Pedir perdón por algo
+-  I **apologised for** losing the keys
+**Insisted on**: Insistir por algo
+- I **insisted on** paying the bill
+**Feel like**: cuando quieres hacer algo o apetece
+- Tonight I **feel like** eating out.
+**Would you mind**: te importaria
+- **Would you mind** opening the door?
+**Accuse of**: acusar algo
+- There are **accusing** me **of** stealing the money.
+**There is no point in**: no tiene sentido
+- **there is no point in** studying now, it's too late
+**Look forward to**: estar deseando.
+- **I look forward to** hearing from you.
+
+##### Algunos phrasal verbs
+**Keep on**
+**Carry on**
+**Take up**
+**Give up**
+**End up**
+
+**Example**: You will **end up** losing your job if you **keep on** being late.
 
 
 We use the gerund as the subject of a sentence
@@ -1016,7 +1100,7 @@ We use the gerund after prepositions
 I like the idea of **recycling** clothes
 She was **thinking** about getting a new haircut
 
-
+![[Pasted image 20240531000021.png]]
 
 ## Reported Speech 8B
 Es lo que la otra persona dijo, es como un chisme, What the other person said but no exactly if not the mainly idea.
@@ -1087,3 +1171,5 @@ I didn't buy you a present
 I can't find anywhere to park
 - Ahmet told me he couldn't find anywhere to park
 
+
+![[Pasted image 20240531000300.png]]

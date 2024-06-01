@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f46e0c12f086d373",
+        "id": "42f765ceadd0730d",
         "type": "tabs",
         "children": [
           {
-            "id": "3cb864862eeac9eb",
+            "id": "9594da0ddf2ec74f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/Plataformas/Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "642fb9c90c75a5c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/BPM/Examen/Caso.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/BPM/Examen/Caso.md",
+                "file": "Year/Semester/Ingles/Images/Pasted image 20240530180344.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/BPM/Examen/Caso.md",
+                "file": "Year/Semester/Ingles/Images/Pasted image 20240530180344.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/BPM/Examen/Caso.md"
+                "file": "Year/Semester/Ingles/Images/Pasted image 20240530180344.png"
               }
             }
           }
@@ -161,19 +144,27 @@
       "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "642fb9c90c75a5c4",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/BPM/Examen/Caso.md",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Examen",
     "Year/Semester/Ingles/Summary.md",
+    "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240531000021.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240530235944.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240530235915.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240530235831.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240530235502.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240530180344.png",
+    "Untitled.md",
+    "Year/Semester/Ingles/Summary-Oral.md",
     "s.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Draws/TreeSummary2.md",
     "Year/Semester/BPM/EV3/Dashboard.md",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
     "Year/Semester/Proyectos/Draws/TreeSummary.md",
+    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/EV3",
     "Year/Semester/Tasks/April/13-03.md",
     "Year/Semester/Tasks/April/14-03.md",
@@ -181,7 +172,6 @@
     "Year/Semester/Tasks/April/6-03.md",
     "Year/Semester/Tasks/April/7-03.md",
     "Year/Semester/Tasks/April/1-04.md",
-    "Year/Semester/Ingles/Summary-Oral.md",
     "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
     "OS/Linux/Arch/Wayland/Hyprland.md",
     "OS/Linux/Arch/Basic Installing.md",
@@ -194,18 +184,11 @@
     "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
     "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
     "Year/Semester/Proyectos/MedServ.md",
-    "OS/Linux/Arch/Images/Pasted image 20240521185843.png",
-    "OS/Linux/Arch/Images/Pasted image 20240521181837.png",
-    "OS/Linux/Arch/Images/Pasted image 20240521180807.png",
-    "OS/Linux/Arch/Images/Pasted image 20240521180241.png",
-    "OS/Linux/Arch/Images/Pasted image 20240521175809.png",
-    "OS/Linux/Arch/Images/Pasted image 20240521133921.png",
     "OS/Linux/Arch/Terminals",
     "OS/Linux/Arch/Images",
     "OS/Linux/Arch",
     "OS/Linux",
     "OS",
-    "Pasted Image 20240517130807_213.png",
     "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
     "Year/Semester/BPM/KRPI",
     "Hacking/OverTheWire/Natas",
