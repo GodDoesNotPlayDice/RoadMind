@@ -11,8 +11,12 @@
             "id": "9594da0ddf2ec74f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year/Semester/BPM/Examen/Caso.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.50418853759766
+    "width": 251.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Images/Pasted image 20240530180344.png",
+                "file": "Year/Semester/BPM/Examen/Caso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Images/Pasted image 20240530180344.png",
+                "file": "Year/Semester/BPM/Examen/Caso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Images/Pasted image 20240530180344.png"
+                "file": "Year/Semester/BPM/Examen/Caso.md"
               }
             }
           }
@@ -144,8 +149,9 @@
       "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "9594da0ddf2ec74f",
   "lastOpenFiles": [
+    "Year/Semester/BPM/EV3/Dashboard.md",
     "Year/Semester/BPM/Examen/Caso.md",
     "Year/Semester/BPM/Examen",
     "Year/Semester/Ingles/Summary.md",
@@ -161,7 +167,6 @@
     "s.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Draws/TreeSummary2.md",
-    "Year/Semester/BPM/EV3/Dashboard.md",
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
     "Year/Semester/Proyectos/Draws/TreeSummary.md",
     "Year/Semester/BPM/Summary.md",
