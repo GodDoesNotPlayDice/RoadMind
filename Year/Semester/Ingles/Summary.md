@@ -1173,3 +1173,36 @@ I can't find anywhere to park
 
 
 ![[Pasted image 20240531000300.png]]
+## Lucky encounters 9A
+
+**What would you do if**
+- Some one the street asked u for money on ur way home tonight?
+	- I would tell him what I don't get money.
+- U were driving home and u saw someone who ran out of gas?
+	- I would stopped beside him and I try to help him.
+- U saw an elderly person being robbed on the street?
+	- I would ask him if him is Veneco or Chilean and depends of their answer what I would do.
+- U were on ur way home on the bus and u saw someone crying?
+	- I would didn't anything because I never do something when happend somethin like that. 
+
+#### Vocabulary
+- **Student flat**: Piso de estudiante.
+- **Phone box**: Cabina telefonica
+- **Peterboroguh**: Small citiy 75 miles north of london
+- **Hitchhike**: Hacer dedo
+- **Ticket inspector**: Alguien que fiscaliza el pasaje.
+- **Sick**: Enfermo
+- **Upset**: sacado de quizio
+- **Wonder**: Preguntarse
+- **Rudely**: Malamanera.
+
+1) What did ticket inspector do for Bernard?
+	- He radioed the other train and asked them to wait for Bernard.
+2) How did Bernard did?
+	- He was incredibly grateful. He wanted to give him everything he had.
+3) What did the ticket inspector then ask Bernard to do?
+	- He asked Bernard to help others.
+4) How did this experience change him?
+	- It made him a better person.
+
+#### Third Conditional
