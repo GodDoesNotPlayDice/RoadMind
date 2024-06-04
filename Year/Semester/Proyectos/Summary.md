@@ -430,6 +430,9 @@ La estimación por **tres valores** se basa en la incertidumbre y el riesgo como
 - **Costo Pesimista**: El costo de la actividad se basa en el análisis del peor escenario posible para esa actividad.
 
 ### Obtención de información
+Es el proceso sistemático de identificar, recolectar, organizar y analizar datos e información que son necesarios para entender, planificar, ejecutar y evaluar un proyecto o actividad. Este proceso implica el uso de diversas fuentes y métodos para asegurar que la información obtenida sea precisa, relevante y suficiente para tomar decisiones informadas.
+
+
 **Costos de Inversión:** Son aquellos vinculados a la adquisición de los activos necesarios para poner el proyecto en marcha.
 - Cuanto voy a necesitar para poder montarlo
 **Capital de trabajo**: Son los recursos que se necesitan para adquirir los elementos necesarios para desarrollar un proyecto
