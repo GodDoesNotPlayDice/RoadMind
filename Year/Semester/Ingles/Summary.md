@@ -1195,6 +1195,10 @@ I can't find anywhere to park
 - **Upset**: sacado de quizio
 - **Wonder**: Preguntarse
 - **Rudely**: Malamanera.
+- **Carry on**: Maleta de mano.
+- **Blanked**: Frasada / Tuto
+- **Gotten**: haber conseguido.
+- **On strike**: en huelga.
 
 1) What did ticket inspector do for Bernard?
 	- He radioed the other train and asked them to wait for Bernard.
@@ -1206,3 +1210,9 @@ I can't find anywhere to park
 	- It made him a better person.
 
 #### Third Conditional
+Usamos el tercer condicional cuando hablamos de casos hipoteticos del pasado que ya pasaron pero se recurre a un escenario hipotetico.
+
+**Past perfect** (had + participle) + **conditional perfect** (would / could + have + participle)
+to express these ideas.
+
+

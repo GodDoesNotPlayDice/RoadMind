@@ -1,6 +1,6 @@
 ## Contexto del Caso
 
-El contexto del caso en resumen es una veterinaria que opera en Santiago y tiene diferentes servicios entre ellos son radiografía, vacunatorio, cirugías, laboratorio clínico, hospital, peluquería canina y felina, farmacias, y alimentos.
+El contexto del caso en resumen es una veterinaria que opera en Santiago y tiene diferentes servicios entre **ellos son radiografía, vacunatorio, cirugías, laboratorio clínico, hospital, peluquería canina y felina, farmacias, y alimentos.**
 
 Además tiene dos formas de contactar una cita. la primera forma es via Web, y la segunda es Via presencial.
 
@@ -11,6 +11,7 @@ Además tiene dos formas de contactar una cita. la primera forma es via Web, y l
 
 ## Procesos
 ### Procesos Estratégicos
+Formas de hacer crecer el negocio, como traigo clientes
 - **Misión**: Proveer atención veterinaria de alta calidad a mascotas, mejorando su bienestar y salud.
 - **Visión**: Ser el hospital veterinario líder en San Bernardo, reconocido por la excelencia en el cuidado de mascotas.
 - **Objetivos**: Expandir los servicios con atención a domicilio y una unidad móvil, incrementar la satisfacción del cliente, y modernizar la infraestructura tecnológica.
