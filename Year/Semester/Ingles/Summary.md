@@ -1175,6 +1175,11 @@ I can't find anywhere to park
 ![[Pasted image 20240531000300.png]]
 ## Lucky encounters 9A
 
+**Speaking practice**:
+- Expressing regrets
+- Telling a story about a moment when u or someone else was helped
+- Practicing the use of third conditional.
+
 **What would you do if**
 - Some one the street asked u for money on ur way home tonight?
 	- I would tell him what I don't get money.
@@ -1210,9 +1215,25 @@ I can't find anywhere to park
 	- It made him a better person.
 
 #### Third Conditional
-Usamos el tercer condicional cuando hablamos de casos hipoteticos del pasado que ya pasaron pero se recurre a un escenario hipotetico.
+Usamos el tercer condicional cuando hablamos de casos hipoteticos del pasado que ya pasaron pero se recurre a un escenario hipotetico. osea el pasado si hubiera sido de otra manera.
 
 **Past perfect** (had + participle) + **conditional perfect** (would / could + have + participle)
 to express these ideas.
 
+##### Examples
+I **would have** to the meeting **if had known**  about the meeting
+**If had known** about the meeting, I would've gone.
 
+#### Regrets
+If I had studied more in pandemic I would have know more than now.
+I would have known more than now, if I had studied more in pandemic
+
+Might I would have had more money, If I had bought bitcoins.
+
+
+#### Tell a story
+Tell a story when u or a someone u know was in trouble and was helped by stranger, **a friend, or a family member**.
+
+**Don't forget to mention**: Where and when it happened, what the problem was, what the stranger did to help. Also, don’t forget to use the third conditional.
+
+**Story**: One night in Valparaiso when I was leaving a Disco I was with friends of a friend and We had to take an Uber, but he didn't take the trip and I was feeling fear because near us there were robbers, and They were waiting for somebody to cross in front of them, so I was exasperate but when I didn't realize an Uber took the trip and came for us, and we left from there safe. We might have been robbed if the Uber hadn't come for us.
