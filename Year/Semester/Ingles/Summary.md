@@ -1237,3 +1237,52 @@ Tell a story when u or a someone u know was in trouble and was helped by strange
 **Don't forget to mention**: Where and when it happened, what the problem was, what the stranger did to help. Also, don’t forget to use the third conditional.
 
 **Story**: One night in Valparaiso when I was leaving a Disco I was with friends of a friend and We had to take an Uber, but he didn't take the trip and I was feeling fear because near us there were robbers, and They were waiting for somebody to cross in front of them, so I was exasperate but when I didn't realize an Uber took the trip and came for us, and we left from there safe. We might have been robbed if the Uber hadn't come for us.
+
+
+
+
+
+## Digital detox 9B
+- What is technology?
+	- I think thechnology is something what we interact and do things what humans doing slowly.
+- How do you feel about technology?
+	- Idk, I might feel interest because we don't not know the limit what we can reach with it.
+- Are you into technology? Why? Why not?
+	- Yes Im into in thechnology because I'm study a degree that is about techno.
+- What topics are you interested in?
+	- I have interest in dev websites, cyber security, operating systems, scripting automation.
+- How many hours a day are you in front of the screen.
+	- I usually spend a lot of hours in front of the screen studying as much as playing video games.
+
+### Vocabulary
+**Outlet**: toma corriente, enchufe, contacto(eléctrico)
+**Plenty of**: suficiente.
+**Fewer**: menos
+
+### Phrasal verbs
+**I switched it off**: Lo apague (usando un switch)
+**I switched it on**: Lo encendí (usando un switch)
+**I updated it**: Lo actualize
+**I turned it up**: Lo subí.
+**I turned it down**: Lo baje.
+**I Installed it**: Lo instale.
+**I Uninstalled it**: Lo desinstale.
+**I unplugged it**: Lo desenchufe.
+**I plugged it**: Lo enchufe
+
+### Quantifiers
+![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUcFC7NsW9jAWcCbDvTZM6sB68KKxycJp5MmX_DA4cYQ9sDKIkPog0PSF5pL7WoWMw48DzQwEZercNfcOB5Ih2nskb18__nzn7GQEwuMWxVGjGMfOXPJ5lrNxzfkJy3jKasPvwlUfAUJgdQTlqStsuB4ZYlSy8bB=nw?key=8Pag3RLbtwzdqtD3rWnO8w)
+
+ 
+
+| Quantifier​       | Countable or Uncountable ​        | Affirmative / negative / interrogative​ |
+| ----------------- | --------------------------------- | --------------------------------------- |
+| A – AN​           | Countable singular​               | Affirmative,negative and interrogative​ |
+| SOME​             | Countable plural and uncountable​ | Affirmative​                            |
+| ANY​              | Countable plural and uncountable​ | Negative and interrogative​             |
+| A LOT / A LOT OF​ | Countable plural and uncountable​ | Affirmative (for big quantity)​         |
+| A LITTLE​         | Uncountable​                      | Affirmative (for small quantity)​​      |
+| NOT MUCH​         | Uncountable​                      | Negative (for small quantity)​          |
+| NONE​             | Countable plural and uncountable​ | Negative (for zero quantity)​           |
+| A FEW​            | Countable plural                  | Affirmative (for small quantity)​       |
+| NOT MANY​         | Countable plural ​                | Negative (for small quantity)​          |
