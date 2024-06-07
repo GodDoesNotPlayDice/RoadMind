@@ -2,6 +2,9 @@
 
 El contexto del caso en resumen es una veterinaria que opera en Santiago y tiene diferentes servicios entre **ellos son radiografía, vacunatorio, cirugías, laboratorio clínico, hospital, peluquería canina y felina, farmacias, y alimentos.**
 
+**Servicios clínicos**: radiografía, vacunatorio, cirugías, laboratorios, hospital.
+**Servicios de cuidados**: Peluqueria, farmacias, alimentos.
+
 Además tiene dos formas de contactar una cita. la primera forma es via Web, y la segunda es Via presencial.
 
 **AS IS**: Su forma de inscripción de mascotas es la siguiente: Cuando llega la mascota a la veterinaria se le toman los datos tanto al dueño como a la mascota y se les crea una ficha, la que sirve para monitorear a la mascota en el futuro. Esta ficha tiene los datos de la mascota, del dueño, la fecha en que ingresó al hospital, síntomas, diagnóstico, descripción y un recetario.

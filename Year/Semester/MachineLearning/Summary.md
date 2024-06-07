@@ -785,3 +785,43 @@ De acuerdo con los resultados de esta etapa se decide continuar con la última f
 
 ### Implementación
 Aquí el modelo ya ha sido construido y evaluado. Esta etapa explota, mediante acciones específicas, el conocimiento adquirido mediante el modelo en las etapas previas, pudiendo ser aplicado el modelo a diversos conjuntos de datos o también dentro de un proceso del negocio.
+
+
+
+## Fase 4 y 5
+
+### Regresión
+#### Regresión Lineal
+Predecir variables continuas, solo sirve para predecir variables continouas
+**N° kills** → Game, en este caso para saber cuantos juegos va a ganar puedo medir las kills.
+#### Regresión logística
+Predecir variables categóricas
+**1 Jugador ganara** → Feat 1, Feat 2, Feat 3.
+Esperamos un resultado esperado, con distintas variables.
+
+### Clasificación
+Asignar una etiqueta de categoría
+
+**Binaria** → Predecir si un jugador es no francotirador (Model train, modelo entrenado)
+**Multi-clase** → Analiza roles ver mejor desempeño. (combinación de features)
+
+### Clasificación (SUM)
+**Estilos de juego:** (Vectorial)
+- Frecuencia ganar → Ganador (Saber la frecuencia)
+- Precision al disparar → Francotirador
+
+### Arboles de decisión
+Desempeño de jugadores Mapa (Ganador / Perdedor)
+- feat 1
+- feat 2
+- feat 3
+
+Dependiendo del mapa si alguien puede ganar o perder, tienen caminos y cada uno tiene una posibilidad, ese árbol se puede podar osea cortar ramas que no van hacia el camino deseado.
+
+
+### Métricas
+Necesitamos saber las métricas para saber si sirve o no sirve.
+
+
+### SVM
+Svm lo que hace es hacer una linea imaginaria para separar lo que es de lo que no es.
