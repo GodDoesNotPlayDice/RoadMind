@@ -792,7 +792,7 @@ Aquí el modelo ya ha sido construido y evaluado. Esta etapa explota, mediante a
 
 ### Regresión
 #### Regresión Lineal
-Predecir variables continuas, solo sirve para predecir variables continouas
+Predecir variables continuas, solo sirve para predecir variables continuas
 **N° kills** → Game, en este caso para saber cuantos juegos va a ganar puedo medir las kills.
 #### Regresión logística
 Predecir variables categóricas
@@ -825,3 +825,7 @@ Necesitamos saber las métricas para saber si sirve o no sirve.
 
 ### SVM
 Svm lo que hace es hacer una linea imaginaria para separar lo que es de lo que no es.
+
+
+### Matriz de confusion
+![[Pasted image 20240608161623.png]]
