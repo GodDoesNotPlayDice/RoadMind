@@ -194,5 +194,8 @@
   "Year/Semester/BPM/Examen": "IbFolder",
   "Year/Semester/BPM/Examen/Caso.md": "FiFile",
   "Year/Semester/Proyectos/Draws/ReversionEV1.md": "LiPen",
-  "Year/Semester/BPM/Examen/Mascota Feliz.md": "LiPen"
+  "Year/Semester/BPM/Examen/Mascota Feliz.md": "LiPen",
+  "Year/Semester/MachineLearning/EV2/Hipotesis.md": "LiPen",
+  "Year/Semester/BPM/Examen/Preguntas.md": "FiFile",
+  "Year/Semester/BPM/Examen/Examen.md": "FiFile"
 }

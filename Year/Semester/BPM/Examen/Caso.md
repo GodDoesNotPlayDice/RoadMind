@@ -22,7 +22,7 @@ Formas de hacer crecer el negocio, como traigo clientes
 ### Procesos Operativos
 - **Atención médica veterinaria:**
     - Consultas médicas.
-    - Diagnóstico y tratamiento de enfermedades.
+    - Diagnóstico y tratamiento de enfer2medades.
     - Realización de cirugías y procedimientos médicos.
     - Vacunación y prevención de enfermedades.
 - **Servicios de apoyo a la salud:**
