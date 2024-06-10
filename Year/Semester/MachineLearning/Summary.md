@@ -788,11 +788,48 @@ Aquí el modelo ya ha sido construido y evaluado. Esta etapa explota, mediante a
 
 
 
+## Tipos de regresión y Métricas
+**Regresión Lineal Simple**: Es cuando tenemos una sola variable independiente XXX y buscamos predecir YYY. La relación se modela como una línea recta: $$Y=mX+bY = mX + bY=mX+b$$Donde **M** es la pendiente y **B** es la intersección.
+
+**Regresión Lineal Múltiple**: Aquí se utiliza más de una variable independiente. La ecuación se extiende a $$ Y=β0+β1X1+β2X2+...+βnXnY = \beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_nY=β0​+β1​X1​+β2​X2​+...+βn​Xn​.$$ Es más potente porque puede considerar múltiples factores al hacer predicciones.
+### Métricas
+- **MAE (Error Absoluto Medio)**: Es la media de los errores absolutos.
+- **MSE (Error Cuadrático Medio)**: Es la media de los errores al cuadrado, penalizando más los errores grandes.
+- **RMSE (Raíz del Error Cuadrático Medio)**: Es la raíz cuadrada del MSE, llevándolo a la misma escala que los datos originales.
+- **R2R^2R2**: Coeficiente de determinación, indica qué tan bien se ajustan los datos al modelo
+
+
+## Clasificación
+**Clasificación Binaria**: Dos posibles resultados (por ejemplo, spam o no spam).
+**Clasificación Multiclase**: Múltiples categorías posibles (por ejemplo, reconocimiento de dígitos escritos a mano).
+**Regresión Logística**: Es usada para problemas de clasificación binaria. Usa una función sigmoide para convertir valores en una probabilidad entre 0 y 1.
+
+
+## Métricas de clasificación
+- **Matriz de Confusión**: Tabla que muestra los valores predichos vs. los reales, con categorías como Verdadero Positivo (VP), Verdadero Negativo (VN), Falso Positivo (FP), y Falso Negativo (FN).
+- **Exactitud (Accuracy)**: Proporción de predicciones correctas.
+- **Precisión (Precision)**: Proporción de verdaderos positivos entre todos los positivos predichos.
+- **Sensibilidad (Recall)**: Proporción de verdaderos positivos entre todos los positivos reales.
+- **Especificidad (Specificity)**: Proporción de verdaderos negativos entre todos los negativos reales.
+- **F1 Score**: Combina precisión y recall en una sola métrica.
+
+
+## SVM
+**SVM Lineales**: Intentan encontrar el hiperplano que separa dos clases de datos maximizando el margen, es decir, la distancia entre el hiperplano y los puntos más cercanos de cada clase (vectores de soporte).
+**SVM No Lineales**: Utilizan el truco del kernel para proyectar datos a un espacio de mayor dimensión donde sean linealmente separables.
+**SVM para Regresión**: Ajustan un margen dentro del cual se espera que caigan la mayoría de los datos, permitiendo manejar problemas de regresión.
+
+## Arboles de desicion
+**Árboles de Decisión**: Utilizan nodos para representar decisiones basadas en condiciones, donde cada nodo interior representa una "decisión" y cada hoja representa un resultado.
+**Métricas para Árboles**:
+- **Índice de Gini**: Mide la impureza de un nodo.
+- **Entropía**: Otra métrica para medir la impureza
+
 ## Fase 4 y 5
 
 ### Regresión
 #### Regresión Lineal
-Predecir variables continuas, solo sirve para predecir variables continouas
+Predecir variables continuas, solo sirve para predecir variables continuas
 **N° kills** → Game, en este caso para saber cuantos juegos va a ganar puedo medir las kills.
 #### Regresión logística
 Predecir variables categóricas
