@@ -862,3 +862,7 @@ Necesitamos saber las métricas para saber si sirve o no sirve.
 
 ### SVM
 Svm lo que hace es hacer una linea imaginaria para separar lo que es de lo que no es.
+
+
+### Matriz de confusion
+![[Pasted image 20240608161623.png]]

@@ -1243,6 +1243,8 @@ Tell a story when u or a someone u know was in trouble and was helped by strange
 
 
 ## Digital detox 9B
+
+### Introduction questions
 - What is technology?
 	- I think thechnology is something what we interact and do things what humans doing slowly.
 - How do you feel about technology?
@@ -1258,6 +1260,8 @@ Tell a story when u or a someone u know was in trouble and was helped by strange
 **Outlet**: toma corriente, enchufe, contacto(eléctrico)
 **Plenty of**: suficiente.
 **Fewer**: menos
+**Basis**: Fundamento, Base
+**Shame**: Vegerguenza, una pena, una lastima.
 
 ### Phrasal verbs
 **I switched it off**: Lo apague (usando un switch)
@@ -1286,3 +1290,16 @@ Tell a story when u or a someone u know was in trouble and was helped by strange
 | NONE​             | Countable plural and uncountable​ | Negative (for zero quantity)​           |
 | A FEW​            | Countable plural                  | Affirmative (for small quantity)​       |
 | NOT MANY​         | Countable plural ​                | Negative (for small quantity)​          |
+
+### Speaking practice
+Use technologies vocabulary and use countables.
+
+- Are you into technology? Why?/Why not?
+    
+- What topics of technology are you interested in?
+    
+-  How is your relationship with technology? Which gadgets/ apps/softwares do you use on a regular basis?  How much time do you approximately spend in front of screens everyday? What do you think about that?
+    
+- Did your relationship with technology change during the pandemic? How? What did you use to do differently before the lockdown?
+    
+- Have you ever felt anxious or stressed because of technology?

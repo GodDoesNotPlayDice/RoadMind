@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc176beeecf6a25",
+        "id": "d548b9a77039dbf4",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d0133672bdd3c7",
+            "id": "346a6d27d71629c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/MachineLearning/EV2/Examen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/MachineLearning/EV2/Examen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md",
+                "file": "Year/Semester/MachineLearning/EV2/Examen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/MachineLearning/Summary.md"
+                "file": "Year/Semester/MachineLearning/EV2/Examen.md"
               }
             }
           }
@@ -148,13 +148,21 @@
       "nested-daily-todos:Add incomplete todos to today's note": false
     }
   },
-  "active": "a4d0133672bdd3c7",
+  "active": "346a6d27d71629c9",
   "lastOpenFiles": [
-    "Year/Semester/MachineLearning/EV2/Teorias.md",
     "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/MachineLearning/EV2/Examen.md",
     "Year/Semester/BPM/Examen/Caso.md",
-    "Year/Semester/BPM/Examen/Mascota Feliz.md",
+    "Year/Semester/BPM/Examen/Examen.md",
     "Year/Semester/Ingles/Summary.md",
+    "MachineLearning",
+    "Year/Semester/Tasks/OralTest-6-7-8-9-10.md",
+    "2024-06-10.md",
+    "Year/Semester/BPM/Examen/Preguntas.md",
+    "Year/Semester/BPM/Examen/Mascota Feliz.md",
+    "Year/Semester/MachineLearning/EV2/Hipotesis.md",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
+    "Year/Semester/MachineLearning/EV2/Teorias.md",
     "Year/Semester/BPM/Summary.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Draws/TreeSummary2.md",
@@ -180,22 +188,14 @@
     "Year/Semester/Tasks/April/7-03.md",
     "Year/Semester/Tasks/April/1-04.md",
     "Year/Semester/Ingles/Summary-Oral.md",
-    "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
-    "OS/Linux/Arch/Wayland/Hyprland.md",
-    "OS/Linux/Arch/Basic Installing.md",
-    "OS/Linux/Arch/Terminals/Alacritty.md",
     "OS/Linux/Arch/Wayland",
     "Pasted image 20240522202624.png",
-    "OS/Linux/Arch/Images/Pasted image 20240522202531.png",
-    "Year/Semester/BPM/KRPI/Actividad con dos (KPI, KRI).md",
-    "Year/Semester/BPM/KRPI/Actividad KPI.md",
     "OS/Linux/Arch/Terminals",
     "OS/Linux/Arch/Images",
     "OS/Linux/Arch",
     "OS/Linux",
     "OS",
     "Year/Semester/BPM/KRPI",
-    "Hacking/OverTheWire/Natas",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
