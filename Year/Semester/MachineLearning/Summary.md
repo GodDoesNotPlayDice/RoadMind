@@ -825,6 +825,19 @@ Aquí el modelo ya ha sido construido y evaluado. Esta etapa explota, mediante a
 - **Índice de Gini**: Mide la impureza de un nodo.
 - **Entropía**: Otra métrica para medir la impureza
 
+
+## Escalado de los datos
+- Mejorar el rendimiento del modelo.
+- Asegurar una convergencia más rápida en algoritmos de optimización.
+- Facilitar la interpretación de los coeficientes del modelo.
+
+
+**Mejora del rendimiento del modelo**:
+- Muchos algoritmos de machine learning (como la regresión logística, redes neuronales y SVM) funcionan mejor cuando las características están en la misma escala. Esto se debe a que estos algoritmos calculan distancias entre puntos (por ejemplo, en el espacio de características), y las características con valores más grandes pueden dominar el cálculo y sesgar el modelo.
+**Convergencia más rápida en algoritmos de optimización**:
+- Algoritmos de optimización, como el descenso por gradiente utilizado en la regresión logística, convergen más rápidamente cuando las características están escaladas. Sin escalado, las características con valores grandes pueden causar que los pasos del gradiente sean muy pequeños, ralentizando el proceso de convergencia.
+**Comparabilidad de los coeficientes del modelo**:
+- En algunos modelos, como la regresión lineal o logística, escalar las características permite que los coeficientes del modelo sean comparables entre sí. Esto puede ayudar a interpretar la importancia relativa de cada característica en el modelo.
 ## Fase 4 y 5
 
 ### Regresión
