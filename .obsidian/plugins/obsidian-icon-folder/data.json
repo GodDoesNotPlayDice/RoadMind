@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFlowChart",
       "LiBrain",
       "LiPen",
       "IbFolder",
-      "FiFile",
-      "CiWaylandLogo"
+      "FiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -177,5 +177,7 @@
   "Year/Semester/BPM/Examen/Preguntas.md": "FiFile",
   "Year/Semester/BPM/Examen/Examen.md": "FiFile",
   "Year/Semester/Tasks/OralTest-6-7-8-9-10.md": "FiFile",
-  "MachineLearning": "LiBrain"
+  "MachineLearning": "LiBrain",
+  "Year/Semester/MachineLearning/EV2/Examen.md": "FiFile",
+  "Year/Semester/BPM/Mascota_feliz.bpmn": "RiFlowChart"
 }

@@ -458,7 +458,7 @@ Es el proceso sistemático de identificar, recolectar, organizar y analizar dato
 
 
 ## Tipos de financiamiento
-### ¿Que es el financiamiento
+### ¿Que es el financiamiento?
 Financiamiento es "La obtención de recursos de fuentes internas o externas, a corto, mediano o largo plazo, que requiere para su operación normal y eficiente una empresa pública, privada, social o mixta. 
 
 El financiamiento es el abastecimiento y uso eficiente del dinero, líneas de crédito y fondos de cualquier clase que se emplean en la realización de un proyecto o en el funcionamiento de una empresa.

@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d548b9a77039dbf4",
+        "id": "abebe657a6b8a911",
         "type": "tabs",
         "children": [
           {
-            "id": "346a6d27d71629c9",
+            "id": "fde5806c24c80c01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md"
+              }
+            }
+          },
+          {
+            "id": "0a2bd47c9430071f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/MachineLearning/EV2/Examen.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/MachineLearning/EV2/Examen.md",
+                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/MachineLearning/EV2/Examen.md",
+                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/MachineLearning/EV2/Examen.md"
+                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md"
               }
             }
           }
@@ -145,13 +155,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "nested-daily-todos:Add incomplete todos to today's note": false
+      "nested-daily-todos:Add incomplete todos to today's note": false,
+      "bpmn-plugin:New BPMN": false
     }
   },
-  "active": "346a6d27d71629c9",
+  "active": "fde5806c24c80c01",
   "lastOpenFiles": [
-    "Year/Semester/MachineLearning/Summary.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Proyectos/Draws/TreeSummary2.md",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/BPM/Mascota_feliz.bpmn",
+    "Year/Semester/BPM/model_1.bpmn",
+    "Year/Semester/Proyectos/Draws/model_1.bpmn",
     "Year/Semester/MachineLearning/EV2/Examen.md",
+    "MachineLearning/Intro.md",
+    "Untitled.md",
+    "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/BPM/Examen/Caso.md",
     "Year/Semester/BPM/Examen/Examen.md",
     "Year/Semester/Ingles/Summary.md",
@@ -163,9 +183,6 @@
     "Year/Semester/MachineLearning/EV2/Hipotesis.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "Year/Semester/MachineLearning/EV2/Teorias.md",
-    "Year/Semester/BPM/Summary.md",
-    "Year/Semester/Proyectos/Summary.md",
-    "Year/Semester/Proyectos/Draws/TreeSummary2.md",
     "Year/Semester/Proyectos/Draws/ReversionEV1.md",
     "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",
@@ -185,17 +202,11 @@
     "Year/Semester/Tasks/April/14-03.md",
     "Year/Semester/Tasks/April/3-04.md",
     "Year/Semester/Tasks/April/6-03.md",
-    "Year/Semester/Tasks/April/7-03.md",
-    "Year/Semester/Tasks/April/1-04.md",
-    "Year/Semester/Ingles/Summary-Oral.md",
     "OS/Linux/Arch/Wayland",
     "Pasted image 20240522202624.png",
     "OS/Linux/Arch/Terminals",
     "OS/Linux/Arch/Images",
     "OS/Linux/Arch",
-    "OS/Linux",
-    "OS",
-    "Year/Semester/BPM/KRPI",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
