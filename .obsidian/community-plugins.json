@@ -9,5 +9,6 @@
   "better-export-pdf",
   "convert-url-to-iframe",
   "symbols-prettifier",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "bpmn-plugin"
 ]
