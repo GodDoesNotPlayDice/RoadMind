@@ -1303,3 +1303,14 @@ Use technologies vocabulary and use countables.
 - Did your relationship with technology change during the pandemic? How? What did you use to do differently before the lockdown?
     
 - Have you ever felt anxious or stressed because of technology?
+
+
+## Murder is 10A
+**Verify information (questions tags)**
+### Vocabulary
+**Greatest:** El mas.
+**Witness**: ser testigo, presenciar.
+**Prove**: probar algo.
+**Letter**: carta
+
+
