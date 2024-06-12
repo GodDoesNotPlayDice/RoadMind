@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
+                "file": "Year/Semester/BPM/Examen/Caso.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md",
+                "file": "Year/Semester/BPM/Examen/Caso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md",
+                "file": "Year/Semester/BPM/Examen/Caso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Proyectos/Draws/TreeSummary2.md"
+                "file": "Year/Semester/BPM/Examen/Caso.md"
               }
             }
           }
@@ -159,8 +160,12 @@
       "bpmn-plugin:New BPMN": false
     }
   },
-  "active": "fde5806c24c80c01",
+  "active": "0a2bd47c9430071f",
   "lastOpenFiles": [
+    "Year/Semester/BPM/Examen/Examen.md",
+    "Year/Semester/BPM/Examen/Caso.md",
+    "Year/Semester/MachineLearning/EV2/Examen.md",
+    "Year/Semester/MachineLearning/EV2/Hipotesis.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Proyectos/Draws/TreeSummary2.md",
     "Year/Semester/BPM/Summary.md",
@@ -168,19 +173,15 @@
     "Year/Semester/BPM/Mascota_feliz.bpmn",
     "Year/Semester/BPM/model_1.bpmn",
     "Year/Semester/Proyectos/Draws/model_1.bpmn",
-    "Year/Semester/MachineLearning/EV2/Examen.md",
     "MachineLearning/Intro.md",
     "Untitled.md",
     "Year/Semester/MachineLearning/Summary.md",
-    "Year/Semester/BPM/Examen/Caso.md",
-    "Year/Semester/BPM/Examen/Examen.md",
     "Year/Semester/Ingles/Summary.md",
     "MachineLearning",
     "Year/Semester/Tasks/OralTest-6-7-8-9-10.md",
     "2024-06-10.md",
     "Year/Semester/BPM/Examen/Preguntas.md",
     "Year/Semester/BPM/Examen/Mascota Feliz.md",
-    "Year/Semester/MachineLearning/EV2/Hipotesis.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "Year/Semester/MachineLearning/EV2/Teorias.md",
     "Year/Semester/Proyectos/Draws/ReversionEV1.md",
