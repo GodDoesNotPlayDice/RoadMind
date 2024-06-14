@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3a4de9eb2846ec",
+        "id": "90a644c55ba9bed1",
         "type": "tabs",
         "children": [
           {
-            "id": "950475eb379b2cdb",
+            "id": "8c82af248a4881a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Web/React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Web/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
+                "file": "Web/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md"
+                "file": "Web/React/React.md"
               }
             }
           }
@@ -149,11 +149,13 @@
       "bpmn-plugin:New BPMN": false
     }
   },
-  "active": "950475eb379b2cdb",
+  "active": "8c82af248a4881a2",
   "lastOpenFiles": [
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/Images/Pasted image 20240614134702.png",
+    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
     "Year/Semester/Ingles/Summary-Oral.md",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Draws/Mejora continua.md",
     "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/BPM/Mascota_feliz.bpmn",
@@ -167,7 +169,6 @@
     "Year/Semester/MachineLearning/Summary.md",
     "Year/Semester/BPM/Examen/Caso.md",
     "Year/Semester/BPM/Examen/Examen.md",
-    "Year/Semester/Ingles/Summary.md",
     "MachineLearning",
     "Year/Semester/Tasks/OralTest-6-7-8-9-10.md",
     "2024-06-10.md",
@@ -191,9 +192,7 @@
     "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
     "Year/Semester/Proyectos/Draws/TreeSummary.md",
     "Year/Semester/BPM/EV3",
-    "Year/Semester/Tasks/April/13-03.md",
     "OS/Linux/Arch/Wayland",
-    "Pasted image 20240522202624.png",
     "OS/Linux/Arch/Terminals",
     "OS/Linux/Arch/Images",
     "OS/Linux/Arch",

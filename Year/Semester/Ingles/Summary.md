@@ -1312,5 +1312,13 @@ Use technologies vocabulary and use countables.
 **Witness**: ser testigo, presenciar.
 **Prove**: probar algo.
 **Letter**: carta
+**whose**: cuyo, de tal, de el.
 
 
+### Relative Clauses
+**Defining**: Identify who or what we are speaking about. They provide essential information. We don’t use commas.
+- **Example**: Julia is the woman who works with me.
+**Non-defining:** Provide further information about who or what we are speaking about. They provide non-essential information. We must use commas.
+- **Example**: Last week I visited my aunt, who is nearly 90 years old.
+
+Relative clauses start with the words: who, that (used for mentioning people), that, which (used for mentioning objects or animals), where (for places) and whose (for meaning “of who” or “of which”).

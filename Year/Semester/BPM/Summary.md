@@ -640,3 +640,40 @@ $$
 $$
 
 
+## Dashboard
+
+### Pasos
+1) Tener la formula (Formula KPI)
+2) Metrica de aceptacion
+3)  Crear tabla KPI con numeros
+4) Usar funcion en la tabla con numeros donde menciona el estado. `=VLOOKUP(Columna donde va el Tag,Numero de medida:Tag,2,TRUE())`
+5) Crear grafico de linea tomando  la grafica con numeros.
+**Definir Metrica de aceptacion**
+
+| Ventas (M$) | **Estado** |
+| ----------- | ---------- |
+| $10,000     | **Pésimo** |
+| $20,000     | Malo       |
+| $30,000     | Regular    |
+| $50,000     | Bueno      |
+| $70,000     | Muy bueno  |
+
+**Crear tabla KPI con numeros**
+
+| **Mes**    | **Ventas (M$)** | **%** | **Estado** |
+| ---------- | --------------- | ----- | ---------- |
+| Enero      | $22,000         | 4%    | Malo       |
+| Febrero    | $28,000         | 5%    | Malo       |
+| Marzo      | $35,000         | 6%    | Regular    |
+| Abril      | $45,000         | 8%    | Regular    |
+| Mayo       | $55,000         | 10%   | Bueno      |
+| Junio      | $60,000         | 10%   | Bueno      |
+| Julio      | $61,000         | 11%   | Bueno      |
+| Agosto     | $15,000         | 3%    | Pésimo     |
+| Septiembre | $55,000         | 10%   | Bueno      |
+| Octubre    | $70,000         | 12%   | Muy bueno  |
+| Noviembre  | $68,000         | 12%   | Bueno      |
+| Diciembre  | $59,000         | 10%   | Bueno      |
+| Total      | $573,000        | 100%  |            |
+
+![[Pasted image 20240614134702.png]]
