@@ -165,7 +165,6 @@
   "OS/Linux/Arch/Terminals/Alacritty.md": "TiScript",
   "OS/Linux/Arch/Wayland": "CiWaylandLogo",
   "OS/Linux/Arch/Wayland/Hyprland.md": "TiScript",
-  "Year/Semester/Ingles/Summary.md": "FiFile",
   "Year/Semester/BPM/EV3": "IbFolder",
   "Year/Semester/Proyectos/Draws/TreeSummary2.md": "LiPen",
   "Year/Semester/BPM/EV3/Dashboard.md": "LiPen",
@@ -180,5 +179,7 @@
   "MachineLearning": "LiBrain",
   "Year/Semester/MachineLearning/EV2/Examen.md": "FiFile",
   "Year/Semester/BPM/Mascota_feliz.bpmn": "RiFlowChart",
-  "Year/Semester/BPM/Draws/Mejora continua.md": "LiPen"
+  "Year/Semester/BPM/Draws/Mejora continua.md": "LiPen",
+  "Year/Semester/Ingles/LastOral.md": "FiFile",
+  "Year/Semester/Ingles/Summary.md": "FiFile"
 }
