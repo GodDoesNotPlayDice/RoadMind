@@ -430,11 +430,12 @@ La estimación por **tres valores** se basa en la incertidumbre y el riesgo como
 - **Costo Pesimista**: El costo de la actividad se basa en el análisis del peor escenario posible para esa actividad.
 
 ### Obtención de información
-Es el proceso sistemático de identificar, recolectar, organizar y analizar datos e información que son necesarios para entender, planificar, ejecutar y evaluar un proyecto o actividad. Este proceso implica el uso de diversas fuentes y métodos para asegurar que la información obtenida sea precisa, relevante y suficiente para tomar decisiones informadas.
+Es el proceso sistemático de identificar, recolectar, organizar y analizar datos e información que son necesarios para **entender, planificar, ejecutar y evaluar un proyecto o actividad**. Este proceso implica el uso de diversas fuentes y métodos para asegurar que la información obtenida sea precisa, relevante y suficiente para tomar decisiones informadas.
 
 
 **Costos de Inversión:** Son aquellos vinculados a la adquisición de los activos necesarios para poner el proyecto en marcha.
 - Cuanto voy a necesitar para poder montarlo
+
 **Capital de trabajo**: Son los recursos que se necesitan para adquirir los elementos necesarios para desarrollar un proyecto
 - Cuanto tiempo necesito para empezar a producir.
 **Costos de operación**: Son aquellos que sirven para mantener el proyecto en operación.
@@ -459,7 +460,7 @@ Es el proceso sistemático de identificar, recolectar, organizar y analizar dato
 
 ## Tipos de financiamiento
 ### ¿Que es el financiamiento?
-Financiamiento es "La obtención de recursos de fuentes internas o externas, a corto, mediano o largo plazo, que requiere para su operación normal y eficiente una empresa pública, privada, social o mixta. 
+Financiamiento es "La obtención de recursos de **fuentes internas o externas, a corto, mediano o largo plazo**, que requiere para su operación normal y eficiente una empresa pública, privada, social o mixta. 
 
 El financiamiento es el abastecimiento y uso eficiente del dinero, líneas de crédito y fondos de cualquier clase que se emplean en la realización de un proyecto o en el funcionamiento de una empresa.
 
@@ -517,7 +518,7 @@ Una de las instituciones que provee de este tipo de financiamiento es la **Banca
 - Descuento de Documentos.
 - Préstamos prendarios
 
-#### Otras opciones de financiamento auxiliares
+#### Otras opciones de financiamiento auxiliares
 En ocasiones las empresas necesitan recursos inmediatos, una forma de obtenerlos es descontando documentos en el banco, quien a cambio de una comisión será el encargado de hacer efectivos dichos documentos, para esto se hace uso del **factorage financiero o factoring**.
 
 Dos opciones de incremento de capital, estas terceras personas analizarán si es rentable el negocio para hacer su aportación, por eso es conveniente elaborar un estado financiero pro forma para visualizar a futuro la marcha del negocio.
@@ -539,7 +540,7 @@ El proyecto es conveniente realizarlo, desde el punto de vista del inversionista
 
 Si poseo una cartera de inversión en la cual debo decidir cuál será el orden de realización de estos proyectos, los indicadores de evaluación serán de gran ayuda
 
-os criterios de evaluación comparan **los beneficios** proyectados con la **inversión inicial**, de tal forma de determinar si se recupera dicha inversión y si se **obtiene rentabilidad.**
+los criterios de evaluación comparan **los beneficios** proyectados con la **inversión inicial**, de tal forma de determinar si se recupera dicha inversión y si se **obtiene rentabilidad.**
 
 ### Tipos de indicadores
 Las variables o datos necesarios para realizar esta evaluación. Son el flujo de caja, la tasa de descuento y el horizonte, que normalmente  Son 10 años a no ser que las características del proyecto requieran un periodo menor.
@@ -552,7 +553,7 @@ Las variables o datos necesarios para realizar esta evaluación. Son el flujo de
 
 
 ### Punto de equilibrio
-Es el nivel de producción en el que los beneficios por las ventas son exactamente iguales a la suma de los costos fijos y variables. La inversión inicial no es considerada en su cálculo (es por ello que no se considera como una herramienta de evaluación económica).
+**Es el nivel de producción en el que los beneficios por las ventas son exactamente iguales a la suma de los costos fijos y variables.** La inversión inicial no es considerada en su cálculo (es por ello que no se considera como una herramienta de evaluación económica).
 
 La gran utilidad es la de calcular el punto mínimo de producción que se debe realizar para no incurrir en pérdidas. 
 

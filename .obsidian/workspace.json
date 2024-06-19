@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3a4de9eb2846ec",
+        "id": "0ba4731fd2a0f2a4",
         "type": "tabs",
         "children": [
           {
-            "id": "86f0883db4a9676b",
+            "id": "fb3f8722091c5c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year/Semester/Ingles/Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bc304745203ef28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/Ingles/LastOral.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Ingles/LastOral.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Ingles/LastOral.md",
+                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year/Semester/Ingles/LastOral.md"
+                "file": "Year/Semester/Proyectos/Summary.md"
               }
             }
           }
@@ -162,21 +149,33 @@
       "bpmn-plugin:New BPMN": false
     }
   },
-  "active": "5bc304745203ef28",
+  "active": "fb3f8722091c5c5f",
   "lastOpenFiles": [
+    "Pasted image 20240618182107.png",
+    "Year/Semester/BPM/Como hacer el Dashboard.md",
+    "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
+    "Pasted image 20240618172914.png",
+    "Year/Semester/Proyectos/Summary.md",
+    "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/BPM/Mascota_feliz.bpmn",
+    "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/Images/Pasted image 20240618172517.png",
+    "Year/Semester/BPM/Images/Pasted image 20240618172612.png",
+    "Year/Semester/BPM/EV3/Dashboard.md",
+    "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
+    "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
+    "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
+    "Year/Semester/BPM/Actividad de Procesos.md",
+    "Year/Semester/BPM/Actividad Pre Prueba.md",
     "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Ingles/LastOral.md",
     "Year/Semester/Ingles/Summary-Oral.md",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Images/Pasted image 20240614134702.png",
     "Year/Semester/BPM/Examen/Caso.md",
     "Year/Semester/BPM/Examen/Examen.md",
     "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
     "Year/Semester/BPM/Draws/Mejora continua.md",
-    "Year/Semester/Proyectos/Summary.md",
-    "Year/Semester/BPM/Mascota_feliz.bpmn",
     "Year/Semester/Proyectos/Draws/TreeSummary2.md",
-    "Year/Semester/BPM/Actividad de Procesos.md",
     "Year/Semester/BPM/model_1.bpmn",
     "Year/Semester/Proyectos/Draws/model_1.bpmn",
     "Year/Semester/MachineLearning/EV2/Examen.md",
@@ -187,23 +186,12 @@
     "2024-06-10.md",
     "Year/Semester/BPM/Examen/Preguntas.md",
     "Year/Semester/BPM/Examen/Mascota Feliz.md",
-    "Year/Semester/MachineLearning/EV2/Hipotesis.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
-    "Year/Semester/MachineLearning/EV2/Teorias.md",
-    "Year/Semester/Proyectos/Draws/ReversionEV1.md",
-    "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000021.png",
     "Year/Semester/Ingles/Images/Pasted image 20240530235944.png",
     "Year/Semester/Ingles/Images/Pasted image 20240530235915.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240530235831.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240530235502.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240530180344.png",
     "Year/Semester/BPM/Examen",
-    "s.md",
-    "Year/Semester/BPM/EV3/Dashboard.md",
-    "Year/Semester/Proyectos/Draws/ThreeImages/Pasted Image 20240529093321_688.png",
-    "Year/Semester/Proyectos/Draws/TreeSummary.md",
     "Year/Semester/BPM/EV3",
     "OS/Linux/Arch/Wayland",
     "OS/Linux/Arch/Terminals",
