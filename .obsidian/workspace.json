@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba4731fd2a0f2a4",
+        "id": "348dc5cbbb174a5e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3f8722091c5c5f",
+            "id": "4eab1748005c846d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year/Semester/Proyectos/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year/Semester/Proyectos/Summary.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,13 +141,17 @@
       "bpmn-plugin:New BPMN": false
     }
   },
-  "active": "fb3f8722091c5c5f",
+  "active": "4eab1748005c846d",
   "lastOpenFiles": [
+    "Ruby/Sintaxis y tipos de datos.md",
+    "Ruby/Clases y Funciones.md",
+    "Ruby/Instalación basica.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Ruby",
     "Pasted image 20240618182107.png",
     "Year/Semester/BPM/Como hacer el Dashboard.md",
     "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
     "Pasted image 20240618172914.png",
-    "Year/Semester/Proyectos/Summary.md",
     "Year/Semester/Plataformas/Summary.md",
     "Year/Semester/BPM/Mascota_feliz.bpmn",
     "Year/Semester/BPM/Summary.md",
@@ -184,19 +180,15 @@
     "MachineLearning",
     "Year/Semester/Tasks/OralTest-6-7-8-9-10.md",
     "2024-06-10.md",
-    "Year/Semester/BPM/Examen/Preguntas.md",
-    "Year/Semester/BPM/Examen/Mascota Feliz.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000021.png",
     "Year/Semester/Ingles/Images/Pasted image 20240530235944.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240530235915.png",
     "Year/Semester/BPM/Examen",
     "Year/Semester/BPM/EV3",
     "OS/Linux/Arch/Wayland",
     "OS/Linux/Arch/Terminals",
     "OS/Linux/Arch/Images",
-    "OS/Linux/Arch",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

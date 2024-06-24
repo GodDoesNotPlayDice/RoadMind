@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiFile",
+      "OcRuby16",
       "RiFlowChart",
       "LiBrain",
-      "LiPen",
-      "IbFolder",
-      "FiFile"
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -182,5 +182,9 @@
   "Year/Semester/BPM/Draws/Mejora continua.md": "LiPen",
   "Year/Semester/Ingles/LastOral.md": "FiFile",
   "Year/Semester/Ingles/Summary.md": "FiFile",
-  "Year/Semester/BPM/Como hacer el Dashboard.md": "FiFile"
+  "Year/Semester/BPM/Como hacer el Dashboard.md": "FiFile",
+  "Ruby": "OcRuby16",
+  "Ruby/Instalación basica.md": "FiFile",
+  "Ruby/Sintaxis y tipos de datos.md": "FiFile",
+  "Ruby/Clases y Funciones.md": "FiFile"
 }
