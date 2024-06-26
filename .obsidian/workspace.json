@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruby/Clases y Funciones.md",
+                "file": "Ruby/Estructuras de control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Clases y Funciones.md",
+                "file": "Ruby/Estructuras de control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruby/Clases y Funciones.md",
+                "file": "Ruby/Estructuras de control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruby/Clases y Funciones.md"
+                "file": "Ruby/Estructuras de control.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   "active": "4eab1748005c846d",
   "lastOpenFiles": [
     "Ruby/Sintaxis y tipos de datos.md",
-    "Ruby/Clases y Funciones.md",
     "Ruby/Instalación basica.md",
+    "Ruby/Estructuras de control.md",
+    "Ruby/Clases y Funciones.md",
     "Year/Semester/Proyectos/Summary.md",
     "Ruby",
     "Pasted image 20240618182107.png",
@@ -187,7 +188,6 @@
     "Year/Semester/MachineLearning/Summary.md",
     "MachineLearning",
     "Year/Semester/Tasks/OralTest-6-7-8-9-10.md",
-    "2024-06-10.md",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000021.png",
