@@ -75,7 +75,7 @@ string.gsub("Hola", "Chau") # Reemplaza
 string.split # Separa por palabras
 string.lstrip # Elimina espacios a la izquierda
 string.rstrip # Elimina espacios a la derecha
-string.split # Separa por palabras
+string.split(/(\s+)/) #divide la cadena en palabras y espacios, manteniendo los espacios como elementos en el array.
 string.concat(" Bien y vos?") # Concatena strings
 string.tr("a", "o") # Reemplaza caracteres
 string.empty? # Esta vacio?
@@ -95,6 +95,12 @@ string.chomp!("as?") # Elimina el ultimo caracter si es igual al parametro
 "123.4".to_f # Transforma de strings a floats.
 
 ```
+#### gsub
+`gsub` es un método en Ruby que se usa para buscar y reemplazar todas las ocurrencias de una expresión regular en una cadena.
+`str.gsub(/\S+/, &:reverse)` = ``str.gsub(/\S+/) { |match| match.reverse }
+
+**usando &**: `&` antes de un símbolo convierte ese símbolo en un bloque de código que envía el mensaje correspondiente a cada elemento.
+
 
 ## Números 
 
