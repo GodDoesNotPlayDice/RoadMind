@@ -1,7 +1,7 @@
 ## Conceptos claves
 **Nil**: Nulo
 
-## Variables
+## Variables y Sintaxis
 
 ```ruby
 # Variables
@@ -97,7 +97,7 @@ string.chomp!("as?") # Elimina el ultimo caracter si es igual al parametro
 ```
 #### gsub
 `gsub` es un método en Ruby que se usa para buscar y reemplazar todas las ocurrencias de una expresión regular en una cadena.
-`str.gsub(/\S+/, &:reverse)` = ``str.gsub(/\S+/) { |match| match.reverse }
+`str.gsub(/\S+/, &:reverse)` = `str.gsub(/\S+/) { |match| match.reverse }`
 
 **usando &**: `&` antes de un símbolo convierte ese símbolo en un bloque de código que envía el mensaje correspondiente a cada elemento.
 
@@ -165,7 +165,6 @@ a.lcm(b) # mínimo común múltiplo
 ```ruby
 a = true
 b = false
-
   
 a && b # Hace un AND
 a and b # Hace un AND

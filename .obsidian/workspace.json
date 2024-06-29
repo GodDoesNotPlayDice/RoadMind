@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruby/Arrays.md",
+                "file": "Ruby/Tipos de datos y Operadores.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Arrays.md",
+                "file": "Ruby/Tipos de datos y Operadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruby/Arrays.md",
+                "file": "Ruby/Tipos de datos y Operadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruby/Arrays.md"
+                "file": "Ruby/Tipos de datos y Operadores.md"
               }
             }
           }
@@ -151,11 +151,12 @@
   },
   "active": "4eab1748005c846d",
   "lastOpenFiles": [
+    "Ruby/Instalación basica.md",
+    "Ruby/Estructuras de control.md",
     "Ruby/Clases y Funciones.md",
     "Ruby/Arrays.md",
-    "Ruby/Estructuras de control.md",
-    "Ruby/Sintaxis y tipos de datos.md",
-    "Ruby/Instalación basica.md",
+    "Ruby/Tipos de datos y Operadores.md",
+    "Untitled.md",
     "Year/Semester/Proyectos/Summary.md",
     "Ruby",
     "Pasted image 20240618182107.png",
@@ -186,7 +187,6 @@
     "Year/Semester/Proyectos/Draws/model_1.bpmn",
     "Year/Semester/MachineLearning/EV2/Examen.md",
     "MachineLearning/Intro.md",
-    "Year/Semester/MachineLearning/Summary.md",
     "MachineLearning",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",

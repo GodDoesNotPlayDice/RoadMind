@@ -15,7 +15,7 @@ else
 end
 ```
 
-2. **unless**
+2. **`unless`**
 - Ejecuta un bloque de código a menos que la condición sea verdadera.
 
 ```ruby
@@ -33,7 +33,7 @@ mensaje = edad >= 18 ? "Mayor de edad" : "Menor de edad"
 puts mensaje  # => "Mayor de edad"
 ```
 
-4. **case**
+4. **`case`**
 - Similar a `switch` en otros lenguajes, se usa para comparar un valor con múltiples condiciones.
 ```ruby
 calificacion = 'B'
@@ -150,11 +150,9 @@ end
 # 5
 ```
 
-
-3. **rendo**
+3. **`rendo`**
 - Repite una iteración actual de un bucle
 ```ruby
-
 i = 0
 while i < 5 do
   i += 1
@@ -163,4 +161,3 @@ while i < 5 do
 end
 # Este ejemplo causará un bucle infinito ya que `redo` reiniciará la iteración actual.
 ```
-2
