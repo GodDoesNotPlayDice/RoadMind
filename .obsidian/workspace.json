@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed35844828208297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby/Ruby on Rails/Estructura de archivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruby/Arrays.md",
+                "file": "Ruby/Ruby on Rails/Estructura de archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruby/Arrays.md",
+                "file": "Ruby/Ruby on Rails/Estructura de archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruby/Arrays.md"
+                "file": "Ruby/Ruby on Rails/Estructura de archivos.md"
               }
             }
           }
@@ -149,10 +162,12 @@
       "bpmn-plugin:New BPMN": false
     }
   },
-  "active": "4eab1748005c846d",
+  "active": "ed35844828208297",
   "lastOpenFiles": [
-    "Ruby/Clases y Funciones.md",
     "Ruby/Arrays.md",
+    "Ruby/Ruby on Rails/Estructura de archivos.md",
+    "Ruby/Ruby on Rails",
+    "Ruby/Clases y Funciones.md",
     "Ruby/Estructuras de control.md",
     "Ruby/Sintaxis y tipos de datos.md",
     "Ruby/Instalación basica.md",
@@ -186,7 +201,6 @@
     "Year/Semester/Proyectos/Draws/model_1.bpmn",
     "Year/Semester/MachineLearning/EV2/Examen.md",
     "MachineLearning/Intro.md",
-    "Year/Semester/MachineLearning/Summary.md",
     "MachineLearning",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",
@@ -196,7 +210,6 @@
     "Year/Semester/BPM/EV3",
     "OS/Linux/Arch/Wayland",
     "OS/Linux/Arch/Terminals",
-    "OS/Linux/Arch/Images",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

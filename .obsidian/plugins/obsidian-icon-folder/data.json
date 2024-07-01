@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CiRubyOnRailsIcon",
       "FiFile",
       "OcRuby16",
       "RiFlowChart",
-      "LiBrain",
-      "LiPen"
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -188,5 +188,7 @@
   "Ruby/Sintaxis y tipos de datos.md": "FiFile",
   "Ruby/Clases y Funciones.md": "FiFile",
   "Ruby/Estructuras de control.md": "FiFile",
-  "Ruby/Arrays.md": "FiFile"
+  "Ruby/Arrays.md": "FiFile",
+  "Ruby/Ruby on Rails": "CiRubyOnRailsIcon",
+  "Ruby/Ruby on Rails/Estructura de archivos.md": "FiFile"
 }
