@@ -183,12 +183,14 @@
   "Year/Semester/Ingles/LastOral.md": "FiFile",
   "Year/Semester/Ingles/Summary.md": "FiFile",
   "Year/Semester/BPM/Como hacer el Dashboard.md": "FiFile",
-  "Ruby": "OcRuby16",
-  "Ruby/Instalación basica.md": "FiFile",
   "Ruby/Sintaxis y tipos de datos.md": "FiFile",
-  "Ruby/Clases y Funciones.md": "FiFile",
-  "Ruby/Estructuras de control.md": "FiFile",
-  "Ruby/Arrays.md": "FiFile",
-  "Ruby/Ruby on Rails": "CiRubyOnRailsIcon",
-  "Ruby/Ruby on Rails/Estructura de archivos.md": "FiFile"
+  "Web/Ruby": "OcRuby16",
+  "Web/Ruby/Clases y Funciones.md": "FiFile",
+  "Web/Ruby/Estructuras de control.md": "FiFile",
+  "Web/Ruby/Instalación basica.md": "FiFile",
+  "Web/Ruby/Arrays.md": "FiFile",
+  "Web/Ruby/Ruby on Rails": "CiRubyOnRailsIcon",
+  "Web/Ruby/Ruby on Rails/Estructura de archivos.md": "FiFile",
+  "Web/Ruby/Tipos de datos y Operadores.md": "FiFile",
+  "Year/Semester/Ingles/ExamOral.md": "FiFile"
 }
