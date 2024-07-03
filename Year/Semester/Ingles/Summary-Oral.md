@@ -20,7 +20,7 @@
 - My grandmother cook lasagna for every family, and yes she has still cooked it for us
 **Do you have a favorite restaurant? What kind of food does it offer? What do you like the most about it? The food? The atmosphere? The service? The price?**
 - Yes I have, their name is Sazon Nasca, and is a peruvian food restaurant, where my favorite dish is seviche peruano, in my opinion its delicious also the site is so peaceful and comfortable.
-**Who do you consider as family?**
+**Who do you consider as family?q**
 - I consider my family to be everyone I have ever come into contact with, like my parents icluding my brother, step siblings, grandpas, uncles and more.
 **Do you have a big or a small family? Who do you live with?**
 - Idk really, but I think it is big because I have many cousins, although I don't always communicate with them.
