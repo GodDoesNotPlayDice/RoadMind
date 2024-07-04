@@ -1,4 +1,4 @@
-### Raíz del Proyecto
+## Raíz del Proyecto
 
 1. **app/**: Contiene el código principal de la aplicación, dividido en varios subdirectorios:
     - **controllers/**: Controladores que manejan las solicitudes y responden con vistas o redirecciones.
@@ -40,3 +40,10 @@
 9. **Rakefile**: Define las tareas disponibles para Rake.
 10. **README.md**: Archivo de documentación del proyecto.
 11. **.ruby-version**: Especifica la versión de Ruby para el proyecto.
+
+
+## Commands
+`rails new <name_of_project>` : crear proyecto, defecto trae sqlite
+`rails new <name_of_project> -d postgresql`  : crear proyecto con la base de datos postgress
+
+
