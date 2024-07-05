@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2e25e340f0f4b930",
+        "id": "186df0cd72266f08",
         "type": "tabs",
         "children": [
           {
-            "id": "44b2e84a628b87ef",
+            "id": "8dd21bbe9d735181",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web/Ruby/Ruby on Rails/Vista.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Ruby/Ruby on Rails/Vista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web/Ruby/Ruby on Rails/Vista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web/Ruby/Ruby on Rails/Vista.md"
+              }
             }
           }
         ]
@@ -141,53 +149,54 @@
       "bpmn-plugin:New BPMN": false
     }
   },
-  "active": "44b2e84a628b87ef",
+  "active": "8dd21bbe9d735181",
   "lastOpenFiles": [
-    "Year/Semester/Ingles/ExamOral.md",
-    "Year/Semester/Ingles/LastOral.md",
-    "Year/Semester/Ingles/Summary-Oral.md",
-    "Year/Semester/Ingles/Summary.md",
-    "Year/Semester/Ingles/Images/Pasted image 20240702180736.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702180659.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702175529.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702175026.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702173904.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702173301.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702171439.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702170536.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702165905.png",
-    "Year/Semester/Ingles/Images/Pasted image 20240702165752.png",
-    "Untitled.md",
-    "Year/Semester/Ingles/Drawing 2024-07-02 15.28.14.excalidraw.md",
+    "Web/Ruby/Ruby on Rails/Rutas.md",
+    "Web/Ruby/Ruby on Rails/Modelos.md",
+    "Web/Ruby/Ruby on Rails/Controllers.md",
     "Web/Ruby/Ruby on Rails/Estructura de archivos.md",
-    "Web/Ruby/Arrays.md",
-    "Web/Ruby/Ruby on Rails",
-    "Web/Ruby/Clases y Funciones.md",
-    "Web/Ruby/Estructuras de control.md",
-    "Ruby/Sintaxis y tipos de datos.md",
-    "Web/Ruby/Instalación basica.md",
-    "Year/Semester/Proyectos/Summary.md",
-    "Web/Ruby",
-    "Year/Semester/BPM/Como hacer el Dashboard.md",
+    "Web/Ruby/Ruby on Rails/Vista.md",
+    "Web/Ruby/Ruby on Rails/Untitled.md",
+    "Web/Ruby/Ruby on Rails/Base de datos.md",
+    "Year/Semester/Plataformas/Evaluación-1.md",
+    "Year/Semester/Ingles/Summary.md",
     "Year/Semester/Plataformas/Summary.md",
+    "Year/Semester/Ingles/Summary-Oral.md",
+    "Year/Semester/Proyectos/Draws/ReversionEV1.md",
+    "Year/Semester/Proyectos/Draws/TreeSummary.md",
+    "Year/Semester/Proyectos/Draws/MedServ.md",
+    "Ruby/Tipos de datos y Operadores.md",
+    "Ruby/Instalación basica.md",
+    "Ruby/Estructuras de control.md",
+    "Ruby/Clases y Funciones.md",
+    "Ruby/Arrays.md",
+    "Untitled.md",
+    "Year/Semester/Proyectos/Summary.md",
+    "Ruby",
+    "Pasted image 20240618182107.png",
+    "Year/Semester/BPM/Como hacer el Dashboard.md",
+    "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
+    "Pasted image 20240618172914.png",
     "Year/Semester/BPM/Mascota_feliz.bpmn",
     "Year/Semester/BPM/Summary.md",
+    "Year/Semester/BPM/Images/Pasted image 20240618172517.png",
+    "Year/Semester/BPM/Images/Pasted image 20240618172612.png",
     "Year/Semester/BPM/EV3/Dashboard.md",
     "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
     "Year/Semester/BPM/KRPI/KPI KRI Expedicion.md",
-    "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
-    "Year/Semester/BPM/Actividad de Procesos.md",
-    "Year/Semester/BPM/Actividad Pre Prueba.md",
-    "Year/Semester/BPM/Examen/Caso.md",
-    "Year/Semester/BPM/Examen/Examen.md",
-    "Year/Semester/Ingles/Summary-Oral-Mauro-Edition.md",
+    "Year/Semester/BPM/Images/Pasted image 20240614134702.png",
     "Year/Semester/BPM/model_1.bpmn",
     "Year/Semester/Proyectos/Draws/model_1.bpmn",
     "MachineLearning",
+    "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240531000021.png",
+    "Year/Semester/Ingles/Images/Pasted image 20240530235944.png",
     "Year/Semester/BPM/Examen",
     "Year/Semester/BPM/EV3",
     "OS/Linux/Arch/Wayland",
     "OS/Linux/Arch/Terminals",
+    "OS/Linux/Arch/Images",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

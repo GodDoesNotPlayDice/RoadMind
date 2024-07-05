@@ -112,7 +112,6 @@
   "Web/React/Videos.md": "RiYoutubeFill",
   "Year/Semester/Plataformas/Draws/Clase_3.md": "LiPen",
   "Year/Semester/MachineLearning/Draws/Clase_3.md": "LiPen",
-  "Year/Semester/Plataformas/Evaluación-1.md": "RiFile3Fill",
   "Year/Semester/Plataformas/Draws/Vista-Cliente.md": "LiPen",
   "Year/Semester/Plataformas/Draws/Arbol de Roles de la Empresa.md": "IbTreeMapDown",
   "Year/Semester/MachineLearning/Draws/Clase_4.md": "LiPen",
@@ -192,5 +191,10 @@
   "Web/Ruby/Ruby on Rails": "CiRubyOnRailsIcon",
   "Web/Ruby/Ruby on Rails/Estructura de archivos.md": "FiFile",
   "Web/Ruby/Tipos de datos y Operadores.md": "FiFile",
-  "Year/Semester/Ingles/ExamOral.md": "FiFile"
+  "Year/Semester/Ingles/ExamOral.md": "FiFile",
+  "Web/Ruby/Ruby on Rails/Controllers.md": "FiFile",
+  "Web/Ruby/Ruby on Rails/Rutas.md": "FiFile",
+  "Web/Ruby/Ruby on Rails/Base de datos.md": "FiFile",
+  "Web/Ruby/Ruby on Rails/Vista.md": "FiFile",
+  "Web/Ruby/Ruby on Rails/Modelos.md": "FiFile"
 }

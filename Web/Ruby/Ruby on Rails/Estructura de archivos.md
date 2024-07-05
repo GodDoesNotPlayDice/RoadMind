@@ -1,3 +1,11 @@
+
+
+## Enfoque de ruby on rails
+
+Ruby on rails tiene un enfoque de **MVC**
+**M** ⇒ Consultas, Validaciones, Relaciones entre tablas.
+**V** ⇒ HTML, PDF, CSV, JSON
+**C** ⇒ Logica
 ## Raíz del Proyecto
 
 1. **app/**: Contiene el código principal de la aplicación, dividido en varios subdirectorios:
