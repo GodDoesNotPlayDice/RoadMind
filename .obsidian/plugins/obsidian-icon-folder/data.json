@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxBookBookmark",
+      "FiTool",
+      "CoFolder",
       "CiRubyOnRailsIcon",
-      "FiFile",
-      "OcRuby16",
-      "RiFlowChart",
-      "LiBrain"
+      "FiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -197,5 +197,12 @@
   "Web/Ruby/Ruby on Rails/Base de datos.md": "FiFile",
   "Web/Ruby/Ruby on Rails/Vista.md": "FiFile",
   "Web/Ruby/Ruby on Rails/Modelos.md": "FiFile",
-  "Web/Ruby/Ruby on Rails/Tests.md": "FiFile"
+  "Web/Ruby/Ruby on Rails/Tests.md": "FiFile",
+  "DigitalMarketing": "CoFolder",
+  "DigitalMarketing/Aimtell": "FiTool",
+  "DigitalMarketing/Aimtell/Que es?.md": "CoFolder",
+  "DigitalMarketing/Emarsys": "FiTool",
+  "DigitalMarketing/Emarsys/Que es?.md": "FiFile",
+  "Web/Libraries": "BoBxBookBookmark",
+  "Web/Libraries/Carrusel.md": "FiFile"
 }

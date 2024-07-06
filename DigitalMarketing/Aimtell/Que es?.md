@@ -1,0 +1,2 @@
+
+**Aimtell** es una plataforma de marketing alojada en la nube que permite a los especialistas en marketing digital y empresas entregar notificaciones push basadas en la web. Esta plataforma se utiliza para automatizar y gestionar campañas de marketing a través de notificaciones que se envían directamente a los navegadores web de los usuarios.

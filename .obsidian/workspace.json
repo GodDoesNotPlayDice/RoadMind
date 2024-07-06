@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "186df0cd72266f08",
+        "id": "422decb8ea4fe888",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd21bbe9d735181",
+            "id": "e3c73e3730a82dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Ruby/Ruby on Rails/Vista.md",
+                "file": "Web/Libraries/Carrusel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Ruby/Ruby on Rails/Vista.md",
+                "file": "Web/Libraries/Carrusel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Ruby/Ruby on Rails/Vista.md",
+                "file": "Web/Libraries/Carrusel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Ruby/Ruby on Rails/Vista.md"
+                "file": "Web/Libraries/Carrusel.md"
               }
             }
           }
@@ -149,13 +149,26 @@
       "bpmn-plugin:New BPMN": false
     }
   },
-  "active": "8dd21bbe9d735181",
+  "active": "e3c73e3730a82dc5",
   "lastOpenFiles": [
-    "Web/Ruby/Ruby on Rails/Tests.md",
-    "Web/Ruby/Ruby on Rails/Vista.md",
-    "Web/Ruby/Ruby on Rails/Rutas.md",
-    "Web/Ruby/Ruby on Rails/Modelos.md",
     "Web/Ruby/Ruby on Rails/Estructura de archivos.md",
+    "Web/Libraries/Carrusel.md",
+    "Web/Libraries",
+    "Web/Ruby/Ruby on Rails/Modelos.md",
+    "Hacking/Tools/Nmap/Nmap.md",
+    "Hacking/Tools/Fuzzing/Fuzzing.md",
+    "Hacking/Tools/Arp-scan/ArpScan.md",
+    "Hacking/OverTheWire/Natas/Natas.md",
+    "Arquitectures/DDD.md",
+    "Web/Ruby/Ruby on Rails/Vista.md",
+    "Web/React/React.md",
+    "DigitalMarketing/Emarsys/Que es?.md",
+    "DigitalMarketing/Aimtell/Que es?.md",
+    "DigitalMarketing/Emarsys",
+    "DigitalMarketing/Aimtell",
+    "DigitalMarketing",
+    "Web/Ruby/Ruby on Rails/Tests.md",
+    "Web/Ruby/Ruby on Rails/Rutas.md",
     "Web/Ruby/Ruby on Rails/Controllers.md",
     "Web/Ruby/Ruby on Rails/Base de datos.md",
     "Year/Semester/Plataformas/Evaluación-1.md",
@@ -168,21 +181,13 @@
     "Ruby/Tipos de datos y Operadores.md",
     "Ruby/Instalación basica.md",
     "Ruby/Estructuras de control.md",
-    "Ruby/Clases y Funciones.md",
-    "Ruby/Arrays.md",
-    "Untitled.md",
-    "Year/Semester/Proyectos/Summary.md",
     "Ruby",
     "Pasted image 20240618182107.png",
-    "Year/Semester/BPM/Como hacer el Dashboard.md",
     "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
     "Pasted image 20240618172914.png",
     "Year/Semester/BPM/Mascota_feliz.bpmn",
-    "Year/Semester/BPM/Summary.md",
     "Year/Semester/BPM/Images/Pasted image 20240618172517.png",
     "Year/Semester/BPM/Images/Pasted image 20240618172612.png",
-    "Year/Semester/BPM/EV3/Dashboard.md",
-    "Year/Semester/BPM/KRPI/KPI KRI Solicitud.md",
     "Year/Semester/BPM/Images/Pasted image 20240614134702.png",
     "Year/Semester/BPM/model_1.bpmn",
     "Year/Semester/Proyectos/Draws/model_1.bpmn",
@@ -192,10 +197,6 @@
     "Year/Semester/Ingles/Images/Pasted image 20240531000021.png",
     "Year/Semester/Ingles/Images/Pasted image 20240530235944.png",
     "Year/Semester/BPM/Examen",
-    "Year/Semester/BPM/EV3",
-    "OS/Linux/Arch/Wayland",
-    "OS/Linux/Arch/Terminals",
-    "OS/Linux/Arch/Images",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
