@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Libraries/Carrusel.md",
+                "file": "DigitalMarketing/Aimtell/Que es.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Libraries/Carrusel.md",
+                "file": "DigitalMarketing/Aimtell/Que es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Libraries/Carrusel.md",
+                "file": "DigitalMarketing/Aimtell/Que es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Libraries/Carrusel.md"
+                "file": "DigitalMarketing/Aimtell/Que es.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "e3c73e3730a82dc5",
   "lastOpenFiles": [
-    "Web/Ruby/Ruby on Rails/Estructura de archivos.md",
+    "DigitalMarketing/Emarsys/Que es.md",
     "Web/Libraries/Carrusel.md",
+    "Web/Ruby/Ruby on Rails/Estructura de archivos.md",
     "Web/Libraries",
     "Web/Ruby/Ruby on Rails/Modelos.md",
     "Hacking/Tools/Nmap/Nmap.md",
@@ -162,8 +163,7 @@
     "Arquitectures/DDD.md",
     "Web/Ruby/Ruby on Rails/Vista.md",
     "Web/React/React.md",
-    "DigitalMarketing/Emarsys/Que es?.md",
-    "DigitalMarketing/Aimtell/Que es?.md",
+    "DigitalMarketing/Aimtell/Que es.md",
     "DigitalMarketing/Emarsys",
     "DigitalMarketing/Aimtell",
     "DigitalMarketing",

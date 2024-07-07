@@ -200,9 +200,9 @@
   "Web/Ruby/Ruby on Rails/Tests.md": "FiFile",
   "DigitalMarketing": "CoFolder",
   "DigitalMarketing/Aimtell": "FiTool",
-  "DigitalMarketing/Aimtell/Que es?.md": "CoFolder",
   "DigitalMarketing/Emarsys": "FiTool",
-  "DigitalMarketing/Emarsys/Que es?.md": "FiFile",
   "Web/Libraries": "BoBxBookBookmark",
-  "Web/Libraries/Carrusel.md": "FiFile"
+  "Web/Libraries/Carrusel.md": "FiFile",
+  "DigitalMarketing/Emarsys/Que es.md": "FiFile",
+  "DigitalMarketing/Aimtell/Que es.md": "FiFile"
 }
