@@ -11,6 +11,12 @@ class ApplicationController < ActionController::Base
 end
 ```
 
+Para crear controladores
+
+```ruby
+rails generate controller Articles index
+```
+
 ## Variables
 Las variables son asignadas de la siguiente manera utilizando los métodos de activerecord
 

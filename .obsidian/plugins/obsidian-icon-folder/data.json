@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiFile",
+      "RiVuejsFill",
       "BoBxBookBookmark",
       "FiTool",
-      "CoFolder",
-      "CiRubyOnRailsIcon",
-      "FiFile"
+      "CoFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -204,5 +204,7 @@
   "Web/Libraries": "BoBxBookBookmark",
   "Web/Libraries/Carrusel.md": "FiFile",
   "DigitalMarketing/Emarsys/Que es.md": "FiFile",
-  "DigitalMarketing/Aimtell/Que es.md": "FiFile"
+  "DigitalMarketing/Aimtell/Que es.md": "FiFile",
+  "Web/Vue": "RiVuejsFill",
+  "Web/Vue/Reforzamiento Base.md": "FiFile"
 }
