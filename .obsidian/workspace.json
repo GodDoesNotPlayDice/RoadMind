@@ -11,15 +11,24 @@
             "id": "3b1d7362542eab0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-view",
               "state": {
-                "file": "Web/Vue/Reforzamiento Base.md",
-                "mode": "source",
-                "source": false
+                "file": "Year/Semester/MachineLearning/Draws/Examen.md"
+              }
+            }
+          },
+          {
+            "id": "8f37e5821589810d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/Reforzamiento Base.md",
+                "file": "Year/Semester/MachineLearning/Draws/Examen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/Reforzamiento Base.md",
+                "file": "Year/Semester/MachineLearning/Draws/Examen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/Reforzamiento Base.md"
+                "file": "Year/Semester/MachineLearning/Draws/Examen.md"
               }
             }
           }
@@ -146,13 +155,26 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "nested-daily-todos:Add incomplete todos to today's note": false,
-      "bpmn-plugin:New BPMN": false
+      "bpmn-plugin:New BPMN": false,
+      "tldraw:Create new tldrawing": false
     }
   },
-  "active": "3b1d7362542eab0f",
+  "active": "8f37e5821589810d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Year/Semester/MachineLearning/Draws/Clase_2.md",
+    "Year/Semester/MachineLearning/Draws/Examen.md",
+    "Year/Semester/MachineLearning/Draws/Clase_5.md",
+    "tldraw/Tldraw 2024-07-18 6.07PM.md",
+    "tldraw",
+    "Web/Vue/Introducción a Vue.md",
+    "Year/Semester/MachineLearning/Draws/Drawing 2024-07-18 18.05.17.excalidraw.md",
     "Web/Vue/Reforzamiento Base.md",
+    "Arquitectures/DDD.md",
+    "Year/Semester/Tasks/OralTest-6-7-8-9-10.md",
+    "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
+    "Year/Semester/BPM/KRPI/Actividad KPI.md",
+    "MachineLearning/Intro.md",
+    "Untitled.md",
     "Web/React/React.md",
     "Web/Ruby/Tipos de datos y Operadores.md",
     "Web/Ruby/Instalación basica.md",
@@ -167,21 +189,10 @@
     "Web/Vue",
     "Web/Vue.md",
     "Web/Ruby/Ruby on Rails/Rutas.md",
-    "Web/Ruby/Ruby on Rails/Vista.md",
-    "Web/Ruby/Ruby on Rails/Tests.md",
-    "DigitalMarketing/Aimtell/Que es.md",
-    "DigitalMarketing/Emarsys/Que es.md",
     "Web/Libraries",
-    "Hacking/Tools/Nmap/Nmap.md",
-    "Hacking/Tools/Fuzzing/Fuzzing.md",
-    "Hacking/Tools/Arp-scan/ArpScan.md",
-    "Hacking/OverTheWire/Natas/Natas.md",
-    "Arquitectures/DDD.md",
     "DigitalMarketing/Emarsys",
     "DigitalMarketing/Aimtell",
     "DigitalMarketing",
-    "Year/Semester/Plataformas/Evaluación-1.md",
-    "Year/Semester/Ingles/Summary.md",
     "Ruby",
     "Pasted image 20240618182107.png",
     "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
@@ -192,7 +203,6 @@
     "Year/Semester/BPM/Images/Pasted image 20240614134702.png",
     "Year/Semester/BPM/model_1.bpmn",
     "Year/Semester/Proyectos/Draws/model_1.bpmn",
-    "MachineLearning",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000300.png",
     "Year/Semester/Ingles/Images/Pasted image 20240531000021.png",

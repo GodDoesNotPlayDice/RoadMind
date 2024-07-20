@@ -10,5 +10,6 @@
   "convert-url-to-iframe",
   "symbols-prettifier",
   "obsidian-pandoc",
-  "bpmn-plugin"
+  "bpmn-plugin",
+  "tldraw"
 ]
