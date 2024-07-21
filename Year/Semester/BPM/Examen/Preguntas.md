@@ -1,2 +1,0 @@
-- [ ] El pago se realiza al final de la atencion?
-- [ ] 

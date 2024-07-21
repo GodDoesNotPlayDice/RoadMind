@@ -15,8 +15,8 @@ if ( true ) {
 console.log(noctulo)
 ```
 
-### Interpolación 
-La interpolación es una manera de insertar variables en los strings.
+### Interpretación 
+La interpretación es una manera de insertar variables en los strings.
 ```ts
 const frase1 = "un noctulo"
 const frase2 = "el murcielago chico."

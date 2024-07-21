@@ -5,21 +5,9 @@ Esta sección empezará a dejar las bases de todo lo que normalmente usaremos en
 2. Hola Mundo en Vue
 3. Vue mediante CDN
 4. Propiedades reactivas con Ref
-5. Propiedades de solo lectura con computed
-6. Función para crear una aplicación de Vue  (createApp)
-7. Eventos y modificadores de evento
-    1. Click
-    2. Keypress
-    3. enter
-8. Invocar funciones
-9. Directivas como
-    1. v-if
-    2. v-for
-    3. v-show
-
 
 ## Descripción de Vue
-Segun la pagina oficial es un framework progresivo, ya que cuando se inicia un proyecto puede adaptarse a otro proyecto ya iniciado y solo seccionarse en una parte, o usarse en toda la app.
+Según la pagina oficial es un framework progresivo, ya que cuando se inicia un proyecto puede adaptarse a otro proyecto ya iniciado y solo seccionarse en una parte, o usarse en toda la app.
 
 
 ## CompositionAPI vs OptionsAPI
@@ -78,7 +66,7 @@ const app = createApp({
 app.mount('#app');
 ```
 
-### Propiedades reactivas
+## Propiedades reactivas
 Podemos hacer reactiva una propiedad a los cambios
 
 Creamos un botón y con la propiedad **`v-on:click`** podemos asignar una función referenciada para ejecutar código.
@@ -170,4 +158,61 @@ Debemos hacer
 <script src="/app.js"></script>
 </html>
 ```
+
+### v-if and v-show
+#### v-if
+**`v-if`** no es mas que un simple condicional dentro de HTML.
+```html
+<div id="app">
+	<ul>
+		<li v-for="({quote, author}, index) in quotes">
+			<span>{{index + 1}} - {{quote}}</span>
+			<blockquote v-if="showAuthor">{{ author }}</blockquote> <!-- true -->
+
+		</li>
+	</ul>
+	<button @click="toggleAuthor()" >Toggle Author</button>
+</div>
+```
+
+Caso del **toggle** reactivo de Vue, ocurre algo particular con Vue cuando hacemos una variable reactiva y esa es en el **valor** en Vue el valor se desenvuelve directamente en el HTML **`showAuthor`** ≠ **`showAuthor.value`**
+
+#### v-show
+Lo que hace este atributo de Vue es aplicar un **`display : none`** a la etiqueta. por lo que **`v-if ≠ v-show`** ya que uno desaparece el elemento HTML y el otro solo lo oculta.
+
+```html
+<div id="app">
+	<ul>
+		<li v-for="({quote, author}, index) in quotes">
+			<span>{{index + 1}} - {{quote}}</span>
+			<blockquote v-show="showAuthor">{{ author }}</blockquote> <!-- true / false -->
+
+		</li>
+	</ul>
+	<button @click="toggleAuthor()" >Toggle Author</button>
+</div>
+```
+
+
+#### Cuando usar?
+Es sencillo, **`v-if`** lo que principalmente hace es re-renderizar un componente por lo que en un **toggle** el elemento se **rederiza** y se **desrenderiza** entonces esto en una tarea pesada puede consumir muchos recursos y ahí es cuando entra **`v-show`**  
+
+
+### Agregar elementos a un Array y re-renderizarlo
+Podemos lograr esto agregando la función **`ref()`** al array con objetos.
+Es importante tomar el valor del array ya que como estamos trabajando en el código y no en HTML debemos usar **`value`** para tomar el array y usar sus métodos.
+
+```js
+const quotes_arr = [......];
+const quotes = ref(quotes_arr);
+
+const addQuote = () => {
+	quotes.value.unshift/push({...})
+}
+
+```
+
+### v-model
+El **`v-model`** es usado para crear un **to way data binding** osea un enlazado  de dos lugares.
+En palabras mas simples *"Si los inputs cambian de un lado también quiero que cambien del otro."*
 
