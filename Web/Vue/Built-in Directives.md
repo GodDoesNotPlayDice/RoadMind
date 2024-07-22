@@ -122,19 +122,141 @@ El bucle **`v-for`** es para poder iterar muchos elementos dentro del html.
 const items = ref([...]) // items list
 ```
 
-**Forma comun.**
+#### Forma común.
 ```html
 <div v-for="item in items">
   {{ item.text }}
 </div>
 ```
 
-**Forma destructorada**  
+#### Forma destructorada
 ```html
 <div v-for="({name, value} in items)">
   {{ item.name }} {{ item.value }}
 </div>
 ```
 
+#### Uso del key
+El uso del **`key`** sirve para distinguir elementos únicos del array y mejora la optimazacion del mismo.
 
+```html
+<div v-for="item in items" :key="item.id">
+  {{ item.text }}
+</div>
+```
+
+
+## v-on
+Simplemente lo que hace es adjuntar elementos de JS, este tiene un shorthand **`@`** y ademas tiene **`modifiers`**
+### Modifiers
+- `.stop` - call `event.stopPropagation()`.
+- `.prevent` - call `event.preventDefault()`.
+- `.capture` - add event listener in capture mode.
+- `.self` - only trigger handler if event was dispatched from this element.
+- `.{keyAlias}` - only trigger handler on certain keys.
+- `.once` - trigger handler at most once.
+- `.left` - only trigger handler for left button mouse events.
+- `.right` - only trigger handler for right button mouse events.
+- `.middle` - only trigger handler for middle button mouse events.
+- `.passive` - attaches a DOM event with `{ passive: true }`.
+
+```html
+<!-- method handler -->
+<button v-on:click="doThis"></button>
+<!-- dynamic event -->
+<button v-on:[event]="doThis"></button>
+<!-- inline statement -->
+<button v-on:click="doThat('hello', $event)"></button>
+<!-- shorthand -->
+<button @click="doThis"></button>
+<!-- shorthand dynamic event -->
+<button @[event]="doThis"></button>
+<!-- stop propagation -->
+<button @click.stop="doThis"></button>
+<!-- prevent default -->
+<button @click.prevent="doThis"></button>
+<!-- prevent default without expression -->
+<form @submit.prevent></form>
+<!-- chain modifiers -->
+<button @click.stop.prevent="doThis"></button>
+<!-- key modifier using keyAlias -->
+<input @keyup.enter="onEnter" />
+<!-- the click event will be triggered at most once -->
+<button v-on:click.once="doThis"></button>
+<!-- object syntax -->
+<button v-on="{ mousedown: doThis, mouseup: doThat }"></button>
+```
+
+## v-bind
+La forma más común de usar **`v-bind`** es para enlazar atributos de HTML con datos del componente. Por ejemplo, si tienes un componente Vue con un dato llamado **`url`**, puedes enlazar este dato con el atributo **`href`** de un enlace **(`<a>`)**
+
+```html
+<template>
+  <a v-bind="atributos">Ir a la página</a>
+</template>
+
+<script>
+import { reactive } from 'vue';
+
+export default {
+  setup() {
+    const atributos = reactive({
+      href: 'https://www.ejemplo.com',
+      target: '_blank',
+      rel: 'noopener'
+    });
+    return { atributos };
+  }
+}
+</script>
+```
+
+## v-model
+El **`v-model`** es usado para crear un **to way data binding** osea un enlazado  de dos lugares.
+En palabras mas simples *"Si los inputs cambian de un lado también quiero que cambien del otro."*
+
+```js
+const name_user = ref("")
+const users = ref([
+{name: 'Alice', email: 'alice@example.com' },
+{name: 'Bob', email: 'bob@example.com' },
+{name: 'Charlie', email: 'charlie@example.com' },
+{name: 'Dana', email: 'dana@example.com' },
+{name: 'Eve', email: 'eve@example.com' }]);
+
+const addUser = () => {
+	users.value.push({name: name_user.value, email: `${ name_user.value.toLowerCase() }@example.com`})
+name_user.value = ""
+
+}
+```
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Build in</title>
+</head>
+	<body>
+		<div id="app">
+			<ul>
+				<li v-for="{name, email} in users">
+				{{ name }} {{ email }}
+				</li>
+			</ul>
+			<input @keypress.enter="addUser" v-model="name_user" type="text">
+		</div>
+	</body>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="app.js"></script>
+</html>
+```
+
+
+## v-slots
+**`v-slot`** es una directiva en Vue que se utiliza para definir y utilizar "slots" (espacios reservados) en componentes, lo que permite una mayor flexibilidad y re utilización del código. Los slots son áreas de un componente donde se puede insertar contenido dinámico, permitiendo que los componentes sean más versátiles y re utilizables.
+
+*Continuar junto con Fernando...*
 

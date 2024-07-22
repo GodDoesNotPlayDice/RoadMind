@@ -216,3 +216,43 @@ const addQuote = () => {
 El **`v-model`** es usado para crear un **to way data binding** osea un enlazado  de dos lugares.
 En palabras mas simples *"Si los inputs cambian de un lado también quiero que cambien del otro."*
 
+```js
+const name_user = ref("")
+const users = ref([
+{name: 'Alice', email: 'alice@example.com' },
+{name: 'Bob', email: 'bob@example.com' },
+{name: 'Charlie', email: 'charlie@example.com' },
+{name: 'Dana', email: 'dana@example.com' },
+{name: 'Eve', email: 'eve@example.com' }]);
+
+const addUser = () => {
+	users.value.push({name: name_user.value, email: `${ name_user.value.toLowerCase() }@example.com`})
+name_user.value = ""
+
+}
+```
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Build in</title>
+</head>
+	<body>
+		<div id="app">
+			<ul>
+				<li v-for="{name, email} in users">
+				{{ name }} {{ email }}
+				</li>
+			</ul>
+			<input @keypress.enter="addUser" v-model="name_user" type="text">
+		</div>
+	</body>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="app.js"></script>
+</html>
+```
+
+

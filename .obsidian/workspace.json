@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/Built-in Directives.md",
+                "file": "Web/Vue/Vue-IndecisionApp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/Built-in Directives.md",
+                "file": "Web/Vue/Vue-IndecisionApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/Built-in Directives.md",
+                "file": "Web/Vue/Vue-IndecisionApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/Built-in Directives.md"
+                "file": "Web/Vue/Vue-IndecisionApp.md"
               }
             }
           }
@@ -143,18 +143,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "nested-daily-todos:Add incomplete todos to today's note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "bpmn-plugin:New BPMN": false,
-      "tldraw:Create new tldrawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "4ce699f8368a63ec",
   "lastOpenFiles": [
-    "Web/Vue/Introducción a Vue.md",
     "Web/Vue/Reforzamiento Base.md",
+    "Web/Vue/Vue-IndecisionApp.md",
+    "Web/Libraries/Carrusel.md",
     "Web/Vue/Built-in Directives.md",
+    "Web/Vue/Introducción a Vue.md",
     "Web/Vue/Untitled",
     "Untitled.md",
     "Templates/not-equal.md",
@@ -179,8 +177,6 @@
     "Web/Ruby/Arrays.md",
     "Web/Ruby/Ruby on Rails/Base de datos.md",
     "Web/Ruby/Ruby on Rails/Controllers.md",
-    "Web/Ruby/Ruby on Rails/Estructura de archivos.md",
-    "Web/Ruby/Ruby on Rails/Modelos.md",
     "Web/Vue",
     "Web/Libraries",
     "DigitalMarketing/Emarsys",

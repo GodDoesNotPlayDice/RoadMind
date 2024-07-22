@@ -142,5 +142,6 @@
   "English/Summary-Oral.md": "LiFile",
   "Templates": "TiTemplate",
   "Templates/not-equal.md": "RiFileWordFill",
-  "Web/Vue/Built-in Directives.md": "FiFile"
+  "Web/Vue/Built-in Directives.md": "FiFile",
+  "Web/Vue/Vue-IndecisionApp.md": "FiFile"
 }
