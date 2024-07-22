@@ -70,7 +70,8 @@ Es importante saber que este atributo hace una **destrucción y reconstrucción*
 Y por ultimo no es recomendable usar **`v-if`** y **`v-for`** juntos en un mismo elemento ya que 
 cuando existen en el mismo nodo, **`v-if`** tiene una prioridad mayor que **`v-for.`** Eso significa que la condición **`v-if`** no tendrá acceso a variables del alcance de **`v-for`**
 
-**El mal ejemplo**
+**El mal ejemplo del uso del v-if**
+
 ```html
 <ul>
   <li
@@ -83,17 +84,7 @@ cuando existen en el mismo nodo, **`v-if`** tiene una prioridad mayor que **`v-f
 </ul>
 ```
 
-**El buen ejemplo**
-```html
-<ul>
-  <li
-    v-for="user in activeUsers"
-    :key="user.id"
-  >
-    {{ user.name }}
-  </li>
-</ul>
-```
+**El buen ejemplo del v-if**
 
 ```html
 <ul>
@@ -104,3 +95,46 @@ cuando existen en el mismo nodo, **`v-if`** tiene una prioridad mayor que **`v-f
   </template>
 </ul>
 ```
+
+
+## v-else y v-else-if
+Es el siguiente al **`v-if`** y se comporta exactamente igual solo que como resultado si no ocurre el **`if`**, ademas se puede encadenar con **`v-else-if`**
+
+```html
+<div v-if="type === 'A'">
+  A
+</div>
+<div v-else-if="type === 'B'">
+  B
+</div>
+<div v-else-if="type === 'C'">
+  C
+</div>
+<div v-else>
+  Not A/B/C
+</div>
+```
+
+## v-for
+El bucle **`v-for`** es para poder iterar muchos elementos dentro del html.
+
+```js
+const items = ref([...]) // items list
+```
+
+**Forma comun.**
+```html
+<div v-for="item in items">
+  {{ item.text }}
+</div>
+```
+
+**Forma destructorada**  
+```html
+<div v-for="({name, value} in items)">
+  {{ item.name }} {{ item.value }}
+</div>
+```
+
+
+
