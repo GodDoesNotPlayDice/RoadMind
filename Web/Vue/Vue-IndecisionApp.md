@@ -44,11 +44,12 @@ src/
 
 
 ## Single File Component (SFC)
-Los SFC permiten definir un componente en un solo archivo, generalmente con la extensión `.vue`. Estos archivos agrupan el código **HTML, CSS y JavaScript** necesarios para el componente en una estructura organizada y modular.
+Los SFC permiten definir un componente en un solo archivo, generalmente con la extensión `.vue`. Estos archivos agrupan el código **HTML, CSS y JavaScript** necesarios para el componente en una estructura organizada y modular. [Syntax](https://vuejs.org/api/sfc-spec.html#sfc-syntax-specification)
 
 **Template (`<template>`)**: Aquí se define la estructura HTML del componente. Esta sección describe cómo se verá el componente en la interfaz de usuario.
+- En profundidad los contenidos se extraerán y pasarán a **`@vue/compiler-dom`**, se pre-compilarán en funciones de renderizado de **JavaScript** y se adjuntarán al componente exportado como su opción de renderizado.
 
-**Script (`<script>`)**: En esta sección se escribe el código JavaScript que controla la lógica del componente. Aquí es donde se manejan los datos, métodos y ciclo de vida del componente.
+**Script (`<script>`)**: En esta sección se escribe el código JavaScript que controla la lógica del componente. Aquí es donde se manejan los datos, métodos y ciclo de vida del componente, por ultimo si queremos exportar código debe ser mediante un componente.
 - **`lang`**: Define el lenguaje del **`script`**, puede ser JS o TS
 - **`setup`**: Se puede agregar para tener el inicializador de Vue.
 
@@ -63,9 +64,9 @@ Los SFC permiten definir un componente en un solo archivo, generalmente con la e
 			<h4>Square: {{ squareCounter }}</h4>
 		</div>
 		<div>
-			<button>+1</button>
-			<button>-1</button>
-		</div>
+			<button @click="counter++">+1</button>
+			<button @click="counter--">-1</button>
+		</div>@
 	</section>
 </template>
 
@@ -90,3 +91,103 @@ En este caso **`counter`** cambie de valor **`squareCounter`** también lo hará
 </script>
 ```
 
+### Pre-procesadores
+Como bien se menciono antes se pueden agregar atributo a las etiquetas para definir un **pre-procesador** con **`lang`**
+
+```vue
+
+<template lang="pug">
+p {{ msg }}
+</template>
+
+<script lang="ts">
+  // use TypeScript
+</script>
+
+<style lang="scss">
+  $primary-color: #333;
+  body {
+    color: $primary-color;
+  }
+</style>
+```
+
+## Componentes
+Los componentes en Vue no tienen nada de diferente a componentes en otros frameworks pero si algo especial es con el **linter** cual por reglas de Vue no podemos hacer un componente con una sola palabra tienen que ser dos.
+[Multi-word](https://eslint.vuejs.org/rules/multi-word-component-names.html) ⇒ [[Vue-Rules]]
+
+Estructura en carpeta.
+```
+src/
+├── components/
+	├── .MyComponent.vue
+	Vue.app
+```
+
+**`App.vue`**
+```vue
+<template>
+	<h1>Nice</h1>
+	<hr>
+	<MyCounter />
+</template>
+
+<script lang="ts" setup>
+import MyCounter from './components/MyCounter.vue';
+</script>
+```
+
+## Recibir proprieties 
+Tenemos dos según la documentación, **`defineProps()`** y **`defineEmits()`**
+
+### Define Props
+Es para recibir proprieties del Padre ⇒ Hijo.
+```js
+const props = defineProps({
+  foo: String
+})
+```
+
+#### Ejemplo en la App.
+Tenemos en nuestra **`App.vue`** el componente con un **`bind`** cual pasa por valor un numero.
+```vue
+<MyCounter :value="5"/>
+```
+
+Se debe capturar ese valor que es pasado, por lo que se usa **`defineProps()`** y esta definimos el **`parametro : valor`** , que pasa con este parámetro que lo **TS** lo toma opcional. 
+```js
+const props = defineProps({
+	value: Number, // readonly value?: number | undefined;  
+});
+```
+
+Por lo que para no tener inconvenientes podemos hacerlo obligatorio de esta forma.
+```js
+const props = defineProps({
+	value: { // readonly value: number;
+		type: Number,
+		required: true,
+	},
+});
+```
+
+Para **typescript** se puede usar los genéricos para crear el objeto en el mismo prop.
+```ts
+const props = defineProps<{ value: number }>();
+```
+
+O podemos crear una **Interface**.
+```ts
+interface Props {
+	value: number;
+}
+
+const props: Props = defineProps<Props>();
+```
+
+
+### Define Emits
+Es para crear y emitir eventos que del Hijo ⇒ Padre.
+```js
+const emit = defineEmits(['change', 'delete'])
+```

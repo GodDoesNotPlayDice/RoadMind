@@ -211,6 +211,11 @@ export default {
 </script>
 ```
 
+También **`v-bind`** tiene un short-hand cual seria **`:`**
+```vue
+<MyComponent :prop="someThing" />
+```
+
 ## v-model
 El **`v-model`** es usado para crear un **to way data binding** osea un enlazado  de dos lugares.
 En palabras mas simples *"Si los inputs cambian de un lado también quiero que cambien del otro."*
