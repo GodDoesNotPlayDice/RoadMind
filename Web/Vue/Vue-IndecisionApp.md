@@ -120,7 +120,7 @@ Estructura en carpeta.
 ```
 src/
 ├── components/
-	├── .MyComponent.vue
+	├── MyComponent.vue
 	Vue.app
 ```
 
@@ -135,6 +135,78 @@ src/
 <script lang="ts" setup>
 import MyCounter from './components/MyCounter.vue';
 </script>
+```
+
+Dentro de los componentes un detalle bien importante cuando se divide la lógica. esto es un poco mas complejo ya que usamos [Composables](#Composables) para llamar cierta lógica.
+
+Esto respeta un poco mas el orden de los componentes ya que podemos separar la logica en un archivo **typescript** y otro en **.vue**
+```
+src/
+├── components/
+		MyComponent/
+		├── MyComponent.ts
+		├── MyComponent.vue
+	Vue.app
+```
+
+**`src/components/mycomponent`**
+
+**`MyComponent.ts`**
+```ts
+import { defineComponent } from 'vue';
+import { useCounter } from '@/composables/useCounter';
+
+export default defineComponent({
+	props: {
+		value: {
+			type: Number,
+			required: true,
+		},
+	},
+	
+	setup(props) {
+		const { counter, squareCounter } = useCounter(props.value);
+		return {
+			counter, squareCounter,
+		};
+	},
+});
+```
+
+**`MyComponent.vue`**
+```vue
+<template>
+	<section>
+		<div>
+			<h3>Counter: {{ counter }}</h3>
+			<h4>Square: {{ squareCounter }}</h4>
+		</div>
+		<div>
+			<button @click="counter++">+1</button>
+			<button @click="counter--">-1</button>
+		</div>
+	</section>
+</template>
+
+<script lang="ts" src="./MyComponent"></script>
+```
+
+**`src`**
+
+**`App.vue`**
+```vue
+<template>
+  
+	<MyComponent :value="5" />
+
+</template>
+
+<script lang="ts" setup>
+
+import MyComponent from './components/MyComponent/MyComponent';
+
+</script>
+
 ```
 
 ## Recibir proprieties 
@@ -229,3 +301,71 @@ Tree shaking, también conocido como "depuración del árbol de dependencias", e
 - **Reducción del Tamaño del Bundle**: Al eliminar el código no utilizado, el tamaño del bundle que se entrega al navegador es más pequeño, lo que resulta en tiempos de carga más rápidos.
 - **Mejora del Rendimiento**: Un bundle más pequeño significa menos código para analizar y ejecutar, lo que mejora el rendimiento general de la aplicación.
 - **Optimización Automática**: Con herramientas de construcción modernas, la optimización a través de tree shaking es automática, lo que facilita a los desarrolladores mantener sus aplicaciones eficientes sin necesidad de hacer optimizaciones manuales.
+
+## Composables 
+Las Composable Functions son funciones que puedes definir para encapsular lógica reactiva y re-utilizable, permitiéndote compartir esta lógica entre diferentes componentes.
+
+Se llaman "composables" porque están diseñadas para ser combinadas y reutilizadas en la composición de tus componentes.
+
+### Características Principales
+
+1. **Reutilización de Lógica**: Permiten extraer y compartir lógica de estado entre componentes sin necesidad de mezclar o utilizar mixins, proporcionando una forma más clara y manteniente de manejar la lógica compartida.
+2. **Encapsulación**: Ayudan a encapsular la lógica en funciones individuales, lo que mejora la modularidad y la organización del código.
+3. **Reactividad**: Utilizan el sistema reactivo de Vue 3, permitiendo manejar estados reactivos y efectos secundarios de manera efectiva.
+
+**Ejemplo de documentación de vue.**
+```ts
+// mouse.js
+import { ref, onMounted, onUnmounted } from 'vue'
+
+// by convention, composable function names start with "use"
+export function useMouse() {
+  // state encapsulated and managed by the composable
+  const x = ref(0)
+  const y = ref(0)
+
+  // a composable can update its managed state over time.
+  function update(event) {
+    x.value = event.pageX
+    y.value = event.pageY
+  }
+
+  // a composable can also hook into its owner component's
+  // lifecycle to setup and teardown side effects.
+  onMounted(() => window.addEventListener('mousemove', update))
+  onUnmounted(() => window.removeEventListener('mousemove', update))
+
+  // expose managed state as return value
+  return { x, y }
+}
+```
+
+```vue
+<script setup>
+import { useMouse } from './mouse.js'
+
+const { x, y } = useMouse()
+</script>
+
+<template>Mouse position is at: {{ x }}, {{ y }}</template>
+```
+
+**Ejemplo de la App**
+```ts
+import { computed, ref, type Ref } from 'vue';
+
+interface IuseCounter {
+	counter : Ref<number>;
+	squareCounter : Ref<number>;
+}
+
+export const useCounter = (value : number) : IuseCounter => {
+
+	const counter = ref(value);
+	const squareCounter = computed(() => counter.value * counter.value);
+	
+	return { counter, squareCounter };
+
+};
+```
+
