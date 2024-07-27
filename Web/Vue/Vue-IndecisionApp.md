@@ -185,9 +185,47 @@ interface Props {
 const props: Props = defineProps<Props>();
 ```
 
+La forma antigua y larga que se usaba en **Options API**.
+```vue
+<script lang="ts">
+	import { computed, defineComponent, ref } from 'vue';
+	
+	export default defineComponent({
+		props: {
+			value: {
+			type: Number,
+			required: true,
+			},
+			text: {
+			type: String,
+			required: true,
+			},
+		},
+		setup(props) {
+			const counter = ref(props.value);
+			const squareCounter = computed(() => counter.value * counter.value);
+			return {
+			counter,
+			squareCounter,
+			};
+		},
+	});
+</script>
+```
+
 
 ### Define Emits
 Es para crear y emitir eventos que del Hijo ⇒ Padre.
 ```js
 const emit = defineEmits(['change', 'delete'])
 ```
+
+
+## Tree shaking
+Tree shaking, también conocido como "depuración del árbol de dependencias", es un término que proviene de la idea de sacudir un árbol para eliminar las hojas muertas. En el contexto del desarrollo de software, significa eliminar el código que no se usa de la aplicación. Esta técnica es particularmente útil en aplicaciones de JavaScript modernas, donde las librerías y frameworks pueden ser bastante grandes.
+
+### Beneficios de Tree Shaking
+
+- **Reducción del Tamaño del Bundle**: Al eliminar el código no utilizado, el tamaño del bundle que se entrega al navegador es más pequeño, lo que resulta en tiempos de carga más rápidos.
+- **Mejora del Rendimiento**: Un bundle más pequeño significa menos código para analizar y ejecutar, lo que mejora el rendimiento general de la aplicación.
+- **Optimización Automática**: Con herramientas de construcción modernas, la optimización a través de tree shaking es automática, lo que facilita a los desarrolladores mantener sus aplicaciones eficientes sin necesidad de hacer optimizaciones manuales.
