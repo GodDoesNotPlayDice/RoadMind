@@ -1,4 +1,5 @@
 ```bash
+```bash
 npm create vue@latest # TS, Eslint, Devtools.
 ```
 
@@ -212,7 +213,7 @@ import MyComponent from './components/MyComponent/MyComponent';
 ## Recibir proprieties 
 Tenemos dos según la documentación, **`defineProps()`** y **`defineEmits()`**
 
-### Define Props
+### Define Props!
 Es para recibir proprieties del Padre ⇒ Hijo.
 ```js
 const props = defineProps({
@@ -292,6 +293,36 @@ Es para crear y emitir eventos que del Hijo ⇒ Padre.
 const emit = defineEmits(['change', 'delete'])
 ```
 
+**Ejemplo en la app**
+Tenemos **`@keypress.enter`** o **`@click`** cualquiera para poder ejecutar la funcion de **emision** de estado.
+```vue
+<input
+type="text"
+placeholder="Type your message..."
+class="flex-1 border rounded-full px-4 py-2 focus:outline-none"
+v-model="message"
+@keypress.enter="sendMessage"
+/>
+<button
+class="bg-blue-500 text-white rounded-full p-2 ml-2 hover:bg-blue-600 focus:outline-none"
+@click="sendMessage"
+>
+```
+
+```ts
+import { ref } from 'vue';
+
+const emits = defineEmits<{
+	sendMessage: [text: string];
+}>();
+
+const message = ref('');
+const sendMessage = () => {
+	if (!message.value) return;
+	emits('sendMessage', message.value);
+	message.value = '';
+};
+```
 
 ## Tree shaking
 Tree shaking, también conocido como "depuración del árbol de dependencias", es un término que proviene de la idea de sacudir un árbol para eliminar las hojas muertas. En el contexto del desarrollo de software, significa eliminar el código que no se usa de la aplicación. Esta técnica es particularmente útil en aplicaciones de JavaScript modernas, donde las librerías y frameworks pueden ser bastante grandes.
