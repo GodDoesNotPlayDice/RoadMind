@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiFileWordFill",
-      "TiTemplate",
-      "TiDice6",
-      "LiPen",
-      "FiFile"
+      "CoFolder",
+      "FiFile",
+      "CoMap",
+      "RiJavascriptFill",
+      "RiFileWordFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -144,5 +144,11 @@
   "Templates/not-equal.md": "RiFileWordFill",
   "Web/Vue/Built-in Directives.md": "FiFile",
   "Web/Vue/Vue-IndecisionApp.md": "FiFile",
-  "Web/Vue/Vue-Rules.md": "FiFile"
+  "Web/Vue/Vue-Rules.md": "FiFile",
+  "Web/Vanilla": "RiJavascriptFill",
+  "Web/Vue/RoadMap": "LiPen",
+  "Web/Vue/RoadMap/Map.md": "CoMap",
+  "Web/Vue/CreateApp/Create App.md": "FiFile",
+  "Web/Vue/CreateApp": "CoFolder",
+  "Web/Vue/CreateApp/All methods.md": "FiFile"
 }

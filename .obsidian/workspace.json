@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/Vue-IndecisionApp.md",
+                "file": "Web/Vue/CreateApp/All methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91c32e5fc84b598e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Vue/CreateApp/Create App.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.50418853759766
+    "width": 273.49999618530273
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/Vue-IndecisionApp.md",
+                "file": "Web/Vue/CreateApp/All methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/Vue-IndecisionApp.md",
+                "file": "Web/Vue/CreateApp/All methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/Vue-IndecisionApp.md"
+                "file": "Web/Vue/CreateApp/All methods.md"
               }
             }
           }
@@ -152,22 +164,28 @@
   },
   "active": "4ce699f8368a63ec",
   "lastOpenFiles": [
-    "Web/Vue/Vue-Rules.md",
+    "Web/Vue/CreateApp/Create App.md",
+    "Web/Vue/CreateApp/All methods.md",
+    "Web/Vue/CreateApp",
     "Web/Vue/Built-in Directives.md",
+    "Web/Vanilla/Untitled",
+    "Pasted image 20240728170617.png",
+    "Web/Vue/Introducción a Vue.md",
+    "Web/Vue/RoadMap/Map.md",
     "Web/Vue/Vue-IndecisionApp.md",
+    "tldraw",
+    "Web/Vue/RoadMap",
+    "Web/Vanilla",
+    "Web/Vue/Vue-Rules.md",
     "Web/Vue/Reforzamiento Base.md",
-    "Untitled.md",
     "Templates/not-equal.md",
     "Web/Libraries/Carrusel.md",
-    "Web/Vue/Introducción a Vue.md",
-    "Web/Vue/Untitled",
     "Templates",
     "English/Summary.md",
     "Year/Semester/MachineLearning/Draws/Examen.md",
     "Year/Semester/MachineLearning/Draws/Clase_2.md",
     "Year/Semester/MachineLearning/Draws/Clase_5.md",
     "tldraw/Tldraw 2024-07-18 6.07PM.md",
-    "tldraw",
     "Year/Semester/MachineLearning/Draws/Drawing 2024-07-18 18.05.17.excalidraw.md",
     "Arquitectures/DDD.md",
     "Year/Semester/Tasks/OralTest-6-7-8-9-10.md",
@@ -179,25 +197,19 @@
     "Web/Ruby/Instalación basica.md",
     "Web/Ruby/Estructuras de control.md",
     "Web/Ruby/Clases y Funciones.md",
-    "Web/Ruby/Arrays.md",
-    "Web/Ruby/Ruby on Rails/Base de datos.md",
     "Web/Vue",
     "Web/Libraries",
     "DigitalMarketing/Emarsys",
     "DigitalMarketing/Aimtell",
-    "DigitalMarketing",
-    "Ruby",
     "Pasted image 20240618182107.png",
     "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
     "Pasted image 20240618172914.png",
-    "Year/Semester/BPM/Mascota_feliz.bpmn",
     "Year/Semester/BPM/Images/Pasted image 20240618172517.png",
     "Year/Semester/BPM/Images/Pasted image 20240618172612.png",
     "Year/Semester/BPM/Images/Pasted image 20240614134702.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "English/Images/Pasted image 20240531000300.png",
     "English/Images/Pasted image 20240531000021.png",
-    "English/Images/Pasted image 20240530235944.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

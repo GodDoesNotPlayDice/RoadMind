@@ -1,4 +1,4 @@
-```bash
+
 ```bash
 npm create vue@latest # TS, Eslint, Devtools.
 ```
