@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e79a1535e5fd171",
+        "id": "5585ac63bd7d648b",
         "type": "tabs",
         "children": [
           {
-            "id": "4ce699f8368a63ec",
+            "id": "f770c16b818725f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/CreateApp/All methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91c32e5fc84b598e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Vue/CreateApp/Create App.md",
+                "file": "Web/Vue/Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/CreateApp/All methods.md",
+                "file": "Web/Vue/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/CreateApp/All methods.md",
+                "file": "Web/Vue/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/CreateApp/All methods.md"
+                "file": "Web/Vue/Components.md"
               }
             }
           }
@@ -162,23 +150,31 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "4ce699f8368a63ec",
+  "active": "f770c16b818725f1",
   "lastOpenFiles": [
     "Untitled.md",
+    "Web/Vue/Components.md",
+    "Web/Vue/Custom Directives.md",
+    "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
     "Web/Vue/CreateApp/All methods.md",
     "Web/Vue/CreateApp/Create App.md",
-    "Web/Vue/CreateApp",
     "Web/Vue/Built-in Directives.md",
+    "Web/Vue/Introducción a Vue.md",
+    "Web/Vue/Reforzamiento Base.md",
+    "Web/Vue/Vue-Rules.md",
+    "Web/Vue/Vue-IndecisionApp.md",
+    "Web/Vue/Directive Hooks or Custom Hooks.md",
+    "Web/React/Estructura.md",
+    "Web/Vue/CreateApp/Methods",
+    "OS/Linux/Arch/Wayland/Hyprland.md",
+    "OS/Linux/Arch/Basic Installing.md",
+    "Web/Vue/CreateApp",
     "Web/Vanilla/Untitled",
     "Pasted image 20240728170617.png",
-    "Web/Vue/Introducción a Vue.md",
     "Web/Vue/RoadMap/Map.md",
-    "Web/Vue/Vue-IndecisionApp.md",
     "tldraw",
     "Web/Vue/RoadMap",
     "Web/Vanilla",
-    "Web/Vue/Vue-Rules.md",
-    "Web/Vue/Reforzamiento Base.md",
     "Templates/not-equal.md",
     "Web/Libraries/Carrusel.md",
     "Templates",
@@ -190,17 +186,9 @@
     "Year/Semester/MachineLearning/Draws/Drawing 2024-07-18 18.05.17.excalidraw.md",
     "Arquitectures/DDD.md",
     "Year/Semester/Tasks/OralTest-6-7-8-9-10.md",
-    "Year/Semester/BPM/KRPI/Actividad Tienda (KPI, KRI).md",
-    "Year/Semester/BPM/KRPI/Actividad KPI.md",
-    "MachineLearning/Intro.md",
-    "Web/React/React.md",
-    "Web/Ruby/Tipos de datos y Operadores.md",
-    "Web/Ruby/Instalación basica.md",
-    "Web/Ruby/Estructuras de control.md",
     "Web/Vue",
     "Web/Libraries",
     "DigitalMarketing/Emarsys",
-    "DigitalMarketing/Aimtell",
     "Pasted image 20240618182107.png",
     "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
     "Pasted image 20240618172914.png",
@@ -209,7 +197,6 @@
     "Year/Semester/BPM/Images/Pasted image 20240614134702.png",
     "Year/Semester/MachineLearning/Images/Pasted image 20240608161623.png",
     "English/Images/Pasted image 20240531000300.png",
-    "English/Images/Pasted image 20240531000021.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

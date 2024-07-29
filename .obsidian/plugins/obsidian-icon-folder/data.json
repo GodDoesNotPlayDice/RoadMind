@@ -150,5 +150,7 @@
   "Web/Vue/RoadMap/Map.md": "CoMap",
   "Web/Vue/CreateApp/Create App.md": "FiFile",
   "Web/Vue/CreateApp": "CoFolder",
-  "Web/Vue/CreateApp/All methods.md": "FiFile"
+  "Web/Vue/CreateApp/All methods.md": "FiFile",
+  "Web/Vue/Components.md": "FiFile",
+  "Web/Vue/Custom Directives.md": "FiFile"
 }

@@ -41,6 +41,7 @@ console.log(app.version);
 
 ### `app.component()`
 Registra un componente global si se pasa una cadena de nombre y una definición de componente, o recupera uno ya registrado si solo se pasa el nombre.
+[[Components]]
 
 ```ts
 interface App {
@@ -49,24 +50,11 @@ interface App {
 }
 ```
 
-```ts
-import { createApp } from 'vue'
-
-const app = createApp({})
-
-// register an options object
-app.component('my-component', {
-  /* ... */
-})
-
-// retrieve a registered component
-const MyComponent = app.component('my-component')
-```
 
 ### `app.directive()`
 Registra una directiva personalizada global si se pasa una cadena de nombre y una definición de directiva, o recupera una ya registrada si solo se pasa el nombre.
 
-Es muy similar a los **custom hooks de React.**
+Es muy similar a los **custom hooks de React.** 
 
 ```ts
 interface App {
@@ -75,52 +63,28 @@ interface App {
 }
 ```
 
-Suponiendo que no haya hecho clic en ninguna otra parte de la página, la entrada anterior debería tener enfoque automático.
+```ts
+import { createApp } from 'vue'
 
-Esta directiva es más útil que el atributo de enfoque automático **porque no solo funciona al cargar la página, sino que también funciona cuando Vue inserta dinámicamente el elemento.**
-```vue
-<script setup>
-// enables v-focus in templates
-const vFocus = {
-  mounted: (el) => el.focus()
-}
-</script>
-
-<template>
-  <input v-focus />
-</template>
-```
-
-En `script setup`, cualquier variable **camelCase** que comience con el prefijo v se puede utilizar como directiva personalizada.
-
-En el ejemplo anterior, **vFocus** se puede utilizar en la plantilla como **v-focus**.
-
-Si no se utiliza `<script setup>`, las directivas personalizadas se pueden registrar usando las directivas.
-
-```js
-export default {
-  setup() {
-    /*...*/
-  },
-  directives: {
-    // enables v-focus in template
-    focus: {
-      /* ... */
-    }
-  }
-}
-```
-
-También es común registrar globalmente directivas personalizadas a **nivel de aplicación**
-
-```js
-const app = createApp({})
-
-// make v-focus usable in all components
-app.directive('focus', {
+const app = createApp({
   /* ... */
 })
+
+// register (object directive)
+app.directive('my-directive', {
+  /* custom directive hooks */
+})
+
+// register (function directive shorthand)
+app.directive('my-directive', () => {
+  /* ... */
+})
+
+// retrieve a registered directive
+const myDirective = app.directive('my-directive')
 ```
+
+
 ### `app.use()`
 Los **complementos** son código autónomo que generalmente agrega funcionalidad a nivel de aplicación a Vue. 
 
@@ -139,4 +103,4 @@ const myPlugin = {
 No existe un alcance estrictamente definido para un complemento.
 
 - Registre uno o más componentes globales o directivas personalizadas con **app.component() y app.directive().**
-- Haga que un recurso sea inyectable en toda la aplicación llamando a app.provide().
+- Haga que un recurso sea inyectable en toda la aplicación llamando a **app.provide().**
