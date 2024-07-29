@@ -110,7 +110,6 @@ app.mount('#app')
 app.mount(document.body.firstChild)
 ```
 
-
 Es posible tener multiples instancias.
 
 ```js
@@ -123,6 +122,16 @@ const app2 = createApp({
   /* ... */
 })
 app2.mount('#container-2')
+```
+
+### `app.unmount()`
+
+Desmonta una instancia de aplicación montada, lo que activa los enlaces del ciclo de vida de desmontaje para todos los componentes en el árbol de componentes de la aplicación.
+
+```ts
+interface App {
+  unmount(): void
+}
 ```
 
 
