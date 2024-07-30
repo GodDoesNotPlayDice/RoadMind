@@ -57,7 +57,6 @@ const app = createApp(App)
 	```
 
 
-
 Create  app tiene un montón de métodos para usar.  [[All methods]]
 ```js
 app.component('TodoDeleteButton', TodoDeleteButton)
@@ -83,7 +82,6 @@ app.mount('#app')
 El contenido del componente raíz de la aplicación se representará dentro del elemento contenedor. **El elemento contenedor en sí no se considera parte de la aplicación.**
 
 Siempre se debe llamar al método **`.mount()`** después de realizar todas las configuraciones de la aplicación y los registros de activos, esto se refiere que es lo ultimo método que se usa.
-
 
 **`mount()`**: Espera un argumento "contenedor", que puede ser un elemento **DOM real o una cadena selectora.**
 

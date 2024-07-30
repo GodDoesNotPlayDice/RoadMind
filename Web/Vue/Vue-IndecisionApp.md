@@ -294,7 +294,7 @@ const emit = defineEmits(['change', 'delete'])
 ```
 
 **Ejemplo en la app**
-Tenemos **`@keypress.enter`** o **`@click`** cualquiera para poder ejecutar la funcion de **emision** de estado.
+Tenemos **`@keypress.enter`** o **`@click`** cualquiera para poder ejecutar la función de **emisión** de estado.
 ```vue
 <input
 type="text"

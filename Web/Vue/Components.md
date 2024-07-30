@@ -1,6 +1,6 @@
-**Component Basic**: es la division de  la interfaz de usuario en partes independientes y reutilizables, y pensar en cada pieza de forma aislada. [Básico](#Component-basic)
+**Component Basic**: es la division de  la interfaz de usuario en partes independientes y reutilizables, y pensar en cada pieza de forma aislada. [Básico](#Component-basic).
 
-**Component Registration**: Un componente de Vue debe "registrarse" para que Vue sepa dónde ubicar su implementación cuando se encuentre en una plantilla. Hay dos formas de registrar componentes: global y local. [Registro](#Component-registration)
+**Component Registration**: Un componente de Vue debe "registrarse" para que Vue sepa dónde ubicar su implementación cuando se encuentre en una plantilla. Hay dos formas de registrar componentes: global y local. [Registro](#Component-registration).
 
 ## Component-basic
 
@@ -102,8 +102,71 @@ Y por ultimo en **JS**
 
 ```
 
-#### TS file
+#### TypeScript
+En el archivo de **`typescript`** se utiliza **`defineComponent`** cual es el objeto para definir el componente.
 
+```ts
+import { defineComponent } from 'vue';
+import { useCounter } from '@/composables/useCounter';
+
+export default defineComponent({
+	props: {
+		value: {
+		type: Number,
+		required: true,
+	},
+},
+setup(props) {
+	const { counter, squareCounter } = useCounter(props.value);
+	return { counter, squareCounter };
+},
+
+});
+```
+
+Luego en el **`SFC`** lo importamos como **`src`**.
+
+```vue
+<script lang="ts" src="./MyCounter"></script>
+```
+
+### Emits
+Es para crear y emitir eventos que del Hijo ⇒ Padre.
+
+
+Con el atributo **setup** en el `<script>` trae **`defineEmits`** y este maneja una tupla la cual se puede asignar métodos
+```ts
+const emits = defineEmits<{
+	sendMessage: [text: string];
+}>();
+
+const sendMessage = () => {
+	emits('sendMessage', message.value);
+};
+
+```
+
+```vue
+<input
+type="text"
+placeholder="Type your message..."
+class="flex-1 border rounded-full px-4 py-2 focus:outline-none"
+v-model="message"
+@keypress.enter="sendMessage"
+/>
+```
+
+
+#### TypeScript
+
+```ts
+export default {
+  emits: ['enlarge-text'],
+  setup(props, ctx) {
+    ctx.emit('enlarge-text')
+  }
+}
+```
 
 
 ## Component-registration
