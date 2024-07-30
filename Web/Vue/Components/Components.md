@@ -1,8 +1,11 @@
-**Component Basic**: es la division de  la interfaz de usuario en partes independientes y reutilizables, y pensar en cada pieza de forma aislada. [Básico](#Component-basic).
+**Component Basic**: es la division de  la interfaz de usuario en partes independientes y reutilizables, y pensar en cada pieza de forma aislada.
 
-**Component Registration**: Un componente de Vue debe "registrarse" para que Vue sepa dónde ubicar su implementación cuando se encuentre en una plantilla. Hay dos formas de registrar componentes: global y local. [Registro](#Component-registration).
+**Component Registration**: Un componente de Vue debe "registrarse" para que Vue sepa dónde ubicar su implementación cuando se encuentre en una plantilla. Hay dos formas de registrar componentes: global y local. [[Components Registration]]
 
-## Component-basic
+1. [Passing Props](#Passing-Props)
+2. [Emits](#Emits)
+3. [Slots](#Slots)
+4. [Dynamic Components](#Dynamic-Components)
 
 Normalmente vamos a definir un componente en un **`SFC`** cual usamos en un archivo **`.vue`**
 
@@ -58,7 +61,7 @@ También es posible registrar globalmente un componente, poniéndolo a disposici
 
 Los pros y los contras del registro global frente al local se analizan en la sección dedicada al [Registro de componentes](#Component-registration)
 
-### Passing Props
+### Passing-Props
 Los **`custom attributes`** personalizados que puede registrar en un componente para pasar un título a nuestro componente, debemos declararlo en la lista de accesorios que acepta este componente, usando la macro **`defineProps()`**
 
 La mejor forma de hacerlo es con **`typescript`**, en el siguiente ejemplo tenemos que el **`setup`** trae por defecto lo que seria  **`defineProps()`** por lo que no hace falta importarlo, y es acá donde usamos la interfaz para definir todos los **props**.
@@ -155,8 +158,6 @@ v-model="message"
 @keypress.enter="sendMessage"
 />
 ```
-
-
 #### TypeScript
 
 ```ts
@@ -168,94 +169,77 @@ export default {
 }
 ```
 
+### Slots
 
-## Component-registration
+Al igual que con los elementos HTML, suelen ser útil poder pasar contenido a un componente.
 
-#### Forma Global
-Si bien es conveniente, el registro global tiene algunos inconvenientes.
+Lo que hace slot es generar una etiqueta custom para poder pasar **lo que sea** por una etiqueta HTML mas de los [[Slots]]
 
-- El registro global evita que los sistemas de compilación eliminen componentes no utilizados **(también conocido como "sacudida de árboles")**. Si registra globalmente un componente pero al final no lo utiliza en ninguna parte de su aplicación, **seguirá incluido en el paquete final.**
-- El registro global hace que las **relaciones de dependencia** sean menos explícitas en aplicaciones grandes.
-	- Hace que sea difícil localizar la implementación de un componente secundario desde un componente principal que lo utiliza. 
-	- Esto puede afectar la mantenibilidad a largo plazo de manera similar al uso de demasiadas variables globales.
-
-
-Podemos hacer que los componentes estén disponibles globalmente en la aplicación Vue actual usando el método **`.component()`**
-
-```ts
-import { createApp } from 'vue'
-
-const app = createApp({})
-
-// register an options object
-app.component('my-component', {
-  /* ... */
-})
-
-// retrieve a registered component
-const MyComponent = app.component('my-component')
-```
-
-Usando **SFC** registrará los archivos **`.vue`** importados
-
-```js
-import MyComponent from './App.vue'
-
-app.component('MyComponent', MyComponent)
-```
-
-El método **`.component()`** se puede encadenar
-
-```js
-app
-  .component('ComponentA', ComponentA)
-  .component('ComponentB', ComponentB)
-  .component('ComponentC', ComponentC)
-```
-
-Los componentes registrados globalmente se pueden utilizar en la plantilla de cualquier componente dentro de esta aplicación.
-
-```vue
-<ComponentA/>
-<ComponentB/>
-<ComponentC/>
-```
-
-#### Forma local
-El registro local limita la disponibilidad de los componentes registrados únicamente al componente actual ademas hace que la relación de dependencia sea más explícita y es más amigable con **tree-shaking**.
-
-Cuando se utiliza SFC con `<script setup>`, los componentes importados se pueden usar localmente sin registro
-
+**`App.vue`**
 ```vue
 <script setup>
-import ComponentA from './ComponentA.vue'
+import AlertBox from './AlertBox.vue'
 </script>
 
 <template>
-  <ComponentA />
+	<AlertBox>
+		Something bad happened.
+	</AlertBox>
 </template>
 ```
 
-Sin `setup` se debe definir el export del componente.
+**`AlertBox.vue`**
+```vue
+<template>
 
-```ts
-import ComponentA from './ComponentA.js'
-
-export default {
-  components: {
-    ComponentA
-  },
-  setup() {
-    // ...
-  }
-}
+	<div class="alert-box">
+		<strong>Error!</strong>
+		<br/>	
+		<slot />
+	</div>
+</template>
 ```
 
-Tener en cuenta que los componentes registrados localmente no están disponibles también en componentes descendientes. En este caso, **`Component A`** estará disponible únicamente para el componente actual, **no para ninguno de sus componentes secundarios o descendientes.**
 
-Por ultimo los componentes deben estar registrados en **Pascal-Case**, el porque es
-1) Los nombres de **PascalCase** son identificadores de JavaScript válidos. Esto facilita la importación y el registro de componentes en JavaScript. También ayuda a los IDE con el autocompletado.
-2) `<PascalCase />` hace que sea más obvio que se trata de un componente de Vue en lugar de un elemento HTML nativo en las plantillas. También diferencia los componentes de Vue de los elementos personalizados (componentes web).
+### Dynamic-Components
+En vue existen los componentes cuales nos servirán para poder rederizar ciertos componentes si necesidad de tener los tres en tres etiquetas diferentes.
 
-Por suerte también se puede registrar en **kebab-case**
-`<my-component >`
+En este ejemplo podemos apreciar como funciona el **atributo `is`** cual sirve para indicar **si es** o **no es**, en este caso tenemos **3 SFC o Components** los cuales son importados y agregados al objeto **`tabs`** y un **`currentTab`** cual sera una variable **reactiva**, luego se generan **3 botones** los cuales son **`Home, Posts, Archive`** cuales se comportaran como **`tabs`** y estos irán cambiando dependiendo de la variable **reactiva** que es actualizada al **Tab** en el momento de hacer click.  
+
+Y por ultimo en la etiqueta **`componnet`** usar **`:is`** mas **`tabs[currentTab]`** y tener la plantilla del componente seleccionado.
+
+```vue
+<script setup>
+import Home from './Home.vue'
+import Posts from './Posts.vue'
+import Archive from './Archive.vue'
+import { ref } from 'vue'
+
+const currentTab = ref('Home')
+const tabs = {
+Home,
+Posts,
+Archive
+}
+</script>
+
+<template>
+	<div class="demo">
+	
+	<button
+	v-for="(_, tab) in tabs"
+	:key="tab"
+	:class="['tab-button', { active: currentTab === tab }]"
+	@click="currentTab = tab">	
+	{{ tab }}
+	
+	</button>
+	
+	<component :is="tabs[currentTab]" class="tab"></component>
+	
+	</div>
+
+</template>
+```
+
+Este es un ejemplo muy bueno y ademas se puede relacionar mucho con [[KeepAlive]]

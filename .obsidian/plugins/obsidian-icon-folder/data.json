@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiImage",
       "CoFolder",
       "FiFile",
       "CoMap",
-      "RiJavascriptFill",
-      "RiFileWordFill"
+      "RiJavascriptFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -131,7 +131,6 @@
   "DigitalMarketing/Emarsys/Que es.md": "FiFile",
   "DigitalMarketing/Aimtell/Que es.md": "FiFile",
   "Web/Vue": "RiVuejsFill",
-  "Web/Vue/Reforzamiento Base.md": "FiFile",
   "Web/Vue/Introducción a Vue.md": "FiFile",
   "English": "TiLanguage",
   "English/ExamOral.md": "FiFile",
@@ -140,9 +139,6 @@
   "English/Summary-Oral-Mauro-Edition.md": "LiFile",
   "English/Summary.md": "FiFile",
   "English/Summary-Oral.md": "LiFile",
-  "Templates": "TiTemplate",
-  "Templates/not-equal.md": "RiFileWordFill",
-  "Web/Vue/Built-in Directives.md": "FiFile",
   "Web/Vue/Vue-IndecisionApp.md": "FiFile",
   "Web/Vue/Vue-Rules.md": "FiFile",
   "Web/Vanilla": "RiJavascriptFill",
@@ -151,6 +147,18 @@
   "Web/Vue/CreateApp/Create App.md": "FiFile",
   "Web/Vue/CreateApp": "CoFolder",
   "Web/Vue/CreateApp/All methods.md": "FiFile",
-  "Web/Vue/Components.md": "FiFile",
-  "Web/Vue/Custom Directives.md": "FiFile"
+  "Web/Vue/Components": "CoFolder",
+  "Web/Vue/Components/Slots.md": "FiFile",
+  "Web/Vue/Components/Components Registration.md": "FiFile",
+  "Web/Vue/LifeCycle": "CoFolder",
+  "Web/Vue/LifeCycle/KeepAlive.md": "FiFile",
+  "Web/Vue/Images": "FiImage",
+  "Web/Vanilla/Escencial.md": "FiFile",
+  "Web/Vue/Directives": "CoFolder",
+  "Web/Vue/Directives/Custom Directives.md": "FiFile",
+  "Web/Vue/Directives/Built-in Directives.md": "FiFile",
+  "Networks/Templates": "TiTemplate",
+  "Networks/Templates/not-equal.md": "RiFileWordFill",
+  "Web/Vue/Components/Components.md": "FiFile",
+  "Web/Vue/Composables": "CoFolder"
 }

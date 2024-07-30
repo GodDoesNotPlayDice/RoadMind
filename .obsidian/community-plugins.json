@@ -12,5 +12,6 @@
   "obsidian-pandoc",
   "bpmn-plugin",
   "tldraw",
-  "shortcuts-extender"
+  "shortcuts-extender",
+  "code-emitter"
 ]
