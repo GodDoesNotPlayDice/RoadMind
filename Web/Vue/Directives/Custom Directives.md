@@ -108,3 +108,50 @@ Los `hooks` directivos se pasan a estos argumentos.
 ```vue
 <div v-example:foo.bar="baz">
 ```
+
+El argumento `binding` sería un objeto con la forma de:
+
+```ts{
+  arg: 'foo',
+  modifiers: { bar: true },
+  value: /* value of `baz` */,
+  oldValue: /* value of `baz` from previous update */
+}
+```
+
+Al igual que las directivas integradas, los argumentos de las directivas personalizadas pueden ser dinámicos.
+
+```vue
+<div v-example:[arg]="value"></div>
+```
+
+Aquí el argumento de la directiva se actualizará reactivamente según la propiedad `arg` en el estado de nuestro componente.
+
+### Shorts-hands
+
+Es común que una directiva personalizada tenga el mismo comportamiento para `mounted` y `update`, sin necesidad de otros enlaces. En tales casos podemos definir la directiva como una función:
+
+```vue
+<div v-color="color"></div>
+```
+
+```ts
+app.directive('color', (el, binding) => {
+  // this will be called for both `mounted` and `updated`
+  el.style.color = binding.value
+})
+```
+
+### Object-Literals
+Si su directiva necesita varios valores, también puede pasar un objeto literal de JavaScript. Recuerde, las directivas pueden tomar cualquier expresión JavaScript válida.
+```vue
+<div v-demo="{ color: 'white', text: 'hello!' }"></div>
+```
+
+```js
+app.directive('demo', (el, binding) => {
+  console.log(binding.value.color) // => "white"
+  console.log(binding.value.text) // => "hello!"
+})
+```
+
