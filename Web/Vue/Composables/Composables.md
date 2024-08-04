@@ -105,5 +105,4 @@ const { data, error } = useFetch('...')
 </script>
 ```
 
-
-
+`useFetch()` toma una cadena de URL estática como entrada, por lo que realiza la búsqueda solo una vez y luego finaliza. ¿Qué pasa si queremos que se vuelva a buscar cada vez que cambie la URL? Para lograr esto, necesitamos pasar el estado reactivo a la función componible y dejar que la función componible cree observadores que realicen acciones utilizando el estado pasado.

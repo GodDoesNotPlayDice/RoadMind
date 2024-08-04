@@ -164,5 +164,6 @@
   "Templates/not-equal.md": "RiFileWordFill",
   "MachineLearning/Intro.md": "FiFile",
   "Architectures": "BoBxsServer",
-  "Architectures/DDD.md": "TiFile"
+  "Architectures/DDD.md": "TiFile",
+  "Web/Vue/Testing.md": "FiFile"
 }
