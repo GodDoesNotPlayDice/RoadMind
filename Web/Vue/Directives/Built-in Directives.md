@@ -265,3 +265,10 @@ name_user.value = ""
 
 *Continuar junto con Fernando...*
 
+
+## v-is
+La directiva **`v-is`** se utiliza para cambiar dinámicamente el componente que se renderiza en función de una condición. 
+
+Esto es útil cuando se desea cambiar el componente que se renderiza en función de una condición, **como un estado o una propiedad.**
+
+En el ejemplo que has proporcionado, `:is="selectedIcon"` le dice a Vue que renderice el componente que se asigna a `selectedIcon`. El valor de `selectedIcon` se determina en función del prop `iconName` que se pasa al componente
