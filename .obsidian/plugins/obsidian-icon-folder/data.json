@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiFile",
+      "BoBxlTailwindCss",
       "BoBxlTypescript",
       "TiWorld",
-      "FiImage",
-      "CoFolder",
-      "FiFile"
+      "FiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -165,5 +165,7 @@
   "MachineLearning/Intro.md": "FiFile",
   "Architectures": "BoBxsServer",
   "Architectures/DDD.md": "TiFile",
-  "Web/Vue/Testing.md": "FiFile"
+  "Web/Vue/Testing.md": "FiFile",
+  "Web/Tailwind": "BoBxlTailwindCss",
+  "Web/Tailwind/Tailwind Install.md": "FiFile"
 }

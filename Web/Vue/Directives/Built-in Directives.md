@@ -220,43 +220,33 @@ También **`v-bind`** tiene un short-hand cual seria **`:`**
 El **`v-model`** es usado para crear un **to way data binding** osea un enlazado  de dos lugares.
 En palabras mas simples *"Si los inputs cambian de un lado también quiero que cambien del otro."*
 
-```js
-const name_user = ref("")
-const users = ref([
-{name: 'Alice', email: 'alice@example.com' },
-{name: 'Bob', email: 'bob@example.com' },
-{name: 'Charlie', email: 'charlie@example.com' },
-{name: 'Dana', email: 'dana@example.com' },
-{name: 'Eve', email: 'eve@example.com' }]);
+```vue
+<div class="grid grid-cols-2 h-screen">
+	<div class="bg-green-800 h-full w-full flex justify-center items-center">
+		<p class="text-2xl font-bold text-white">{{ s_val }}</p>
+	</div>
+	<div class="bg-green-600 h-full w-full flex justify-center items-center">
+		<InputValue v-model="s_val"></InputValue>
+	</div>
+</div>
 
-const addUser = () => {
-	users.value.push({name: name_user.value, email: `${ name_user.value.toLowerCase() }@example.com`})
-name_user.value = ""
+<script setup lang="ts">
+  const s_val = ref('')
+</script>
 
-}
 ```
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Build in</title>
-</head>
-	<body>
-		<div id="app">
-			<ul>
-				<li v-for="{name, email} in users">
-				{{ name }} {{ email }}
-				</li>
-			</ul>
-			<input @keypress.enter="addUser" v-model="name_user" type="text">
-		</div>
-	</body>
-<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-<script src="app.js"></script>
-</html>
+<template>
+	<div class="flex flex-col gap-4">
+		<h1 class="font-bold text-white">Uso del v-model</h1>
+		<input class="p-2 rounded-lg" v-model="text" type="text" />
+	</div>
+
+</template>
+<script setup lang="ts">
+	const text = defineModel()	
+</script>
 ```
 
 

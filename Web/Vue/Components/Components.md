@@ -138,26 +138,56 @@ Es para crear y emitir eventos que del Hijo ⇒ Padre.
 
 
 Con el atributo **setup** en el `<script>` trae **`defineEmits`** y este maneja una tupla la cual se puede asignar métodos
-```ts
-const emits = defineEmits<{
-	sendMessage: [text: string];
-}>();
 
-const sendMessage = () => {
-	emits('sendMessage', message.value);
-};
+```vue
+<div class="grid grid-cols-2 h-screen">
+	<div class="bg-green-600 h-full w-full flex justify-center items-center">
+		<p class="text-2xl font-bold text-white">{{ n_val }}</p>
+	</div>
+	<RandomValue
+	@send-random-number="getRandomNumber"
+	class="bg-green-800 h-full w-full flex justify-center items-center">
+	</RandomValue>
+</div>
 
+<script lang=ts setup>
+import { ref } from 'vue'
+const n_val = ref(0)
+
+const getRandomNumber = (n: number) => {
+  n_val.value = n
+}
+
+</script>
 ```
 
 ```vue
-<input
-type="text"
-placeholder="Type your message..."
-class="flex-1 border rounded-full px-4 py-2 focus:outline-none"
-v-model="message"
-@keypress.enter="sendMessage"
-/>
+<template>
+	<div>
+		<button class="cursor-pointer" @click="sendRandomNumber">
+			<h1 class="font-bold text-white">Uso del defineEmits</h1>
+			<p class="text-2xl font-bold text-white">Clickeame</p>
+		</button>
+	</div>
+</template>
+
+
+<script lang="ts" setup>
+import { ref } from 'vue'
+const emit = defineEmits<{
+sendRandomNumber: [value: number]
+}>()
+
+
+const sendRandomNumber = () => {
+const randomNumber = ref(Math.random())
+emit('sendRandomNumber', randomNumber.value)
+}
+</script>
+
 ```
+
+
 #### TypeScript
 
 ```ts
