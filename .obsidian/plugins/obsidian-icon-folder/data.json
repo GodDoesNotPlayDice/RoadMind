@@ -167,5 +167,6 @@
   "Architectures/DDD.md": "TiFile",
   "Web/Vue/Testing.md": "FiFile",
   "Web/Tailwind": "BoBxlTailwindCss",
-  "Web/Tailwind/Tailwind Install.md": "FiFile"
+  "Web/Tailwind/Tailwind Install.md": "FiFile",
+  "Web/Vue/Start a project.md": "FiFile"
 }

@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/Components/Components Registration.md",
+                "file": "Web/Vue/Vue-IndecisionApp.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dae1642953da6a8f",
+            "id": "db28c05bfa7b66be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/Components/Components.md",
+                "file": "Web/Vue/Start a project.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/Components/Components.md",
+                "file": "Web/Vue/Start a project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/Components/Components.md",
+                "file": "Web/Vue/Start a project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/Components/Components.md"
+                "file": "Web/Vue/Start a project.md"
               }
             }
           }
@@ -164,8 +164,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dae1642953da6a8f",
+  "active": "db28c05bfa7b66be",
   "lastOpenFiles": [
+    "Web/Vue/Vue-IndecisionApp.md",
+    "Web/Vue/Start a project.md",
+    "Web/Vue/Introducción a Vue.md",
+    "Web/Vue/Components/Components.md",
     "Web/Vue/Composables/Composables.md",
     "Web/Vue/Directives/Built-in Directives.md",
     "Web/Vue/CreateApp/Create App.md",
@@ -175,9 +179,6 @@
     "Web/Tailwind",
     "Web/Tailwind/Tailwind Install.md",
     "Web/Vue/Directives/Custom Directives.md",
-    "Web/Vue/Components/Components.md",
-    "Web/Vue/Vue-IndecisionApp.md",
-    "Web/Vue/Introducción a Vue.md",
     "OS/Linux/Arch/Wayland/Hyprland.md",
     "Index.md",
     "Web/Ruby/Introducción a Ruby y Ruby on Rails.md",
