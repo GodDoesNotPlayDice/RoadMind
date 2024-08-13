@@ -122,6 +122,7 @@ const app2 = createApp({
 app2.mount('#container-2')
 ```
 
+
 ### `app.unmount()`
 
 Desmonta una instancia de aplicación montada, lo que activa los enlaces del ciclo de vida de desmontaje para todos los componentes en el árbol de componentes de la aplicación.
@@ -130,6 +131,42 @@ Desmonta una instancia de aplicación montada, lo que activa los enlaces del cic
 interface App {
   unmount(): void
 }
+```
+
+
+### Otra forma de crear y montar la App.
+Es posible crear el **objeto app** directamente desde el objeto sin importarlo ya que al existir la **CDN** de por si tienes acceso al objeto, ademas de montar la app y usar la sintaxis dentro de **app**
+
+```js
+const app = Vue.createApp({
+	data() {
+		return {
+			product : 'Socks'
+		}
+	}
+})
+```
+
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<title>Vue Mastery</title>
+	</head>
+	<body>
+		<div id="app">
+			<h1>{{ product }}</h1>
+		</div>
+	</body>
+	<script src="main.js"></script>
+	<script>
+	const mountedApp = app.mount('#app')
+	</script>
+</html>
 ```
 
 
