@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoFolder",
       "FiFile",
       "BoBxlTailwindCss",
       "BoBxlTypescript",
-      "TiWorld",
-      "FiImage"
+      "TiWorld"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -168,5 +168,8 @@
   "Web/Vue/Testing.md": "FiFile",
   "Web/Tailwind": "BoBxlTailwindCss",
   "Web/Tailwind/Tailwind Install.md": "FiFile",
-  "Web/Vue/Start a project.md": "FiFile"
+  "Web/Vue/Start a project.md": "FiFile",
+  "Web/Vanilla/Variables": "CoFolder",
+  "Web/Vanilla/Variables/Variables.md": "FiFile",
+  "Web/Vanilla/Variables/Tipos de datos.md": "FiFile"
 }

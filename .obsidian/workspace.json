@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7ac06c1ade27c3",
+        "id": "a1c6a70a56a515da",
         "type": "tabs",
         "children": [
           {
-            "id": "86019f53c20f797b",
+            "id": "57f0f485f4cae993",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/Vue-IndecisionApp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db28c05bfa7b66be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Vue/CreateApp/Create App.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/CreateApp/Create App.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/CreateApp/Create App.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/CreateApp/Create App.md"
+                "file": "Web/Vanilla/Variables/Tipos de datos.md"
               }
             }
           }
@@ -152,33 +139,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "nested-daily-todos:Add incomplete todos to today's note": false,
+      "bpmn-plugin:New BPMN": false,
+      "tldraw:Create new tldrawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "nested-daily-todos:Add incomplete todos to today's note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "bpmn-plugin:New BPMN": false,
-      "tldraw:Create new tldrawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "db28c05bfa7b66be",
+  "active": "57f0f485f4cae993",
   "lastOpenFiles": [
+    "Web/Vanilla/Variables/Variables.md",
+    "Web/Vanilla/Variables/Tipos de datos.md",
+    "Web/Vanilla/Variables/Forma de declarar.md",
+    "Web/Vue/Vue-IndecisionApp.md",
+    "Web/Tailwind/Tailwind Install.md",
+    "Web/Vanilla/Variables",
+    "Web/Vue/CreateApp/Create App.md",
     "Web/Vue/CreateApp/All methods.md",
     "Index.md",
     "Web/Vue/Start a project.md",
-    "Web/Vue/Vue-IndecisionApp.md",
     "Web/Vue/Introducción a Vue.md",
     "Web/Vue/Components/Components.md",
     "Web/Vue/Composables/Composables.md",
     "Web/Vue/Directives/Built-in Directives.md",
-    "Web/Vue/CreateApp/Create App.md",
     "Web/Vue/Components/Slots.md",
     "Web/Vue/Components/Components Registration.md",
     "Web/Tailwind",
-    "Web/Tailwind/Tailwind Install.md",
     "Web/Vue/Directives/Custom Directives.md",
     "OS/Linux/Arch/Wayland/Hyprland.md",
     "Web/Ruby/Introducción a Ruby y Ruby on Rails.md",
@@ -190,12 +181,9 @@
     "Web/NestJS/Overview.md",
     "Web/NestJS/NestJS.md",
     "Web/React/Introducción a React.md",
-    "Web/React/React.md",
-    "Web/Ruby/Ruby on Rails/Tests.md",
-    "Web/Ruby/Ruby on Rails/Estructura de archivos.md",
     "Web/Typescript",
     "Inde",
-    "Web/Vanilla/Untitled",
+    "Web/Vanilla/Variables",
     "Web/Vue/Composables",
     "Web/Vue/Directives",
     "Web/Vue/Images/Pasted image 20240730150110.png",
@@ -203,7 +191,6 @@
     "Web/Vue/LifeCycle",
     "Web/Vue/Components",
     "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
-    "Web/Vue/CreateApp/Methods",
     "Pasted image 20240728170617.png",
     "Pasted image 20240618182107.png",
     "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
