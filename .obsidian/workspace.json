@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "df6a021bdc281927",
+        "id": "aef13cf20c6384f1",
         "type": "tabs",
         "children": [
           {
-            "id": "4ee39db68b27c3ab",
+            "id": "689b7fd1b3ccb659",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web/Vue/Introducción a Vue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Vue/Introducción a Vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web/Vue/Introducción a Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web/Vue/Introducción a Vue.md"
+              }
             }
           }
         ],
@@ -143,8 +151,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "689b7fd1b3ccb659",
   "lastOpenFiles": [
+    "Web/Vue/Testing/Testing.md",
+    "Web/Vue/Introducción a Vue.md",
+    "Web/Vue/Projects/Notas de Proyectos.md",
+    "Web/Vue/Projects/Vue-IndecisionApp.md",
+    "Web/Vue/Projects",
+    "Web/Vue/Start a project.md",
+    "Web/Vue/Vue-Rules.md",
+    "Index.md",
+    "Web/Vue/Testing",
+    "Web/Vue/Directives/Built-in Directives.md",
+    "Web/Vue/CreateApp/Create App.md",
+    "Web/Vue/RoadMap/Map.md",
+    "Web/Vue/Images/Pasted image 20240730150110.png",
+    "Networks/Ports/Ports and Sockets.md",
+    "Networks/Domains/DNS.md",
+    "OS/Linux/Arch/Wayland/Hyprland.md",
     "English/Index.md",
     "English/Summary.md",
     "English/ExamOral.md",
@@ -153,35 +177,19 @@
     "Web/Vanilla/Variables/Tipos de datos.md",
     "Web/Vanilla/Variables/Variables.md",
     "Web/Vanilla/Variables/Forma de declarar.md",
-    "Web/Vue/Vue-IndecisionApp.md",
     "Web/Tailwind/Tailwind Install.md",
     "Web/Vanilla/Variables",
-    "Web/Vue/CreateApp/Create App.md",
     "Web/Vue/CreateApp/All methods.md",
-    "Index.md",
-    "Web/Vue/Start a project.md",
-    "Web/Vue/Introducción a Vue.md",
     "Web/Vue/Components/Components.md",
     "Web/Vue/Composables/Composables.md",
-    "Web/Vue/Directives/Built-in Directives.md",
     "Web/Vue/Components/Slots.md",
-    "Web/Vue/Components/Components Registration.md",
     "Web/Tailwind",
-    "Web/Vue/Directives/Custom Directives.md",
-    "OS/Linux/Arch/Wayland/Hyprland.md",
-    "Web/Ruby/Introducción a Ruby y Ruby on Rails.md",
-    "Web/Ruby/Arrays.md",
-    "Web/Vue/Testing.md",
-    "Web/Typescript/Introducción a Typescript.md",
     "Web/Typescript",
     "Inde",
     "Web/Vanilla/Variables",
     "Web/Vue/Composables",
     "Web/Vue/Directives",
-    "Web/Vue/Images/Pasted image 20240730150110.png",
     "Web/Vue/Images",
-    "Web/Vue/LifeCycle",
-    "Web/Vue/Components",
     "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
     "Pasted image 20240728170617.png",
     "Pasted image 20240618182107.png",

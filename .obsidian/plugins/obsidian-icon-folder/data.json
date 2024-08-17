@@ -130,8 +130,6 @@
   "English/LastOral.md": "FiFile",
   "English/Summary.md": "FiFile",
   "English/Summary-Oral.md": "LiFile",
-  "Web/Vue/Vue-IndecisionApp.md": "FiFile",
-  "Web/Vue/Vue-Rules.md": "FiFile",
   "Web/Vanilla": "RiJavascriptFill",
   "Web/Vue/RoadMap": "LiPen",
   "Web/Vue/RoadMap/Map.md": "CoMap",
@@ -162,7 +160,6 @@
   "Templates/not-equal.md": "RiFileWordFill",
   "Architectures": "BoBxsServer",
   "Architectures/DDD.md": "TiFile",
-  "Web/Vue/Testing.md": "FiFile",
   "Web/Tailwind": "BoBxlTailwindCss",
   "Web/Tailwind/Tailwind Install.md": "FiFile",
   "Web/Vue/Start a project.md": "FiFile",
@@ -171,5 +168,10 @@
   "Web/Vanilla/Variables/Tipos de datos.md": "FiFile",
   "English/Index.md": "FiFile",
   "ML": "LiBrain",
-  "ML/Intro.md": "FiFile"
+  "ML/Intro.md": "FiFile",
+  "Web/Vue/Testing/Testing.md": "FiFile",
+  "Web/Vue/Testing": "CoFolder",
+  "Web/Vue/Projects/Vue-IndecisionApp.md": "FiFile",
+  "Web/Vue/Projects": "CoFolder",
+  "Web/Vue/Projects/Notas de Proyectos.md": "FiFile"
 }
