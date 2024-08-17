@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ad8497b20cab563",
+        "id": "df6a021bdc281927",
         "type": "tabs",
         "children": [
           {
-            "id": "11547091ce501419",
+            "id": "4ee39db68b27c3ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Index.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,10 +143,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11547091ce501419",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
-    "English/Summary.md",
     "English/Index.md",
+    "English/Summary.md",
     "English/ExamOral.md",
     "English/LastOral.md",
     "English/Summary-Oral.md",

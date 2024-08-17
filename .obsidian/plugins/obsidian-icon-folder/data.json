@@ -101,7 +101,6 @@
   "OS/Linux/Arch/Terminals/Alacritty.md": "TiScript",
   "OS/Linux/Arch/Wayland": "CiWaylandLogo",
   "OS/Linux/Arch/Wayland/Hyprland.md": "TiScript",
-  "MachineLearning": "LiBrain",
   "Ruby/Sintaxis y tipos de datos.md": "FiFile",
   "Web/Ruby": "OcRuby16",
   "Web/Ruby/Clases y Funciones.md": "FiFile",
@@ -161,7 +160,6 @@
   "Web/React/Introducción a React.md": "FiFile",
   "Templates": "TiTemplate",
   "Templates/not-equal.md": "RiFileWordFill",
-  "MachineLearning/Intro.md": "FiFile",
   "Architectures": "BoBxsServer",
   "Architectures/DDD.md": "TiFile",
   "Web/Vue/Testing.md": "FiFile",
@@ -171,5 +169,7 @@
   "Web/Vanilla/Variables": "CoFolder",
   "Web/Vanilla/Variables/Variables.md": "FiFile",
   "Web/Vanilla/Variables/Tipos de datos.md": "FiFile",
-  "English/Index.md": "FiFile"
+  "English/Index.md": "FiFile",
+  "ML": "LiBrain",
+  "ML/Intro.md": "FiFile"
 }
