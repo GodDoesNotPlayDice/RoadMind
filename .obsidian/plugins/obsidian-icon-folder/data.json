@@ -129,7 +129,6 @@
   "English/ExamOral.md": "FiFile",
   "English/Images": "LiImage",
   "English/LastOral.md": "FiFile",
-  "English/Summary-Oral-Mauro-Edition.md": "LiFile",
   "English/Summary.md": "FiFile",
   "English/Summary-Oral.md": "LiFile",
   "Web/Vue/Vue-IndecisionApp.md": "FiFile",
@@ -171,5 +170,6 @@
   "Web/Vue/Start a project.md": "FiFile",
   "Web/Vanilla/Variables": "CoFolder",
   "Web/Vanilla/Variables/Variables.md": "FiFile",
-  "Web/Vanilla/Variables/Tipos de datos.md": "FiFile"
+  "Web/Vanilla/Variables/Tipos de datos.md": "FiFile",
+  "English/Index.md": "FiFile"
 }
