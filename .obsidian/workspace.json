@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md"
+                "file": "Web/Vanilla/Variables/Tipos de datos.md"
               }
             }
           }
@@ -153,6 +153,10 @@
   },
   "active": "3921ffcc76240143",
   "lastOpenFiles": [
+    "Pasted image 20240819150637.png",
+    "Web/Vanilla/Introducción a Javascript.md",
+    "Web/Vanilla/Escencial.md",
+    "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
     "Web/Vue/Vue Router/Router.md",
     "Web/Vue/Introducción a Vue.md",
     "Web/Vue/Testing/Testing.md",
@@ -162,8 +166,6 @@
     "Web/Vue/Vue Router",
     "Web/Vanilla/Variables/Tipos de datos.md",
     "Web/Vanilla/Variables/Variables.md",
-    "Web/Vanilla/Escencial.md",
-    "Web/Vanilla/Introducción a Javascript.md",
     "Web/Typescript/Introducción a Typescript.md",
     "Web/Vue/Esencial/Components/Components.md",
     "Web/Vue/Projects/Notas de Proyectos.md",
@@ -183,8 +185,6 @@
     "Web/Vue/Esencial/Components/Images/Pasted image 20240730150110.png",
     "Networks/Ports/Ports and Sockets.md",
     "Networks/Domains/DNS.md",
-    "OS/Linux/Arch/Wayland/Hyprland.md",
-    "English/Index.md",
     "Web/Vanilla/Variables",
     "Web/Tailwind",
     "Web/Typescript",

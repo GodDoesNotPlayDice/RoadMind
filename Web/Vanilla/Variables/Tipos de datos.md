@@ -1,3 +1,4 @@
+El tipo de datos se refiere al tipo de datos que puede contener una variable de JavaScript. Hay siete tipos de datos primitivos en **JavaScript (Número, BigInt, Cadena, Booleano, Nulo, Indefinido y Símbolo).** Los objetos no son primitivos.
 # Tipos primitivos
 
 ## String
@@ -68,3 +69,23 @@ La **ausencia deliberada enfatiza el uso intencional de nulo** para indicar que 
 
 ## Symbol (Avanzado)
 Los **símbolos** son un tipo de datos **primitivo único e inmutable en JavaScript**, introducido en ECMAScript 6 **(ES6)**. A menudo se utilizan para crear claves de propiedad únicas para objetos, lo que garantiza que no se produzcan colisiones de claves de propiedad. Cada valor de Símbolo es único, incluso si se crea con la misma descripción. Los símbolos se pueden crear usando la función Symbol(), y su caso de uso principal es agregar propiedades ocultas o especiales a objetos que no interfieran con otras propiedades o métodos.
+
+
+```js
+// Crear un símbolo
+const mySymbol = Symbol('descripcion');
+
+// Usar el símbolo como clave en un objeto
+const myObject = {
+  [mySymbol]: 'Valor asociado al símbolo'
+};
+
+// Acceder al valor usando el símbolo
+console.log(myObject[mySymbol]); // Output: 'Valor asociado al símbolo'
+
+```
+
+
+# Tipos no primitivos
+## Objects
+El objeto JavaScript es una estructura de datos que nos permite tener pares clave-valor; entonces podemos tener claves distintas y cada clave se asigna a un valor que puede ser de cualquier tipo de datos JavaScript. Comparándolo con un objeto del mundo real, un bolígrafo es un objeto con varias propiedades como color, diseño, material del que está hecho, etc. De la misma manera, los objetos JavaScript pueden tener propiedades que definen sus características.
