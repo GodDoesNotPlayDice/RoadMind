@@ -272,4 +272,4 @@ Archive
 </template>
 ```
 
-Este es un ejemplo muy bueno y ademas se puede relacionar mucho con [[KeepAlive]]
+Este es un ejemplo muy bueno y ademas se puede relacionar mucho con [[Ciclo de vida]]

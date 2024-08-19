@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc1ec7a1325c04f0",
+        "id": "615b92a68005a1e3",
         "type": "tabs",
         "children": [
           {
-            "id": "abc0154f52725161",
+            "id": "3921ffcc76240143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/Introducción a Vue.md",
+                "file": "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/Introducción a Vue.md",
+                "file": "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/Introducción a Vue.md",
+                "file": "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/Introducción a Vue.md"
+                "file": "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md"
               }
             }
           }
@@ -151,12 +151,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abc0154f52725161",
+  "active": "3921ffcc76240143",
   "lastOpenFiles": [
+    "Web/Vue/Vue Router/Router.md",
     "Web/Vue/Introducción a Vue.md",
+    "Web/Vue/Testing/Testing.md",
+    "Web/Tailwind/Tailwind Install.md",
+    "Web/Vue/Projects/Vue-IndecisionApp.md",
+    "Web/Vue/Start a project.md",
+    "Web/Vue/Vue Router",
+    "Web/Vanilla/Variables/Tipos de datos.md",
+    "Web/Vanilla/Variables/Variables.md",
+    "Web/Vanilla/Escencial.md",
+    "Web/Vanilla/Introducción a Javascript.md",
+    "Web/Typescript/Introducción a Typescript.md",
     "Web/Vue/Esencial/Components/Components.md",
     "Web/Vue/Projects/Notas de Proyectos.md",
-    "Web/Vue/Projects/Vue-IndecisionApp.md",
     "Web/Vue/Esencial/CreateApp/All methods.md",
     "Web/Vue/Esencial/CreateApp/Create App.md",
     "Web/Vue/Esencial/Composables/Composables.md",
@@ -164,9 +174,7 @@
     "Web/Vue/Esencial/Reactivity",
     "Web/Vue/Esencial/Components/Slots.md",
     "Web/Vue/Esencial/Components/Components Registration.md",
-    "Web/Vue/Testing/Testing.md",
     "Web/Vue/Projects",
-    "Web/Vue/Start a project.md",
     "Web/Vue/Vue-Rules.md",
     "Index.md",
     "Web/Vue/Testing",
@@ -177,19 +185,11 @@
     "Networks/Domains/DNS.md",
     "OS/Linux/Arch/Wayland/Hyprland.md",
     "English/Index.md",
-    "English/Summary.md",
-    "English/ExamOral.md",
-    "English/LastOral.md",
-    "English/Summary-Oral.md",
-    "Web/Vanilla/Variables/Tipos de datos.md",
-    "Web/Vanilla/Variables/Variables.md",
-    "Web/Vanilla/Variables/Forma de declarar.md",
     "Web/Vanilla/Variables",
     "Web/Tailwind",
     "Web/Typescript",
     "Inde",
     "Web/Vanilla/Variables",
-    "Web/Vue/Esencial/Composables",
     "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
     "Pasted image 20240728170617.png",
     "Pasted image 20240618182107.png",
