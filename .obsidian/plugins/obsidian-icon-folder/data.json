@@ -177,5 +177,6 @@
   "Web/Vue/Vue Router": "CoFolder",
   "Web/Vue/Vue Router/Router.md": "FiFile",
   "Web/Vue/Esencial/Lifecycle": "CoFolder",
-  "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md": "FiFile"
+  "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md": "FiFile",
+  "Web/Vanilla/Variables/Objetos.md": "FiFile"
 }

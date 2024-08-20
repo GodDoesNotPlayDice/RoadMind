@@ -139,3 +139,58 @@ El objeto JavaScript es una estructura de datos que nos permite tener pares **cl
 Entonces podemos **tener claves distintas** y cada clave se asigna a un valor que puede ser de cualquier tipo de datos JavaScript. **Comparándolo con un objeto del mundo real, un bolígrafo es un objeto con varias propiedades como color, diseño, material del que está hecho, etc.** De la misma manera, los objetos **JavaScript pueden tener propiedades que definen sus características.**
 
 Se puede crear un objeto con corchetes `{…}` con una lista opcional de propiedades. Una propiedad es un par `“clave: valor”`, donde clave es una cadena (**también llamada “nombre de propiedad”)** y el valor puede ser cualquier cosa.
+
+```javascript
+let user = new Object(); // "object constructor" syntax
+let user = {};  // "object literal" syntax
+```
+
+Los objetos como bien sabemos son un tipo de dato que nos permite almacenar diferentes **tipos de datos, como números, cadenas, booleanos, funciones, arreglos, etc.**  
+```javascript
+let user = {     // an object
+  name: "John",  // by key "name" store value "John"
+  age: 30        // by key "age" store value 30
+};
+```
+
+```javascript
+// get property values of the object:
+alert( user.name ); // John
+alert( user.age ); // 30
+```
+
+El valor puede ser de cualquier tipo. Agreguemos uno booleano
+
+```javascript
+user.isAdmin = true;
+```
+
+Para eliminar una propiedad, se puede utilizar la palabra clave `delete`.
+
+```javascript
+delete user.age;
+```
+
+También podemos usar nombres de propiedades de varias palabras, pero luego deben ir entre comillas, no creo que sea tan buena práctica.
+
+```javascript
+let user = {
+  name: "John",
+  age: 30,
+  "likes birds": true  // multiword property name must be quoted
+};
+```
+
+La última propiedad de la lista puede terminar con una coma.
+Esto se llama coma "**trailing**" o "**hanging**". Hace que sea más fácil agregar/eliminar/mover propiedades, porque todas las líneas se vuelven iguales.
+
+```javascript
+let user = {
+  name: "John",
+  age: 30,
+}
+```
+
+Mas de los [[Objetos]].
+
+
