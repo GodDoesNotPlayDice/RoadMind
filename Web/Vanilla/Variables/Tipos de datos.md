@@ -67,9 +67,8 @@ El valor **nulo** en JavaScript significa la **ausencia deliberada de cualquier 
 La **ausencia deliberada enfatiza el uso intencional de nulo** para indicar que una **variable no apunta a ningún objeto.** Esta declaración explícita transmite la naturaleza intencional de nulo, mostrando que la **variable debe estar vacía o inexistente en el momento de la ejecución.**
 
 
-## Symbol (Avanzado)
-Los **símbolos** son un tipo de datos **primitivo único e inmutable en JavaScript**, introducido en ECMAScript 6 **(ES6)**. A menudo se utilizan para crear claves de propiedad únicas para objetos, lo que garantiza que no se produzcan colisiones de claves de propiedad. Cada valor de Símbolo es único, incluso si se crea con la misma descripción. Los símbolos se pueden crear usando la función Symbol(), y su caso de uso principal es agregar propiedades ocultas o especiales a objetos que no interfieran con otras propiedades o métodos.
-
+## Symbol
+Los **símbolos** son un tipo de datos **primitivo único e inmutable en JavaScript**, introducido en ECMAScript 6 **(ES6)**. A menudo se utilizan para crear claves de **propiedad únicas** para objetos, lo que garantiza que **no se produzcan colisiones de claves de propiedad**. Cada valor de Símbolo es único, incluso si se crea con la misma descripción. Los símbolos se pueden crear usando la función `Symbol()`, y su caso de uso principal es agregar propiedades ocultas o especiales a objetos que no interfieran con otras propiedades o métodos.
 
 ```js
 // Crear un símbolo
@@ -86,6 +85,57 @@ console.log(myObject[mySymbol]); // Output: 'Valor asociado al símbolo'
 ```
 
 
+**Utilidad**: `Symbol` se utiliza principalmente cuando necesitas garantizar la unicidad de las propiedades de un objeto o cuando trabajas con características avanzadas del lenguaje que requieren una personalización cuidadosa para evitar colisiones.
+
+**Por ejemplo**:
+
+- **Claves únicas en objetos:** Se usa `Symbol` para crear claves de propiedades en objetos que sean únicas y que no puedan ser sobrescritas accidentalmente por otras propiedades con el mismo nombre.
+```js
+const uniqueKey = Symbol('uniqueKey'); 
+const obj = { [uniqueKey]: 'Este valor es único' };
+```
+
+- **Implementación de características privadas:** Aunque no existen propiedades privadas en JavaScript nativo, `Symbol` puede actuar como una forma de crear propiedades que no sean accesibles de manera accidental, ya que no pueden ser iteradas con `for...in` o enumeradas con `Object.keys()`.
+
+```js
+const hiddenProperty = Symbol('hidden');
+const obj = {
+  [hiddenProperty]: 'Valor oculto'
+};
+```
+
+- **Evitar colisiones en extensiones de objetos:** Cuando se extiende un objeto, especialmente en entornos donde múltiples bibliotecas o módulos puedan interactuar con el mismo objeto, `Symbol` asegura que las propiedades agregadas no colisionen con otras propiedades.
+
+```js
+const uniqueMethod = Symbol('uniqueMethod');
+Array.prototype[uniqueMethod] = function () {
+  return 'Método único para arrays';
+};
+```
+
+- **Metaprogramación**: Los símbolos también son útiles en metaprogramación, especialmente con los métodos simbólicos que JavaScript proporciona, como `Symbol.iterator`, `Symbol.toPrimitive`, `Symbol.toStringTag`, entre otros, que permiten personalizar comportamientos de objetos.
+
+```js
+const obj = {
+  [Symbol.iterator]: function* () {
+    yield 1;
+    yield 2;
+    yield 3;
+  }
+};
+
+for (let value of obj) {
+  console.log(value); // 1, 2, 3
+}
+
+```
+
+
+
 # Tipos no primitivos
 ## Objects
-El objeto JavaScript es una estructura de datos que nos permite tener pares clave-valor; entonces podemos tener claves distintas y cada clave se asigna a un valor que puede ser de cualquier tipo de datos JavaScript. Comparándolo con un objeto del mundo real, un bolígrafo es un objeto con varias propiedades como color, diseño, material del que está hecho, etc. De la misma manera, los objetos JavaScript pueden tener propiedades que definen sus características.
+El objeto JavaScript es una estructura de datos que nos permite tener pares **clave-valor**.
+
+Entonces podemos **tener claves distintas** y cada clave se asigna a un valor que puede ser de cualquier tipo de datos JavaScript. **Comparándolo con un objeto del mundo real, un bolígrafo es un objeto con varias propiedades como color, diseño, material del que está hecho, etc.** De la misma manera, los objetos **JavaScript pueden tener propiedades que definen sus características.**
+
+Se puede crear un objeto con corchetes `{…}` con una lista opcional de propiedades. Una propiedad es un par `“clave: valor”`, donde clave es una cadena (**también llamada “nombre de propiedad”)** y el valor puede ser cualquier cosa.
