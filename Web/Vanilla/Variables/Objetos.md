@@ -124,3 +124,42 @@ let user = makeUser("John", 30);
 alert(user.name); // John
 ```
 
+En el ejemplo anterior, las propiedades tienen los mismos nombres que las variables. El caso de uso de crear una propiedad a partir de una variable es común que existe una abreviatura de valor de propiedad especial para acortarlo.
+
+# Property name limitations
+Como ya sabemos, una variable no puede tener un nombre igual a una de las palabras reservadas del idioma como `"for"`, `"let"`, `"return"`, etc.
+```javascript
+// these properties are all right
+let obj = {
+  for: 1,
+  let: 2,
+  return: 3
+};
+
+alert( obj.for + obj.let + obj.return );  // 6
+```
+
+En resumen, **no existen limitaciones** en cuanto a los **nombres de las propiedades**. Pueden ser cualquier cadena o símbolo (un tipo especial para identificadores, que se tratará más adelante).  
+  
+Otros tipos **se convierten automáticamente en cadenas.**  
+  
+Por ejemplo, **un número 0 se convierte en una cadena "0"** cuando se usa como clave de propiedad:
+
+```javascript
+let obj = {
+  0: "test" // same as "0": "test"
+};
+
+// both alerts access the same property (the number 0 is converted to string "0")
+alert( obj["0"] ); // test
+alert( obj[0] ); // test (same property)
+```
+
+Hay un problema menor con una propiedad especial llamada __proto__. No podemos establecerlo en un valor que no sea de objeto:
+
+```javascript
+let obj = {};
+obj.__proto__ = 5; // assign a number
+alert(obj.__proto__); // [object Object] - the value is an object, didn't work as intended
+```
+
