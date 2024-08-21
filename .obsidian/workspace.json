@@ -166,8 +166,9 @@
   },
   "active": "41c6bb02dcf345a3",
   "lastOpenFiles": [
-    "Web/Vanilla/Variables/Tipos de datos.md",
+    "Web/Vanilla/Variables/__proto__.md",
     "Web/Vanilla/Variables/Objetos.md",
+    "Web/Vanilla/Variables/Tipos de datos.md",
     "Web/Vanilla/Variables/Variables.md",
     "Pasted image 20240819150637.png",
     "Web/Vanilla/Introducción a Javascript.md",
@@ -198,7 +199,6 @@
     "Web/Vue/RoadMap/Map.md",
     "Web/Vue/Esencial/Components/Images/Pasted image 20240730150110.png",
     "Networks/Ports/Ports and Sockets.md",
-    "Networks/Domains/DNS.md",
     "Web/Vanilla/Variables",
     "Web/Tailwind",
     "Web/Typescript",

@@ -155,7 +155,9 @@ alert( obj["0"] ); // test
 alert( obj[0] ); // test (same property)
 ```
 
-Hay un problema menor con una propiedad especial llamada __proto__. No podemos establecerlo en un valor que no sea de objeto:
+Hay un problema menor con una propiedad especial llamada `__proto__`. No podemos establecerlo en un valor que no sea de objeto:
+
+**`__proto__`**:  en JavaScript es una propiedad que indica de qué objeto otro objeto hereda sus propiedades y métodos. Sin embargo, es mejor usar `Object.getPrototypeOf` y `Object.setPrototypeOf` para trabajar con prototipos de manera más segura y estándar.
 
 ```javascript
 let obj = {};
@@ -163,3 +165,44 @@ obj.__proto__ = 5; // assign a number
 alert(obj.__proto__); // [object Object] - the value is an object, didn't work as intended
 ```
 
+`Ejemplo de __proto__`
+```js
+const obj = {};
+const proto = { sayHello: () => console.log('Hello') };
+
+obj.__proto__ = proto;
+
+obj.sayHello(); // Imprime 'Hello'
+```
+
+
+# Property existence test, “in” operator
+Una característica notable de los objetos en JavaScript, en comparación con muchos otros lenguajes, es que es posible acceder a cualquier propiedad. ¡No habrá ningún error si la propiedad no existe!
+
+Leer una propiedad inexistente simplemente devuelve `undefined`. Entonces podemos probar fácilmente si la propiedad existe.
+
+```javascript
+let user = {};
+
+console.log( user.noSuchProperty === undefined ); // true means "no such property"
+```
+
+Entonces al igual que el operador `===` existe  `in` para hacer la comprobación de existencia.
+
+A tener en cuenta es que cuando se usa el operador `in` necesitamos hacer referencia a la propiedad en strings.
+
+```javascript
+let user = { name: "John", age: 30 };
+
+alert( "age" in user ); // true, user.age exists
+alert( "blabla" in user ); // false, user.blabla doesn't exist
+```
+
+Al igual si le pasamos una variable esta debe tener el nombre de la propiedad a referenciar.
+
+```javascript
+let user = { age: 30 };
+
+let key = "age";
+alert( key in user ); // true, property "age" exists
+```
