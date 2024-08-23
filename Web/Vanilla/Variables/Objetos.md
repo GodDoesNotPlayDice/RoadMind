@@ -257,3 +257,8 @@ for (let key in user) {
 }
 ```
 
+Tenga en cuenta que todas las construcciones "for" nos permiten declarar la variable de bucle dentro del bucle, como la tecla let aquí.
+
+Además, aquí podríamos usar otro nombre de variable en lugar de clave.
+- Por ejemplo, "`for (let prop in obj)`" también se usa ampliamente.
+
