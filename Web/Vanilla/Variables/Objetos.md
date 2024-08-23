@@ -206,3 +206,19 @@ let user = { age: 30 };
 let key = "age";
 alert( key in user ); // true, property "age" exists
 ```
+
+
+¿Por qué existe el operador `in`? ¿No es suficiente compararlo con  `undefined`?  
+  
+Bueno, la mayoría de las veces la comparación con `undefined` funciona bien. Pero hay un caso especial en el que falla, pero "`in`" funciona correctamente.
+
+```javascript
+let obj = {
+  test: undefined
+};
+
+alert( obj.test ); // it's undefined, so - no such property?
+
+alert( "test" in obj ); // true, the property does exist!
+```
+
