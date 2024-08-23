@@ -207,6 +207,11 @@ let key = "age";
 alert( key in user ); // true, property "age" exists
 ```
 
+la **syntax** es sencilla.
+
+```js
+"key" in obj
+```
 
 ¿Por qué existe el operador `in`? ¿No es suficiente compararlo con  `undefined`?  
   
@@ -220,5 +225,35 @@ let obj = {
 alert( obj.test ); // it's undefined, so - no such property?
 
 alert( "test" in obj ); // true, the property does exist!
+```
+
+En el código anterior, la propiedad `obj.test` técnicamente existe. Entonces el operador `in` funciona bien.
+
+Situaciones como esta ocurren muy raramente, porque `undefined` no debe asignarse explícitamente. Principalmente usamos `null` para valores `unknow` o `void`. Entonces el operador `in` es **un invitado exótico** en el código.
+
+# The "for..in" loop
+Para recorrer todas las `key` de un objeto, existe una forma especial de bucle: `for..in`. Esto es completamente diferente del constructor `for(;;)` que estudiamos antes.
+
+La sintaxis es:
+```javascript
+for (key in object) {
+  // executes the body for each key among object properties
+}
+```
+
+Podemos sacar todos los atributos de un objeto:
+```javascript
+let user = {
+  name: "John",
+  age: 30,
+  isAdmin: true
+};
+
+for (let key in user) {
+  // keys
+  alert( key );  // name, age, isAdmin
+  // values for the keys
+  alert( user[key] ); // John, 30, true
+}
 ```
 
