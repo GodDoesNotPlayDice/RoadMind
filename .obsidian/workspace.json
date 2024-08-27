@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "615b92a68005a1e3",
+        "id": "693c154e7eafd2d6",
         "type": "tabs",
         "children": [
           {
-            "id": "41c6bb02dcf345a3",
+            "id": "793d0661f222a275",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,11 +151,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41c6bb02dcf345a3",
+  "active": "793d0661f222a275",
   "lastOpenFiles": [
+    "Web/Vanilla/Variables/Problema del Null.md",
+    "Web/Vanilla/Variables/Tipos de datos.md",
+    "English/Index.md",
     "Web/Vanilla/Variables/Objetos.md",
     "Web/Vanilla/Variables/__proto__.md",
-    "Web/Vanilla/Variables/Tipos de datos.md",
     "Web/Vanilla/Variables/Variables.md",
     "Pasted image 20240819150637.png",
     "Web/Vanilla/Introducción a Javascript.md",
@@ -183,9 +185,7 @@
     "Index.md",
     "Web/Vue/Testing",
     "Web/Vue/Esencial/Directives/Built-in Directives.md",
-    "Web/Vue/RoadMap/Map.md",
     "Web/Vue/Esencial/Components/Images/Pasted image 20240730150110.png",
-    "Networks/Ports/Ports and Sockets.md",
     "Web/Vanilla/Variables",
     "Web/Tailwind",
     "Web/Typescript",

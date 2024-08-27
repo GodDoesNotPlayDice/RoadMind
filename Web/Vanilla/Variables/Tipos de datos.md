@@ -301,3 +301,25 @@ Para los objetos, la etiqueta de tipo era 0. Además, el valor especial `null` (
 
 Como tanto los objetos como `null` tenían la etiqueta de tipo 0, JavaScript pensaba que `null` era un objeto cuando se le preguntaba de qué tipo era (`typeof null`). Por eso, al usar `typeof null`, JavaScript devolvía "object", aunque `null` no sea realmente un objeto. Este es un comportamiento que quedó en JavaScript debido a esa primera implementación.
 
+```js
+
+console.log(typeof null === "null")
+// false
+console.log(typeof null)
+// Expected output: "object"
+```
+
+En resumen es todo un caso lo del null [[Problema del Null]]
+
+### New operator
+```js
+const str = new String("String");
+const num = new Number(100);
+
+typeof str; // "object"
+typeof num; // "object"
+
+const func = new Function();
+
+typeof func; // "function"
+```
