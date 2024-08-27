@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vanilla/Variables/Objetos.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vanilla/Variables/Objetos.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vanilla/Variables/Objetos.md",
+                "file": "Web/Vanilla/Variables/Tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vanilla/Variables/Objetos.md"
+                "file": "Web/Vanilla/Variables/Tipos de datos.md"
               }
             }
           }
@@ -153,8 +153,8 @@
   },
   "active": "41c6bb02dcf345a3",
   "lastOpenFiles": [
-    "Web/Vanilla/Variables/__proto__.md",
     "Web/Vanilla/Variables/Objetos.md",
+    "Web/Vanilla/Variables/__proto__.md",
     "Web/Vanilla/Variables/Tipos de datos.md",
     "Web/Vanilla/Variables/Variables.md",
     "Pasted image 20240819150637.png",

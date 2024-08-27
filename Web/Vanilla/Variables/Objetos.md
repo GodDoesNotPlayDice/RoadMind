@@ -262,3 +262,76 @@ Tenga en cuenta que todas las construcciones "for" nos permiten declarar la vari
 Además, aquí podríamos usar otro nombre de variable en lugar de clave.
 - Por ejemplo, "`for (let prop in obj)`" también se usa ampliamente.
 
+## Ordered like an object
+¿Están ordenados los objetos? En otras palabras, si recorremos un objeto, ¿obtenemos todas las propiedades en el mismo orden en que se agregaron? ¿Podemos confiar en esto?
+
+La respuesta corta es: “ordenadas de una manera especial”: las propiedades de los enteros están ordenadas, otras aparecen en orden de creación. Los detalles siguen.
+
+Como ejemplo, consideremos un objeto con códigos telefónicos:
+
+```javascript
+let codes = {
+  "49": "Germany",
+  "41": "Switzerland",
+  "44": "Great Britain",
+  // ..,
+  "1": "USA"
+};
+
+for (let code in codes) {
+  console.log(code); // 1, 41, 44, 49
+}
+```
+
+El objeto puede usarse para sugerir una lista de opciones al usuario. Si estamos creando un sitio principalmente para una audiencia alemana, probablemente queramos que **49** sea el primero.
+
+Pero si ejecutamos el código, vemos una imagen totalmente diferente:  
+  
+Estados Unidos (1) va primero , luego Suiza (41) y así sucesivamente.
+
+Los códigos telefónicos van en orden ascendente, porque son números enteros. Entonces vemos `1, 41, 44, 49`
+
+### ¿Propiedades Integers? ¿Qué es eso?
+El término **"propiedad de número entero"** aquí significa una cadena que se puede convertir hacia y desde un número entero sin realizar cambios.
+
+Entonces, "49" es un nombre de propiedad de número entero, porque cuando se transforma a un número entero y viceversa, sigue siendo el mismo. Pero "+49" y "1.2" no lo son:
+
+```javascript
+// Number(...) explicitly converts to a number
+// Math.trunc is a built-in function that removes the decimal part
+console.log( String(Math.trunc(Number("49"))) ); // "49", same, integer property
+console.log( String(Math.trunc(Number("+49"))) ); // "49", not same "+49" ⇒ not integer property
+console.log( String(Math.trunc(Number("1.2"))) ); // "1", not same "1.2" ⇒ not integer property
+```
+
+Por otro lado, si las claves no son enteras, se enumeran en el orden de creación, por ejemplo:
+
+```javascript
+let user = {
+  name: "John",
+  surname: "Smith"
+};
+user.age = 25; // add one more
+
+// non-integer properties are listed in the creation order
+for (let prop in user) {
+  console.log( prop ); // name, surname, age
+}
+```
+
+Entonces, para solucionar el problema con los códigos telefónicos, podemos "hacer trampa" haciendo que los códigos no sean números enteros. Agregar un signo más "+" antes de cada código es suficiente.
+
+```javascript
+let codes = {
+  "+49": "Germany",
+  "+41": "Switzerland",
+  "+44": "Great Britain",
+  // ..,
+  "+1": "USA"
+};
+
+for (let code in codes) {
+  alert( +code ); // 49, 41, 44, 1
+}
+```
+

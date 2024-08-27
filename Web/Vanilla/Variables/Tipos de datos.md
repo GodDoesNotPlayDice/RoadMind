@@ -193,4 +193,111 @@ let user = {
 
 Mas de los [[Objetos]].
 
+## Type of Operator
+Puede utilizar el operador **typeOf** para encontrar el tipo de datos de una variable de JavaScript. Devuelve una cadena que indica el tipo de valor del operando proporcionado.
+
+La sintaxis es la siguiente:
+```javascript
+typeof operand
+```
+
+### Descripciones de los tipos de datos
+
+| Type                                                                                              | Result              |
+| ------------------------------------------------------------------------------------------------- | ------------------- |
+| [Undefined](#undefined)                                                                           | `"undefined"`       |
+| [Null](#Null)                                                                                     | `"object"` (reason) |
+| [Boolean](#Boolean)                                                                               | `"boolean"`         |
+| [Number](#Number)                                                                                 | `"number"`          |
+| [BigInt](#Bigint)                                                                                 | `"bigint"`          |
+| [String](#String)                                                                                 | `"string"`          |
+| [Symbol](#Symbol)                                                                                 | `"symbol"`          |
+| [Function](#function) (implements [[Call]] in ECMA-262 terms; [classes](#) are functions as well) | `"function"`        |
+| Any other object                                                                                  | `"object"`          |
+
+### Ejemplo de los tipos de datos
+```javascript
+// Numbers
+typeof 37 === "number";
+typeof 3.14 === "number";
+typeof 42 === "number";
+typeof Math.LN2 === "number";
+typeof Infinity === "number";
+typeof NaN === "number"; // Despite being "Not-A-Number"
+typeof Number("1") === "number"; // Number tries to parse things into numbers
+typeof Number("shoe") === "number"; // including values that cannot be type coerced to a number
+
+typeof 42n === "bigint";
+
+// Strings
+typeof "" === "string";
+typeof "bla" === "string";
+typeof `template literal` === "string";
+typeof "1" === "string"; // note that a number within a string is still typeof string
+typeof typeof 1 === "string"; // typeof always returns a string
+typeof String(1) === "string"; // String converts anything into a string, safer than toString
+
+// Booleans
+typeof true === "boolean";
+typeof false === "boolean";
+typeof Boolean(1) === "boolean"; // Boolean() will convert values based on if they're truthy or falsy
+typeof !!1 === "boolean"; // two calls of the ! (logical NOT) operator are equivalent to Boolean()
+
+// Symbols
+typeof Symbol() === "symbol";
+typeof Symbol("foo") === "symbol";
+typeof Symbol.iterator === "symbol";
+
+// Undefined
+typeof undefined === "undefined";
+typeof declaredButUndefinedVariable === "undefined";
+typeof undeclaredVariable === "undefined";
+
+// Objects
+typeof { a: 1 } === "object";
+
+// use Array.isArray or Object.prototype.toString.call
+// to differentiate regular objects from arrays
+typeof [1, 2, 4] === "object";
+
+typeof neconsole.log(typeof 42);
+// Expected output: "number"
+
+console.log(typeof 'blubber');
+// Expected output: "string"
+
+console.log(typeof true);
+// Expected output: "boolean"
+
+console.log(typeof undeclaredVariable);
+// Expected output: "undefined"w Date() === "object";
+typeof /regex/ === "object";
+
+// The following are confusing, dangerous, and wasteful. Avoid them.
+typeof new Boolean(true) === "object";
+typeof new Number(1) === "object";
+typeof new String("abc") === "object";
+
+// Functions
+typeof function () {} === "function";
+typeof class C {} === "function";
+typeof Math.sin === "function";
+```
+
+
+**Type of** de null
+```javascript
+// This stands since the beginning of JavaScript
+typeof null === "object";
+```
+
+En la primera implementación de JavaScript, los valores de JavaScript se representaban como una etiqueta de tipo y un valor. La etiqueta de **tipo para los objetos era 0**. null se representaba como el puntero NULL (**0x00** en la mayoría de las plataformas). En consecuencia, null tenía 0 como etiqueta de tipo, de ahí el valor de retorno del tipo "objeto".
+
+En simples palabras se puede decir
+
+En la primera implementación de JavaScript, cada valor se representaba con un "tipo" y un "valor". El "tipo" es como una etiqueta que indica qué clase de dato es **(por ejemplo, un número, un texto, un objeto, etc.).**
+
+Para los objetos, la etiqueta de tipo era 0. Además, el valor especial `null` (que significa que algo no tiene ningún valor o está vacío) se representaba con un puntero NULL, que es 0 en la mayoría de las plataformas.
+
+Como tanto los objetos como `null` tenían la etiqueta de tipo 0, JavaScript pensaba que `null` era un objeto cuando se le preguntaba de qué tipo era (`typeof null`). Por eso, al usar `typeof null`, JavaScript devolvía "object", aunque `null` no sea realmente un objeto. Este es un comportamiento que quedó en JavaScript debido a esa primera implementación.
 
