@@ -312,6 +312,7 @@ console.log(typeof null)
 En resumen es todo un caso lo del null [[Problema del Null]]
 
 ### New operator
+Todas las funciones constructoras llamadas con **new** devolverán elementos no primitivos **("objeto" o "función")**. La mayoría devuelve objetos.!
 ```js
 const str = new String("String");
 const num = new Number(100);
@@ -323,3 +324,19 @@ const func = new Function();
 
 typeof func; // "function"
 ```
+
+El operador **typeof** tiene mayor prioridad que los **operadores binarios como la suma** (+). Por lo tanto, se necesitan paréntesis **para evaluar el tipo de resultado de una suma.**
+```js
+// Parentheses can be used for determining the data type of expressions.
+const someData = 99;
+
+console.log(typeof someData + " Wisen"); // "number Wisen"
+console.log(typeof (someData + " Wisen")) // "string"
+```
+
+Por lo general, siempre se garantiza que `typeof` devolverá una cadena para cualquier operando que se le proporcione. Incluso con identificadores no declarados, `typeof` devolverá `undefined` en lugar de generar un error.
+
+```js
+typeof undeclaredVariable; // "undefined"
+```
+
