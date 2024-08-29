@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vanilla/Variables/Tipos de datos.md",
+                "file": "Web/Vanilla/Tipos de datos/Tipos de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vanilla/Variables/Tipos de datos.md",
+                "file": "Web/Vanilla/Tipos de datos/Tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vanilla/Variables/Tipos de datos.md",
+                "file": "Web/Vanilla/Tipos de datos/Tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vanilla/Variables/Tipos de datos.md"
+                "file": "Web/Vanilla/Tipos de datos/Tipos de datos.md"
               }
             }
           }
@@ -153,11 +153,12 @@
   },
   "active": "d235aa39187ac7a3",
   "lastOpenFiles": [
-    "Web/Vanilla/Variables/Objetos.md",
-    "Web/Vanilla/Variables/Tipos de datos.md",
-    "Web/Vanilla/Variables/Built-in.md",
-    "Web/Vanilla/Variables/Problema del Null.md",
     "Web/Vanilla/Variables/Variables.md",
+    "Web/Vanilla/Tipos de datos",
+    "Web/Vanilla/Tipos de datos/Tipos de datos.md",
+    "Web/Vanilla/Tipos de datos/Built-in.md",
+    "Web/Vanilla/Tipos de datos/Objetos.md",
+    "Web/Vanilla/Tipos de datos/Problema del Null.md",
     "Web/Vanilla/Escencial.md",
     "English/Index.md",
     "Web/Vanilla/Variables/__proto__.md",
@@ -183,14 +184,12 @@
     "Web/Vue/Esencial/Components/Components Registration.md",
     "Web/Vue/Projects",
     "Web/Vue/Vue-Rules.md",
-    "Index.md",
     "Web/Vue/Testing",
     "Web/Vue/Esencial/Components/Images/Pasted image 20240730150110.png",
     "Web/Vanilla/Variables",
     "Web/Tailwind",
     "Web/Typescript",
     "Inde",
-    "Web/Vanilla/Variables",
     "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
     "Pasted image 20240728170617.png",
     "Pasted image 20240618182107.png",
