@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "693c154e7eafd2d6",
+        "id": "2f666910c8573da2",
         "type": "tabs",
         "children": [
           {
-            "id": "793d0661f222a275",
+            "id": "d235aa39187ac7a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,17 +151,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "793d0661f222a275",
+  "active": "d235aa39187ac7a3",
   "lastOpenFiles": [
-    "Web/Vanilla/Variables/Problema del Null.md",
-    "Web/Vanilla/Variables/Tipos de datos.md",
-    "English/Index.md",
     "Web/Vanilla/Variables/Objetos.md",
-    "Web/Vanilla/Variables/__proto__.md",
+    "Web/Vanilla/Variables/Tipos de datos.md",
+    "Web/Vanilla/Variables/Built-in.md",
+    "Web/Vanilla/Variables/Problema del Null.md",
     "Web/Vanilla/Variables/Variables.md",
+    "Web/Vanilla/Escencial.md",
+    "English/Index.md",
+    "Web/Vanilla/Variables/__proto__.md",
     "Pasted image 20240819150637.png",
     "Web/Vanilla/Introducción a Javascript.md",
-    "Web/Vanilla/Escencial.md",
     "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
     "Web/Vue/Vue Router/Router.md",
     "Web/Vue/Introducción a Vue.md",
@@ -184,7 +185,6 @@
     "Web/Vue/Vue-Rules.md",
     "Index.md",
     "Web/Vue/Testing",
-    "Web/Vue/Esencial/Directives/Built-in Directives.md",
     "Web/Vue/Esencial/Components/Images/Pasted image 20240730150110.png",
     "Web/Vanilla/Variables",
     "Web/Tailwind",

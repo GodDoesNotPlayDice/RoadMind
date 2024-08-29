@@ -1,5 +1,8 @@
 El tipo de datos se refiere al tipo de datos que puede contener una variable de JavaScript. Hay siete tipos de datos primitivos en **JavaScript (Número, BigInt, Cadena, Booleano, Nulo, Indefinido y Símbolo).** Los objetos no son primitivos.
 # Tipos primitivos
+Los **tipos de datos primitivos** son los tipos de datos más básicos disponibles en JavaScript. Hay **siete tipos de datos primitivos en JavaScript:** `Number`, `BigInt`, `String`, `Boolean`, `Null`, `Undefined` y `Symbol`. Estos tipos de datos son **inmutables** y **no tienen métodos**.
+
+```javascript
 
 ## String
 **String** es un tipo primitivo que contiene una secuencia de caracteres. La cadena en Javascript se escribe entre un par de comillas simples "o comillas dobles "". Ambas comillas se pueden usar para contener una cadena, pero solo si la comilla inicial es la misma que la comilla final.
@@ -132,7 +135,9 @@ for (let value of obj) {
 
 
 
+
 # Tipos no primitivos
+Los tipos de datos **no primitivos** son todos aquellos que no son primitivos. Los tipos de datos no primitivos son **objetos, matrices y funciones.**
 ## Objects
 El objeto JavaScript es una estructura de datos que nos permite tener pares **clave-valor**.
 
@@ -193,7 +198,15 @@ let user = {
 
 Mas de los [[Objetos]].
 
-## Type of Operator
+## Function
+
+## Arrays
+
+## Dates
+
+## Maps y Sets
+
+# Type of Operator
 Puede utilizar el operador **typeOf** para encontrar el tipo de datos de una variable de JavaScript. Devuelve una cadena que indica el tipo de valor del operando proporcionado.
 
 La sintaxis es la siguiente:
@@ -339,4 +352,14 @@ Por lo general, siempre se garantiza que `typeof` devolverá una cadena para cua
 ```js
 typeof undeclaredVariable; // "undefined"
 ```
+
+### Exceptional  behavior of document.all
+`document.all` es un objeto que se utilizaba en versiones anteriores de Internet Explorer para acceder a todos los elementos de la página. En versiones modernas de los navegadores, `document.all` no se usa y se considera obsoleto.
+
+```js
+console.log(typeof document.all); // "undefined"
+```
+
+Aunque document.all también es **falso** y aproximadamente igual a `undefined`, no lo es. El caso de que document.all tenga el tipo `"undefined"` se clasifica en los estándares web como una "**violación intencionada**" del estándar ECMAScript original para la **compatibilidad** **web**.
+
 

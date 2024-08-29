@@ -179,5 +179,6 @@
   "Web/Vue/Esencial/Lifecycle": "CoFolder",
   "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md": "FiFile",
   "Web/Vanilla/Variables/Objetos.md": "FiFile",
-  "Web/Vanilla/Variables/Problema del Null.md": "FiFile"
+  "Web/Vanilla/Variables/Problema del Null.md": "FiFile",
+  "Web/Vanilla/Variables/Built-in.md": "FiFile"
 }

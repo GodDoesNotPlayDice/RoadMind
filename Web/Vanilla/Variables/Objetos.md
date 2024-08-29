@@ -335,3 +335,26 @@ for (let code in codes) {
 }
 ```
 
+
+# Built-in Objects
+Que es un **Built-in object** en JavaScript? , es un objeto que ya viene **predefinido o incorporado** en el lenguaje de programación JavaScript.   
+
+Existen numerosos objetos integrados con el lenguaje JavaScript, **todos** los cuales son accesibles en el **scope global**. Algunos ejemplos son:
+- `Number`
+- `Math`
+- `Date`
+- `String`
+- `Error`
+- `Function`
+- `Boolean`
+
+El término **"objetos globales"** (u objetos integrados estándar) aquí **no debe confundirse con el objeto global**. Aquí, "objetos globales" se refiere a objetos en el ámbito global.\
+
+Se puede acceder al objeto global en sí utilizando el operador `this` en el ámbito global. De hecho, **el alcance global consta de las propiedades del objeto global**, incluidas las propiedades heredadas, si las hay.
+
+Otros objetos en el ámbito global son creados por el script del usuario o proporcionados por la aplicación host. Los objetos de host disponibles en los contextos del navegador están documentados en **la referencia de API.**
+
+Todos los tipos de [[Built-in]] Objects
+
+
+
