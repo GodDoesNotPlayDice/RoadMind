@@ -58,6 +58,33 @@ const hugeBin = BigInt(
 ```
 
 
+## Number
+El tipo de datos Número en JavaScript representa números de punto flotante, como `37 o -9,25`. El constructor `Number` proporciona constantes y métodos para trabajar con números, y los valores de otros tipos se pueden convertir en números usando la función `Number()`.
+
+- El tipo de número de JavaScript es un valor de formato binario IEEE 754 de **64 bits** de doble precisión, como double en Java o C#.
+
+### Coercion de tipo
+Muchas operaciones integradas que esperan números primero fuerzan sus argumentos a números (que es en gran medida la razón por la cual los objetos numéricos se comportan de manera similar a las primitivas numéricas).
+
+- Los `Numbers` se devuelven tal cual.
+- `undefined` se convierte en `NaN`.
+- `null` se convierte en `0`.
+- `true` se convierte en `1` y `false` se convierte en `0`.
+- Las cadenas se convierten en números si contienen solo dígitos. De lo contrario, se convierten en `NaN`.
+	- Se ignoran los espacios iniciales y finales.
+	- Si la cadena está vacía, se convierte en `0`.
+	- Un error de análisis de cadena (como `parseInt("abc")`) devuelve `NaN`.
+	- `+` y `-` antes de una cadena también la convierten en número.
+
+### Métodos estáticos
+- `Number.isNaN()` determina si un valor es `NaN`.
+- `Number.isFinite()` determina si un valor es un número finito esto quiere decir que no es `Infinity` o `-Infinity`.
+- `Number.isInteger()` determina si un valor es un número entero (no un número decimal).
+- `Number.isSafeInteger()` determina si un valor es un número entero seguro (entre -(2^53 - 1) y 2^53 - 1).
+- `Number.parseFloat()` analiza un argumento de cadena y devuelve un número de punto flotante.
+- `Number.parseInt()` analiza un argumento de cadena y devuelve un número entero.
+
+
 ## Undefined y Null
 
 ### Undefined

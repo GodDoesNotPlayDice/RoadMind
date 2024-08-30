@@ -177,9 +177,9 @@
   "Web/Vue/Vue Router/Router.md": "FiFile",
   "Web/Vue/Esencial/Lifecycle": "CoFolder",
   "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md": "FiFile",
-  "Web/Vanilla/Tipos de datos/Tipos de datos.md": "FiFile",
-  "Web/Vanilla/Tipos de datos/Objetos.md": "FiFile",
-  "Web/Vanilla/Tipos de datos/Built-in.md": "FiFile",
   "Web/Vanilla/Tipos de datos": "CoFolder",
-  "Web/Vanilla/Tipos de datos/Problema del Null.md": "FiFile"
+  "Web/Vanilla/Tipos de datos/Built-in.md": "FiFile",
+  "Web/Vanilla/Tipos de datos/Objetos.md": "FiFile",
+  "Web/Vanilla/Tipos de datos/Problema del Null.md": "FiFile",
+  "Web/Vanilla/Tipos de datos/Tipos de datos.md": "FiFile"
 }
