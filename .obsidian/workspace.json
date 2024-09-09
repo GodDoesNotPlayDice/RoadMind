@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f666910c8573da2",
+        "id": "999e7d6a423f99f7",
         "type": "tabs",
         "children": [
           {
-            "id": "d235aa39187ac7a3",
+            "id": "37927243033ba430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vanilla/Tipos de datos/Tipos de datos.md",
-                "mode": "source",
+                "file": "Web/Vue/Esencial/Components/Components.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999618530273
+    "width": 273.49999618530273,
+    "collapsed": true
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vanilla/Tipos de datos/Tipos de datos.md",
+                "file": "Web/Vue/Esencial/Components/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vanilla/Tipos de datos/Tipos de datos.md",
+                "file": "Web/Vue/Esencial/Components/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vanilla/Tipos de datos/Tipos de datos.md"
+                "file": "Web/Vue/Esencial/Components/Components.md"
               }
             }
           }
@@ -151,10 +152,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "37927243033ba430",
   "lastOpenFiles": [
-    "Web/Vanilla/Tipos de datos/Built-in.md",
+    "Web/Tailwind/Tailwind Install.md",
+    "Web/Vue/Vue Router/Router.md",
+    "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
+    "Web/Vue/Projects/Vue-IndecisionApp.md",
+    "Web/Vue/Projects/Untitled.md",
+    "Index.md",
+    "Web/Vue/Introducción a Vue.md",
+    "Web/Vue/Esencial/Components/Components Registration.md",
+    "Web/Vue/Esencial/Components/Components.md",
+    "Web/Vanilla/Introducción a Javascript.md",
+    "Web/Vue/RoadMap/Map.md",
     "Web/Vanilla/Tipos de datos/Tipos de datos.md",
+    "Web/Vanilla/Tipos de datos/Built-in.md",
     "Web/Vanilla/Variables/Tipos de datos.md",
     "Web/Vanilla/Tipos de datos/Problema del Null.md",
     "Web/Vanilla/Tipos de datos/Objetos.md",
@@ -167,21 +179,10 @@
     "English/Index.md",
     "Web/Vanilla/Variables/__proto__.md",
     "Pasted image 20240819150637.png",
-    "Web/Vanilla/Introducción a Javascript.md",
-    "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
-    "Web/Vue/Vue Router/Router.md",
-    "Web/Vue/Introducción a Vue.md",
     "Web/Vue/Testing/Testing.md",
-    "Web/Tailwind/Tailwind Install.md",
-    "Web/Vue/Projects/Vue-IndecisionApp.md",
     "Web/Vue/Start a project.md",
     "Web/Vue/Vue Router",
     "Web/Typescript/Introducción a Typescript.md",
-    "Web/Vue/Esencial/Components/Components.md",
-    "Web/Vue/Projects/Notas de Proyectos.md",
-    "Web/Vue/Esencial/CreateApp/All methods.md",
-    "Web/Vue/Esencial/CreateApp/Create App.md",
-    "Web/Vue/Esencial/Composables/Composables.md",
     "Web/Vue/Esencial",
     "Web/Vue/Esencial/Reactivity",
     "Web/Vue/Projects",

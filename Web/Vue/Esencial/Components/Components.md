@@ -67,7 +67,7 @@ Los **`custom attributes`** personalizados que puede registrar en un componente 
 La mejor forma de hacerlo es con **`typescript`**, en el siguiente ejemplo tenemos que el **`setup`** trae por defecto lo que seria  **`defineProps()`** por lo que no hace falta importarlo, y es acá donde usamos la interfaz para definir todos los **props**.
 
 #### SFC
-```vue
+```html
 <script setup lang="ts">
 	interface Props {
 		message: string;
@@ -81,7 +81,7 @@ defineProps<Props>();
 
 En un ejemplo mas simple sin usar `interface` usando **`setup`** en la etiqueta podemos definir los props dentro.
 
-```vue
+```html
 <template>
 	<h1 class="text-gray-300 text-3xl">{{ title }}</h1>
 	<h2 class="text-gray-300 text-2xl">{{ subtitle }}</h2>
@@ -93,7 +93,7 @@ En un ejemplo mas simple sin usar `interface` usando **`setup`** en la etiqueta 
 ```
 
 Y por ultimo en **JS**
-```vue
+```html
 <template>
 	<h1 class="text-gray-300 text-3xl">{{ title }}</h1>
 	<h2 class="text-gray-300 text-2xl">{{ subtitle }}</h2>
@@ -129,7 +129,7 @@ setup(props) {
 
 Luego en el **`SFC`** lo importamos como **`src`**.
 
-```vue
+```html
 <script lang="ts" src="./MyCounter"></script>
 ```
 
@@ -139,7 +139,7 @@ Es para crear y emitir eventos que del Hijo ⇒ Padre.
 
 Con el atributo **setup** en el `<script>` trae **`defineEmits`** y este maneja una tupla la cual se puede asignar métodos
 
-```vue
+```html
 <div class="grid grid-cols-2 h-screen">
 	<div class="bg-green-600 h-full w-full flex justify-center items-center">
 		<p class="text-2xl font-bold text-white">{{ n_val }}</p>
@@ -161,7 +161,7 @@ const getRandomNumber = (n: number) => {
 </script>
 ```
 
-```vue
+```html
 <template>
 	<div>
 		<button class="cursor-pointer" @click="sendRandomNumber">
@@ -206,7 +206,7 @@ Al igual que con los elementos HTML, suelen ser útil poder pasar contenido a un
 Lo que hace slot es generar una etiqueta custom para poder pasar **lo que sea** por una etiqueta HTML mas de los [[Slots]]
 
 **`App.vue`**
-```vue
+```html
 <script setup>
 import AlertBox from './AlertBox.vue'
 </script>
@@ -219,7 +219,7 @@ import AlertBox from './AlertBox.vue'
 ```
 
 **`AlertBox.vue`**
-```vue
+```html
 <template>
 
 	<div class="alert-box">
@@ -238,7 +238,7 @@ En este ejemplo podemos apreciar como funciona el **atributo `is`** cual sirve p
 
 Y por ultimo en la etiqueta **`componnet`** usar **`:is`** mas **`tabs[currentTab]`** y tener la plantilla del componente seleccionado.
 
-```vue
+```html
 <script setup>
 import Home from './Home.vue'
 import Posts from './Posts.vue'

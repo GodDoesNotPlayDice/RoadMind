@@ -296,3 +296,16 @@ return next({
 }
 ```
 
+
+## Router Link
+`router-link` es un componente que se utiliza para poder navegar entre las rutas de la aplicación, a este se le puede aplicar una clase para diferenciar en la navegación.
+
+```vue
+<router-link to="/features">Features</router-link>
+```
+
+```css
+.router-link-exact-active {
+  color: red;
+}
+```
