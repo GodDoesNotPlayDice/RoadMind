@@ -9,7 +9,7 @@
 
 Normalmente vamos a definir un componente en un **`SFC`** cual usamos en un archivo **`.vue`**
 
-```vue
+```html
 <script setup>
 import { ref } from 'vue'
 
@@ -44,7 +44,7 @@ export default {
 
 Para utilizar un componente secundario, debemos importarlo en el componente principal. Suponiendo que colocamos nuestro componente de contador dentro de un archivo llamado `ButtonCounter.vue`
 
-```vue
+```html
 <script setup>
 import ButtonCounter from './ButtonCounter.vue'
 </script>

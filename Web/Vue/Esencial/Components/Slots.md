@@ -11,7 +11,7 @@ Hemos aprendido que los componentes pueden aceptar `props`, que pueden ser valor
 El primer ejemplo es simple con un **fallback**, y el componente con un **slot**, donde si no es recibido el texto en el slop es puesto un fallback en el **`slot`**.
 
 **`App.vue`**
-```vue
+```html
 <script setup>
 import SubmitButton from './SubmitButton.vue'
 </script>
@@ -30,7 +30,7 @@ import SubmitButton from './SubmitButton.vue'
 ```
 
 **`SubmitButton.vue`**
-```vue
+```html
 <template>
 	<button type="submit">
 		<slot>
@@ -44,7 +44,7 @@ import SubmitButton from './SubmitButton.vue'
 ### Multiple-Slot
 El **multi slot** consiste en tener el componente y dentro de el, mas de un **template**, para poder nombrarlo con un atributo `#name` cual es identificado por el slot con `name`.
 
-```vue
+```html
 <template>
 	<ChildComponent>
 	
@@ -72,7 +72,7 @@ import ChildComponent from './ChildComponent.vue';
 </script>
 ```
 
-```vue
+```html
 <template>
   <div>
     <header>

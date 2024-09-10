@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Web/Vue/Esencial/Components/Components.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999618530273,
-    "collapsed": true
+    "width": 273.49999618530273
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -154,6 +153,10 @@
   },
   "active": "37927243033ba430",
   "lastOpenFiles": [
+    "Web/Vue/Esencial/Components/Components Registration.md",
+    "Web/Vue/Esencial/Components/Slots.md",
+    "Web/Vue/Esencial/Composables/Composables.md",
+    "Web/Vue/Esencial/Components/Components.md",
     "Web/Tailwind/Tailwind Install.md",
     "Web/Vue/Vue Router/Router.md",
     "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
@@ -161,8 +164,6 @@
     "Web/Vue/Projects/Untitled.md",
     "Index.md",
     "Web/Vue/Introducción a Vue.md",
-    "Web/Vue/Esencial/Components/Components Registration.md",
-    "Web/Vue/Esencial/Components/Components.md",
     "Web/Vanilla/Introducción a Javascript.md",
     "Web/Vue/RoadMap/Map.md",
     "Web/Vanilla/Tipos de datos/Tipos de datos.md",
@@ -180,9 +181,7 @@
     "Web/Vanilla/Variables/__proto__.md",
     "Pasted image 20240819150637.png",
     "Web/Vue/Testing/Testing.md",
-    "Web/Vue/Start a project.md",
     "Web/Vue/Vue Router",
-    "Web/Typescript/Introducción a Typescript.md",
     "Web/Vue/Esencial",
     "Web/Vue/Esencial/Reactivity",
     "Web/Vue/Projects",

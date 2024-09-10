@@ -14,7 +14,7 @@ Al crear aplicaciones frontend, a menudo necesitamos reutilizar la lógica para 
 ### Ejemplo
 Ejemplo de como trackear la posición del mouse.
 
-```vue
+```html
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue'
 
@@ -41,7 +41,7 @@ La cosa es cuando necesitamos reutilizar la lógica con estado en múltiples com
 
 Entonces se exporta y es posible ocuparlo en cualquier componente.
 
-```vue
+```html
 <script setup>
 import { useMouse } from './mouse.js'
 
@@ -54,7 +54,7 @@ const { x, y } = useMouse()
 ### Composables con estado reactivo
 El elemento componible `useMouse()` no acepta ningún argumento, así que echemos un vistazo a otro ejemplo que utiliza uno. Al realizar la recuperación de datos asíncronos, a menudo necesitamos manejar diferentes estados: carga, éxito y error
 
-```vue
+```html
 <script setup>
 import { ref } from 'vue'
 
@@ -97,7 +97,7 @@ export function useFetch(url) {
 ```
 
 Ahora podemos usar este composable con parametros.
-```vue
+```html
 <script setup>
 import { useFetch } from './fetch.js'
 

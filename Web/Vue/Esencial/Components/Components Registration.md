@@ -42,7 +42,7 @@ app
 
 Los componentes registrados globalmente se pueden utilizar en la plantilla de cualquier componente dentro de esta aplicación.
 
-```vue
+```html
 <ComponentA/>
 <ComponentB/>
 <ComponentC/>
@@ -53,7 +53,7 @@ El registro local limita la disponibilidad de los componentes registrados única
 
 Cuando se utiliza SFC con `<script setup>`, los componentes importados se pueden usar localmente sin registro
 
-```vue
+```html
 <script setup>
 import ComponentA from './ComponentA.vue'
 </script>
