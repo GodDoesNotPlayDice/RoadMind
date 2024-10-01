@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "999e7d6a423f99f7",
+        "id": "043e8700e8935ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "37927243033ba430",
+            "id": "539305bf759cd9d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/Esencial/Components/Components.md",
+                "file": "Hacking/CTF Typeof.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vue/Esencial/Components/Components.md",
+                "file": "Hacking/CTF Typeof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vue/Esencial/Components/Components.md",
+                "file": "Hacking/CTF Typeof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/Esencial/Components/Components.md"
+                "file": "Hacking/CTF Typeof.md"
               }
             }
           }
@@ -151,12 +151,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37927243033ba430",
+  "active": "539305bf759cd9d2",
   "lastOpenFiles": [
+    "Hacking/CTF Tips.md",
+    "Hacking/CTF Typeof.md",
+    "Hacking/Vulnhub/MrRobot/MrRobot.md",
+    "Hacking/Tools/Bruteforce/BruteForce.md",
+    "Hacking/Tools/Msfconsole.md",
+    "Hacking/Tools/Fuzzing/Fuzzing.md",
+    "Hacking/Tools/Bruteforce",
+    "Hacking/Tools/Extensiones.md",
+    "Hacking/Tools/Netdiscover/Netdiscover.md",
+    "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
+    "Hacking/Tools/Nmap/Nmap.md",
+    "Hacking/Vulnhub/Earth/Earth - Easy.md",
+    "Hacking/Tools/Netdiscover",
+    "Hacking/Tools/Arp-scan/ArpScan.md",
+    "Web/Vue/Esencial/Components/Components.md",
+    "Hacking/Vulnhub/MrRobot",
+    "Web/Vue/Esencial/Directives/Built-in Directives.md",
+    "Web/Vue/Esencial/Directives/Custom Directives.md",
     "Web/Vue/Esencial/Components/Components Registration.md",
     "Web/Vue/Esencial/Components/Slots.md",
     "Web/Vue/Esencial/Composables/Composables.md",
-    "Web/Vue/Esencial/Components/Components.md",
     "Web/Tailwind/Tailwind Install.md",
     "Web/Vue/Vue Router/Router.md",
     "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
@@ -165,22 +182,8 @@
     "Index.md",
     "Web/Vue/Introducción a Vue.md",
     "Web/Vanilla/Introducción a Javascript.md",
-    "Web/Vue/RoadMap/Map.md",
-    "Web/Vanilla/Tipos de datos/Tipos de datos.md",
-    "Web/Vanilla/Tipos de datos/Built-in.md",
-    "Web/Vanilla/Variables/Tipos de datos.md",
-    "Web/Vanilla/Tipos de datos/Problema del Null.md",
-    "Web/Vanilla/Tipos de datos/Objetos.md",
     "Web/Vanilla/Tipos de datos",
-    "Web/Vanilla/Variables/Variables.md",
-    "Web/Vanilla/Variables/Objetos.md",
-    "Web/Vanilla/Variables/Built-in.md",
-    "Web/Vanilla/Variables/Problema del Null.md",
-    "Web/Vanilla/Escencial.md",
-    "English/Index.md",
-    "Web/Vanilla/Variables/__proto__.md",
     "Pasted image 20240819150637.png",
-    "Web/Vue/Testing/Testing.md",
     "Web/Vue/Vue Router",
     "Web/Vue/Esencial",
     "Web/Vue/Esencial/Reactivity",
@@ -188,9 +191,6 @@
     "Web/Vue/Testing",
     "Web/Vue/Esencial/Components/Images/Pasted image 20240730150110.png",
     "Web/Vanilla/Variables",
-    "Web/Tailwind",
-    "Web/Typescript",
-    "Inde",
     "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
     "Pasted image 20240728170617.png",
     "Pasted image 20240618182107.png",

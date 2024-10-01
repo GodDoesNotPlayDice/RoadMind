@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "CoFolder",
-      "FiFile",
-      "BoBxlTailwindCss",
-      "BoBxlTypescript",
-      "TiWorld"
+      "IbMessageBubbleWithEllipses",
+      "IbRectangleOnRectangleVertical",
+      "LiScroll",
+      "FiUnlock",
+      "CoExternalLink"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -181,5 +181,13 @@
   "Web/Vanilla/Tipos de datos/Built-in.md": "FiFile",
   "Web/Vanilla/Tipos de datos/Objetos.md": "FiFile",
   "Web/Vanilla/Tipos de datos/Problema del Null.md": "FiFile",
-  "Web/Vanilla/Tipos de datos/Tipos de datos.md": "FiFile"
+  "Web/Vanilla/Tipos de datos/Tipos de datos.md": "FiFile",
+  "Hacking/Vulnhub/MrRobot": "CoFolder",
+  "Hacking/Vulnhub/MrRobot/MrRobot.md": "FiFile",
+  "Hacking/Tools/Netdiscover": "TiNetwork",
+  "Hacking/Tools/Netdiscover/Netdiscover.md": "BoBxsFileDoc",
+  "Hacking/Tools/Extensiones.md": "CoExternalLink",
+  "Hacking/Tools/Bruteforce": "FiUnlock",
+  "Hacking/CTF Tips.md": "IbMessageBubbleWithEllipses",
+  "Hacking/CTF Typeof.md": "IbMessageBubbleWithEllipses"
 }
