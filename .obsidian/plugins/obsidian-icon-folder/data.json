@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiFile",
+      "IbFolder",
       "IbMessageBubbleWithEllipses",
       "IbRectangleOnRectangleVertical",
-      "LiScroll",
-      "FiUnlock",
-      "CoExternalLink"
+      "LiScroll"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -189,5 +189,7 @@
   "Hacking/Tools/Extensiones.md": "CoExternalLink",
   "Hacking/Tools/Bruteforce": "FiUnlock",
   "Hacking/CTF Tips.md": "IbMessageBubbleWithEllipses",
-  "Hacking/CTF Typeof.md": "IbMessageBubbleWithEllipses"
+  "Hacking/CTF Typeof.md": "IbMessageBubbleWithEllipses",
+  "Web/Vanilla/Tipo de Casteo": "IbFolder",
+  "Web/Vanilla/Tipo de Casteo/Type Casting.md": "FiFile"
 }
