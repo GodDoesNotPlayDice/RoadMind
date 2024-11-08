@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "90a233d973ac3c44",
+        "id": "0c9614d7a5932583",
         "type": "tabs",
         "children": [
           {
-            "id": "01bd452c88c9859c",
+            "id": "0f9ce7dc439c12eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Web/Vanilla/Tipo de Casteo/Type Casting.md",
-                "mode": "preview",
-                "source": false
+                "file": "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145110.png"
               },
-              "icon": "lucide-file",
-              "title": "Type Casting"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241108145110"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/CTF Typeof.md",
+                "file": "Hacking/Vulnhub/Kioptix1/Kioptix1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CTF Typeof"
+              "title": "Backlinks for Kioptix1"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/CTF Typeof.md",
+                "file": "Hacking/Vulnhub/Kioptix1/Kioptix1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CTF Typeof"
+              "title": "Outgoing links from Kioptix1"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/CTF Typeof.md"
+                "file": "Hacking/Vulnhub/Kioptix1/Kioptix1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CTF Typeof"
+              "title": "Outline of Kioptix1"
             }
           }
         ],
@@ -167,22 +165,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01bd452c88c9859c",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
-    "Web/Vanilla/Tipos de datos/Objetos.md",
+    "Hacking/Vulnhub/Stapler 1/imgs",
+    "Hacking/Vulnhub/Stapler 1/Informe.md",
+    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108170229.png",
+    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108165822.png",
+    "Hacking/Tools/Extensiones.md",
+    "Hacking/Tools/Privilege escalation/Untitled.md",
+    "Hacking/Tools/Privilege escalation",
+    "Hacking/Vulnhub/Stapler 1/imgs/Screenshot from 2024-11-08 16-13-05.png",
+    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145259.png",
+    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145206.png",
+    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145110.png",
+    "Hacking/Tools/Persistence/Persistencia.md",
+    "Hacking/Tools/Persistence",
+    "Hacking/Tools/SSRF/Server-Side Request Forgery.md",
+    "Hacking/Tools/SSRF",
     "Web/Vanilla/Tipo de Casteo/Type Casting.md",
-    "Web/Vanilla/Tipos de datos/Built-in.md",
-    "Web/Vanilla/Tipos de datos/Problema del Null.md",
-    "Web/Vanilla/Tipos de datos/Tipos de datos.md",
     "Web/Vanilla/Tipo de Casteo",
+    "Hacking/Vulnhub/Kioptix1/Kioptix1.md",
     "Hacking/CTF Typeof.md",
+    "Hacking/Vulnhub/Kioptix1/Untitled",
+    "Hacking/Vulnhub/Stapler 1",
     "Hacking/CTF Tips.md",
     "Hacking/Vulnhub/MrRobot/MrRobot.md",
     "Hacking/Tools/Bruteforce/BruteForce.md",
     "Hacking/Tools/Msfconsole.md",
     "Hacking/Tools/Fuzzing/Fuzzing.md",
     "Hacking/Tools/Bruteforce",
-    "Hacking/Tools/Extensiones.md",
     "Hacking/Tools/Netdiscover/Netdiscover.md",
     "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
     "Hacking/Tools/Nmap/Nmap.md",
@@ -197,24 +208,11 @@
     "Web/Vue/Esencial/Components/Slots.md",
     "Web/Vue/Esencial/Composables/Composables.md",
     "Web/Tailwind/Tailwind Install.md",
-    "Web/Vue/Vue Router/Router.md",
-    "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
     "Web/Vanilla/Tipos de datos",
     "Pasted image 20240819150637.png",
-    "Web/Vue/Vue Router",
-    "Web/Vue/Esencial",
-    "Web/Vue/Esencial/Reactivity",
-    "Web/Vue/Projects",
-    "Web/Vue/Testing",
     "Web/Vue/Esencial/Components/Images/Pasted image 20240730150110.png",
     "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
     "Pasted image 20240728170617.png",
-    "Pasted image 20240618182107.png",
-    "Year/Semester/BPM/Images/Pasted image 20240618172918.png",
-    "Pasted image 20240618172914.png",
-    "Year/Semester/BPM/Images/Pasted image 20240618172517.png",
-    "Year/Semester/BPM/Images/Pasted image 20240618172612.png",
-    "Year/Semester/BPM/Images/Pasted image 20240614134702.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

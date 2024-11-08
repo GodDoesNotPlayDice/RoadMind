@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FiFile",
-      "IbFolder",
-      "IbMessageBubbleWithEllipses",
-      "IbRectangleOnRectangleVertical",
-      "LiScroll"
+      "FiImage",
+      "TiChessKing",
+      "FiUser",
+      "FiServer",
+      "FiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -191,5 +191,13 @@
   "Hacking/CTF Tips.md": "IbMessageBubbleWithEllipses",
   "Hacking/CTF Typeof.md": "IbMessageBubbleWithEllipses",
   "Web/Vanilla/Tipo de Casteo": "IbFolder",
-  "Web/Vanilla/Tipo de Casteo/Type Casting.md": "FiFile"
+  "Web/Vanilla/Tipo de Casteo/Type Casting.md": "FiFile",
+  "Hacking/Vulnhub/Stapler 1": "IbFolder",
+  "Hacking/Vulnhub/Stapler 1/Informe.md": "FiFile",
+  "Hacking/Tools/SSRF": "FiServer",
+  "Hacking/Tools/SSRF/Server-Side Request Forgery.md": "FiFile",
+  "Hacking/Tools/Persistence": "FiUser",
+  "Hacking/Tools/Persistence/Persistencia.md": "FiFile",
+  "Hacking/Tools/Privilege escalation": "TiChessKing",
+  "Hacking/Vulnhub/Stapler 1/imgs": "FiImage"
 }
