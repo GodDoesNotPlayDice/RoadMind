@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiFile",
+      "CoFolder",
       "FiImage",
       "TiChessKing",
-      "FiUser",
-      "FiServer",
-      "FiFile"
+      "FiUser"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -199,5 +199,11 @@
   "Hacking/Tools/Persistence": "FiUser",
   "Hacking/Tools/Persistence/Persistencia.md": "FiFile",
   "Hacking/Tools/Privilege escalation": "TiChessKing",
-  "Hacking/Vulnhub/Stapler 1/imgs": "FiImage"
+  "Hacking/Vulnhub/Stapler 1/imgs": "FiImage",
+  "Hacking/Tools/Privilege escalation/Kernels.md": "FiFile",
+  "Hacking/Vulnhub/Galahad": "CoFolder",
+  "Hacking/Vulnhub/Galahad/Informe.md": "FiFile",
+  "Hacking/Vulnhub/Bob 1": "CoFolder",
+  "Hacking/Vulnhub/Bob 1/Informe.md": "FiFile",
+  "Hacking/Vulnhub/Galahad/imgs": "FiImage"
 }

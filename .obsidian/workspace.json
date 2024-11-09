@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9614d7a5932583",
+        "id": "451cc75138e5d5fe",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9ce7dc439c12eb",
+            "id": "6bf583bb06831d6b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145110.png"
+                "file": "Hacking/Vulnhub/Bob 1/Informe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241108145110"
+              "icon": "lucide-file",
+              "title": "Informe"
             }
           }
         ]
@@ -165,19 +167,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "6bf583bb06831d6b",
   "lastOpenFiles": [
+    "Hacking/Vulnhub/Galahad/Informe.md",
+    "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
+    "Hacking/Vulnhub/Bob 1/Informe.md",
+    "Hacking/Vulnhub/Galahad/imgs",
+    "Hacking/CTF Tips.md",
+    "Hacking/Vulnhub/Bob 1",
+    "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
+    "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190154.png",
+    "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185559.png",
+    "Hacking/Tools/Fuzzing/Fuzzing.md",
+    "Hacking/Tools/Privilege escalation/Kernels.md",
+    "Hacking/Vulnhub/Galahad",
+    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145110.png",
     "Hacking/Vulnhub/Stapler 1/imgs",
     "Hacking/Vulnhub/Stapler 1/Informe.md",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108170229.png",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108165822.png",
     "Hacking/Tools/Extensiones.md",
-    "Hacking/Tools/Privilege escalation/Untitled.md",
     "Hacking/Tools/Privilege escalation",
     "Hacking/Vulnhub/Stapler 1/imgs/Screenshot from 2024-11-08 16-13-05.png",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145259.png",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145206.png",
-    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145110.png",
     "Hacking/Tools/Persistence/Persistencia.md",
     "Hacking/Tools/Persistence",
     "Hacking/Tools/SSRF/Server-Side Request Forgery.md",
@@ -188,31 +201,19 @@
     "Hacking/CTF Typeof.md",
     "Hacking/Vulnhub/Kioptix1/Untitled",
     "Hacking/Vulnhub/Stapler 1",
-    "Hacking/CTF Tips.md",
     "Hacking/Vulnhub/MrRobot/MrRobot.md",
     "Hacking/Tools/Bruteforce/BruteForce.md",
     "Hacking/Tools/Msfconsole.md",
-    "Hacking/Tools/Fuzzing/Fuzzing.md",
-    "Hacking/Tools/Bruteforce",
     "Hacking/Tools/Netdiscover/Netdiscover.md",
     "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
     "Hacking/Tools/Nmap/Nmap.md",
     "Hacking/Vulnhub/Earth/Earth - Easy.md",
-    "Hacking/Tools/Netdiscover",
     "Hacking/Tools/Arp-scan/ArpScan.md",
     "Web/Vue/Esencial/Components/Components.md",
-    "Hacking/Vulnhub/MrRobot",
     "Web/Vue/Esencial/Directives/Built-in Directives.md",
     "Web/Vue/Esencial/Directives/Custom Directives.md",
     "Web/Vue/Esencial/Components/Components Registration.md",
     "Web/Vue/Esencial/Components/Slots.md",
-    "Web/Vue/Esencial/Composables/Composables.md",
-    "Web/Tailwind/Tailwind Install.md",
-    "Web/Vanilla/Tipos de datos",
-    "Pasted image 20240819150637.png",
-    "Web/Vue/Esencial/Components/Images/Pasted image 20240730150110.png",
-    "Web/React/Imagenes/1 w6bwaBeN-ZCEnPAr7sIbyw.webp",
-    "Pasted image 20240728170617.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
