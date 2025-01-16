@@ -205,5 +205,8 @@
   "Hacking/Vulnhub/Galahad/Informe.md": "FiFile",
   "Hacking/Vulnhub/Bob 1": "CoFolder",
   "Hacking/Vulnhub/Bob 1/Informe.md": "FiFile",
-  "Hacking/Vulnhub/Galahad/imgs": "FiImage"
+  "Hacking/Vulnhub/Galahad/imgs": "FiImage",
+  "DesignPatterns": "CoFolder",
+  "DesignPatterns/Patrones de diseño.md": "FiFile",
+  "DesignPatterns/Patrones": "CoFolder"
 }
