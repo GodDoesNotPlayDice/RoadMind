@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Tagalog/Basico.md",
+                "file": "Languages/Tagalog/A1/Vocabulario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basico"
+              "title": "Vocabulario"
             }
           }
         ],
@@ -185,11 +185,17 @@
   },
   "active": "eae62c97fe7a61ad",
   "lastOpenFiles": [
+    "Languages/English/Teaching/Speaking one.md",
+    "Languages/Tagalog/A1/Vocabulario.md",
+    "Languages/English/Teaching/Untitled",
+    "Languages/English/Teaching",
+    "Languages/English/MyEnglish",
+    "Languages/Tagalog/A1/Basico.md",
     "Languages/Tagalog/Roadmap.md",
-    "Languages/Tagalog/Basico.md",
+    "Languages/Tagalog/A1",
     "Languages/Tagalog",
     "Languages",
-    "Languages/English/Index.md",
+    "Languages/English/MyEnglish/Index.md",
     "Index.md",
     "DesignPatterns/Patrones de diseño.md",
     "DesignPatterns/Patrones",
@@ -203,20 +209,16 @@
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs",
     "Hacking/CTF Tips.md",
-    "Hacking/Vulnhub/Bob 1",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190154.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185559.png",
     "Hacking/Tools/Fuzzing/Fuzzing.md",
     "Hacking/Tools/Privilege escalation/Kernels.md",
-    "Hacking/Vulnhub/Galahad",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145110.png",
-    "Hacking/Vulnhub/Stapler 1/imgs",
     "Hacking/Vulnhub/Stapler 1/Informe.md",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108170229.png",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108165822.png",
     "Hacking/Tools/Extensiones.md",
-    "Hacking/Tools/Privilege escalation",
     "Hacking/Vulnhub/Stapler 1/imgs/Screenshot from 2024-11-08 16-13-05.png",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145259.png",
     "Hacking/Tools/Persistence/Persistencia.md",
@@ -229,8 +231,6 @@
     "Hacking/Tools/Msfconsole.md",
     "Hacking/Tools/Netdiscover/Netdiscover.md",
     "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
-    "Hacking/Tools/Nmap/Nmap.md",
-    "Hacking/Vulnhub/Earth/Earth - Easy.md",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
