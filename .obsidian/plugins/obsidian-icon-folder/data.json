@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiLanguage",
+      "LiLanguages",
       "FiFile",
       "CoFolder",
-      "FiImage",
-      "TiChessKing",
-      "FiUser"
+      "FiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -124,12 +124,6 @@
   "DigitalMarketing/Aimtell/Que es.md": "FiFile",
   "Web/Vue": "RiVuejsFill",
   "Web/Vue/Introducción a Vue.md": "FiFile",
-  "English": "TiLanguage",
-  "English/ExamOral.md": "FiFile",
-  "English/Images": "LiImage",
-  "English/LastOral.md": "FiFile",
-  "English/Summary.md": "FiFile",
-  "English/Summary-Oral.md": "LiFile",
   "Web/Vanilla": "RiJavascriptFill",
   "Web/Vue/RoadMap": "LiPen",
   "Web/Vue/RoadMap/Map.md": "CoMap",
@@ -150,7 +144,6 @@
   "Web/Vue/Start a project.md": "FiFile",
   "Web/Vanilla/Variables": "CoFolder",
   "Web/Vanilla/Variables/Variables.md": "FiFile",
-  "English/Index.md": "FiFile",
   "ML": "LiBrain",
   "ML/Intro.md": "FiFile",
   "Web/Vue/Testing/Testing.md": "FiFile",
@@ -208,5 +201,16 @@
   "Hacking/Vulnhub/Galahad/imgs": "FiImage",
   "DesignPatterns": "CoFolder",
   "DesignPatterns/Patrones de diseño.md": "FiFile",
-  "DesignPatterns/Patrones": "CoFolder"
+  "DesignPatterns/Patrones": "CoFolder",
+  "Languages": "LiLanguages",
+  "Languages/English": "TiLanguage",
+  "Languages/English/ExamOral.md": "FiFile",
+  "Languages/English/Images": "LiImage",
+  "Languages/English/Index.md": "FiFile",
+  "Languages/English/LastOral.md": "FiFile",
+  "Languages/English/Summary-Oral.md": "LiFile",
+  "Languages/English/Summary.md": "FiFile",
+  "Languages/Tagalog": "TiLanguage",
+  "Languages/Tagalog/Roadmap.md": "FiFile",
+  "Languages/Tagalog/Basico.md": "FiFile"
 }
