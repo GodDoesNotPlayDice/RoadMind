@@ -1,0 +1,1 @@
+El primer paso es saber de sus [[Variables]] para saber como declarar y diferenciarlas, una vez sabia las variables debemos enfocarnos en sus [[Tipos de datos]] para saber que hace cada cual y como estructurarlos, luego tenemos el [[Type Casting]] el cual refiere a como hace JavaScript para transferir un tipo de dato a otro.

@@ -4,7 +4,8 @@ Enfócate en la pronunciación de vocales **(a, e, i, o, u)** y consonantes úni
 [Guía de pronunciación básica del tagalo](https://www.youtube.com/watch?v=4fMZ_47U6ew)
 
 
-## Frases basica
+## Frases básicas
+[[Vocabulario]]
 Saludos: _"Kumusta?"_ (¿Cómo estás?), _"Salamat"_ (Gracias).
 Presentaciones: _"Ako si [nombre]"_ (Yo soy...).
 Preguntas comunes: _"Saan ang banyo?"_ (¿Dónde está el baño?).

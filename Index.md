@@ -1,5 +1,5 @@
 ## Web
-- **Javascript**: [[Introducción a Javascript]].
+- **Javascript**: [[JavaScript Roadmap]].
 - **Typescript**: [[Introducción a Typescript]]
 - **Vue**: [[Introducción a Vue]]
 - **Ruby on Rails**: [[Introducción a Ruby y Ruby on Rails]]

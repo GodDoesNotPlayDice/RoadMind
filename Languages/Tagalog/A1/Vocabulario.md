@@ -15,6 +15,8 @@ El **ka** es dirigido netamente a la persona singular que le estamos hablando **
 - "Kumusta ka? May sakit ka ba?" → "¿Cómo estás? ¿Estás enfermo?".
 - "Kumusta ka pagkatapos ng exam?" → "¿Cómo estás después del examen?".
 
+
+
 ### Kumusta po (formal)
 Si hablas con alguien mayor, en posición de autoridad, **kayo**, **kumusta po kayo?** 
 

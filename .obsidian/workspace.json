@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a167b788c6096183",
+        "id": "70de3d95d9c21d52",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e8504dca67331c",
+            "id": "32b0087635d1b6a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Tagalog/Roadmap.md",
+                "file": "Web/Vanilla/JavaScript Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
-            }
-          },
-          {
-            "id": "eae62c97fe7a61ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Tagalog/A1/Vocabulario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vocabulario"
+              "title": "JavaScript Roadmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,15 +168,20 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "eae62c97fe7a61ad",
+  "active": "32b0087635d1b6a5",
   "lastOpenFiles": [
-    "Languages/English/Teaching/Speaking one.md",
+    "Web/Vanilla/Tipo de Casteo/Type Casting.md",
+    "Web/Vanilla/JavaScript Roadmap.md",
+    "Web/Vanilla/Variables/Variables.md",
+    "Web/Vanilla/Escencial.md",
     "Languages/Tagalog/A1/Vocabulario.md",
+    "Languages/Tagalog/A1/Basico.md",
+    "Languages/Tagalog/Roadmap.md",
+    "Languages/English/MyEnglish/Summary.md",
+    "Languages/English/Teaching/Speaking one.md",
     "Languages/English/Teaching/Untitled",
     "Languages/English/Teaching",
     "Languages/English/MyEnglish",
-    "Languages/Tagalog/A1/Basico.md",
-    "Languages/Tagalog/Roadmap.md",
     "Languages/Tagalog/A1",
     "Languages/Tagalog",
     "Languages",
@@ -223,14 +213,9 @@
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145259.png",
     "Hacking/Tools/Persistence/Persistencia.md",
     "Hacking/Tools/SSRF/Server-Side Request Forgery.md",
-    "Web/Vanilla/Tipo de Casteo/Type Casting.md",
     "Hacking/Vulnhub/Kioptix1/Kioptix1.md",
     "Hacking/CTF Typeof.md",
     "Hacking/Vulnhub/MrRobot/MrRobot.md",
-    "Hacking/Tools/Bruteforce/BruteForce.md",
-    "Hacking/Tools/Msfconsole.md",
-    "Hacking/Tools/Netdiscover/Netdiscover.md",
-    "Hacking/Vulnhub/DC-7/DC-7 - Very Easy.md",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Untitled.canvas",
     "Networks/IPs/Untitled.canvas"

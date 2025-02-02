@@ -131,7 +131,6 @@
   "Index.md": "TiWorld",
   "Web/Typescript": "BoBxlTypescript",
   "Web/Typescript/Introducción a Typescript.md": "FiFile",
-  "Web/Vanilla/Introducción a Javascript.md": "FiFile",
   "Web/Ruby/Introducción a Ruby y Ruby on Rails.md": "FiFile",
   "Web/Ruby/Instalación básica.md": "FiFile",
   "Web/React/Introducción a React.md": "FiFile",
@@ -216,5 +215,6 @@
   "Languages/English/MyEnglish/Summary.md": "FiFile",
   "Languages/English/MyEnglish/Summary-Oral.md": "LiFile",
   "Languages/English/MyEnglish/Images": "LiImage",
-  "Languages/English/Teaching": "CoFolder"
+  "Languages/English/Teaching": "CoFolder",
+  "Web/Vanilla/JavaScript Roadmap.md": "FiFile"
 }
