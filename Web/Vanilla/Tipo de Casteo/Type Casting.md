@@ -122,3 +122,5 @@ const a = "3"
 const b = "5"
 console.log(a * b)
 ```
+
+Luego sigue lo que seria el [[Data Structure]]
