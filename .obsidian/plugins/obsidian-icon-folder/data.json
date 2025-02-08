@@ -216,5 +216,10 @@
   "Languages/English/MyEnglish/Summary-Oral.md": "LiFile",
   "Languages/English/MyEnglish/Images": "LiImage",
   "Languages/English/Teaching": "CoFolder",
-  "Web/Vanilla/JavaScript Roadmap.md": "FiFile"
+  "Web/Vanilla/JavaScript Roadmap.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Data Structure.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Keyed Collections.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Structure data.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Json.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Index Collection.md": "FiFile"
 }
