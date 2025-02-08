@@ -123,4 +123,7 @@ const b = "5"
 console.log(a * b)
 ```
 
-Luego sigue lo que seria el [[Data Structure]]
+Derivado del Type Casting, continua con conversiones o implicaciones de los tipos o con los tipos de estructuras de datos.
+**Tipos de datos estructurados**: [[Data Structure]]
+**Implicaciones de los tipos**: [[Type Conversion vs Coercion]], [[Implicit Type Casting]], 
+

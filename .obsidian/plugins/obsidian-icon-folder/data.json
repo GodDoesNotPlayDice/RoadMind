@@ -221,5 +221,8 @@
   "Web/Vanilla/Tipo de Casteo/Keyed Collections.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Structure data.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Json.md": "FiFile",
-  "Web/Vanilla/Tipo de Casteo/Index Collection.md": "FiFile"
+  "Web/Vanilla/Tipo de Casteo/Index Collection.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Type Conversion vs Coercion.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Implicit Type Casting.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Explicit Type Casting.md": "FiFile"
 }
