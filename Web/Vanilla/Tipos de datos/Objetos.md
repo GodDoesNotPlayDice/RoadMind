@@ -354,7 +354,7 @@ Se puede acceder al objeto global en sí utilizando el operador `this` en el ám
 
 Otros objetos en el ámbito global son creados por el script del usuario o proporcionados por la aplicación host. Los objetos de host disponibles en los contextos del navegador están documentados en **la referencia de API.**
 
-Todos los tipos de [[Built-in]] Objects
+Todos los tipos de [[Built-in]] Objetos, ademas sus propiedades prototipos en [[Prototypal Inheritance]] y [[Object prototype]]
 
 
 
