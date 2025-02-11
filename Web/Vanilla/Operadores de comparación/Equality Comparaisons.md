@@ -1,0 +1,1 @@
+Los operadores de comparación se utilizan en declaraciones lógicas para determinar la igualdad o la diferencia entre variables o valores. Los operadores de comparación se pueden usar en declaraciones condicionales para comparar valores y tomar medidas según el resultado.

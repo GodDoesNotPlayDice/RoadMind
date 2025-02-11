@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsDownArrowAlt",
       "TiLanguage",
       "LiLanguages",
       "FiFile",
-      "CoFolder",
-      "FiImage"
+      "CoFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -224,5 +224,13 @@
   "Web/Vanilla/Tipo de Casteo/Index Collection.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Type Conversion vs Coercion.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Implicit Type Casting.md": "FiFile",
-  "Web/Vanilla/Tipo de Casteo/Explicit Type Casting.md": "FiFile"
+  "Web/Vanilla/Tipo de Casteo/Explicit Type Casting.md": "FiFile",
+  "Web/Vanilla/Operadores de comparación": "CoFolder",
+  "Web/Vanilla/Operadores de comparación/Equality Comparaisons.md": "FiFile",
+  "Web/Vanilla/Tipos de datos/Prototypal Inheritance.md": "FiFile",
+  "Web/Vanilla/Tipos de datos/Object prototype.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Map.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Weak Map.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Set.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Weak Set.md": "FiFile"
 }
