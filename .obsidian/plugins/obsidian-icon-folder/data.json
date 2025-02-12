@@ -232,5 +232,9 @@
   "Web/Vanilla/Tipo de Casteo/Map.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Weak Map.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Set.md": "FiFile",
-  "Web/Vanilla/Tipo de Casteo/Weak Set.md": "FiFile"
+  "Web/Vanilla/Tipo de Casteo/Weak Set.md": "FiFile",
+  "Web/Vanilla/Operadores de comparación/Equality Algorithms.md": "FiFile",
+  "Web/Vanilla/Tipo de Casteo/Arrays and Typed arrays.md": "FiFile",
+  "Web/Vanilla/Bucles y Iteraciones": "CoFolder",
+  "Web/Vanilla/Bucles y Iteraciones/Bucles e Iteraciones.md": "FiFile"
 }
