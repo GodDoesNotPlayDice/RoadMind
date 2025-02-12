@@ -106,3 +106,5 @@ inventario.delete("peras");
 // Tamaño actual:
 console.log(inventario.size); // 1
 ```
+
+Conoce los tipos de Keyed Collections [[Web/Vanilla/Tipo de Casteo/Map|Map]], [[Weak Map]], [[Set]], [[Weak Set]]
