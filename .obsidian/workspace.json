@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vanilla/Bucles y Iteraciones/Bucles e Iteraciones.md",
-                "mode": "preview",
+                "file": "Web/Vanilla/Control de flujo/Exceptional Handling.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bucles e Iteraciones"
+              "title": "Exceptional Handling"
             }
           }
         ]
@@ -174,14 +174,17 @@
   },
   "active": "7a5c4599445045a9",
   "lastOpenFiles": [
-    "Web/Vanilla/Tipo de Casteo/Arrays and Typed arrays.md",
+    "Web/Vanilla/Control de flujo/Sentencias condicionales.md",
+    "Web/Vanilla/Control de flujo/Exceptional Handling.md",
+    "Web/Vanilla/Operadores de comparación/Equality Comparisons.md",
     "Web/Vanilla/Bucles y Iteraciones/Bucles e Iteraciones.md",
+    "Web/Vanilla/Control de flujo",
+    "Web/Vanilla/Tipo de Casteo/Arrays and Typed arrays.md",
     "Web/Vanilla/Bucles y Iteraciones",
     "Web/Vanilla/Tipo de Casteo/Index Collection.md",
     "Web/Vanilla/Tipo de Casteo/Weak Set.md",
     "Web/Vanilla/Tipo de Casteo/Keyed Collections.md",
     "Web/Vanilla/Operadores de comparación/Equality Algorithms.md",
-    "Web/Vanilla/Operadores de comparación/Equality Comparaisons.md",
     "Web/Vanilla/Tipo de Casteo/Type Conversion vs Coercion.md",
     "Web/Vanilla/Tipo de Casteo/Data Structure.md",
     "Web/Vanilla/Tipo de Casteo/Set.md",
@@ -201,15 +204,12 @@
     "Web/Vanilla/Escencial.md",
     "Index.md",
     "Call.md",
-    "Web/Vanilla/Tipo de Casteo/Json.md",
-    "Web/Vanilla/Tipos de datos/Tipos de datos.md",
     "Languages/English/Teaching/Untitled",
     "Languages/English/Teaching",
     "Languages/English/MyEnglish",
     "Languages/Tagalog/A1",
     "Languages/Tagalog",
     "Languages",
-    "DesignPatterns/Patrones",
     "Pasted image 20250116004956.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",

@@ -226,7 +226,6 @@
   "Web/Vanilla/Tipo de Casteo/Implicit Type Casting.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Explicit Type Casting.md": "FiFile",
   "Web/Vanilla/Operadores de comparación": "CoFolder",
-  "Web/Vanilla/Operadores de comparación/Equality Comparaisons.md": "FiFile",
   "Web/Vanilla/Tipos de datos/Prototypal Inheritance.md": "FiFile",
   "Web/Vanilla/Tipos de datos/Object prototype.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Map.md": "FiFile",
@@ -236,5 +235,9 @@
   "Web/Vanilla/Operadores de comparación/Equality Algorithms.md": "FiFile",
   "Web/Vanilla/Tipo de Casteo/Arrays and Typed arrays.md": "FiFile",
   "Web/Vanilla/Bucles y Iteraciones": "CoFolder",
-  "Web/Vanilla/Bucles y Iteraciones/Bucles e Iteraciones.md": "FiFile"
+  "Web/Vanilla/Bucles y Iteraciones/Bucles e Iteraciones.md": "FiFile",
+  "Web/Vanilla/Control de flujo": "CoFolder",
+  "Web/Vanilla/Operadores de comparación/Equality Comparisons.md": "FiFile",
+  "Web/Vanilla/Control de flujo/Sentencias condicionales.md": "FiFile",
+  "Web/Vanilla/Control de flujo/Exceptional Handling.md": "FiFile"
 }
