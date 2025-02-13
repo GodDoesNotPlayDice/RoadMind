@@ -236,8 +236,9 @@
   "Web/Vanilla/Tipo de Casteo/Arrays and Typed arrays.md": "FiFile",
   "Web/Vanilla/Bucles y Iteraciones": "CoFolder",
   "Web/Vanilla/Bucles y Iteraciones/Bucles e Iteraciones.md": "FiFile",
-  "Web/Vanilla/Control de flujo": "CoFolder",
   "Web/Vanilla/Operadores de comparación/Equality Comparisons.md": "FiFile",
-  "Web/Vanilla/Control de flujo/Sentencias condicionales.md": "FiFile",
-  "Web/Vanilla/Control de flujo/Exceptional Handling.md": "FiFile"
+  "Web/Vanilla/Expresiones y Operadores": "CoFolder",
+  "Web/Vanilla/Expresiones y Operadores/Exceptional Handling.md": "FiFile",
+  "Web/Vanilla/Expresiones y Operadores/Sentencias condicionales.md": "FiFile",
+  "Web/Vanilla/Expresiones y Operadores/Expressions and Operators.md": "FiFile"
 }

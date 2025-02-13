@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vanilla/Control de flujo/Exceptional Handling.md",
+                "file": "Web/Vanilla/Expresiones y Operadores/Expressions and Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exceptional Handling"
+              "title": "Expressions and Operators"
             }
           }
         ]
@@ -174,11 +174,12 @@
   },
   "active": "7a5c4599445045a9",
   "lastOpenFiles": [
-    "Web/Vanilla/Control de flujo/Sentencias condicionales.md",
-    "Web/Vanilla/Control de flujo/Exceptional Handling.md",
+    "Web/Vanilla/Expresiones y Operadores/Sentencias condicionales.md",
+    "Web/Vanilla/Expresiones y Operadores/Expressions and Operators.md",
+    "Web/Vanilla/Expresiones y Operadores/Exceptional Handling.md",
     "Web/Vanilla/Operadores de comparación/Equality Comparisons.md",
     "Web/Vanilla/Bucles y Iteraciones/Bucles e Iteraciones.md",
-    "Web/Vanilla/Control de flujo",
+    "Web/Vanilla/Expresiones y Operadores",
     "Web/Vanilla/Tipo de Casteo/Arrays and Typed arrays.md",
     "Web/Vanilla/Bucles y Iteraciones",
     "Web/Vanilla/Tipo de Casteo/Index Collection.md",
@@ -203,7 +204,6 @@
     "DesignPatterns/Patrones de diseño.md",
     "Web/Vanilla/Escencial.md",
     "Index.md",
-    "Call.md",
     "Languages/English/Teaching/Untitled",
     "Languages/English/Teaching",
     "Languages/English/MyEnglish",
