@@ -240,5 +240,6 @@
   "Web/Vanilla/Expresiones y Operadores": "CoFolder",
   "Web/Vanilla/Expresiones y Operadores/Exceptional Handling.md": "FiFile",
   "Web/Vanilla/Expresiones y Operadores/Sentencias condicionales.md": "FiFile",
-  "Web/Vanilla/Expresiones y Operadores/Expressions and Operators.md": "FiFile"
+  "Web/Vanilla/Expresiones y Operadores/Expressions and Operators.md": "FiFile",
+  "Web/Vanilla/Funciones": "CoFolder"
 }

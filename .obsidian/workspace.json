@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999618530273,
-    "collapsed": true
+    "width": 273.49999618530273
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -174,9 +173,10 @@
   },
   "active": "7a5c4599445045a9",
   "lastOpenFiles": [
-    "Web/Vanilla/Expresiones y Operadores/Sentencias condicionales.md",
-    "Web/Vanilla/Expresiones y Operadores/Expressions and Operators.md",
     "Web/Vanilla/Expresiones y Operadores/Exceptional Handling.md",
+    "Web/Vanilla/Expresiones y Operadores/Expressions and Operators.md",
+    "Web/Vanilla/Funciones",
+    "Web/Vanilla/Expresiones y Operadores/Sentencias condicionales.md",
     "Web/Vanilla/Operadores de comparación/Equality Comparisons.md",
     "Web/Vanilla/Bucles y Iteraciones/Bucles e Iteraciones.md",
     "Web/Vanilla/Expresiones y Operadores",
@@ -203,13 +203,11 @@
     "Web/Vanilla/Tipo de Casteo/Structure data.md",
     "DesignPatterns/Patrones de diseño.md",
     "Web/Vanilla/Escencial.md",
-    "Index.md",
     "Languages/English/Teaching/Untitled",
     "Languages/English/Teaching",
     "Languages/English/MyEnglish",
     "Languages/Tagalog/A1",
     "Languages/Tagalog",
-    "Languages",
     "Pasted image 20250116004956.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
