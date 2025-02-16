@@ -246,5 +246,12 @@
   "Web/Javascript/Funciones/Tipos de funciones.md": "FiFile",
   "Web/Javascript/Funciones/Funciones recursivas.md": "FiFile",
   "Web/Javascript/Funciones/Lexical Scoping.md": "FiFile",
-  "Web/Javascript/Funciones/Closures.md": "FiFile"
+  "Web/Javascript/Funciones/Closures.md": "FiFile",
+  "Web/Javascript/DOM APIs": "CoFolder",
+  "Web/Javascript/DOM APIs/DOM APIs.md": "FiFile",
+  "Web/Javascript/DOM APIs/DOM es dinámico.md": "FiFile",
+  "Web/Javascript/DOM APIs/Estructura del DOM.md": "FiFile",
+  "Web/Javascript/DOM APIs/Manipulación del DOM.md": "FiFile",
+  "Web/Javascript/DOM APIs/Eventos.md": "FiFile",
+  "Web/Javascript/DOM APIs/Optimización del DOM.md": "FiFile"
 }
