@@ -1,5 +1,4 @@
-las funciones son bloques de código que realizan una tarea específica y pueden ser reutilizados en diferentes partes de un programa.
-
+las funciones son bloques de código que realizan una tarea específica y pueden ser reutilizados en diferentes partes de un programa, a continuación sigue [[DOM APIs]]
 ## Función tradicional y flecha
 Las funciones pueden recibir parámetros (**entradas**) y devolver un valor (**salida**).
 
@@ -236,4 +235,5 @@ let coche = {
 
 coche.arrancar(); // "El coche está arrancando..."
 ```
+
 

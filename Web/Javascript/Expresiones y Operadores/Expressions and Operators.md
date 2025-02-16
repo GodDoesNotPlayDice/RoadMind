@@ -1,4 +1,4 @@
-Las expresiones y los operadores son fundamentales para realizar operaciones y manipular datos.
+Las expresiones y los operadores son fundamentales para realizar operaciones y manipular datos, a continuación sigue [[Funciones]]
 
 ## Operadores aritméticos
 - `+` (Suma)

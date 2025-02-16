@@ -89,7 +89,7 @@ console.log(saludar("Sofia")); // Output: Hola, Sofia
 ```
 
 ### Funciones que devuelven otras funciones (Clousers)
-Las funciones pueden devolver otras funciones, lo que permite crear closures.
+Las funciones pueden devolver otras funciones, lo que permite crear closures. [[Closures]]
 
 ```js
 function crearSaludo(saludo) {
@@ -103,7 +103,7 @@ console.log(saludarEnEspanol("Luis")); // Output: Hola, Luis
 ```
 
 ### Funciones Recursivas
-Una función recursiva es aquella que se llama a sí misma.
+Una función recursiva es aquella que se llama a sí misma. [[Funciones recursivas]]
 
 ```js
 function factorial(n) {
