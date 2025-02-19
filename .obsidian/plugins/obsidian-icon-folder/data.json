@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "BoBxsDownArrowAlt",
-      "TiLanguage",
-      "LiLanguages",
       "FiFile",
-      "CoFolder"
+      "CoFolder",
+      "BoBxsMagicWand",
+      "BoBxsDownArrowAlt",
+      "TiLanguage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -253,5 +253,17 @@
   "Web/Javascript/DOM APIs/Estructura del DOM.md": "FiFile",
   "Web/Javascript/DOM APIs/Manipulación del DOM.md": "FiFile",
   "Web/Javascript/DOM APIs/Eventos.md": "FiFile",
-  "Web/Javascript/DOM APIs/Optimización del DOM.md": "FiFile"
+  "Web/Javascript/DOM APIs/Optimización del DOM.md": "FiFile",
+  "Web/Javascript/Strict Mode": "CoFolder",
+  "Web/Javascript/Strict Mode/Strict Mode.md": "FiFile",
+  "Web/Javascript/This Keyword": "CoFolder",
+  "Web/Javascript/This Keyword/This.md": "FiFile",
+  "Web/Javascript/Asynchronous": "CoFolder",
+  "Web/Javascript/Asynchronous/Asincronía.md": "FiFile",
+  "Web/Javascript/Asynchronous/Event Loop con Peras y Manzanas.md": "FiFile",
+  "Web/Javascript/Asynchronous/Event Loop.md": "FiFile",
+  "Web/Javascript/Asynchronous/Callbacks.md": "FiFile",
+  "Web/Javascript/Asynchronous/Callback Hell.md": "FiFile",
+  "Web/Javascript/Asynchronous/Promises.md": "FiFile",
+  "Web/Javascript/Asynchronous/Async Await.md": "FiFile"
 }

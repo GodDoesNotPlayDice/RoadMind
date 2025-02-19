@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8178f6105638e477",
+        "id": "5cbb8a825697ac12",
         "type": "tabs",
         "children": [
           {
-            "id": "218095c8e250a8f6",
+            "id": "2337e734a935eb13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Javascript/DOM APIs/Eventos.md",
+                "file": "Web/Javascript/Asynchronous/Async Await.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eventos"
+              "title": "Async Await"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,14 +171,26 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "218095c8e250a8f6",
+  "active": "2337e734a935eb13",
   "lastOpenFiles": [
+    "Web/Javascript/Asynchronous/Asincronía.md",
+    "Web/Javascript/Asynchronous/Promises.md",
+    "Web/Javascript/Asynchronous/Async Await.md",
+    "Web/Javascript/Asynchronous/Callback Hell.md",
+    "Web/Javascript/Asynchronous/Callbacks.md",
+    "Web/Javascript/Asynchronous/Event Loop.md",
+    "Web/Javascript/Asynchronous/Event Loop con Peras y Manzanas.md",
+    "Web/Javascript/Asynchronous",
+    "Web/Javascript/This Keyword/This.md",
+    "Web/Javascript/Strict Mode/Strict Mode.md",
+    "Web/Javascript/This Keyword",
     "Web/Javascript/DOM APIs/Optimización del DOM.md",
+    "Web/Javascript/Strict Mode",
+    "Web/Javascript/DOM APIs/Eventos.md",
     "Web/Javascript/DOM APIs/Manipulación del DOM.md",
     "Web/Javascript/DOM APIs/DOM APIs.md",
     "Web/Javascript/DOM APIs/DOM es dinámico.md",
     "Web/Javascript/DOM APIs/Estructura del DOM.md",
-    "Web/Javascript/DOM APIs/Eventos.md",
     "DigitalMarketing/Emarsys/Que es.md",
     "Web/Vue/Projects/Vue-IndecisionApp.md",
     "Web/Javascript/JavaScript Roadmap.md",
@@ -193,23 +204,11 @@
     "Web/Javascript/DOM APIs",
     "Web/Javascript/Funciones",
     "Web/Javascript/Expresiones y Operadores/Sentencias condicionales.md",
-    "Web/Javascript/Operadores de comparación/Equality Comparisons.md",
-    "Web/Javascript/Bucles y Iteraciones/Bucles e Iteraciones.md",
     "Web/Javascript/Expresiones y Operadores",
-    "Web/Javascript/Tipo de Casteo/Arrays and Typed arrays.md",
     "Web/Javascript/Bucles y Iteraciones",
-    "Web/Javascript/Tipo de Casteo/Index Collection.md",
-    "Web/Javascript/Tipo de Casteo/Weak Set.md",
-    "Web/Javascript/Tipo de Casteo/Keyed Collections.md",
-    "Web/Javascript/Operadores de comparación/Equality Algorithms.md",
-    "Web/Javascript/Tipo de Casteo/Type Conversion vs Coercion.md",
-    "Web/Javascript/Tipo de Casteo/Data Structure.md",
     "Web/Vanilla/Equality Comparisons/Untitled",
     "Web/Javascript/Operadores de comparación",
     "Languages/English/Teaching/Untitled",
-    "Languages/English/Teaching",
-    "Languages/English/MyEnglish",
-    "Languages/Tagalog/A1",
     "Pasted image 20250116004956.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
