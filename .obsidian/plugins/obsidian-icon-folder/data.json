@@ -265,5 +265,15 @@
   "Web/Javascript/Asynchronous/Callbacks.md": "FiFile",
   "Web/Javascript/Asynchronous/Callback Hell.md": "FiFile",
   "Web/Javascript/Asynchronous/Promises.md": "FiFile",
-  "Web/Javascript/Asynchronous/Async Await.md": "FiFile"
+  "Web/Javascript/Asynchronous/Async Await.md": "FiFile",
+  "Web/Javascript/APIs": "CoFolder",
+  "Web/Javascript/Clases": "CoFolder",
+  "Web/Javascript/Iteradores y Generadores": "CoFolder",
+  "Web/Javascript/Iteradores y Generadores/Iteradores y Generadores.md": "FiFile",
+  "Web/Javascript/Modulos": "CoFolder",
+  "Web/Javascript/Gestión de memoria": "CoFolder",
+  "Web/Javascript/Gestión de memoria/Memory Managment.md": "FiFile",
+  "Web/Javascript/DevTools": "CoFolder",
+  "Web/Javascript/Clases/Classes.md": "FiFile",
+  "Web/Javascript/DevTools/Development tools.md": "FiFile"
 }

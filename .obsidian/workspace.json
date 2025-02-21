@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5cbb8a825697ac12",
+        "id": "c3d476fddc58a463",
         "type": "tabs",
         "children": [
           {
-            "id": "2337e734a935eb13",
+            "id": "2ea4f171b618e28b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Javascript/Asynchronous/Async Await.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Async Await"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "document fragment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999618530273,
-    "collapsed": true
+    "width": 273.49999618530273
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -171,11 +166,27 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "2337e734a935eb13",
+  "active": "2ea4f171b618e28b",
   "lastOpenFiles": [
+    "Web/Javascript/DevTools/Development tools.md",
+    "Web/Javascript/DOM APIs/Manipulación del DOM.md",
+    "Web/Javascript/DOM APIs/Optimización del DOM.md",
+    "Web/Javascript/Clases/Classes.md",
+    "Web/Javascript/Gestión de memoria/Memory Managment.md",
+    "Web/Javascript/DevTools/Untitled",
+    "Web/Javascript/DevTools",
+    "Web/Javascript/Modulos/Módulos en Javascript.md",
+    "Web/Javascript/Gestión de memoria",
+    "Web/Javascript/Iteradores y Generadores/Iteradores y Generadores.md",
+    "Web/Javascript/Modulos",
+    "Web/Javascript/Iteradores y Generadores",
+    "Web/Javascript/Iteradores y Generadores/Iteradores y Generadores",
+    "Web/Javascript/APIs/Working with APIs.md",
+    "Web/Javascript/Clases",
+    "Web/Javascript/Asynchronous/Async Await.md",
+    "Web/Javascript/APIs",
     "Web/Javascript/Asynchronous/Asincronía.md",
     "Web/Javascript/Asynchronous/Promises.md",
-    "Web/Javascript/Asynchronous/Async Await.md",
     "Web/Javascript/Asynchronous/Callback Hell.md",
     "Web/Javascript/Asynchronous/Callbacks.md",
     "Web/Javascript/Asynchronous/Event Loop.md",
@@ -184,10 +195,7 @@
     "Web/Javascript/This Keyword/This.md",
     "Web/Javascript/Strict Mode/Strict Mode.md",
     "Web/Javascript/This Keyword",
-    "Web/Javascript/DOM APIs/Optimización del DOM.md",
-    "Web/Javascript/Strict Mode",
     "Web/Javascript/DOM APIs/Eventos.md",
-    "Web/Javascript/DOM APIs/Manipulación del DOM.md",
     "Web/Javascript/DOM APIs/DOM APIs.md",
     "Web/Javascript/DOM APIs/DOM es dinámico.md",
     "Web/Javascript/DOM APIs/Estructura del DOM.md",
@@ -196,19 +204,6 @@
     "Web/Javascript/JavaScript Roadmap.md",
     "Web/Javascript/Expresiones y Operadores/Expressions and Operators.md",
     "Web/Javascript/Expresiones y Operadores/Exceptional Handling.md",
-    "Web/Javascript/Funciones/Closures.md",
-    "Web/Javascript/Funciones/Funciones recursivas.md",
-    "Web/Javascript/Funciones/Tipos de funciones.md",
-    "Web/Javascript/Funciones/Lexical Scoping.md",
-    "Web/Javascript/Funciones/Funciones.md",
-    "Web/Javascript/DOM APIs",
-    "Web/Javascript/Funciones",
-    "Web/Javascript/Expresiones y Operadores/Sentencias condicionales.md",
-    "Web/Javascript/Expresiones y Operadores",
-    "Web/Javascript/Bucles y Iteraciones",
-    "Web/Vanilla/Equality Comparisons/Untitled",
-    "Web/Javascript/Operadores de comparación",
-    "Languages/English/Teaching/Untitled",
     "Pasted image 20250116004956.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
