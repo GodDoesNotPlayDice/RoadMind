@@ -275,5 +275,6 @@
   "Web/Javascript/Gestión de memoria/Memory Managment.md": "FiFile",
   "Web/Javascript/DevTools": "CoFolder",
   "Web/Javascript/Clases/Classes.md": "FiFile",
-  "Web/Javascript/DevTools/Development tools.md": "FiFile"
+  "Web/Javascript/DevTools/Development tools.md": "FiFile",
+  "Web/Typescript/Tsconfig.md": "FiFile"
 }
