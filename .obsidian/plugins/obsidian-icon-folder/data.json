@@ -128,7 +128,6 @@
   "Web/Vue/RoadMap/Map.md": "CoMap",
   "Index.md": "TiWorld",
   "Web/Typescript": "BoBxlTypescript",
-  "Web/Typescript/Introducción a Typescript.md": "FiFile",
   "Web/Ruby/Introducción a Ruby y Ruby on Rails.md": "FiFile",
   "Web/Ruby/Instalación básica.md": "FiFile",
   "Web/React/Introducción a React.md": "FiFile",
@@ -276,5 +275,15 @@
   "Web/Javascript/DevTools": "CoFolder",
   "Web/Javascript/Clases/Classes.md": "FiFile",
   "Web/Javascript/DevTools/Development tools.md": "FiFile",
-  "Web/Typescript/Tsconfig.md": "FiFile"
+  "Web/Typescript/Introducción/Introducción a Typescript.md": "FiFile",
+  "Web/Typescript/Introducción/Tsconfig.md": "FiFile",
+  "Web/Typescript/Introducción": "CoFolder",
+  "Web/Typescript/Introducción/Compilado.md": "FiFile",
+  "Web/Typescript/Tipos de Typescript": "CoFolder",
+  "Web/Typescript/Tipos de Typescript/Primitivos.md": "FiFile",
+  "Web/Typescript/Tipos de Typescript/Tipos de Objeto.md": "FiFile",
+  "Web/Typescript/Tipos de Typescript/Top Types y Bottom Types.md": "FiFile",
+  "Web/Typescript/Tipos de Typescript/Aserciones de Tipo.md": "FiFile",
+  "Web/Typescript/Tipos de Typescript/Non-Null Assertion.md": "FiFile",
+  "Web/Typescript/Tipos de Typescript/Satisfies Keyword.md": "FiFile"
 }
