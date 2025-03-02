@@ -285,5 +285,6 @@
   "Web/Typescript/Tipos de Typescript/Top Types y Bottom Types.md": "FiFile",
   "Web/Typescript/Tipos de Typescript/Aserciones de Tipo.md": "FiFile",
   "Web/Typescript/Tipos de Typescript/Non-Null Assertion.md": "FiFile",
-  "Web/Typescript/Tipos de Typescript/Satisfies Keyword.md": "FiFile"
+  "Web/Typescript/Tipos de Typescript/Satisfies Keyword.md": "FiFile",
+  "Web/Typescript/Inferencia de Tipos.md": "FiFile"
 }
