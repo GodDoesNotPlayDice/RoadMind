@@ -34,3 +34,6 @@ let someObject = { name: "Alice", age: 25 } as const;
 // someObject es de tipo { readonly name: "Alice"; readonly age: 25 }
 ```
 
+Otras como [[Non-Null Assertion]], [[Satisfies Keyword]]
+
+Luego continua con [[Inferencia de Tipos]]

@@ -49,6 +49,8 @@ console.log(saludar(usuario)); // Salida: Hola, Juan! Tienes 30 años.
 **Comunidad y soporte**: TypeScript tiene una gran comunidad y está respaldado por Microsoft, lo que garantiza un soporte continuo y actualizaciones frecuentes.
 
 
+A continuación los tipos [[Primitivos]], [[Tipos de Objeto]], [[Top Types y Bottom Types]] y las acertaciones de tipo [[Aserciones de Tipo]]
+
 ## Acerca de la instalación
 Para comenzar a usar TypeScript, necesitas tener Node.js instalado. Luego, puedes instalar TypeScript globalmente usando **npm**:
 

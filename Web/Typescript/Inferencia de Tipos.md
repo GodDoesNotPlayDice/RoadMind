@@ -7,3 +7,5 @@ let name = 'John Doe';
 ```
 
 
+Continua con [[Compatibilidad de Tipo]]
+
