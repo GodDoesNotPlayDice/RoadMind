@@ -6,7 +6,7 @@ Prefiera plantillas declarativas utilizando directivas integradas como v-bind cu
 
 
 Existen dos formas de reutilización de código en Vue: 
-- [[Components]] : los **componentes** son los bloques de construcción principales
+- [[Web/Vue/Esencial/Components/Components]] : los **componentes** son los bloques de construcción principales
 - [[Composables]] : los elementos **componibles** se centran en reutilizar la lógica con estado
 
 Las directivas personalizadas, por otro lado, están destinadas principalmente a reutilizar la lógica que implica acceso DOM de bajo nivel en elementos simples.

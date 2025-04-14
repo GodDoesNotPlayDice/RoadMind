@@ -41,7 +41,7 @@ console.log(app.version);
 
 ### `app.component()`
 Registra un componente global si se pasa una cadena de nombre y una definición de componente, o recupera uno ya registrado si solo se pasa el nombre.
-[[Components]]
+[[Web/Vue/Esencial/Components/Components]]
 
 ```ts
 interface App {
