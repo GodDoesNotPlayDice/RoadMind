@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrandVite",
       "FiFile",
       "CoFolder",
       "BoBxsMagicWand",
-      "BoBxsDownArrowAlt",
-      "TiLanguage"
+      "BoBxsDownArrowAlt"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -78,15 +78,10 @@
   "Year": "TiDice3",
   "Year/Semester": "TiDice6",
   "Year/Semester/Ingles/Summary": "FasFile",
-  "Web/React/React.md": "BoBxsFileDoc",
   "Hacking/Tools/Arp-scan/ArpScan.md": "BoBxsFileDoc",
-  "Web/React/Tests.md": "BoBxsFileDoc",
   "Year/Semester/Tasks": "RiTaskFill",
-  "Web/React/Videos.md": "RiYoutubeFill",
   "Web/React/Estructura.md": "IbTreeMapDown",
   "Web/React/Imagenes": "RiFolderImageLine",
-  "Web/React/Errors": "RiErrorWarningFill",
-  "Web/React/Errors/Functions are not valid as a React child.md": "BoBxsFileDoc",
   "DDD": "TiBrandDatabricks",
   "Hacking/OverTheWire": "TiWall",
   "Hacking/OverTheWire/Natas": "IbWebsiteWithText",
@@ -130,7 +125,6 @@
   "Web/Typescript": "BoBxlTypescript",
   "Web/Ruby/Introducción a Ruby y Ruby on Rails.md": "FiFile",
   "Web/Ruby/Instalación básica.md": "FiFile",
-  "Web/React/Introducción a React.md": "FiFile",
   "Templates": "TiTemplate",
   "Templates/not-equal.md": "RiFileWordFill",
   "Architectures": "BoBxsServer",
@@ -307,5 +301,11 @@
   "Web/Typescript/Utility Types/Advanced Types.md": "FiFile",
   "Web/Typescript/Typescript Modules": "CoFolder",
   "Web/Typescript/Typescript Modules/Módulos de Typescript.md": "FiFile",
-  "Web/Typescript/Ecosystem.md": "FiFile"
+  "Web/Typescript/Ecosystem.md": "FiFile",
+  "Web/React/Components.md": "FiFile",
+  "Web/React/Crear un proyecto con React.md": "FiFile",
+  "Web/Vite.md": "TiBrandVite",
+  "Web/React/Rendering": "CoFolder",
+  "Web/React/Rendering/Como funciona el render de react.md": "FiFile",
+  "Web/React/Componentes Funcionales": "CoFolder"
 }
