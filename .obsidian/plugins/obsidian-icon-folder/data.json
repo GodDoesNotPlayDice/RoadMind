@@ -307,5 +307,10 @@
   "Web/Vite.md": "TiBrandVite",
   "Web/React/Rendering": "CoFolder",
   "Web/React/Rendering/Como funciona el render de react.md": "FiFile",
-  "Web/React/Componentes Funcionales": "CoFolder"
+  "Web/React/Componentes Funcionales": "CoFolder",
+  "Web/React/Componentes Funcionales/Props vs State.md": "FiFile",
+  "Web/React/Componentes Funcionales/Conditional Rendering.md": "FiFile",
+  "Web/React/Componentes Funcionales/Composition vs Inheritance.md": "FiFile",
+  "Web/React/Componentes Funcionales/Componentes Funcionales.md": "FiFile",
+  "Web/React/Rendering/Component Lifecycle.md": "FiFile"
 }

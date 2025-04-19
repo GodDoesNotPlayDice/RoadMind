@@ -15,5 +15,14 @@
       ],
       "key": "B"
     }
+  ],
+  "simple-code-formatter:simple_code_formatter": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }

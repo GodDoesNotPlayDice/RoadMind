@@ -13,5 +13,6 @@
   "bpmn-plugin",
   "tldraw",
   "shortcuts-extender",
-  "code-emitter"
+  "code-emitter",
+  "simple-code-formatter"
 ]
