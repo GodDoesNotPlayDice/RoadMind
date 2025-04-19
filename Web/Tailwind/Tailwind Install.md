@@ -2,7 +2,7 @@ Para instalar depende si se usa framework o vanilla.
 
 ## Framework
 ```bash
-npm install tailwindcss @tailwindcss/vite
+pnpm install tailwindcss @tailwindcss/vite
 ```
 
 
