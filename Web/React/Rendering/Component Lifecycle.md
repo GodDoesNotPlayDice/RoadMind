@@ -1,5 +1,6 @@
 [Ciclo de vida de los efectos reactivos](https://react.dev/learn/lifecycle-of-reactive-effects)
 [Video explicativo](https://www.youtube.com/watch?v=kKVVan3EGoU)
+[[Diagrama del ciclo de vida]]
 # Fases del Ciclo
 Los componentes React tienen un ciclo de vida que consta de tres fases: **montaje, actualización y desmontaje** junto con varios **"métodos de ciclo de vida"** que puede anular para ejecutar código en momentos particulares del proceso.
 
@@ -67,7 +68,6 @@ const CestaFrutas: React.FC<CestaFrutasProps> = ({
 };
 
 export default CestaFrutas;
-
 ```
 
 **Montaje** (primer `useEffect` con `[]`): se abre el puesto y se registra el stock inicial; al desmontar, limpia.
@@ -76,3 +76,29 @@ export default CestaFrutas;
 
 **Desmontaje**: al quitar el componente de la UI, se ejecuta la limpieza del primer `useEffect`.
 
+
+```tsx
+import { CestaFrutas } from "./CestaDeFrutas";
+import { useState } from "react";
+
+function App() {
+  const [mostrarCesta, setMostrarCesta] = useState(true);
+  return (
+    <>
+      <div>
+        <button onClick={() => setMostrarCesta((v) => !v)}>
+          {mostrarCesta ? "Ocultar cesta" : "Mostrar cesta"}
+        </button>
+
+        {mostrarCesta && (
+          <CestaFrutas perasIniciales={3} manzanasIniciales={5} />
+        )}
+      </div>
+    </>
+  );
+}
+
+export default App;
+```
+
+![[Pasted image 20250419210318.png]]
