@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPen",
       "TiBrandVite",
       "FiFile",
       "CoFolder",
-      "BoBxsMagicWand",
-      "BoBxsDownArrowAlt"
+      "BoBxsMagicWand"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -312,5 +312,6 @@
   "Web/React/Componentes Funcionales/Conditional Rendering.md": "FiFile",
   "Web/React/Componentes Funcionales/Composition vs Inheritance.md": "FiFile",
   "Web/React/Componentes Funcionales/Componentes Funcionales.md": "FiFile",
-  "Web/React/Rendering/Component Lifecycle.md": "FiFile"
+  "Web/React/Rendering/Component Lifecycle.md": "FiFile",
+  "Web/React/Rendering/Diagrama del ciclo de vida.md": "LiPen"
 }

@@ -11,14 +11,12 @@
             "id": "96d1c1993bacbe48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Web/React/Rendering/Component Lifecycle.md",
-                "mode": "source",
-                "source": false
+                "file": "Web/React/Rendering/Diagrama del ciclo de vida.md"
               },
-              "icon": "lucide-file",
-              "title": "Component Lifecycle"
+              "icon": "excalidraw-icon",
+              "title": "Diagrama del ciclo de vida"
             }
           }
         ]
@@ -170,10 +168,21 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "96d1c1993bacbe48",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
-    "Web/React/Componentes Funcionales/Composition vs Inheritance.md",
+    "Web/React/Imagenes 1",
     "Web/React/Rendering/Component Lifecycle.md",
+    "Web/React/Rendering/Diagrama del ciclo de vida.md",
+    "Web/React/Imagenes/Pasted image 20250419210318.png",
+    "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
+    "Web/Vue/Esencial/Components/Slots.md",
+    "Web/Vue/Esencial/Components/Components Registration.md",
+    "Web/Vue/Esencial/Components/Components.md",
+    "Web/Vue/Start a project.md",
+    "Web/Vue/Introducción a Vue.md",
+    "Web/React/Estructura.md",
+    "Web/React/Rendering/Drawing 2025-04-19 19.14.09.excalidraw.md",
+    "Web/React/Componentes Funcionales/Composition vs Inheritance.md",
     "Web/React/Componentes Funcionales/Componentes Funcionales.md",
     "Web/React/Components.md",
     "Web/React/Crear un proyecto con React.md",
@@ -182,10 +191,7 @@
     "Web/React/Componentes Funcionales/Props vs State.md",
     "Web/React/Componentes Funcionales/Conditional Rendering",
     "Untitled.canvas",
-    "Web/React/Estructura.md",
     "Web/Vue/Projects/Vue-IndecisionApp.md",
-    "Web/Vue/Introducción a Vue.md",
-    "Web/Vue/Start a project.md",
     "Web/Vite.md",
     "Web/React/Rendering/Como funciona el render de react.md",
     "Web/Tailwind/Tailwind Install.md",
@@ -195,16 +201,9 @@
     "Web/React/React.md",
     "Web/Typescript/Ecosystem.md",
     "Web/Typescript/Utility Types/Kind of Utility Types.md",
-    "Web/Typescript/Utility Types/Advanced Types.md",
-    "Web/Typescript/Typescript Modules/Módulos de Typescript.md",
     "Web/Typescript/Typescript Modules",
-    "Web/Typescript/Decorador/Decorator.md",
     "Web/Typescript/Utility Types",
-    "Web/Typescript/Genericos/Generic Types and Constraints.md",
-    "Web/Typescript/Classes/Classes en Typescript.md",
     "Web/Typescript/Decorador",
-    "Web/Typescript/Inferencia de Tipos.md",
-    "Web/Javascript/Tipos de datos/Tipos de datos.md",
     "Web/Typescript/Genericos",
     "Web/Typescript/Classes",
     "Web/Typescript/Interfaces",
@@ -218,7 +217,6 @@
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108170229.png",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108165822.png",
     "Hacking/Vulnhub/Stapler 1/imgs/Screenshot from 2024-11-08 16-13-05.png",
-    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145259.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
