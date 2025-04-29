@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiGameFill",
       "LiPen",
       "TiBrandVite",
       "FiFile",
-      "CoFolder",
-      "BoBxsMagicWand"
+      "CoFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -306,12 +306,16 @@
   "Web/React/Crear un proyecto con React.md": "FiFile",
   "Web/Vite.md": "TiBrandVite",
   "Web/React/Rendering": "CoFolder",
-  "Web/React/Rendering/Como funciona el render de react.md": "FiFile",
   "Web/React/Componentes Funcionales": "CoFolder",
   "Web/React/Componentes Funcionales/Props vs State.md": "FiFile",
   "Web/React/Componentes Funcionales/Conditional Rendering.md": "FiFile",
   "Web/React/Componentes Funcionales/Composition vs Inheritance.md": "FiFile",
   "Web/React/Componentes Funcionales/Componentes Funcionales.md": "FiFile",
   "Web/React/Rendering/Component Lifecycle.md": "FiFile",
-  "Web/React/Rendering/Diagrama del ciclo de vida.md": "LiPen"
+  "Web/React/Rendering/Diagrama del ciclo de vida.md": "LiPen",
+  "GameHacking": "RiGameFill",
+  "GameHacking/RoadMap.md": "FiFile",
+  "GameHacking/C++": "CoFolder",
+  "Web/React/Rendering/Render.md": "FiFile",
+  "Web/React/Rendering/Lists and Keys.md": "FiFile"
 }

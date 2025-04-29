@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "835ef8bd74c7a80b",
+        "id": "39cde187d659f543",
         "type": "tabs",
         "children": [
           {
-            "id": "96d1c1993bacbe48",
+            "id": "6df8d953994c0241",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Web/React/Rendering/Diagrama del ciclo de vida.md"
+                "file": "Web/React/Imagenes/Pasted image 20250428135542.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Diagrama del ciclo de vida"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250428135542"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.51221084594727
+    "width": 445.51221084594727
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -170,9 +170,17 @@
   },
   "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
+    "Web/React/Rendering/Lists and Keys.md",
+    "Web/React/Imagenes/Pasted image 20250428135542.png",
+    "Web/React/Imagenes/Pasted image 20250428135436.png",
+    "Pasted image 20250428135423.png",
+    "Web/React/Rendering/Render.md",
+    "GameHacking/RoadMap.md",
+    "GameHacking/C++",
+    "GameHacking",
+    "Web/React/Rendering/Diagrama del ciclo de vida.md",
     "Web/React/Imagenes 1",
     "Web/React/Rendering/Component Lifecycle.md",
-    "Web/React/Rendering/Diagrama del ciclo de vida.md",
     "Web/React/Imagenes/Pasted image 20250419210318.png",
     "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
     "Web/Vue/Esencial/Components/Slots.md",
@@ -193,30 +201,21 @@
     "Untitled.canvas",
     "Web/Vue/Projects/Vue-IndecisionApp.md",
     "Web/Vite.md",
-    "Web/React/Rendering/Como funciona el render de react.md",
     "Web/Tailwind/Tailwind Install.md",
     "Web/React/Componentes Funcionales",
     "Web/React/Rendering",
     "Web/React/Tests.md",
     "Web/React/React.md",
-    "Web/Typescript/Ecosystem.md",
-    "Web/Typescript/Utility Types/Kind of Utility Types.md",
     "Web/Typescript/Typescript Modules",
     "Web/Typescript/Utility Types",
     "Web/Typescript/Decorador",
     "Web/Typescript/Genericos",
-    "Web/Typescript/Classes",
-    "Web/Typescript/Interfaces",
-    "Web/Typescript/Funciones en Typescript",
     "Pasted image 20250116004956.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190154.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185559.png",
     "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145110.png",
-    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108170229.png",
-    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108165822.png",
-    "Hacking/Vulnhub/Stapler 1/imgs/Screenshot from 2024-11-08 16-13-05.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
