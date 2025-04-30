@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39cde187d659f543",
+        "id": "f1f70d0aa927e6d4",
         "type": "tabs",
         "children": [
           {
-            "id": "6df8d953994c0241",
+            "id": "271a93a41025e4fb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Web/React/Imagenes/Pasted image 20250428135542.png"
+                "file": "Backend/Flask/Blueprints.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250428135542"
+              "icon": "lucide-file",
+              "title": "Blueprints"
             }
           }
         ]
@@ -168,10 +170,25 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f40a5c963d9bea0e",
+  "active": "271a93a41025e4fb",
   "lastOpenFiles": [
-    "Web/React/Rendering/Lists and Keys.md",
+    "Templates/not-equal.md",
+    "Backend/Flask/Blueprints.md",
+    "Web/React/Componentes Funcionales/Props vs State.md",
+    "Backend/Flask/Untitled",
+    "Backend/Flask.md",
+    "Backend/Flask",
+    "Backend",
+    "Web/Untitled",
+    "Web/React/Componentes Funcionales/Conditional Rendering.md",
+    "Web/React/Componentes Funcionales/Composition vs Inheritance.md",
+    "Web/React/Rendering/Component Lifecycle.md",
+    "Web/React/Components.md",
+    "Web/React/Componentes Funcionales/Componentes Funcionales.md",
+    "Web/Javascript/Strict Mode/Strict Mode.md",
+    "Index.md",
     "Web/React/Imagenes/Pasted image 20250428135542.png",
+    "Web/React/Rendering/Lists and Keys.md",
     "Web/React/Imagenes/Pasted image 20250428135436.png",
     "Pasted image 20250428135423.png",
     "Web/React/Rendering/Render.md",
@@ -180,7 +197,6 @@
     "GameHacking",
     "Web/React/Rendering/Diagrama del ciclo de vida.md",
     "Web/React/Imagenes 1",
-    "Web/React/Rendering/Component Lifecycle.md",
     "Web/React/Imagenes/Pasted image 20250419210318.png",
     "Web/Vue/Esencial/Lifecycle/Ciclo de vida.md",
     "Web/Vue/Esencial/Components/Slots.md",
@@ -190,26 +206,13 @@
     "Web/Vue/Introducción a Vue.md",
     "Web/React/Estructura.md",
     "Web/React/Rendering/Drawing 2025-04-19 19.14.09.excalidraw.md",
-    "Web/React/Componentes Funcionales/Composition vs Inheritance.md",
-    "Web/React/Componentes Funcionales/Componentes Funcionales.md",
-    "Web/React/Components.md",
     "Web/React/Crear un proyecto con React.md",
-    "Web/React/Componentes Funcionales/Conditional Rendering.md",
     "Web/Javascript/Expresiones y Operadores/Expressions and Operators.md",
-    "Web/React/Componentes Funcionales/Props vs State.md",
     "Web/React/Componentes Funcionales/Conditional Rendering",
     "Untitled.canvas",
     "Web/Vue/Projects/Vue-IndecisionApp.md",
-    "Web/Vite.md",
-    "Web/Tailwind/Tailwind Install.md",
     "Web/React/Componentes Funcionales",
     "Web/React/Rendering",
-    "Web/React/Tests.md",
-    "Web/React/React.md",
-    "Web/Typescript/Typescript Modules",
-    "Web/Typescript/Utility Types",
-    "Web/Typescript/Decorador",
-    "Web/Typescript/Genericos",
     "Pasted image 20250116004956.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",

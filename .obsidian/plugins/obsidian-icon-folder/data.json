@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiGameFill",
-      "LiPen",
-      "TiBrandVite",
       "FiFile",
-      "CoFolder"
+      "BoBxlPython",
+      "FiServer",
+      "RiGameFill",
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -317,5 +317,8 @@
   "GameHacking/RoadMap.md": "FiFile",
   "GameHacking/C++": "CoFolder",
   "Web/React/Rendering/Render.md": "FiFile",
-  "Web/React/Rendering/Lists and Keys.md": "FiFile"
+  "Web/React/Rendering/Lists and Keys.md": "FiFile",
+  "Backend": "FiServer",
+  "Backend/Flask": "BoBxlPython",
+  "Backend/Flask/Blueprints.md": "FiFile"
 }
