@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiImage",
+      "OcProject16",
       "FiFile",
       "BoBxlPython",
-      "FiServer",
-      "RiGameFill",
-      "LiPen"
+      "FiServer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -319,6 +319,12 @@
   "Web/React/Rendering/Render.md": "FiFile",
   "Web/React/Rendering/Lists and Keys.md": "FiFile",
   "Backend": "FiServer",
-  "Backend/Flask": "BoBxlPython",
-  "Backend/Flask/Blueprints.md": "FiFile"
+  "Backend/Python/Flask": "BoBxlPython",
+  "Backend/Python/Flask/Blueprints.md": "FiFile",
+  "Backend/Python": "BoBxlPython",
+  "Architectures/Monolito Modular.md": "FiFile",
+  "Backend/Python/Flask/Videos.md": "FiFile",
+  "Project Management": "OcProject16",
+  "Project Management/Use Cases.md": "FiFile",
+  "Project Management/Images": "FiImage"
 }

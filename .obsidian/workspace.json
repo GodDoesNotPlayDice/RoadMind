@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Flask/Blueprints.md",
+                "file": "Project Management/Use Cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blueprints"
+              "title": "Use Cases"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.51221084594727
+    "width": 312.5
   },
   "right": {
     "id": "483ef326b8ee36a1",
@@ -172,12 +172,20 @@
   },
   "active": "271a93a41025e4fb",
   "lastOpenFiles": [
+    "Project Management/Images",
+    "Project Management/Images/Pasted image 20250504144614.png",
+    "Backend/Python/Flask/Videos.md",
+    "Project Management/Use Cases.md",
+    "Project Management",
+    "Architectures/Monolito Modular.md",
+    "Architectures/DDD.md",
+    "Backend/Python/Flask/Blueprints.md",
+    "Backend/Python",
     "Templates/not-equal.md",
-    "Backend/Flask/Blueprints.md",
     "Web/React/Componentes Funcionales/Props vs State.md",
     "Backend/Flask/Untitled",
     "Backend/Flask.md",
-    "Backend/Flask",
+    "Backend/Python/Flask",
     "Backend",
     "Web/Untitled",
     "Web/React/Componentes Funcionales/Conditional Rendering.md",
@@ -204,21 +212,13 @@
     "Web/Vue/Esencial/Components/Components.md",
     "Web/Vue/Start a project.md",
     "Web/Vue/Introducción a Vue.md",
-    "Web/React/Estructura.md",
-    "Web/React/Rendering/Drawing 2025-04-19 19.14.09.excalidraw.md",
-    "Web/React/Crear un proyecto con React.md",
-    "Web/Javascript/Expresiones y Operadores/Expressions and Operators.md",
     "Web/React/Componentes Funcionales/Conditional Rendering",
     "Untitled.canvas",
-    "Web/Vue/Projects/Vue-IndecisionApp.md",
-    "Web/React/Componentes Funcionales",
-    "Web/React/Rendering",
     "Pasted image 20250116004956.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190154.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185559.png",
-    "Hacking/Vulnhub/Stapler 1/imgs/Pasted image 20241108145110.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
