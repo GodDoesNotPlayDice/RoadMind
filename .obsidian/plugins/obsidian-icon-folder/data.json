@@ -326,5 +326,7 @@
   "Backend/Python/Flask/Videos.md": "FiFile",
   "Project Management": "OcProject16",
   "Project Management/Use Cases.md": "FiFile",
-  "Project Management/Images": "FiImage"
+  "Project Management/Images": "FiImage",
+  "Architectures/Micro Servicios.md": "FiFile",
+  "Architectures/Images": "FiImage"
 }

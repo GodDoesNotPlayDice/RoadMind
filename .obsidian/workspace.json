@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Use Cases.md",
+                "file": "Architectures/Micro Servicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use Cases"
+              "title": "Micro Servicios"
             }
           }
         ]
@@ -170,14 +170,17 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "271a93a41025e4fb",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
+    "Architectures/Images",
+    "Architectures/Images/Pasted image 20250505124615.png",
+    "Architectures/Monolito Modular.md",
+    "Architectures/Micro Servicios.md",
+    "Project Management/Use Cases.md",
     "Project Management/Images",
     "Project Management/Images/Pasted image 20250504144614.png",
     "Backend/Python/Flask/Videos.md",
-    "Project Management/Use Cases.md",
     "Project Management",
-    "Architectures/Monolito Modular.md",
     "Architectures/DDD.md",
     "Backend/Python/Flask/Blueprints.md",
     "Backend/Python",
@@ -211,14 +214,11 @@
     "Web/Vue/Esencial/Components/Components Registration.md",
     "Web/Vue/Esencial/Components/Components.md",
     "Web/Vue/Start a project.md",
-    "Web/Vue/Introducción a Vue.md",
-    "Web/React/Componentes Funcionales/Conditional Rendering",
     "Untitled.canvas",
     "Pasted image 20250116004956.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
     "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190154.png",
-    "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185559.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
