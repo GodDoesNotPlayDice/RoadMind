@@ -328,5 +328,6 @@
   "Project Management/Use Cases.md": "FiFile",
   "Project Management/Images": "FiImage",
   "Architectures/Micro Servicios.md": "FiFile",
-  "Architectures/Images": "FiImage"
+  "Architectures/Images": "FiImage",
+  "Web/React/Rendering/Render Props.md": "FiFile"
 }
