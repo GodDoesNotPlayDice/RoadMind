@@ -1,8 +1,5 @@
 La arquitectura de microservicios es un estilo arquitectónico que organiza una aplicación como una colección de servicios **ligeramente acoplados** y **finamente granulados**, cada uno enfocado en una única capacidad de negocio. Estos servicios se desarrollan, despliegan y escalan de forma independiente, comunicándose entre sí mediante protocolos ligeros (por ejemplo **REST** o **mensajería**)
 
-
-
-
 # Características
 
 ## Enfoque
