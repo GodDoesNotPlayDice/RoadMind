@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FiImage",
-      "OcProject16",
-      "FiFile",
-      "BoBxlPython",
-      "FiServer"
+      "CoFolder",
+      "FiFolder",
+      "OcFold24",
+      "BoBxsServer",
+      "FiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -329,5 +329,7 @@
   "Project Management/Images": "FiImage",
   "Architectures/Micro Servicios.md": "FiFile",
   "Architectures/Images": "FiImage",
-  "Web/React/Rendering/Render Props.md": "FiFile"
+  "Web/React/Rendering/Render Props.md": "FiFile",
+  "Servers": "BoBxsServer",
+  "Servers/Distros": "CoFolder"
 }
