@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiFile",
       "CoFolder",
       "FiFolder",
       "OcFold24",
-      "BoBxsServer",
-      "FiImage"
+      "BoBxsServer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -331,5 +331,6 @@
   "Architectures/Images": "FiImage",
   "Web/React/Rendering/Render Props.md": "FiFile",
   "Servers": "BoBxsServer",
-  "Servers/Distros": "CoFolder"
+  "Servers/Distros": "CoFolder",
+  "Web/React/Rendering/Ref.md": "FiFile"
 }
