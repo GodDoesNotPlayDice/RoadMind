@@ -332,5 +332,6 @@
   "Web/React/Rendering/Render Props.md": "FiFile",
   "Servers": "BoBxsServer",
   "Servers/Distros": "CoFolder",
-  "Web/React/Rendering/Ref.md": "FiFile"
+  "Web/React/Rendering/Ref.md": "FiFile",
+  "Web/React/Rendering/Events.md": "FiFile"
 }
