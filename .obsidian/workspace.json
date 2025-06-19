@@ -170,8 +170,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "a37452e920720c56",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
+    "Web/React/Hooks",
     "Web/React/Rendering/HOC.md",
     "Web/React/Rendering/Events.md",
     "Web/React/Rendering/Ref.md",
@@ -209,7 +210,6 @@
     "Web/React/Componentes Funcionales/Composition vs Inheritance.md",
     "Web/React/Rendering/Component Lifecycle.md",
     "Web/React/Components.md",
-    "Web/React/Componentes Funcionales/Componentes Funcionales.md",
     "Web/React/Imagenes/Pasted image 20250428135542.png",
     "Web/React/Imagenes/Pasted image 20250428135436.png",
     "Pasted image 20250428135423.png",

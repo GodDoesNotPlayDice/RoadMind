@@ -334,5 +334,6 @@
   "Servers/Distros": "CoFolder",
   "Web/React/Rendering/Ref.md": "FiFile",
   "Web/React/Rendering/Events.md": "FiFile",
-  "Web/React/Rendering/HOC.md": "FiFile"
+  "Web/React/Rendering/HOC.md": "FiFile",
+  "Web/React/Hooks": "FiFolder"
 }
