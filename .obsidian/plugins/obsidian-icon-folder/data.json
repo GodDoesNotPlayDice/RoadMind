@@ -335,5 +335,13 @@
   "Web/React/Rendering/Ref.md": "FiFile",
   "Web/React/Rendering/Events.md": "FiFile",
   "Web/React/Rendering/HOC.md": "FiFile",
-  "Web/React/Hooks": "FiFolder"
+  "Web/React/Hooks": "FiFolder",
+  "Web/React/Hooks/useCallback.md": "FiFile",
+  "Web/React/Hooks/useRef.md": "FiFile",
+  "Web/React/Hooks/useReducer.md": "FiFile",
+  "Web/React/Hooks/useMemo.md": "FiFile",
+  "Web/React/Hooks/useContext.md": "FiFile",
+  "Web/React/Hooks/Basic Hooks": "FiFolder",
+  "Web/React/Hooks/Basic Hooks/useEffect.md": "FiFile",
+  "Web/React/Hooks/Basic Hooks/useState.md": "FiFile"
 }
