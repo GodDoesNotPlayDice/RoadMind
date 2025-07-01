@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21d3bac8c60e6d66",
+        "id": "789e413843e0ffa4",
         "type": "tabs",
         "children": [
           {
-            "id": "1261c36e79c6a21a",
+            "id": "427808b9db977a90",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,19 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "1261c36e79c6a21a",
+  "active": "427808b9db977a90",
   "lastOpenFiles": [
+    "Architectures/Micro Servicios.md",
+    "Architectures/DDD.md",
+    "Architectures/Monolito Modular.md",
+    "Backend/APIs/API.md",
+    "Backend/Python/Flask/Blueprints.md",
+    "Backend/Python/Flask/Videos.md",
+    "Untitled.md",
+    "Backend/APIs",
+    "Backend/Python/Django",
+    "Backend/Python/Untitled.md",
+    "Backend/Python/Language",
     "Web/React/Hooks/useCallback.md",
     "Web/React/Hooks/Basic Hooks/useEffect.md",
     "Web/React/Hooks/Basic Hooks/useState.md",
@@ -190,22 +201,12 @@
     "GameHacking/RoadMap.md",
     "Web/Vite.md",
     "Web/Vue/RoadMap/Map.md",
-    "Web/Javascript/Funciones/Closures.md",
-    "Web/Javascript/Funciones/Funciones.md",
-    "Servers/Distros/RoadMap.md",
     "Servers/Distros",
     "Servers",
-    "Architectures/Micro Servicios.md",
     "Architectures/Images",
     "Architectures/Images/Pasted image 20250505124615.png",
-    "Architectures/Monolito Modular.md",
     "Project Management/Images",
     "Project Management/Images/Pasted image 20250504144614.png",
-    "Backend/Python/Flask/Videos.md",
-    "Project Management",
-    "Architectures/DDD.md",
-    "Backend/Python",
-    "Backend/Flask/Untitled",
     "Web/React/Imagenes/Pasted image 20250428135542.png",
     "Web/React/Imagenes/Pasted image 20250428135436.png",
     "Pasted image 20250428135423.png",

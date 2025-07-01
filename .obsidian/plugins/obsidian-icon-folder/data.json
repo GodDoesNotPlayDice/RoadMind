@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxlDjango",
+      "TiBrandPython",
       "FiFile",
       "CoFolder",
-      "FiFolder",
-      "OcFold24",
-      "BoBxsServer"
+      "FiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -343,5 +343,9 @@
   "Web/React/Hooks/useContext.md": "FiFile",
   "Web/React/Hooks/Basic Hooks": "FiFolder",
   "Web/React/Hooks/Basic Hooks/useEffect.md": "FiFile",
-  "Web/React/Hooks/Basic Hooks/useState.md": "FiFile"
+  "Web/React/Hooks/Basic Hooks/useState.md": "FiFile",
+  "Backend/Python/Language": "TiBrandPython",
+  "Backend/Python/Django": "BoBxlDjango",
+  "Backend/APIs": "CoFolder",
+  "Backend/APIs/API.md": "FiFile"
 }

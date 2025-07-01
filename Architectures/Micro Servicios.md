@@ -26,7 +26,6 @@ Un microservicio puede usar su propia tecnología y lenguaje de programación, l
 
 # Orquestador
 La **orquestación** en microservicios es el patrón en el que existe un **coordinador central** (el “orquestador”) que controla el flujo de trabajo entre los diferentes servicios.
-
 El orquestador dicta “quién llama a quién” y en qué orden.
 
 ## Ejemplo
