@@ -11,10 +11,26 @@
             "id": "427808b9db977a90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Architectures/Micro Servicios/Ventajas y Desventajas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ventajas y Desventajas"
+            }
+          },
+          {
+            "id": "27164f52e260ee1f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Architectures/Micro Servicios/Diagrama de un MS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Diagrama de un MS"
             }
           }
         ]
@@ -136,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/React/Hooks/Basic Hooks/useEffect.md",
+                "file": "Architectures/Micro Servicios/Ventajas y Desventajas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of useEffect"
+              "title": "Outline of Ventajas y Desventajas"
             }
           }
         ],
@@ -150,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5,
-    "collapsed": true
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +184,14 @@
   },
   "active": "427808b9db977a90",
   "lastOpenFiles": [
-    "Architectures/Micro Servicios.md",
+    "Architectures/Micro Servicios/Micro Servicios.md",
+    "Architectures/Micro Servicios/Ventajas y Desventajas.md",
+    "Architectures/Monolito",
+    "Architectures/Micro Servicios/Index.md",
+    "Architectures/Micro Servicios/Diagrama de un MS.md",
+    "Architectures/Micro Servicios",
     "Architectures/DDD.md",
-    "Architectures/Monolito Modular.md",
+    "Architectures/Monolito/Monolito Modular.md",
     "Backend/APIs/API.md",
     "Backend/Python/Flask/Blueprints.md",
     "Backend/Python/Flask/Videos.md",
@@ -198,14 +218,9 @@
     "Web/React/Rendering/Lists and Keys.md",
     "Project Management/Use Cases.md",
     "DesignPatterns/Patrones de diseño.md",
-    "GameHacking/RoadMap.md",
-    "Web/Vite.md",
-    "Web/Vue/RoadMap/Map.md",
     "Servers/Distros",
     "Servers",
-    "Architectures/Images",
     "Architectures/Images/Pasted image 20250505124615.png",
-    "Project Management/Images",
     "Project Management/Images/Pasted image 20250504144614.png",
     "Web/React/Imagenes/Pasted image 20250428135542.png",
     "Web/React/Imagenes/Pasted image 20250428135436.png",

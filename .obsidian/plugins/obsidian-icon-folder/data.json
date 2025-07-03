@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPen",
       "BoBxlDjango",
       "TiBrandPython",
       "FiFile",
-      "CoFolder",
-      "FiFolder"
+      "CoFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -322,12 +322,10 @@
   "Backend/Python/Flask": "BoBxlPython",
   "Backend/Python/Flask/Blueprints.md": "FiFile",
   "Backend/Python": "BoBxlPython",
-  "Architectures/Monolito Modular.md": "FiFile",
   "Backend/Python/Flask/Videos.md": "FiFile",
   "Project Management": "OcProject16",
   "Project Management/Use Cases.md": "FiFile",
   "Project Management/Images": "FiImage",
-  "Architectures/Micro Servicios.md": "FiFile",
   "Architectures/Images": "FiImage",
   "Web/React/Rendering/Render Props.md": "FiFile",
   "Servers": "BoBxsServer",
@@ -347,5 +345,11 @@
   "Backend/Python/Language": "TiBrandPython",
   "Backend/Python/Django": "BoBxlDjango",
   "Backend/APIs": "CoFolder",
-  "Backend/APIs/API.md": "FiFile"
+  "Backend/APIs/API.md": "FiFile",
+  "Architectures/Micro Servicios/Micro Servicios.md": "FiFile",
+  "Architectures/Micro Servicios": "FiFolder",
+  "Architectures/Micro Servicios/Diagrama de un MS.md": "LiPen",
+  "Architectures/Monolito": "CoFolder",
+  "Architectures/Monolito/Monolito Modular.md": "FiFile",
+  "Architectures/Micro Servicios/Ventajas y Desventajas.md": "FiFile"
 }
