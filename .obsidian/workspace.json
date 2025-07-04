@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb948adcecb736a",
+        "id": "32101a1bc8af3999",
         "type": "tabs",
         "children": [
           {
-            "id": "262f7f4bb106cd4e",
+            "id": "c8d1e3e28f8532df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Web/Vue/FernandoVue/Vue-IndecisionApp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vue-IndecisionApp"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Web/Vue/FernandoVue/Vue-IndecisionApp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vue-IndecisionApp"
             }
           }
         ],
@@ -165,8 +170,22 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "262f7f4bb106cd4e",
+  "active": "c8d1e3e28f8532df",
   "lastOpenFiles": [
+    "Web/Vue/FernandoVue/IndecisionApp/Composables.md",
+    "Web/Vue/Docs/Esencial/Composables/Composables.md",
+    "Web/Vue/FernandoVue/IndecisionApp/Simple contador.md",
+    "Web/Vue/Start a project.md",
+    "Web/Vue/Introducción a Vue.md",
+    "Web/Vue/FernandoVue/Vue-IndecisionApp.md",
+    "Web/Vue/Projects/Notas de Proyectos.md",
+    "Web/Vue/Docs/Esencial/Components/Components.md",
+    "Web/Vue/Docs",
+    "Web/Vue/Docs/Esencial/Components/Components Registration.md",
+    "Web/Tailwind/Tailwind Install.md",
+    "Web/Vue/FernandoVue/IndecisionApp",
+    "Web/Vue/FernandoVue/Que hacen los archivos.md",
+    "Web/Vue/FernandoVue",
     "Architectures/Micro Servicios/Diagrama de un MS.md",
     "Architectures/Micro Servicios/Ventajas y Desventajas.md",
     "Architectures/Micro Servicios/Micro Servicios.md",
@@ -188,21 +207,7 @@
     "Web/React/Hooks/Basic Hooks/useState.md",
     "Web/React/Hooks/Basic Hooks",
     "Web/React/Hooks/Untitled.md",
-    "Web/React/Hooks/useRef.md",
-    "Web/React/Hooks/useReducer.md",
-    "Web/React/Hooks/useMemo.md",
-    "Web/React/Hooks/useContext.md",
-    "Web/React/Rendering/HOC.md",
     "Web/React/Hooks",
-    "Web/React/Hooks",
-    "Web/React/Rendering/Events.md",
-    "Web/React/Rendering/Ref.md",
-    "Web/React/Rendering/Render Props.md",
-    "Web/React/Rendering/Lists and Keys.md",
-    "Project Management/Use Cases.md",
-    "DesignPatterns/Patrones de diseño.md",
-    "Servers/Distros",
-    "Servers",
     "Architectures/Images/Pasted image 20250505124615.png",
     "Project Management/Images/Pasted image 20250504144614.png",
     "Web/React/Imagenes/Pasted image 20250428135542.png",

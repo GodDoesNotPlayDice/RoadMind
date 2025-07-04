@@ -1,8 +1,8 @@
 ## Indice
 1. **Iniciar un proyecto**: [[Start a project]] Iniciar un proyecto usando `tailwind`
 2. Crear una **App**: [[Create App]] Crear una app usando **Vue** mediante **CDN** o **SFC**
-3. **Componentes**: [[Web/Vue/Esencial/Components/Components]]
-4. **Composables**: [[Composables]]
+3. **Componentes**: [[Web/Vue/Docs/Esencial/Components/Components]]
+4. **Composables**: [[Web/Vue/Docs/Esencial/Composables/Composables]]
 5. **Directivas**: [[Built-in Directives]] y [[Custom Directives]]
 
 ### Notas

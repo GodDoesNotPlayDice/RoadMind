@@ -5,17 +5,20 @@ Para instalar depende si se usa framework o vanilla.
 pnpm install tailwindcss @tailwindcss/vite
 ```
 
+```bash
+npm install tailwindcss @tailwindcss/vite
+```
 
 `vite.config.ts`
-```js
-import { defineConfig } from 'vite'import tailwindcss from '@tailwindcss/vite'export default defineConfig({  plugins: [    tailwindcss(),  ],})
+```ts
+import tailwindcss from '@tailwindcss/vite'
+export default defineConfig({  plugins: [ tailwindcss(),  ],})
 ```
 
 `index.css`
 ```css
 @import "tailwindcss";
 ```
-
 ## Vanilla (CDN)
 
 ```html

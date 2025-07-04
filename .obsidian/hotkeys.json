@@ -20,9 +20,9 @@
     {
       "modifiers": [
         "Alt",
-        "Shift"
+        "Mod"
       ],
-      "key": "I"
+      "key": "."
     }
   ]
 }
