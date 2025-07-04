@@ -1,13 +1,13 @@
-|Característica|Monolito|Microservicios|
-|---|---|---|
-|**Complejidad**|Baja inicialmente, alta a medida que crece|Alta inicialmente, manejable a largo plazo|
-|**Escalabilidad**|Difícil, escala toda la aplicación|Fácil, escala servicios individuales|
-|**Implementación**|Sencilla, pero lenta y arriesgada|Compleja, pero rápida y menos arriesgada|
-|**Tecnología**|Limitada a una sola pila tecnológica|Flexible, diferentes tecnologías por servicio|
-|**Resiliencia**|Baja, un fallo afecta a toda la aplicación|Alta, un fallo afecta solo a un servicio|
-|**Organización**|Equipos grandes y multifuncionales|Equipos pequeños y autónomos|
-|**Consistencia Datos**|Sencilla, transacciones ACID|Compleja, coherencia eventual|
-|**Depuración**|Sencilla, herramientas tradicionales|Difícil, herramientas especializadas|
+| Característica         | Monolito                                   | Microservicios                                |
+| ---------------------- | ------------------------------------------ | --------------------------------------------- |
+| **Complejidad**        | Baja inicialmente, alta a medida que crece | Alta inicialmente, manejable a largo plazo    |
+| **Escalabilidad**      | Difícil, escala toda la aplicación         | Fácil, escala servicios individuales          |
+| **Implementación**     | Sencilla, pero lenta y arriesgada          | Compleja, pero rápida y menos arriesgada      |
+| **Tecnología**         | Limitada a una sola pila tecnológica       | Flexible, diferentes tecnologías por servicio |
+| **Resiliencia**        | Baja, un fallo afecta a toda la aplicación | Alta, un fallo afecta solo a un servicio      |
+| **Organización**       | Equipos grandes y multifuncionales         | Equipos pequeños y autónomos                  |
+| **Consistencia Datos** | Sencilla, transacciones ACID               | Compleja, coherencia eventual                 |
+| **Depuración**         | Sencilla, herramientas tradicionales       | Difícil, herramientas especializadas          |
 # El Monolito
 Una arquitectura monolítica es un modelo de desarrollo de software tradicional donde todos los componentes de una aplicación están estrechamente integrados en una sola unidad. Esto significa que toda la aplicación se desarrolla, se implementa y se escala como una sola pieza.
 
