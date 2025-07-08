@@ -15,7 +15,7 @@
 <script setup lang="ts">
   import { useCounter } from "@/composables/useCounter";
 
-  const { counter, squareCounter } = useCounter(80);
+  const { counter, squareCounter } = useCounter(80); // desestructuración
 </script>
 
 ```

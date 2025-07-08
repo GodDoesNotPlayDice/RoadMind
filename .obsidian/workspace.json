@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vue/FernandoVue/IndecisionApp/Composables.md",
+                "file": "Web/Vue/FernandoVue/IndecisionApp/Emits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Composables"
+              "title": "Emits"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vue/FernandoVue/IndecisionApp/Composables.md",
+                "file": "Web/Vue/FernandoVue/IndecisionApp/Emits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Composables"
+              "title": "Outline of Emits"
             }
           }
         ],
@@ -172,8 +172,9 @@
   },
   "active": "c8d1e3e28f8532df",
   "lastOpenFiles": [
-    "Web/Vue/FernandoVue/Vue-IndecisionApp.md",
     "Web/Vue/FernandoVue/IndecisionApp/Composables.md",
+    "Web/Vue/FernandoVue/IndecisionApp/Emits.md",
+    "Web/Vue/FernandoVue/Vue-IndecisionApp.md",
     "Web/Vue/Docs/Esencial/Composables/Composables.md",
     "Web/Vue/FernandoVue/IndecisionApp/Simple contador.md",
     "Web/Vue/Start a project.md",
@@ -206,7 +207,6 @@
     "Web/React/Hooks/Basic Hooks/useEffect.md",
     "Web/React/Hooks/Basic Hooks/useState.md",
     "Web/React/Hooks/Basic Hooks",
-    "Web/React/Hooks/Untitled.md",
     "Web/React/Hooks",
     "Architectures/Images/Pasted image 20250505124615.png",
     "Project Management/Images/Pasted image 20250504144614.png",

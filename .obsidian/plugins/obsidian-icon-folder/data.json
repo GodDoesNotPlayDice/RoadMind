@@ -355,5 +355,6 @@
   "Web/Vue/Docs/Vue Router": "CoFolder",
   "Web/Vue/Docs/Vue Router/Router.md": "FiFile",
   "Web/Vue/FernandoVue/Vue-IndecisionApp.md": "FiFile",
-  "Web/Vue/FernandoVue/IndecisionApp/Composables.md": "FiFile"
+  "Web/Vue/FernandoVue/IndecisionApp/Composables.md": "FiFile",
+  "Web/Vue/FernandoVue/IndecisionApp/Emits.md": "FiFile"
 }
