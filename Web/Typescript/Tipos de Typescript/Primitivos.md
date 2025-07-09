@@ -1,6 +1,6 @@
 TypeScript, como un superconjunto de JavaScript, incluye varios tipos primitivos que son fundamentales para definir el tipo de datos que pueden almacenar las variables
 
-[[Tipos de datos]] en JavaScript.
+[[Web/Javascript/Tipos de datos/Tipos de datos]] en JavaScript.
 
 ## Boolean
 Representa un valor verdadero o falso. Es el tipo más básico y se utiliza para declarar variables que solo pueden contener `true` o `false`.

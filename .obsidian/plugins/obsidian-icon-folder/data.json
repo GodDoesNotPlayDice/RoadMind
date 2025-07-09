@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPen",
-      "BoBxlDjango",
-      "TiBrandPython",
+      "TiFileTypePhp",
       "FiFile",
-      "CoFolder"
+      "CoFolder",
+      "BoBxlPhp",
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -356,5 +356,13 @@
   "Web/Vue/Docs/Vue Router/Router.md": "FiFile",
   "Web/Vue/FernandoVue/Vue-IndecisionApp.md": "FiFile",
   "Web/Vue/FernandoVue/IndecisionApp/Composables.md": "FiFile",
-  "Web/Vue/FernandoVue/IndecisionApp/Emits.md": "FiFile"
+  "Web/Vue/FernandoVue/IndecisionApp/Emits.md": "FiFile",
+  "Backend/Php": "BoBxlPhp",
+  "Backend/Php/Que es Php.md": "FiFile",
+  "Backend/Php/DevEnv": "CoFolder",
+  "Backend/Php/DevEnv/Local Server.md": "FiFile",
+  "Backend/Php/Language": "CoFolder",
+  "Backend/Php/Language/Basic Syntax.md": "FiFile",
+  "Backend/Php/Language/Variables.md": "FiFile",
+  "Backend/Php/Language/Tipos de datos.md": "FiFile"
 }
