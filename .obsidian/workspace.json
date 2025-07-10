@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Php/Language/Basic Syntax.md",
+                "file": "Backend/Php/Language/Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Syntax"
+              "title": "Arrays"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Php/Language/Basic Syntax.md",
+                "file": "Backend/Php/Language/Arrays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Syntax"
+              "title": "Outline of Arrays"
             }
           }
         ],
@@ -173,6 +173,7 @@
   "active": "93841a6cafb8fa02",
   "lastOpenFiles": [
     "Backend/Php/Language/Tipos de datos.md",
+    "Backend/Php/Language/Arrays.md",
     "Backend/Php/Language/Variables.md",
     "Backend/Php/Language/Basic Syntax.md",
     "Backend/Php/DevEnv/Local Server.md",
@@ -205,7 +206,6 @@
     "Architectures/DDD.md",
     "Architectures/Monolito/Monolito Modular.md",
     "Backend/APIs/API.md",
-    "Backend/Python/Flask/Blueprints.md",
     "Backend/APIs",
     "Backend/Python/Django",
     "Architectures/Images/Pasted image 20250505124615.png",

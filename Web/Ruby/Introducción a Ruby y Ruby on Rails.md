@@ -1,7 +1,7 @@
 ## Fundamental
 -  [[Instalación básica]]
 - [[Tipos de datos y Operadores]]
-- [[Arrays]]
+- [[Web/Ruby/Arrays]]
 - [[Estructuras de control]]
 - [[Clases y Funciones]]
 ## Ruby on Rails

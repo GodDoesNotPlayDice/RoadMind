@@ -364,5 +364,7 @@
   "Backend/Php/Language": "CoFolder",
   "Backend/Php/Language/Basic Syntax.md": "FiFile",
   "Backend/Php/Language/Variables.md": "FiFile",
-  "Backend/Php/Language/Tipos de datos.md": "FiFile"
+  "Backend/Php/Language/Tipos de datos.md": "FiFile",
+  "Architectures/Monolitos.md": "FiFile",
+  "Backend/Php/Language/Arrays.md": "FiFile"
 }
