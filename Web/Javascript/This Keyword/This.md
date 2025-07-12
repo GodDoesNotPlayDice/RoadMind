@@ -37,7 +37,7 @@ mostrarThisStricto(); // Output: undefined
 ```
 
 ## En una arrow function
-Las arrow functions no tienen su propio `this`. En su lugar, `this` se refiere al contexto en el que la arrow function fue definida (lexical scope). [[Funciones]]
+Las arrow functions no tienen su propio `this`. En su lugar, `this` se refiere al contexto en el que la arrow function fue definida (lexical scope). [[Web/Javascript/Funciones/Funciones]]
 
 ```js
 const objeto = {

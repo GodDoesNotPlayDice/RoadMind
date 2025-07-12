@@ -2,7 +2,7 @@
 -  [[Instalación básica]]
 - [[Tipos de datos y Operadores]]
 - [[Web/Ruby/Arrays]]
-- [[Estructuras de control]]
+- [[Web/Ruby/Estructuras de control]]
 - [[Clases y Funciones]]
 ## Ruby on Rails
 [[Estructura de archivos]]

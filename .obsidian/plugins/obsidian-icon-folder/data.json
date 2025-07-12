@@ -366,5 +366,8 @@
   "Backend/Php/Language/Variables.md": "FiFile",
   "Backend/Php/Language/Tipos de datos.md": "FiFile",
   "Architectures/Monolitos.md": "FiFile",
-  "Backend/Php/Language/Arrays.md": "FiFile"
+  "Backend/Php/Language/Arrays.md": "FiFile",
+  "Backend/Php/Language/Estructuras de control.md": "FiFile",
+  "Backend/Php/Language/Operadores.md": "FiFile",
+  "Backend/Php/Language/Funciones.md": "FiFile"
 }
