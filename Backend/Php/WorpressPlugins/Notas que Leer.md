@@ -1,0 +1,5 @@
+- “WordPress Plugin Boilerplate”
+- “PSR-4 autoloading composer”
+- “Observer design pattern PHP”
+- “Singleton design pattern PHP”
+- “Modular WordPress plugin architecture”

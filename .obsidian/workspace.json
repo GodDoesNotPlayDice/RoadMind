@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Php/DevEnv/Local Server.md",
+                "file": "Backend/Php/WorpressPlugins/Observaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local Server"
+              "title": "Observaciones"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Php/DevEnv/Local Server.md",
+                "file": "Backend/Php/WorpressPlugins/Observaciones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Local Server"
+              "title": "Outline of Observaciones"
             }
           }
         ],
@@ -172,17 +172,20 @@
   },
   "active": "93841a6cafb8fa02",
   "lastOpenFiles": [
-    "Backend/Php/Language/Funciones.md",
-    "Backend/Php/Language/Basic Syntax.md",
-    "Backend/Php/Language/Estructuras de control.md",
+    "Backend/Php/WorpressPlugins/Notas que Leer.md",
+    "Backend/Php/WorpressPlugins/Observaciones.md",
+    "Backend/Php/Language/Tipos de datos.md",
+    "Backend/Php/WorpressPlugins",
+    "Backend/Php/Language/Variables.md",
     "Backend/Php/Language/Operadores.md",
     "Backend/Php/Language/Arrays.md",
-    "Backend/Php/Language/Tipos de datos.md",
-    "Backend/Php/Language/Variables.md",
+    "Backend/Php/Language/Basic Syntax.md",
+    "Backend/Php/Language/Estructuras de control.md",
+    "Backend/Php/Que es Php.md",
     "Backend/Php/DevEnv/Local Server.md",
+    "Backend/Php/Language/Funciones.md",
     "Backend/Php/Language",
     "Backend/Php/Untitled.md",
-    "Backend/Php/Que es Php.md",
     "Backend/Php/DevEnv",
     "Backend/Php",
     "Web/Vue/FernandoVue/IndecisionApp/Emits.md",
@@ -202,12 +205,9 @@
     "Web/Vue/FernandoVue",
     "Architectures/Micro Servicios/Diagrama de un MS.md",
     "Architectures/Micro Servicios/Ventajas y Desventajas.md",
-    "Architectures/Micro Servicios/Micro Servicios.md",
     "Architectures/Monolito",
-    "Architectures/Micro Servicios/Index.md",
     "Architectures/Micro Servicios",
     "Backend/APIs",
-    "Backend/Python/Django",
     "Architectures/Images/Pasted image 20250505124615.png",
     "Project Management/Images/Pasted image 20250504144614.png",
     "Web/React/Imagenes/Pasted image 20250428135542.png",
