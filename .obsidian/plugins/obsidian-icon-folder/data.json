@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "BoBxsBolt",
-      "RiWordpressLine",
-      "TiFileTypePhp",
       "FiFile",
-      "CoFolder"
+      "TiLanguage",
+      "FiImage",
+      "BoBxsBolt",
+      "RiWordpressLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -169,13 +169,6 @@
   "Languages/Tagalog/A1/Basico.md": "FiFile",
   "Languages/Tagalog/A1": "CoFolder",
   "Languages/Tagalog/A1/Vocabulario.md": "FiFile",
-  "Languages/English/MyEnglish": "CoFolder",
-  "Languages/English/MyEnglish/ExamOral.md": "FiFile",
-  "Languages/English/MyEnglish/Index.md": "FiFile",
-  "Languages/English/MyEnglish/LastOral.md": "FiFile",
-  "Languages/English/MyEnglish/Summary.md": "FiFile",
-  "Languages/English/MyEnglish/Summary-Oral.md": "LiFile",
-  "Languages/English/MyEnglish/Images": "LiImage",
   "Languages/English/Teaching": "CoFolder",
   "Web/Javascript": "RiJavascriptFill",
   "Web/Javascript/Bucles y Iteraciones": "CoFolder",
@@ -374,5 +367,18 @@
   "Backend/Php/WorpressPlugins/Observaciones.md": "FiFile",
   "Backend/Php/WorpressPlugins/Notas que Leer.md": "FiFile",
   "Routine": "BoBxsBolt",
-  "Routine/Rutina.md": "FiFile"
+  "Routine/Rutina.md": "FiFile",
+  "Languages/English/College": "CoFolder",
+  "Languages/English/College/ExamOral.md": "FiFile",
+  "Languages/English/College/Images": "LiImage",
+  "Languages/English/College/Index.md": "FiFile",
+  "Languages/English/College/LastOral.md": "FiFile",
+  "Languages/English/College/Summary-Oral.md": "LiFile",
+  "Languages/English/College/Summary.md": "FiFile",
+  "Languages/Russian": "TiLanguage",
+  "Languages/English/Self Learning": "CoFolder",
+  "Languages/English/Self Learning/Narrative Tenses in English.md": "FiFile",
+  "Languages/English/Self Learning/Images": "FiImage",
+  "Languages/Russian/Alphabet.md": "FiFile",
+  "Languages/Russian/Images": "FiImage"
 }

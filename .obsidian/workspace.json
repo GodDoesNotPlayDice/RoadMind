@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ec75fb74a34a686",
+        "id": "1d191963368c48a2",
         "type": "tabs",
         "children": [
           {
-            "id": "58ca86b247779fc7",
+            "id": "e8e5899e5bd09298",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Rutina"
             }
+          },
+          {
+            "id": "47c0e0c1d59855e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Russian/Alphabet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alphabet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routine/Rutina.md",
+                "file": "Languages/Russian/Alphabet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rutina"
+              "title": "Outline of Alphabet"
             }
           }
         ],
@@ -171,10 +186,35 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "58ca86b247779fc7",
+  "active": "47c0e0c1d59855e1",
   "lastOpenFiles": [
-    "Routine/Lunes.md",
     "Routine/Rutina.md",
+    "Languages/Russian/Images/Pasted image 20251215155857.png",
+    "Languages/Russian/Alphabet.md",
+    "Languages/Russian/Images/Pasted image 20251215161516.png",
+    "Languages/Russian/Images/Pasted image 20251215161205.png",
+    "Languages/Russian/Images/Pasted image 20251215160637.png",
+    "Languages/Russian/Images/Pasted image 20251215160108.png",
+    "Languages/Russian/Images/Pasted image 20251215160011.png",
+    "Languages/Russian/Images/Pasted image 20251215150900.png",
+    "Languages/Russian/Images",
+    "Pasted image 20251215153850.png",
+    "Languages/Russian/Images/Pasted image 20251215153042.png",
+    "Languages/Russian/Images/Pasted image 20251215151410.png",
+    "Languages/Russian/Self Learning",
+    "Languages/Russian",
+    "Languages/English/Self Learning/Narrative Tenses in English.md",
+    "Languages/English/Self Learning/Images",
+    "Languages/English/College/ExamOral.md",
+    "Languages/English/Self Learning",
+    "Languages/English/Untitled.md",
+    "Languages/English/College/Index.md",
+    "Languages/English/College/Summary-Oral.md",
+    "Languages/English/College/Summary.md",
+    "Languages/English/College/LastOral.md",
+    "Web/Vue/Introducción a Vue.md",
+    "Web/Vue/Start a project.md",
+    "Routine/Lunes.md",
     "Web/Vue/Docs/Esencial/Components/Components.md",
     "Routine",
     "Web/Vue/Docs/Esencial/Components/Components Registration.md",
@@ -191,35 +231,9 @@
     "Backend/Php/DevEnv/Local Server.md",
     "Backend/Php/Language/Funciones.md",
     "Backend/Php/Language",
-    "Backend/Php/Untitled.md",
     "Backend/Php/DevEnv",
     "Backend/Php",
-    "Web/Vue/FernandoVue/IndecisionApp/Emits.md",
-    "Web/Vue/FernandoVue/IndecisionApp/Composables.md",
-    "Web/Vue/FernandoVue/Vue-IndecisionApp.md",
-    "Web/Vue/Docs/Esencial/Composables/Composables.md",
-    "Web/Vue/FernandoVue/IndecisionApp/Simple contador.md",
-    "Web/Vue/Start a project.md",
-    "Web/Vue/Introducción a Vue.md",
-    "Web/Vue/Projects/Notas de Proyectos.md",
-    "Web/Vue/Docs",
-    "Web/Tailwind/Tailwind Install.md",
-    "Web/Vue/FernandoVue/IndecisionApp",
-    "Web/Vue/FernandoVue/Que hacen los archivos.md",
-    "Web/Vue/FernandoVue",
-    "Architectures/Monolito",
-    "Architectures/Micro Servicios",
-    "Architectures/Images/Pasted image 20250505124615.png",
-    "Project Management/Images/Pasted image 20250504144614.png",
-    "Web/React/Imagenes/Pasted image 20250428135542.png",
-    "Web/React/Imagenes/Pasted image 20250428135436.png",
-    "Pasted image 20250428135423.png",
-    "Web/React/Imagenes/Pasted image 20250419210318.png",
     "Untitled.canvas",
-    "Pasted image 20250116004956.png",
-    "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109185514.png",
-    "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190240.png",
-    "Hacking/Vulnhub/Galahad/imgs/Pasted image 20241109190154.png",
     "Year/Semester/Plataformas/Untitled.canvas",
     "Networks/IPs/Untitled.canvas"
   ]
