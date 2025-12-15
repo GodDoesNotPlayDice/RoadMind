@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsBolt",
       "RiWordpressLine",
       "TiFileTypePhp",
       "FiFile",
-      "CoFolder",
-      "BoBxlPhp"
+      "CoFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -372,5 +372,7 @@
   "Backend/Php/Language/Funciones.md": "FiFile",
   "Backend/Php/WorpressPlugins": "RiWordpressLine",
   "Backend/Php/WorpressPlugins/Observaciones.md": "FiFile",
-  "Backend/Php/WorpressPlugins/Notas que Leer.md": "FiFile"
+  "Backend/Php/WorpressPlugins/Notas que Leer.md": "FiFile",
+  "Routine": "BoBxsBolt",
+  "Routine/Rutina.md": "FiFile"
 }
