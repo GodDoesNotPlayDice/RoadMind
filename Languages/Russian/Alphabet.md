@@ -56,3 +56,39 @@ letter M but pronunced like "MNA" like word **Nap**
 
 # Consonants
 ![[Pasted image 20251215151510.png]]
+
+
+## бБ
+have the same sound like "BA"
+![[Pasted image 20251216141057.png]]
+## Вв
+Pronunced like "Van"
+
+![[Pasted image 20251216141110.png]]
+
+## Гг
+this letter is G like "Great"
+![[Pasted image 20251216141241.png]]
+
+## Дд
+Pronunced like "Da" → "Dad"
+
+![[Pasted image 20251216141649.png]]
+
+## Зз
+sounds like "zip"
+![[Pasted image 20251216152721.png]]
+
+
+## Пп
+Letter "P"
+![[Pasted image 20251216152812.png]]
+
+## Сс
+Like S → "Sun"
+![[Pasted image 20251216152944.png]]
+
+## Фф
+its like F "form"
+![[Pasted image 20251216153054.png]]
+
