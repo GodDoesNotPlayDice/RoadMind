@@ -19,6 +19,8 @@ A normal spanish
 O normal spanish
 ![[Pasted image 20251215153858.png]]
 
+![[Pasted image 20251219151009.png]]
+
 
 
 ## Yy 
@@ -51,6 +53,12 @@ like **lamp**
 ## Нн
 letter M but pronunced like "MNA" like word **Nap**
 ![[Pasted image 20251215161516.png]]
+
+
+## Ии
+Literally it is an "I"
+![[Pasted image 20251219161410.png]]
+
 
 
 
@@ -91,4 +99,39 @@ Like S → "Sun"
 ## Фф
 its like F "form"
 ![[Pasted image 20251216153054.png]]
+
+
+## Рр
+This word is R like spanish R
+![[Pasted image 20251219144918.png]]
+
+## Ы ы
+![[Pasted image 20251219145518.png]]
+
+## Э э
+![[Pasted image 20251219145614.png]]
+
+## Шш
+"Like SH" PUSH
+![[Pasted image 20251219151524.png]]
+
+## Жж
+"Like Usual" → U**SHU**AL
+![[Pasted image 20251219151648.png]]
+
+## Цц
+"Pi**zz**a" , "TZE"
+![[Pasted image 20251219151747.png]]
+## Хх
+"JA like JAJAJA" → **Ho**me
+![[Pasted image 20251219151944.png]]
+
+# Йй
+Like "OI" → TUP**OI**
+![[Pasted image 20251219152938.png]]
+"YOGA"
+![[Pasted image 20251219153059.png]]
+
+# Hard and Soft consonants
+![[Pasted image 20251219153551.png]]
 
